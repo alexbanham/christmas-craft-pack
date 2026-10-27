@@ -28,16 +28,10 @@ jobs:
             rm -rf "$ch/.git" "$ch/.github"
             cp -r "$ch" "_site/$ch"
           done
-          ver() { grep -m1 '^version' "_site/$1/pack.toml" | cut -d'"' -f2; }
-          cat > _site/index.html <<HTML
-          <!doctype html><meta charset="utf-8"><title>Christmas Craft</title>
-          <body style="font-family:system-ui;background:#10151c;color:#e8eef5;max-width:640px;margin:48px auto;padding:0 16px">
-          <h1>🎄 Christmas Craft</h1>
-          <p>Auto-updating pack. Launchers fetch from these channels:</p>
-          <ul><li><b>stable</b> v$(ver stable) — <code>stable/pack.toml</code></li>
-          <li><b>testing</b> v$(ver testing) — <code>testing/pack.toml</code></li></ul>
-          </body>
-          HTML
+          for ch in stable testing; do rm -rf "_site/$ch/site" "_site/$ch/scripts"; done
+          # Download page at the root: version + mods from stable (what the button installs),
+          # template from testing so page changes go live without a pack promotion.
+          python3 testing/scripts/build_site.py --pack _site/stable --testing _site/testing --out _site
           touch _site/.nojekyll
       - uses: actions/upload-pages-artifact@v3
         with: { path: _site }

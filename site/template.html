@@ -1,0 +1,227 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Christmas Craft</title>
+<meta name="description" content="Christmas Craft: a Create + airships Christmas modpack. Download once, it updates itself.">
+<meta property="og:title" content="Christmas Craft">
+<meta property="og:description" content="Download once. It updates itself every time you press Play.">
+<link rel="icon" href="{{tree_uri}}">
+<style>
+@font-face { font-family: "Monocraft"; src: url("assets/Monocraft.otf") format("opentype"); font-display: swap; }
+:root {
+  --sky-top: #070d22; --sky-bottom: #1b2a58;
+  --panel: #c6c6c6; --panel-hi: #ffffff; --panel-lo: #555555; --ink: #3f3f3f;
+  --slot: #8b8b8b; --slot-lo: #373737;
+  --green: #3c8527; --green-hi: #6cc349; --green-lo: #1d4d13;
+  --stone: #7a7a7a; --stone-hi: #b4b4b4; --stone-lo: #3b3b3b;
+  --splash: #ffff55; --tip: #100010; --tip-border: #2a0a5e;
+  --font: "Monocraft", ui-monospace, "Cascadia Mono", Consolas, monospace;
+}
+* { box-sizing: border-box; }
+html { background: var(--sky-top); }
+body {
+  margin: 0; min-height: 100vh; color: #fff; font-family: var(--font); font-size: 16px; line-height: 1.6;
+  background: linear-gradient(var(--sky-top), var(--sky-bottom) 70%, #2b3d72);
+  overflow-x: hidden;
+}
+#sky { position: fixed; inset: 0; width: 100%; height: 100%; z-index: 0; pointer-events: none; image-rendering: pixelated; }
+.lights { position: relative; z-index: 2; height: 56px; width: 100%; display: block; }
+main { position: relative; z-index: 1; max-width: 880px; margin: 0 auto; padding: 8px 16px 48px; }
+.shadow { text-shadow: 2px 2px 0 #3f3f3f; }
+a { color: inherit; }
+
+/* hero */
+.hero { position: relative; text-align: center; padding: 24px 0 8px; }
+.trees { display: flex; justify-content: space-between; align-items: flex-end; position: absolute; inset: 40px -8px auto; pointer-events: none; }
+.trees img { width: 120px; image-rendering: pixelated; }
+.title-wrap { position: relative; display: inline-block; margin: 8px 0 0; }
+h1 {
+  margin: 0; font-weight: normal; letter-spacing: 2px; line-height: 1.05;
+  font-size: clamp(40px, 10vw, 88px); color: #f2f2f2;
+  text-shadow: 0 3px 0 #9a9a9a, 0 6px 0 #6b6b6b, 0 9px 0 #4a4a4a, 0 12px 0 #222, 0 18px 16px rgba(0,0,0,.6);
+}
+h1 .red { color: #ff5555; text-shadow: 0 3px 0 #b02727, 0 6px 0 #861a1a, 0 9px 0 #5c1010, 0 12px 0 #2a0505, 0 18px 16px rgba(0,0,0,.6); }
+.splash {
+  position: absolute; right: -24px; bottom: 4px; color: var(--splash); font-size: clamp(14px, 2.6vw, 20px);
+  text-shadow: 2px 2px 0 #3f3f15; white-space: nowrap; transform-origin: center;
+  animation: splash .55s ease-in-out infinite alternate; transform: rotate(-17deg);
+}
+@keyframes splash { from { transform: rotate(-17deg) scale(1); } to { transform: rotate(-17deg) scale(1.09); } }
+.tagline { margin: 64px auto 24px; max-width: 560px; color: #dfe7ff; }
+
+/* minecraft buttons */
+.btn {
+  display: inline-flex; align-items: center; justify-content: center; gap: 16px;
+  font: inherit; color: #fff; text-decoration: none; cursor: pointer; user-select: none;
+  background: var(--stone); border: 3px solid #000;
+  box-shadow: inset 3px 3px 0 var(--stone-hi), inset -3px -5px 0 var(--stone-lo);
+  text-shadow: 2px 2px 0 #3f3f3f; padding: 12px 24px 14px;
+}
+.btn:hover, .btn:focus-visible { outline: none; border-color: #fff; }
+.btn:active { box-shadow: inset 3px 3px 0 var(--stone-lo), inset -3px -3px 0 var(--stone-hi); }
+.btn-play {
+  background: var(--green); font-size: clamp(20px, 4.4vw, 32px); padding: 18px 40px 22px; min-width: min(100%, 480px);
+  box-shadow: inset 4px 4px 0 var(--green-hi), inset -4px -8px 0 var(--green-lo), 0 8px 0 rgba(0,0,0,.35);
+}
+.btn-play:active { box-shadow: inset 4px 4px 0 var(--green-lo), inset -4px -4px 0 var(--green-hi); transform: translateY(4px); }
+.btn-play svg { width: 1em; height: 1em; image-rendering: pixelated; flex: none; }
+.meta { margin: 16px 0 0; font-size: 14px; color: #c5d0f0; }
+.meta b { color: #fff; font-weight: normal; }
+
+/* inventory panels */
+.panel {
+  position: relative; margin: 48px 0 0; padding: 24px; color: var(--ink); background: var(--panel);
+  border: 3px solid #000; box-shadow: inset 3px 3px 0 var(--panel-hi), inset -3px -3px 0 var(--panel-lo), 0 12px 0 rgba(0,0,0,.3);
+}
+.panel h2 { margin: 0 0 16px; font-size: 20px; font-weight: normal; color: var(--ink); }
+.panel h2 small { font-size: 14px; color: #6a6a6a; }
+.slot {
+  flex: none; display: grid; place-items: center; width: 48px; height: 48px; background: var(--slot);
+  box-shadow: inset 3px 3px 0 var(--slot-lo), inset -3px -3px 0 #fff;
+}
+.slot img { width: 36px; height: 36px; image-rendering: pixelated; }
+.slot .n { font-size: 24px; color: #fff; text-shadow: 2px 2px 0 #3f3f3f; }
+
+.steps { list-style: none; margin: 0; padding: 0; display: grid; gap: 12px; }
+.steps li { display: flex; gap: 16px; align-items: center; }
+.steps p { margin: 0; }
+.steps code { background: #a8a8a8; padding: 1px 6px; color: #222; font-family: inherit; }
+.note {
+  margin: 20px 0 0; padding: 12px 16px; background: var(--tip); color: #e0e0e0; font-size: 14px;
+  border: 3px solid var(--tip); box-shadow: inset 0 0 0 2px var(--tip-border);
+}
+.note b { color: #ffaa00; font-weight: normal; }
+
+.mods { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(min(100%, 380px), 1fr)); gap: 8px; }
+.mods a { display: flex; gap: 12px; align-items: center; padding: 6px; text-decoration: none; color: var(--ink); }
+.mods a:hover, .mods a:focus-visible { outline: none; background: rgba(255,255,255,.45); }
+.mods .name { display: block; color: #222; }
+.mods .desc { display: block; font-size: 13px; line-height: 1.4; color: #555; }
+.tag { display: inline-block; margin-left: 6px; padding: 0 6px; font-size: 11px; vertical-align: 2px; color: #fff; background: #5a4a9a; }
+.tag.lib { background: #777; }
+.lib-row { opacity: .75; }
+
+/* snowy ground */
+.ground {
+  position: relative; z-index: 1; height: 128px; margin-top: 24px;
+  background: url("{{ground_uri}}") repeat-x top left / 64px 64px, url("{{dirt_uri}}") repeat left 64px / 64px 64px, #593d29;
+  image-rendering: pixelated; border-top: 0;
+}
+footer {
+  position: relative; z-index: 1; background: #3b2818; color: #c9b8a6; font-size: 13px; text-align: center; padding: 16px 16px 32px;
+}
+footer p { margin: 4px 0; }
+footer code { font-family: inherit; color: #fff; }
+
+@media (max-width: 720px) {
+  .trees { display: none; }
+  .panel { padding: 16px; }
+  .btn-play { width: 100%; padding: 16px 8px 20px; gap: 10px; font-size: 18px; white-space: nowrap; }
+  .splash { right: 0; bottom: -8px; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .splash { animation: none; }
+}
+</style>
+</head>
+<body>
+<canvas id="sky" aria-hidden="true"></canvas>
+<svg class="lights" id="lights" aria-hidden="true"></svg>
+
+<main>
+  <section class="hero">
+    <div class="trees" aria-hidden="true"><img src="{{tree_uri}}" alt=""><img src="{{tree_uri}}" alt=""></div>
+    <div class="title-wrap">
+      <h1>CHRISTMAS<br><span class="red">CRAFT</span></h1>
+      <div class="splash" id="splash">Merry Crafting!</div>
+    </div>
+    <p class="tagline shadow">A cozy Create + airships Christmas modpack. Download it once and it updates itself every time you press Play.</p>
+    <a class="btn btn-play" href="{{download_url}}">
+      <svg viewBox="0 0 8 8" shape-rendering="crispEdges" aria-hidden="true"><path fill="#fff" d="M3 0h2v4h2v1h-1v1h-1v1h-2v-1h-1v-1h-1v-1h2z"/></svg>
+      Download for Windows
+    </a>
+    <p class="meta shadow"><b>v{{version}}</b> &middot; Minecraft {{mc}} &middot; NeoForge {{neoforge}}{{size}}</p>
+  </section>
+
+  <section class="panel" aria-labelledby="how">
+    <h2 id="how">How to play</h2>
+    <ol class="steps">
+      <li><span class="slot"><span class="n">1</span></span><p>Download the zip above and unzip it anywhere, like your Desktop.</p></li>
+      <li><span class="slot"><span class="n">2</span></span><p>Open <code>prismlauncher.exe</code> inside the folder.</p></li>
+      <li><span class="slot"><span class="n">3</span></span><p>Click <code>Accounts</code> (top right), then <code>Manage accounts</code>, then <code>Add Microsoft</code>, and sign in.</p></li>
+      <li><span class="slot"><span class="n">4</span></span><p>Double-click <code>Christmas Craft</code>. The first launch downloads Minecraft and the mods. After that, updates install by themselves.</p></li>
+    </ol>
+    <p class="note"><b>You need:</b> Windows and the Microsoft account that owns Minecraft: Java Edition (bought, or included with PC Game Pass). Never download the zip again: just press Play.</p>
+  </section>
+
+  <section class="panel" aria-labelledby="mods">
+    <h2 id="mods">Mods in this pack <small>({{mod_count}})</small></h2>
+    <ul class="mods">
+{{mod_rows}}
+    </ul>
+  </section>
+</main>
+
+<div class="ground" aria-hidden="true"></div>
+<footer>
+  <p>Launchers update from <code>stable</code> v{{version}}{{testing_note}}. <a href="{{repo_url}}">Pack source</a></p>
+  <p>Built with <a href="https://prismlauncher.org">Prism Launcher</a> and <a href="https://packwiz.infra.link">packwiz</a>. Font: <a href="https://github.com/IdreesInc/Monocraft">Monocraft</a> by Idrees Hassan (<a href="assets/OFL.txt">OFL</a>).</p>
+  <p>Not an official Minecraft product. Not approved by or associated with Mojang or Microsoft.</p>
+</footer>
+
+<script>
+(function () {
+  var reduce = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+
+  var splashes = ["Merry Crafting!", "Now with airships!", "Ho ho ho!", "Fairy lights included!", "Contraptions under the tree!",
+    "Zero zips!", "Updates itself!", "Snow on everything!", "Spin those cogs!", "Deck the halls with brass!"];
+  document.getElementById("splash").textContent = splashes[Math.floor(Math.random() * splashes.length)];
+
+  // pixel snow + stars
+  var c = document.getElementById("sky"), g = c.getContext("2d"), P = 3, W, H, stars = [], flakes = [];
+  function size() {
+    W = c.width = Math.ceil(innerWidth / P); H = c.height = Math.ceil(innerHeight / P);
+    stars = []; for (var i = 0; i < W * H / 900; i++) stars.push([Math.random() * W | 0, Math.random() * H * 0.7 | 0, Math.random()]);
+    flakes = []; for (var j = 0; j < W * H / 450; j++) flakes.push({ x: Math.random() * W, y: Math.random() * H, v: 0.15 + Math.random() * 0.35, s: Math.random() < 0.2 ? 2 : 1, p: Math.random() * 6 });
+  }
+  function draw(t) {
+    g.clearRect(0, 0, W, H);
+    for (var i = 0; i < stars.length; i++) {
+      var s = stars[i]; g.fillStyle = "rgba(255,255,230," + (0.35 + 0.5 * Math.abs(Math.sin(t / 1400 + s[2] * 9))) + ")"; g.fillRect(s[0], s[1], 1, 1);
+    }
+    g.fillStyle = "#fff";
+    for (var k = 0; k < flakes.length; k++) {
+      var f = flakes[k];
+      if (!reduce) { f.y += f.v; f.x += Math.sin(t / 900 + f.p) * 0.12; if (f.y > H) { f.y = -2; f.x = Math.random() * W; } }
+      g.fillRect(Math.round(f.x), Math.round(f.y), f.s, f.s);
+    }
+    if (!reduce) requestAnimationFrame(draw);
+  }
+  size(); addEventListener("resize", function () { size(); if (reduce) draw(0); }); requestAnimationFrame(draw);
+
+  // a string of fairy lights along the top
+  var svg = document.getElementById("lights"), NS = "http://www.w3.org/2000/svg", colors = ["#ff5555", "#ffd93b", "#55ff55", "#55ccff", "#ff88ff"];
+  function lights() {
+    var w = svg.clientWidth, span = w < 600 ? 110 : 150, n = Math.max(2, Math.round(w / span)), step = w / n, d = "", html = "", b = 0;
+    for (var i = 0; i < n; i++) {
+      var x0 = i * step, x1 = x0 + step, sag = 26;
+      d += "M" + x0 + " 4 Q" + (x0 + step / 2) + " " + (4 + sag * 2) + " " + x1 + " 4 ";
+      for (var k = 1; k <= 4; k++) {
+        var u = k / 5, x = x0 + step * u, y = 4 + 2 * u * (1 - u) * sag * 2, col = colors[b % colors.length], delay = ((b * 0.37) % 2).toFixed(2);
+        html += '<g class="bulb" style="color:' + col + ';animation-delay:' + delay + 's"><rect x="' + (x - 1) + '" y="' + (y) + '" width="3" height="3" fill="#2c2c2c"/>' +
+          '<rect x="' + (x - 3) + '" y="' + (y + 3) + '" width="7" height="9" fill="' + col + '"/><rect x="' + (x - 2) + '" y="' + (y + 4) + '" width="2" height="3" fill="#fff" opacity=".7"/></g>';
+        b++;
+      }
+    }
+    svg.innerHTML = '<path d="' + d + '" fill="none" stroke="#1d2a1d" stroke-width="2"/>' + html;
+  }
+  var st = document.createElement("style");
+  st.textContent = ".bulb{filter:drop-shadow(0 0 5px currentColor)}" + (reduce ? "" : ".bulb{animation:blink 2s steps(1) infinite}@keyframes blink{50%{opacity:.35}}");
+  document.head.appendChild(st);
+  lights(); addEventListener("resize", lights);
+})();
+</script>
+</body>
+</html>
