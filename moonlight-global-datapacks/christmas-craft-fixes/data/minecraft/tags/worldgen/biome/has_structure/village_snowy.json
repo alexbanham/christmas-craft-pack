@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "#terralith:reference/temperature/frozen_with_structures",
+      "required": false
+    }
+  ]
+}

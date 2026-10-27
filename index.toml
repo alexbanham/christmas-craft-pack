@@ -495,7 +495,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "66b2e57fad1d958893206d82ff878159b7fdfef64ccb74fe1232b71012409953"
+hash = "75181b55e0407d1fca1e2f346c6501f919f5109545990ddfb66db9cd1b771f8a"
 metafile = true
 
 [[files]]
@@ -821,6 +821,11 @@ metafile = true
 [[files]]
 file = "mods/creativecore.pw.toml"
 hash = "1438d9872c78eb499463ae9d3c104514b7034e90059be054b8b4f2b19b11486d"
+metafile = true
+
+[[files]]
+file = "mods/cristel-lib.pw.toml"
+hash = "08a334ae5565e122d26b819cba16ce784776a10fe100ab2b22de72a5a2bac653"
 metafile = true
 
 [[files]]
@@ -1314,6 +1319,11 @@ hash = "3cd14ed2c90f9b648f532eeb27b818e0fd99eb5f72b9771a289803b3191cc0a0"
 metafile = true
 
 [[files]]
+file = "mods/structory.pw.toml"
+hash = "3c4da8a221086153d491104bba4fd8796dac92d5c3e0b2dc111a6c5d53b65484"
+metafile = true
+
+[[files]]
 file = "mods/structure-layout-optimizer.pw.toml"
 hash = "20d767f7f803fd43e7b539046878bf97a27458595a1beff0b28002aca1b671de"
 metafile = true
@@ -1349,6 +1359,11 @@ hash = "dd46fad79cf33a00123be0a74c73581da72cd98503ef23822a624a08f4b10ff2"
 metafile = true
 
 [[files]]
+file = "mods/terralith.pw.toml"
+hash = "81c5c05f9ed4c07b9f027ff6c421939bb04e476075091f135d34aaa05af1f950"
+metafile = true
+
+[[files]]
 file = "mods/tidal-towns.pw.toml"
 hash = "5a0719402e805df315bc797564e637434d3f08450c056a571aa5284d9f2d549e"
 metafile = true
@@ -1356,6 +1371,11 @@ metafile = true
 [[files]]
 file = "mods/tips.pw.toml"
 hash = "bd655a806614985f8ad7a36ccde31ca70426fc207d4d4b046dd6a377e8814f18"
+metafile = true
+
+[[files]]
+file = "mods/towns-and-towers.pw.toml"
+hash = "a9afe82b3d1b4975dd9f8b3272898450aeb29365678b3779059977301f88c101"
 metafile = true
 
 [[files]]
@@ -3358,6 +3378,10 @@ file = "moonlight-global-datapacks/christmas-craft-fixes/data/minecraft/recipe/r
 hash = "7a550748e8167a502b72ef9c62f7b0b621813d5ce66008c5569389972d3c8098"
 
 [[files]]
+file = "moonlight-global-datapacks/christmas-craft-fixes/data/minecraft/tags/worldgen/biome/has_structure/village_snowy.json"
+hash = "3e80ce58bfbd72812f96142e2c8b940f7857d7bf3d5b5e42dad0ef478901685a"
+
+[[files]]
 file = "moonlight-global-datapacks/christmas-craft-fixes/data/naturalist/neoforge/biome_modifier/remove_farm_animals_savanna.json"
 hash = "99b969132018e9da1071065a8593ba9564928b1ed0aa5ae3ab45f9dac071f7d5"
 
@@ -4491,7 +4515,7 @@ hash = "9c4bed72a56a4930d38a25a62603224f33c6ae992158563d3170bb85a62f2f37"
 
 [[files]]
 file = "options.txt"
-hash = "fae1391fcb269b84d55ae4dc552da3bc2d0d34ec9884bbccc660aa50f0360d49"
+hash = "7ef26579592019cfb3c99720ee52c9f4e5c6024c157aa8b33887a03d68c21265"
 preserve = true
 
 [[files]]
