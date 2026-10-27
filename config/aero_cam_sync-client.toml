@@ -1,0 +1,6 @@
+# Christmas Craft: Aeronautics Camera Sync ships OFF; each player can opt in from the mod's config screen.
+# Only these keys are set; NeoForge fills every other key with the mod's default on first load.
+# configSchemaVersion = 5 matches what the mod writes after its reset prompt, so a pack-shipped file
+# does not trigger that prompt (ConfigMigrationManager.needsResetPrompt).
+enabled = false
+configSchemaVersion = 5

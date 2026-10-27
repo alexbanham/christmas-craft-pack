@@ -1,0 +1,11 @@
+{
+  "type": "tipsmod:simple",
+  "title": {
+    "text": "Christmas Craft tip",
+    "color": "red",
+    "bold": true
+  },
+  "text": {
+    "text": "The server backs up the world every two hours while players are online."
+  }
+}

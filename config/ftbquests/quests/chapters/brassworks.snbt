@@ -1,0 +1,1041 @@
+{
+	"id": "299349219C8E265F"
+	"filename": "brassworks"
+	"group": "6E6872417BE99080"
+	"order_index": 4
+	"icon": {
+		"id": "create:mechanical_arm"
+	}
+	"default_hide_dependency_lines": false
+	"default_quest_size": 1.0d
+	"images": [
+		{
+			"id": "5A34F764B2F405D4"
+			"x": 4.0d
+			"y": -1.85d
+			"width": 9.62d
+			"height": 1.7d
+			"rotation": 0.0d
+			"image": "christmascraft:textures/gui/quest/banner_brassworks.png"
+			"order": -1
+		}
+	]
+	"quests": [
+		{
+			"id": "35DDE3CC0AF94B70"
+			"dependencies": [
+				"2AEA10F9FB69206E"
+			]
+			"icon": {
+				"id": "create:crushing_wheel"
+			}
+			"x": 0.75d
+			"y": 1.5d
+			"shape": "gear"
+			"size": 1.5d
+			"tasks": [
+				{
+					"id": "33886B308A29E835"
+					"type": "item"
+					"item": {
+						"id": "create:crushing_wheel"
+						"count": 1
+					}
+					"count": 1
+				}
+			]
+			"rewards": [
+				{
+					"id": "67BA7AA563095BA7"
+					"type": "xp"
+					"xp": 250
+				}
+				{
+					"id": "4994A3AE756F5A36"
+					"type": "xp_levels"
+					"xp_levels": 2
+				}
+				{
+					"id": "0DB5B31C60E1A63C"
+					"type": "item"
+					"item": {
+						"id": "ftbquests:lootcrate"
+						"count": 1
+						"components": {
+							"ftbquests:loot_crate": "big_present"
+						}
+					}
+				}
+				{
+					"id": "5AFAE9D439030C1B"
+					"type": "item"
+					"item": {
+						"id": "create:crushing_wheel"
+						"count": 1
+					}
+				}
+				{
+					"id": "03A276B10284FF97"
+					"type": "item"
+					"item": {
+						"id": "minecraft:obsidian"
+						"count": 1
+					}
+					"count": 16
+				}
+				{
+					"id": "53762813A8543419"
+					"type": "item"
+					"item": {
+						"id": "minecraft:netherrack"
+						"count": 1
+					}
+					"count": 32
+				}
+				{
+					"id": "583915FB74517825"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_100"
+						"count": 1
+					}
+				}
+				{
+					"id": "6A0EE9EF66D7143C"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_25"
+						"count": 1
+					}
+				}
+			]
+		}
+		{
+			"id": "46EB1DC3F6EC3A22"
+			"dependencies": [
+				"35DDE3CC0AF94B70"
+			]
+			"icon": {
+				"id": "create:crushed_raw_iron"
+			}
+			"x": 3.25d
+			"y": 0.5d
+			"shape": "circle"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "2CD96B9AD5A85477"
+					"type": "item"
+					"item": {
+						"id": "create:crushed_raw_iron"
+						"count": 1
+					}
+					"count": 1
+				}
+			]
+			"rewards": [
+				{
+					"id": "7B4FD206453C1FDD"
+					"type": "xp"
+					"xp": 150
+				}
+				{
+					"id": "300D86F132DA65A9"
+					"type": "item"
+					"item": {
+						"id": "ftbquests:lootcrate"
+						"count": 1
+						"components": {
+							"ftbquests:loot_crate": "small_gift"
+						}
+					}
+				}
+				{
+					"id": "67D0DED03674F5B9"
+					"type": "item"
+					"item": {
+						"id": "ftbquests:lootcrate"
+						"count": 1
+						"components": {
+							"ftbquests:loot_crate": "stocking"
+						}
+					}
+				}
+				{
+					"id": "764648F31510D885"
+					"type": "item"
+					"item": {
+						"id": "minecraft:raw_iron"
+						"count": 1
+					}
+					"count": 16
+				}
+				{
+					"id": "2C0C6494770538D9"
+					"type": "item"
+					"item": {
+						"id": "minecraft:raw_copper"
+						"count": 1
+					}
+					"count": 16
+				}
+				{
+					"id": "5047C466D65E401E"
+					"type": "item"
+					"item": {
+						"id": "create:experience_nugget"
+						"count": 1
+					}
+					"count": 8
+				}
+				{
+					"id": "474AD9A2C8B10172"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_50"
+						"count": 1
+					}
+				}
+				{
+					"id": "6697EF90B93D5A1E"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_10"
+						"count": 1
+					}
+				}
+			]
+		}
+		{
+			"id": "0CAD83195577B112"
+			"dependencies": [
+				"35DDE3CC0AF94B70"
+				"7620442FA3B06FD4"
+				"3FDD8DEF4A8C5D9F"
+			]
+			"icon": {
+				"id": "create:blaze_cake"
+			}
+			"x": 3.25d
+			"y": 2.5d
+			"shape": "gear"
+			"size": 1.5d
+			"tasks": [
+				{
+					"id": "284CC9B977B03CA4"
+					"type": "item"
+					"item": {
+						"id": "create:blaze_cake"
+						"count": 1
+					}
+					"count": 1
+				}
+			]
+			"rewards": [
+				{
+					"id": "136DFCBBC45A99AC"
+					"type": "xp"
+					"xp": 250
+				}
+				{
+					"id": "2D68B82408C3CBEB"
+					"type": "xp_levels"
+					"xp_levels": 2
+				}
+				{
+					"id": "12D317D94622F8E8"
+					"type": "item"
+					"item": {
+						"id": "ftbquests:lootcrate"
+						"count": 1
+						"components": {
+							"ftbquests:loot_crate": "big_present"
+						}
+					}
+				}
+				{
+					"id": "5EB5D4D955AFC17E"
+					"type": "item"
+					"item": {
+						"id": "create:blaze_cake"
+						"count": 1
+					}
+					"count": 4
+				}
+				{
+					"id": "3F0E59AF4822502D"
+					"type": "item"
+					"item": {
+						"id": "minecraft:lava_bucket"
+						"count": 1
+					}
+					"count": 2
+				}
+				{
+					"id": "68FC52E638BDD882"
+					"type": "item"
+					"item": {
+						"id": "minecraft:sugar"
+						"count": 1
+					}
+					"count": 32
+				}
+				{
+					"id": "4BD90D0F70E336A3"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_100"
+						"count": 1
+					}
+				}
+				{
+					"id": "0E969CF861BB18A0"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_25"
+						"count": 1
+					}
+				}
+			]
+		}
+		{
+			"id": "3CF5B9E961209D8B"
+			"dependencies": [
+				"35DDE3CC0AF94B70"
+				"32111ACA2120EB3F"
+				"7620442FA3B06FD4"
+			]
+			"icon": {
+				"id": "create:sturdy_sheet"
+			}
+			"x": 6.25d
+			"y": 1.5d
+			"shape": "diamond"
+			"size": 2.2d
+			"tasks": [
+				{
+					"id": "02208107A36C7C3B"
+					"type": "item"
+					"item": {
+						"id": "create:sturdy_sheet"
+						"count": 1
+					}
+					"count": 1
+				}
+			]
+			"rewards": [
+				{
+					"id": "5A2DDADB659A2E73"
+					"type": "xp"
+					"xp": 500
+				}
+				{
+					"id": "17BE1924C0C5F5CD"
+					"type": "xp_levels"
+					"xp_levels": 3
+				}
+				{
+					"id": "08D1012791FA4A98"
+					"type": "item"
+					"item": {
+						"id": "ftbquests:lootcrate"
+						"count": 1
+						"components": {
+							"ftbquests:loot_crate": "santas_sack"
+						}
+					}
+				}
+				{
+					"id": "6356027FCDD2B40A"
+					"type": "item"
+					"item": {
+						"id": "ftbquests:lootcrate"
+						"count": 1
+						"components": {
+							"ftbquests:loot_crate": "big_present"
+						}
+					}
+				}
+				{
+					"id": "6363C5DBC1FD8B2D"
+					"type": "item"
+					"item": {
+						"id": "create:sturdy_sheet"
+						"count": 1
+					}
+					"count": 8
+					"team_reward": true
+				}
+				{
+					"id": "33848F97878225C6"
+					"type": "item"
+					"item": {
+						"id": "minecraft:diamond"
+						"count": 1
+					}
+					"count": 8
+				}
+				{
+					"id": "3C66594BB303FC76"
+					"type": "item"
+					"item": {
+						"id": "minecraft:obsidian"
+						"count": 1
+					}
+					"count": 32
+				}
+				{
+					"id": "776D0567D5675E12"
+					"type": "item"
+					"item": {
+						"id": "create:powdered_obsidian"
+						"count": 1
+					}
+					"count": 16
+				}
+				{
+					"id": "5F3AD982789F1ADC"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_500"
+						"count": 1
+					}
+				}
+				{
+					"id": "6CAAE21D3718CF12"
+					"type": "command"
+					"command": "summon minecraft:firework_rocket ~ ~1 ~ {LifeTime:30,FireworksItem:{id:\"minecraft:firework_rocket\",count:1,components:{\"minecraft:fireworks\":{flight_duration:1b,explosions:[{shape:\"star\",has_twinkle:true,has_trail:true,colors:[I;11739178,2067514,15252771],fade_colors:[I;16777215]}]}}}}"
+					"permission_level": 2
+					"silent": true
+					"team_reward": false
+					"icon": {
+						"id": "minecraft:firework_rocket"
+					}
+				}
+			]
+		}
+		{
+			"id": "5C6C1EB677CF1E2F"
+			"dependencies": [
+				"32111ACA2120EB3F"
+				"04BEBADB469586F0"
+			]
+			"icon": {
+				"id": "create:mechanical_arm"
+			}
+			"x": 0.5d
+			"y": 5.5d
+			"shape": "circle"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "0DEC29A1E0AABFEC"
+					"type": "item"
+					"item": {
+						"id": "create:mechanical_arm"
+						"count": 1
+					}
+					"count": 1
+				}
+			]
+			"rewards": [
+				{
+					"id": "7D756E227C04F464"
+					"type": "xp"
+					"xp": 150
+				}
+				{
+					"id": "0ED77C7CD3D8E3BC"
+					"type": "item"
+					"item": {
+						"id": "ftbquests:lootcrate"
+						"count": 1
+						"components": {
+							"ftbquests:loot_crate": "small_gift"
+						}
+					}
+				}
+				{
+					"id": "4555377FA31D16B8"
+					"type": "item"
+					"item": {
+						"id": "ftbquests:lootcrate"
+						"count": 1
+						"components": {
+							"ftbquests:loot_crate": "stocking"
+						}
+					}
+				}
+				{
+					"id": "7EDBFAD39F1AFC23"
+					"type": "item"
+					"item": {
+						"id": "create:mechanical_arm"
+						"count": 1
+					}
+				}
+				{
+					"id": "4B7E36F6B0C31362"
+					"type": "item"
+					"item": {
+						"id": "create:precision_mechanism"
+						"count": 1
+					}
+					"count": 2
+				}
+				{
+					"id": "78148DDEF7F03ADB"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_50"
+						"count": 1
+					}
+				}
+				{
+					"id": "7D494F711B8742B2"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_10"
+						"count": 1
+					}
+				}
+			]
+		}
+		{
+			"id": "1A72880BC9395134"
+			"dependencies": [
+				"5C6C1EB677CF1E2F"
+				"50B409297654FFC6"
+			]
+			"icon": {
+				"id": "create:blaze_burner"
+			}
+			"x": 2.5d
+			"y": 5.5d
+			"shape": "rsquare"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "09FB1CF4E4DAF5C8"
+					"type": "advancement"
+					"advancement": "create:arm_blaze_burner"
+					"criterion": ""
+				}
+			]
+			"rewards": [
+				{
+					"id": "1232DD90D34EE44F"
+					"type": "xp"
+					"xp": 150
+				}
+				{
+					"id": "2DBECA536D247285"
+					"type": "item"
+					"item": {
+						"id": "ftbquests:lootcrate"
+						"count": 1
+						"components": {
+							"ftbquests:loot_crate": "small_gift"
+						}
+					}
+				}
+				{
+					"id": "19CFFE35B0FB5F13"
+					"type": "item"
+					"item": {
+						"id": "ftbquests:lootcrate"
+						"count": 1
+						"components": {
+							"ftbquests:loot_crate": "stocking"
+						}
+					}
+				}
+				{
+					"id": "60E1B545C4CCF243"
+					"type": "item"
+					"item": {
+						"id": "minecraft:coal_block"
+						"count": 1
+					}
+					"count": 16
+				}
+				{
+					"id": "495746A1B00A5EF1"
+					"type": "item"
+					"item": {
+						"id": "minecraft:blaze_powder"
+						"count": 1
+					}
+					"count": 8
+				}
+				{
+					"id": "1A739FEA92D143E1"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_50"
+						"count": 1
+					}
+				}
+				{
+					"id": "2F7357F2EE237574"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_10"
+						"count": 1
+					}
+				}
+			]
+			"optional": true
+		}
+		{
+			"id": "7751B527116451FE"
+			"dependencies": [
+				"32111ACA2120EB3F"
+				"04BEBADB469586F0"
+			]
+			"icon": {
+				"id": "create:rotation_speed_controller"
+			}
+			"x": 5.0d
+			"y": 5.5d
+			"shape": "circle"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "3039336619F3C0E4"
+					"type": "item"
+					"item": {
+						"id": "create:rotation_speed_controller"
+						"count": 1
+					}
+					"count": 1
+				}
+			]
+			"rewards": [
+				{
+					"id": "6901D154C97D948F"
+					"type": "xp"
+					"xp": 150
+				}
+				{
+					"id": "1133E20200144EEB"
+					"type": "item"
+					"item": {
+						"id": "ftbquests:lootcrate"
+						"count": 1
+						"components": {
+							"ftbquests:loot_crate": "small_gift"
+						}
+					}
+				}
+				{
+					"id": "7F214364A5220203"
+					"type": "item"
+					"item": {
+						"id": "ftbquests:lootcrate"
+						"count": 1
+						"components": {
+							"ftbquests:loot_crate": "stocking"
+						}
+					}
+				}
+				{
+					"id": "44A764D559302F53"
+					"type": "item"
+					"item": {
+						"id": "create:speedometer"
+						"count": 1
+					}
+				}
+				{
+					"id": "334AE040A16C6C60"
+					"type": "item"
+					"item": {
+						"id": "create:stressometer"
+						"count": 1
+					}
+				}
+				{
+					"id": "2CD4DE01E4172F65"
+					"type": "item"
+					"item": {
+						"id": "create:sequenced_gearshift"
+						"count": 1
+					}
+				}
+				{
+					"id": "3E4FA31B3C1D1A57"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_50"
+						"count": 1
+					}
+				}
+				{
+					"id": "6FF5B2809B22A472"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_10"
+						"count": 1
+					}
+				}
+			]
+		}
+		{
+			"id": "6E28C535486733CD"
+			"dependencies": [
+				"04BEBADB469586F0"
+			]
+			"icon": {
+				"id": "create:elevator_pulley"
+			}
+			"x": 7.5d
+			"y": 5.5d
+			"shape": "circle"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "232585C100ED179F"
+					"type": "item"
+					"item": {
+						"id": "create:elevator_pulley"
+						"count": 1
+					}
+					"count": 1
+				}
+			]
+			"rewards": [
+				{
+					"id": "3C7309947928D3B5"
+					"type": "xp"
+					"xp": 150
+				}
+				{
+					"id": "63985B740D443B21"
+					"type": "item"
+					"item": {
+						"id": "ftbquests:lootcrate"
+						"count": 1
+						"components": {
+							"ftbquests:loot_crate": "small_gift"
+						}
+					}
+				}
+				{
+					"id": "642633B9CE46825E"
+					"type": "item"
+					"item": {
+						"id": "ftbquests:lootcrate"
+						"count": 1
+						"components": {
+							"ftbquests:loot_crate": "stocking"
+						}
+					}
+				}
+				{
+					"id": "4FF1A7FAC2AF9A6B"
+					"type": "item"
+					"item": {
+						"id": "create:contraption_controls"
+						"count": 1
+					}
+					"count": 2
+				}
+				{
+					"id": "6E11AE336507378C"
+					"type": "item"
+					"item": {
+						"id": "create:framed_glass"
+						"count": 1
+					}
+					"count": 16
+				}
+				{
+					"id": "67476B9BC582C6D7"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_50"
+						"count": 1
+					}
+				}
+				{
+					"id": "1E9C2919B16F3A3B"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_10"
+						"count": 1
+					}
+				}
+			]
+		}
+		{
+			"id": "3D3145A9CD96F9A7"
+			"dependencies": [
+				"32111ACA2120EB3F"
+				"2AEA10F9FB69206E"
+			]
+			"icon": {
+				"id": "create:extendo_grip"
+			}
+			"x": 0.5d
+			"y": 7.5d
+			"shape": "rsquare"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "023BA57D84EF5194"
+					"type": "item"
+					"item": {
+						"id": "create:extendo_grip"
+						"count": 1
+					}
+					"count": 1
+				}
+			]
+			"rewards": [
+				{
+					"id": "16A5D44DFEF92E7A"
+					"type": "xp"
+					"xp": 150
+				}
+				{
+					"id": "26F7E097724C1185"
+					"type": "item"
+					"item": {
+						"id": "ftbquests:lootcrate"
+						"count": 1
+						"components": {
+							"ftbquests:loot_crate": "small_gift"
+						}
+					}
+				}
+				{
+					"id": "7FB61430AAFBD042"
+					"type": "item"
+					"item": {
+						"id": "ftbquests:lootcrate"
+						"count": 1
+						"components": {
+							"ftbquests:loot_crate": "stocking"
+						}
+					}
+				}
+				{
+					"id": "3EC60AED4B43F15D"
+					"type": "item"
+					"item": {
+						"id": "create:super_glue"
+						"count": 1
+					}
+					"count": 4
+				}
+				{
+					"id": "2FAC32626DD91589"
+					"type": "item"
+					"item": {
+						"id": "minecraft:scaffolding"
+						"count": 1
+					}
+					"count": 32
+				}
+				{
+					"id": "554C90121199C79D"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_50"
+						"count": 1
+					}
+				}
+				{
+					"id": "5EB28981B328F619"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_10"
+						"count": 1
+					}
+				}
+			]
+			"optional": true
+		}
+		{
+			"id": "71545D0B4BCDAA78"
+			"dependencies": [
+				"04BEBADB469586F0"
+			]
+			"icon": {
+				"id": "bits_n_bobs:flywheel_bearing"
+			}
+			"x": 3.0d
+			"y": 7.5d
+			"shape": "rsquare"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "1F37A7AFDDBC1C0A"
+					"type": "item"
+					"item": {
+						"id": "bits_n_bobs:flywheel_bearing"
+						"count": 1
+					}
+					"count": 1
+				}
+			]
+			"rewards": [
+				{
+					"id": "0E1B7D867DEA9447"
+					"type": "xp"
+					"xp": 150
+				}
+				{
+					"id": "738AA26A8E537187"
+					"type": "item"
+					"item": {
+						"id": "ftbquests:lootcrate"
+						"count": 1
+						"components": {
+							"ftbquests:loot_crate": "small_gift"
+						}
+					}
+				}
+				{
+					"id": "54E265A9CAD6081A"
+					"type": "item"
+					"item": {
+						"id": "ftbquests:lootcrate"
+						"count": 1
+						"components": {
+							"ftbquests:loot_crate": "stocking"
+						}
+					}
+				}
+				{
+					"id": "0963C1F9CD02F5B5"
+					"type": "item"
+					"item": {
+						"id": "create:large_cogwheel"
+						"count": 1
+					}
+					"count": 4
+				}
+				{
+					"id": "561206B69BF3D64F"
+					"type": "item"
+					"item": {
+						"id": "create:brass_ingot"
+						"count": 1
+					}
+					"count": 4
+					"team_reward": true
+				}
+				{
+					"id": "3E9BD123110898F6"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_50"
+						"count": 1
+					}
+				}
+				{
+					"id": "3DB62549FB3302E1"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_10"
+						"count": 1
+					}
+				}
+			]
+			"optional": true
+		}
+		{
+			"id": "247F70B208464BC0"
+			"dependencies": [
+				"162CE88B477B267E"
+				"5332A80303E44DB2"
+				"7CC5DFB019472438"
+				"04BEBADB469586F0"
+			]
+			"icon": {
+				"id": "createcobblestone:mechanical_generator"
+			}
+			"x": 5.5d
+			"y": 7.5d
+			"shape": "rsquare"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "2101FAD6BA65D3C6"
+					"type": "item"
+					"item": {
+						"id": "createcobblestone:mechanical_generator"
+						"count": 1
+					}
+					"count": 1
+				}
+			]
+			"rewards": [
+				{
+					"id": "64F9E0D025C7FE87"
+					"type": "xp"
+					"xp": 150
+				}
+				{
+					"id": "270E96939930910A"
+					"type": "item"
+					"item": {
+						"id": "ftbquests:lootcrate"
+						"count": 1
+						"components": {
+							"ftbquests:loot_crate": "small_gift"
+						}
+					}
+				}
+				{
+					"id": "518FC5FA05F64B4D"
+					"type": "item"
+					"item": {
+						"id": "ftbquests:lootcrate"
+						"count": 1
+						"components": {
+							"ftbquests:loot_crate": "stocking"
+						}
+					}
+				}
+				{
+					"id": "0BEE50AF6A42DFAD"
+					"type": "item"
+					"item": {
+						"id": "create:crushed_raw_zinc"
+						"count": 1
+					}
+					"count": 8
+				}
+				{
+					"id": "35958CD4480AF821"
+					"type": "item"
+					"item": {
+						"id": "minecraft:stone"
+						"count": 1
+					}
+					"count": 64
+				}
+				{
+					"id": "1572925C017BB565"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_50"
+						"count": 1
+					}
+				}
+				{
+					"id": "230A38601BBD77E1"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_10"
+						"count": 1
+					}
+				}
+			]
+			"optional": true
+		}
+	]
+}

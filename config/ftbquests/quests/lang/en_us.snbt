@@ -1,0 +1,1414 @@
+{
+	"chapter_group.6E6872417BE99080.title": "Christmas Craft"
+	"chapter.12574938FDDF36DA.title": "The Workshop"
+	"chapter.12574938FDDF36DA.chapter_subtitle": [
+		"Everything begins with a bench, a fire and a plan."
+	]
+	"quest.47EE417242FCAD0B.title": "Welcome to the Workshop"
+	"quest.47EE417242FCAD0B.quest_subtitle": "Winter is coming. So are the orders."
+	"quest.47EE417242FCAD0B.quest_desc": [
+		"The village is quiet and the snow is settling. By December there will be presents to make, wrap and fly out, and yours is the only workshop. Craft a bench to begin. Press R on any item in JEI for its recipe, or U to see what it makes."
+	]
+	"quest.7D8F4C79D6910DB8.title": "A Warm Place to Sleep"
+	"quest.7D8F4C79D6910DB8.quest_subtitle": "Even toy-makers need rest."
+	"quest.7D8F4C79D6910DB8.quest_desc": [
+		"Before the machines, a home. Build a snug cabin and make a red bed: it sets your spawn, and the whole team can skip the long winter nights. Put it somewhere you would be glad to come home to in a blizzard."
+	]
+	"quest.5C56037F2B24A414.title": "Snow Boots"
+	"quest.5C56037F2B24A414.quest_subtitle": "Powder snow swallows the careless."
+	"quest.5C56037F2B24A414.quest_desc": [
+		"Snowy biomes hide powder snow that you sink straight through. Leather boots let you walk on top of it, so make a pair before you go north. A cauldron left out in a snowstorm fills with powder snow too."
+	]
+	"quest.38F14CE1641DBE74.title": "First Iron"
+	"quest.38F14CE1641DBE74.quest_subtitle": "The metal everything is made of."
+	"quest.38F14CE1641DBE74.quest_desc": [
+		"Create runs on iron: nuggets for alloy, sheets for machines, blocks for presses. Mine some ore and smelt your first ingot, then keep a stack of iron by the door, because the first machines eat it. Here is a proper pickaxe for the deep veins."
+	]
+	"quest.2616E3585D5969D2.title": "First Copper"
+	"quest.2616E3585D5969D2.quest_subtitle": "Orange, shiny and everywhere."
+	"quest.2616E3585D5969D2.quest_desc": [
+		"Copper becomes casings, pipes and boilers, so you will use far more than you think. Smelt your first ingot. Big copper veins sit lower down, often near dripstone caves."
+	]
+	"quest.310F90E7AAA1C81D.title": "Know the Land"
+	"quest.310F90E7AAA1C81D.quest_subtitle": "A compass that knows where things are."
+	"quest.310F90E7AAA1C81D.quest_desc": [
+		"You cannot deliver presents to a village you cannot find. Craft an Explorer's Compass to point at structures. Press M for the world map and B to add a waypoint for every village, snowfield and good airfield you pass."
+	]
+	"quest.35033A839830EA85.title": "The Zinc Hunt"
+	"quest.35033A839830EA85.quest_subtitle": "The zinc find that opens Brass."
+	"quest.35033A839830EA85.quest_desc": [
+		"Brass needs zinc, and zinc only comes from ore. It sits in broad veins in deep stone, and deep caves and old mineshafts often run right past it. Bring back one piece of raw zinc to prove you found a vein, then mark it on your map. Your andesite machines do not need it yet. It builds on First Iron and Know the Land."
+	]
+	"task.17F16BD235CF189E.title": "Say hello on voice chat and drop a ping"
+	"quest.3DC162948394FB8A.title": "Radio Check"
+	"quest.3DC162948394FB8A.quest_subtitle": "Can everyone hear me?"
+	"quest.3DC162948394FB8A.quest_desc": [
+		"Voice chat is on: stand near a friend and talk, or hold the group key to reach your team. Middle-click to drop a ping on anything worth seeing. Tick this when the team has said hello and pinged a spot."
+	]
+	"chapter.1214FE8E41D7389B.title": "Andesite Age"
+	"chapter.1214FE8E41D7389B.chapter_subtitle": [
+		"Rotation, pressing and the first honest machines."
+	]
+	"quest.0B45CFE2ED0D01F2.title": "Alloy and Timber"
+	"quest.0B45CFE2ED0D01F2.quest_subtitle": "The mortar of every machine."
+	"quest.0B45CFE2ED0D01F2.quest_desc": [
+		"Andesite alloy starts nearly every Create recipe. Craft it from andesite and iron nuggets in a grid. Hover any Create item and hold W to open its Ponder scene: the little animated lessons are the best manual you will ever get. It builds on First Iron."
+	]
+	"quest.6DBF9133F261B756.title": "Turning Corners"
+	"quest.6DBF9133F261B756.quest_subtitle": "Shafts go straight. Cogs go round the bend."
+	"quest.6DBF9133F261B756.quest_desc": [
+		"Rotation is how Create moves power. A shaft carries it in a line; cogwheels mesh to turn corners, and a large cog against a small one trades speed for force. Craft a cogwheel from a shaft and a plank."
+	]
+	"quest.4679A5A31F88C6AE.title": "Elbow Grease"
+	"quest.4679A5A31F88C6AE.quest_subtitle": "The cheapest power there is."
+	"quest.4679A5A31F88C6AE.quest_desc": [
+		"A hand crank turns whatever it touches for as long as you keep cranking. It is slow and makes you hungry, but it runs a press or a mixer anywhere, with no river needed. Perfect for testing a machine before it gets real power."
+	]
+	"quest.286032F453DF5E18.title": "Harnessing the River"
+	"quest.286032F453DF5E18.quest_subtitle": "Free power, as long as the river runs."
+	"quest.286032F453DF5E18.quest_desc": [
+		"Place a water wheel in flowing water and it turns forever. Water must move along the blades, so build a channel if the river is lazy. Frozen water does not flow: keep the wheel out of the ice. Ponder shows good layouts."
+	]
+	"quest.0AFDFB4349CE4FAF.title": "Wind in the Sails"
+	"quest.0AFDFB4349CE4FAF.quest_subtitle": "A bearing, a frame and some sails."
+	"quest.0AFDFB4349CE4FAF.quest_desc": [
+		"Where the river does not reach, the wind will. A windmill bearing needs at least 8 sail blocks glued to it before it turns; more sails, more power. Snowy hilltops are perfect. Right-click the bearing to start it spinning."
+	]
+	"quest.378C36096D7A5327.title": "Casing the Joint"
+	"quest.378C36096D7A5327.quest_subtitle": "Rough shafts become proper machines."
+	"quest.378C36096D7A5327.quest_desc": [
+		"Right-click a stripped log with andesite alloy and it becomes andesite casing. No machine needed, just a steady hand. Casing is the body of the press, the depot, the drill and most of what follows. It builds on Alloy and Timber."
+	]
+	"quest.1C7F18C70DBC07CA.title": "Split the Drive"
+	"quest.1C7F18C70DBC07CA.quest_subtitle": "One shaft in, four ways out."
+	"quest.1C7F18C70DBC07CA.quest_desc": [
+		"A gearbox sends rotation out of all four sides, reversing as it goes. Pair it with a clutch and a lever so you can switch a line off without tearing it down. Goggles will show you the direction arrows once you have them."
+	]
+	"quest.35DD18701CB44A3B.title": "A Place to Stand"
+	"quest.35DD18701CB44A3B.quest_subtitle": "A little table for machines to work on."
+	"quest.35DD18701CB44A3B.quest_desc": [
+		"A depot holds one stack for a machine above it to work on: a press, a fan or a deployer. It is also where sequenced assembly happens later. Make one and put it under everything."
+	]
+	"quest.1872863EF731C6BB.title": "Pressing Business"
+	"quest.1872863EF731C6BB.quest_subtitle": "Ingots go in, sheets come out."
+	"quest.1872863EF731C6BB.quest_desc": [
+		"The mechanical press flattens ingots into sheets. It needs a shaft, andesite casing and a block of iron. Power it, put an ingot on a depot underneath and watch it stamp. The quest ticks the first time a press makes a sheet. It builds on Casing the Joint and Turning Corners."
+	]
+	"quest.55078EB3DA202F0B.title": "Engineer's Goggles"
+	"quest.55078EB3DA202F0B.quest_subtitle": "See the speed. See the strain."
+	"quest.55078EB3DA202F0B.quest_desc": [
+		"Gold is soft, and soft metal makes precise tools. Press a golden sheet and craft the goggles: wear them and every machine shows its speed and stress. Most broken factories are an overstressed line you could have spotted."
+	]
+	"quest.6CE2833ACCD57AFD.title": "The Belt Line"
+	"quest.6CE2833ACCD57AFD.quest_subtitle": "Items that move themselves."
+	"quest.6CE2833ACCD57AFD.quest_desc": [
+		"Belts carry items between machines. Six dried kelp make a belt: use it on two shafts to join them. Funnels put items on and take them off, and chutes drop them down for free. This is the moment the workshop becomes a factory. It builds on Turning Corners."
+	]
+	"quest.70D08734C93D59ED.title": "Copper Casing"
+	"quest.70D08734C93D59ED.quest_subtitle": "The skin of every fluid machine."
+	"quest.70D08734C93D59ED.quest_desc": [
+		"Right-click a stripped log with a copper ingot to make copper casing, the same trick as andesite. It is the body of the spout, the item drain and the fluid tanks you will lean on from here to the airship docks."
+	]
+	"quest.7620442FA3B06FD4.title": "Spout and Drain"
+	"quest.7620442FA3B06FD4.quest_subtitle": "Fill things. Empty things."
+	"quest.7620442FA3B06FD4.quest_desc": [
+		"A spout fills whatever sits below it from a tank or pipe: bottles, buckets, and later chocolate and lava. It needs no rotation at all. Its partner, the item drain, empties buckets and bottles into the network."
+	]
+	"quest.59AD1FBB8BBB8A8B.title": "Plumbing"
+	"quest.59AD1FBB8BBB8A8B.quest_subtitle": "Pipes, valves and a push."
+	"quest.59AD1FBB8BBB8A8B.quest_desc": [
+		"Copper sheets make fluid pipes; a pump on a pipe pushes fluid along it, and the arrow shows which way. Pump water up from a lake to a tank and you have the start of every liquid process, boilers included."
+	]
+	"quest.7D3C6F898EF065B0.title": "Tanks for the Memories"
+	"quest.7D3C6F898EF065B0.quest_subtitle": "Somewhere to keep the water."
+	"quest.7D3C6F898EF065B0.quest_desc": [
+		"A fluid tank holds eight buckets, and tanks placed together merge into one big pool. A tank full of water over a heat source is also a boiler: remember that for the steam chapter. Use the wrench to add a window."
+	]
+	"quest.4DF0116CD58BAEB3.title": "Compact Gearing"
+	"quest.4DF0116CD58BAEB3.quest_subtitle": "A gearshift that is also a cog."
+	"quest.4DF0116CD58BAEB3.quest_desc": [
+		"Compact Additions packs a gearshift into a cogwheel, so you can reverse a line without a casing in the way. Handy in a tight engine room or inside a ship's hull. Craft one from an andesite casing, a cogwheel and redstone."
+	]
+	"chapter.55653A3345EFE630.title": "The Machine Shop"
+	"chapter.55653A3345EFE630.chapter_subtitle": [
+		"Basins, mixers, fans and saws: the machines that make things."
+	]
+	"quest.7E4A083A0CF85682.title": "The Basin"
+	"quest.7E4A083A0CF85682.quest_subtitle": "A bowl for recipes no table can do."
+	"quest.7E4A083A0CF85682.quest_desc": [
+		"A basin holds ingredients for a machine above it: a mixer stirs, a press squeezes. Items and fluids both go in, and the result pops out of the side into a funnel or onto a belt. Five andesite alloy make one."
+	]
+	"quest.3C3F1306AB798461.title": "Mixing It Up"
+	"quest.3C3F1306AB798461.quest_subtitle": "Basins, whisks and dough."
+	"quest.3C3F1306AB798461.quest_desc": [
+		"Put a mechanical mixer over a basin and it mixes what is inside. Flour and water become dough; later, copper and zinc become brass. The mixer needs a whisk made of iron sheets. The quest ticks on your first mixed recipe. It builds on Pressing Business and The Basin."
+	]
+	"quest.3FDD8DEF4A8C5D9F.title": "Squeeze It"
+	"quest.3FDD8DEF4A8C5D9F.quest_subtitle": "A press over a basin."
+	"quest.3FDD8DEF4A8C5D9F.quest_desc": [
+		"Stand a press over a basin instead of a depot and it compacts: nine nuggets into an ingot, or a basin of ingredients into a block. It is how bars of chocolate are made later. Try it with something you have plenty of."
+	]
+	"quest.1C737715E2EE11BC.title": "Flour Power"
+	"quest.1C737715E2EE11BC.quest_subtitle": "Grind grain to flour."
+	"quest.1C737715E2EE11BC.quest_desc": [
+		"Drop wheat into a powered millstone and flour comes out. It also grinds raw ore for a little bonus. Flour is the start of every bakery in the kitchen chapter, so put the mill somewhere warm."
+	]
+	"quest.3B255A4F4E51835D.title": "The Wind Tunnel"
+	"quest.3B255A4F4E51835D.quest_subtitle": "Wash, smoke and blast with air."
+	"quest.3B255A4F4E51835D.quest_desc": [
+		"Blow a fan's air through water and it washes ore; through fire it smokes food; through lava it smelts; through soul fire it haunts. Put a catalyst in front of a fan and a belt becomes a processing line. Ticks on your first fan recipe. It builds on Pressing Business and The Belt Line."
+	]
+	"quest.73905B1CCB1696E7.title": "Timber!"
+	"quest.73905B1CCB1696E7.quest_subtitle": "Logs in, planks out."
+	"quest.73905B1CCB1696E7.quest_desc": [
+		"A mechanical saw cuts logs into planks and strips bark, and on a moving contraption it fells whole trees. Face it up for processing, or sideways to cut what it moves past. A belt of logs under it never runs dry."
+	]
+	"quest.7CC5DFB019472438.title": "Hands-Free Digging"
+	"quest.7CC5DFB019472438.quest_subtitle": "A drill that never gets tired."
+	"quest.7CC5DFB019472438.quest_desc": [
+		"A mechanical drill breaks the block in front of it. On its own it mines one spot; on a piston or bearing it carves tunnels. Point one at a cobblestone generator and you will never run short of stone again."
+	]
+	"quest.22DE6E4AF1A5E4D3.title": "Things That Spin"
+	"quest.22DE6E4AF1A5E4D3.quest_subtitle": "Turn a whole structure."
+	"quest.22DE6E4AF1A5E4D3.quest_desc": [
+		"A mechanical bearing turns any blocks glued to its face. Lighthouses, windmills and fairground rides all start here, and the same idea carries airships later. Super glue a frame to it and right-click to assemble."
+	]
+	"quest.2E446E33E50BCA5A.title": "Moving Parts"
+	"quest.2E446E33E50BCA5A.quest_subtitle": "A machine that works while it moves."
+	"quest.2E446E33E50BCA5A.quest_desc": [
+		"Mount drills, saws or harvesters on a bearing or a piston and they work as they move. That is a contraption. Build a tunnel bore or a tree farm, and the quest ticks when your moving machine does its first job. It builds on Hands-Free Digging, Things That Spin and Timber!."
+	]
+	"quest.5180BA4668B69C03.title": "The Mechanical Farm"
+	"quest.5180BA4668B69C03.quest_subtitle": "Reap what is ripe. Leave the rest."
+	"quest.5180BA4668B69C03.quest_desc": [
+		"A mechanical harvester cuts ripe crops and replants them as it passes. Put it on a bearing or a cart and a whole field farms itself. Run the output onto a belt that ends at a barrel: the kitchen will be hungry."
+	]
+	"task.1097766F512AB4AF.title": "Automated: the belt fed the press and sheets reached a chest with nobody touching them"
+	"quest.670654C03123C881.title": "The First Production Line"
+	"quest.670654C03123C881.quest_subtitle": "Prove the workshop runs on its own."
+	"quest.670654C03123C881.quest_desc": [
+		"Time for a real test. A funnel feeds ingots onto a belt, the press stamps them and a funnel drops the sheets into a chest. Start it and walk away. Tick the box once sheets reach the chest with nobody touching them. You have earned the Nether: the portal kit is in your reward."
+	]
+	"chapter.318D9480C16EFFBE.title": "Brass Age"
+	"chapter.318D9480C16EFFBE.chapter_subtitle": [
+		"Fire, brass and precision."
+	]
+	"quest.7644DCC7123FF073.title": "A Cage for Fire"
+	"quest.7644DCC7123FF073.quest_subtitle": "A cage for a fire spirit."
+	"quest.7644DCC7123FF073.quest_desc": [
+		"Brass needs heat a furnace cannot give, so you need a blaze. Craft an empty blaze burner from iron sheets and the netherrack you just mined; it is a cage, so carry it to the fortress. Pack food and a sword, and brew fire resistance if you can."
+	]
+	"quest.5FD55A1679F7873D.title": "Into the Nether"
+	"quest.5FD55A1679F7873D.quest_subtitle": "Hot, loud and full of quartz."
+	"quest.5FD55A1679F7873D.quest_desc": [
+		"Light a portal with the obsidian from your production line and step through. Look for a Nether fortress for blazes, and grab nether quartz and netherrack on the way: rose quartz and the blaze burner need them. Mark the portal on your map and never dig straight down. It builds on The First Production Line."
+	]
+	"quest.50B409297654FFC6.title": "The Caged Flame"
+	"quest.50B409297654FFC6.quest_subtitle": "A pet blaze that heats your basin."
+	"quest.50B409297654FFC6.quest_desc": [
+		"Right-click a blaze, or a blaze spawner, with an empty burner and the blaze moves in. A burner under a basin heats it; feed it coal, logs or anything that burns. Carry it home and put it under your mixer. Ponder explains the heat levels. It builds on A Cage for Fire."
+	]
+	"quest.53188ED1068D2088.title": "Rose Quartz"
+	"quest.53188ED1068D2088.quest_subtitle": "Quartz that holds a signal."
+	"quest.53188ED1068D2088.quest_desc": [
+		"Craft nether quartz with eight redstone to make rose quartz. Polish it with sand paper, by hand or with a deployer, and it becomes the heart of the electron tube. Expect to need a lot of redstone from here on."
+	]
+	"quest.5332A80303E44DB2.title": "Electron Tubes"
+	"quest.5332A80303E44DB2.quest_subtitle": "A little glowing brain."
+	"quest.5332A80303E44DB2.quest_desc": [
+		"An electron tube is polished rose quartz on an iron sheet. Deployers, crafters, smart chutes and half the gadgets in the pack need one. Make your first, then set up a sand paper deployer so you never polish by hand again."
+	]
+	"quest.162CE88B477B267E.title": "Brass"
+	"quest.162CE88B477B267E.quest_subtitle": "Copper and zinc, melted together."
+	"quest.162CE88B477B267E.quest_desc": [
+		"Copper and zinc in a basin, a mixer above, a blaze burner below: the heat fuses them into brass. It is the single most important recipe in Create. Pick a head-start kit for whichever part of the workshop you want to grow next. It builds on The Caged Flame, Mixing It Up and The Zinc Hunt."
+	]
+	"quest.04BEBADB469586F0.title": "Brass Casing"
+	"quest.04BEBADB469586F0.quest_subtitle": "The better-built body."
+	"quest.04BEBADB469586F0.quest_desc": [
+		"Right-click a stripped log with a brass ingot to make brass casing, the same trick as before. Brass casing is the shell of crafters, propeller bearings, the navigation table and the airship's best parts."
+	]
+	"quest.6AAF1EDB526F606B.title": "Smart Logistics"
+	"quest.6AAF1EDB526F606B.quest_subtitle": "Filters that think."
+	"quest.6AAF1EDB526F606B.quest_desc": [
+		"Brass makes logistics clever. A smart chute only lets matching items fall, brass funnels and tunnels filter belts, and a brass tunnel can split one belt evenly into several. Put a filter in the slot and see what it does."
+	]
+	"quest.497A914F8455C00B.title": "Hands of Brass"
+	"quest.497A914F8455C00B.quest_subtitle": "A machine that uses items for you."
+	"quest.497A914F8455C00B.quest_desc": [
+		"A deployer places blocks, uses items and applies one item to another. Stand it over a belt or depot and it works on whatever passes. It is also the worker in sequenced assembly, so this bundle stocks you for precision mechanisms. It builds on Electron Tubes and Brass."
+	]
+	"quest.2AEA10F9FB69206E.title": "Mechanical Crafters"
+	"quest.2AEA10F9FB69206E.quest_subtitle": "A grid of hands that crafts for you."
+	"quest.2AEA10F9FB69206E.quest_desc": [
+		"Mechanical crafters are a crafting grid you build in the world. Place them in a square, point the arrows to a corner, fill every cell and power it. Big 5x5 recipes, like crushing wheels, only work here. Here are eight more for a full grid. It builds on Electron Tubes and Brass Casing."
+	]
+	"reward.1C611341D4863FF3.title": "Fireworks!"
+	"quest.32111ACA2120EB3F.title": "Precision Mechanisms"
+	"quest.32111ACA2120EB3F.quest_subtitle": "Your first real sequenced assembly."
+	"quest.32111ACA2120EB3F.quest_desc": [
+		"A golden sheet rides a belt under three deployers, cogwheel, large cogwheel, iron nugget, five times round. Miss a step and the part is scrap. JEI shows the whole sequence. It is slow and wonderful, and it opens everything clever. It builds on Hands of Brass and A Place to Stand."
+	]
+	"quest.39ED2EF4F795E15F.title": "Deep Breath"
+	"quest.39ED2EF4F795E15F.quest_subtitle": "Air for divers and tools."
+	"quest.39ED2EF4F795E15F.quest_desc": [
+		"A copper backtank stores air from any rotation source. Wear it with the diving helmet and you can stay under water, and it powers tools like the extendo grip. Fill it by placing it next to a turning shaft."
+	]
+	"chapter.299349219C8E265F.title": "The Brass Works"
+	"chapter.299349219C8E265F.chapter_subtitle": [
+		"What precision makes possible."
+	]
+	"quest.35DDE3CC0AF94B70.title": "Crush It"
+	"quest.35DDE3CC0AF94B70.quest_subtitle": "Two wheels, double the ore."
+	"quest.35DDE3CC0AF94B70.quest_desc": [
+		"Crushing wheels are made in a 5x5 mechanical crafter grid. You need two, spinning towards each other with a gap for items to fall through. Here is the second wheel. They double ore and turn obsidian into powder. It builds on Mechanical Crafters."
+	]
+	"quest.46EB1DC3F6EC3A22.title": "Double the Ore"
+	"quest.46EB1DC3F6EC3A22.quest_subtitle": "Crush first, smelt second."
+	"quest.46EB1DC3F6EC3A22.quest_desc": [
+		"Raw ore through crushing wheels becomes crushed ore with bonus nuggets and an experience nugget. Wash it with a fan and water for even more. Every ingot from now on should go through the crusher first."
+	]
+	"quest.0CAD83195577B112.title": "Superheated"
+	"quest.0CAD83195577B112.quest_subtitle": "A cake that makes a blaze roar."
+	"quest.0CAD83195577B112.quest_desc": [
+		"Crush netherrack into cinder flour, compact it with sugar and egg into a cake base, then spout lava onto it. Feed the cake to a blaze burner and it superheats for a while. Some recipes, and the best boilers, need it. It builds on Crush It, Spout and Drain and Squeeze It."
+	]
+	"reward.6CAAE21D3718CF12.title": "Fireworks!"
+	"quest.3CF5B9E961209D8B.title": "Sturdy Sheets"
+	"quest.3CF5B9E961209D8B.quest_subtitle": "Obsidian, refined into a plate."
+	"quest.3CF5B9E961209D8B.quest_desc": [
+		"The hardest material in Create is not a metal. Crush obsidian to powder, then a sequence on a depot: spout lava, press, press. The result is a sturdy sheet, the plate behind train casing and airship logistics. Look it up in JEI. It builds on Crush It, Precision Mechanisms and Spout and Drain."
+	]
+	"quest.5C6C1EB677CF1E2F.title": "Robot Arms"
+	"quest.5C6C1EB677CF1E2F.quest_subtitle": "Programmable hands."
+	"quest.5C6C1EB677CF1E2F.quest_desc": [
+		"A mechanical arm picks items from one place and puts them in another. Hold it and click inputs and outputs before placing it, then give it power. One arm can feed a whole ring of machines. Here is a second to start with."
+	]
+	"quest.1A72880BC9395134.title": "Feed the Flame"
+	"quest.1A72880BC9395134.quest_subtitle": "Let the arm do the chores."
+	"quest.1A72880BC9395134.quest_desc": [
+		"Point a mechanical arm at a blaze burner and a chest of fuel and the arm keeps it fed. Feed it blaze cakes and it superheats on its own. The quest ticks the first time an arm feeds a burner."
+	]
+	"quest.7751B527116451FE.title": "Taming Speed"
+	"quest.7751B527116451FE.quest_subtitle": "Set it to exactly what you need."
+	"quest.7751B527116451FE.quest_desc": [
+		"A rotation speed controller sets an exact speed on the large cogwheel above it. Use it to slow a fan, speed up a press, or keep a ship's propeller in check. Scroll on it with the goggles on to set the number."
+	]
+	"quest.6E28C535486733CD.title": "Going Up"
+	"quest.6E28C535486733CD.quest_subtitle": "A lift for the clock tower."
+	"quest.6E28C535486733CD.quest_desc": [
+		"An elevator pulley carries a cabin between floors and stops at each contact you place. Great for the workshop tower and the airship pier. Add contraption controls inside so riders can pick a floor."
+	]
+	"quest.3D3145A9CD96F9A7.title": "Long Reach"
+	"quest.3D3145A9CD96F9A7.quest_subtitle": "Build from further away."
+	"quest.3D3145A9CD96F9A7.quest_desc": [
+		"The extendo grip lets you reach blocks far away: perfect for building the top of a tree or the side of a hull. Wear a backtank so it does not wear out. Made in a mechanical crafter grid."
+	]
+	"quest.71545D0B4BCDAA78.title": "Flywheel Bearing"
+	"quest.71545D0B4BCDAA78.quest_subtitle": "Store a little spin."
+	"quest.71545D0B4BCDAA78.quest_desc": [
+		"Bits 'n' Bobs adds a flywheel bearing that keeps turning a heavy wheel after the power drops. It smooths out a wobbly windmill and looks fantastic on an engine room wall. Assemble a big disc on it."
+	]
+	"quest.247F70B208464BC0.title": "Stone on Tap"
+	"quest.247F70B208464BC0.quest_subtitle": "Cobblestone forever."
+	"quest.247F70B208464BC0.quest_desc": [
+		"The mechanical generator makes cobblestone and other stone from rotation, without a lava cast. Feed it into crushing wheels for gravel and sand, and you will never strip a hillside again. A good brass-age upgrade."
+	]
+	"chapter.622AE3DA6E378730.title": "Steam and Sparks"
+	"chapter.622AE3DA6E378730.chapter_subtitle": [
+		"Boilers for the factory, wires for the lights."
+	]
+	"quest.593F0EEE0DDFD5B7.title": "Boiling Point"
+	"quest.593F0EEE0DDFD5B7.quest_subtitle": "Boil water, spin a flywheel."
+	"quest.593F0EEE0DDFD5B7.quest_desc": [
+		"A fluid tank full of water with a blaze burner under it is a boiler. Put a steam engine on the tank's side, a shaft in front, and it turns with real force. Pump in water and keep the burner fed. Ponder shows how boiler size and heat add up. It builds on The Caged Flame, Plumbing and Tanks for the Memories."
+	]
+	"quest.70E1BA53DD1C9CF5.title": "Toot Toot"
+	"quest.70E1BA53DD1C9CF5.quest_subtitle": "Every engine wants a voice."
+	"quest.70E1BA53DD1C9CF5.quest_desc": [
+		"Put a steam whistle on the boiler and give it a redstone signal. Stack extensions to lower the note: three whistles make a chord, and a chord at the workshop door is the best alarm clock in the world."
+	]
+	"quest.42ACA361C0428257.title": "Factory Smoke"
+	"quest.42ACA361C0428257.quest_subtitle": "A chimney the boiler can breathe through."
+	"quest.42ACA361C0428257.quest_desc": [
+		"Create: Smoke Stacks puffs smoke from connected stacks whenever the boiler underneath is running. Stack them tall above the boiler room and the whole town can see the factory is busy. Craft them from iron sheets."
+	]
+	"reward.227E1821D0A43978.title": "Fireworks!"
+	"quest.0BB3E6ACB49C85E3.title": "Full Steam Ahead"
+	"quest.0BB3E6ACB49C85E3.quest_subtitle": "A boiler at its limit."
+	"quest.0BB3E6ACB49C85E3.quest_desc": [
+		"Grow the boiler until it reaches its maximum level: a big tank, plenty of water and lots of heat, superheated burners included. Read the boiler with goggles to see what is holding it back. The quest ticks at a maxed engine. It builds on Boiling Point and Superheated."
+	]
+	"quest.3C0FC8C0A723C686.title": "Stored Rotation"
+	"quest.3C0FC8C0A723C686.quest_subtitle": "Wind it up now, spin it later."
+	"quest.3C0FC8C0A723C686.quest_desc": [
+		"Create: Connected's kinetic battery soaks up spare rotation and gives it back when you ask. A battery bank smooths out a windmill on a calm day. Charge it with a running shaft, then let a redstone signal release it."
+	]
+	"quest.04736F5DA01B76C5.title": "The Rolling Mill"
+	"quest.04736F5DA01B76C5.quest_subtitle": "Sparks: sheets become rods and wire."
+	"quest.04736F5DA01B76C5.quest_desc": [
+		"Crafts & Additions starts with the rolling mill: feed it a sheet or an ingot and it rolls rods and wires. Copper wire wound on a spool is the bones of everything electric. Power it like any other machine. It builds on Pressing Business."
+	]
+	"quest.4E680A0AE27D829A.title": "The Alternator"
+	"quest.4E680A0AE27D829A.quest_subtitle": "Rotation becomes electricity."
+	"quest.4E680A0AE27D829A.quest_desc": [
+		"An alternator turns rotation into energy. It is a mechanical crafter recipe, so build your grid. Hook it to a fast shaft and run wire from it with connectors. Plenty of power in, plenty of energy out."
+	]
+	"quest.64B047FFF0B7D974.title": "Electric Motor"
+	"quest.64B047FFF0B7D974.quest_subtitle": "Electricity becomes rotation, anywhere."
+	"quest.64B047FFF0B7D974.quest_desc": [
+		"The electric motor runs a shaft from energy, with no river, wind or boiler beside it. Wire one to your alternator and you can power a machine in the middle of town. Set its speed with a scroll, just like a speed controller. It builds on The Alternator and Mechanical Crafters."
+	]
+	"quest.703E50E43924963D.title": "The Tesla Coil"
+	"quest.703E50E43924963D.quest_subtitle": "A spark that charges things."
+	"quest.703E50E43924963D.quest_desc": [
+		"A tesla coil over a depot charges whatever sits on it. That is how you make electrum: charge a gold ingot. It also tops up anything that holds energy. Keep your fingers clear; it bites. It builds on The Alternator, Brass Casing and Electron Tubes."
+	]
+	"quest.16D20B89EA39F245.title": "Charged Up"
+	"quest.16D20B89EA39F245.quest_subtitle": "Gold with a little lightning in it."
+	"quest.16D20B89EA39F245.quest_desc": [
+		"Put a gold ingot on a depot under the tesla coil and it becomes electrum. Electrum wire carries more energy, and accumulators need it. Make your first ingot, then set up a belt so the coil charges a stack at a time."
+	]
+	"quest.65683FF392C27ADF.title": "The Accumulator"
+	"quest.65683FF392C27ADF.quest_subtitle": "A battery for the whole street."
+	"quest.65683FF392C27ADF.quest_desc": [
+		"Accumulators store energy and grow as you stack them. A bank by the alternator keeps the town lights on overnight, even when the boiler sleeps. They need electrum wire, so charge some gold first."
+	]
+	"chapter.5179177A1219B41D.title": "Logistics"
+	"chapter.5179177A1219B41D.chapter_subtitle": [
+		"Warehouses, parcels and a postal service."
+	]
+	"quest.65297C9A0B00433F.title": "The Great Vault"
+	"quest.65297C9A0B00433F.quest_subtitle": "Storage that grows with you."
+	"quest.65297C9A0B00433F.quest_desc": [
+		"An item vault is Create's big storage: place several together and they merge into one huge inventory. Hatches and funnels get items in and out. Build a stack at the end of a belt line and nothing will ever overflow again."
+	]
+	"quest.4AB17D376FC86D90.title": "Paper Pulp"
+	"quest.4AB17D376FC86D90.quest_subtitle": "Mix it, press it, box it."
+	"quest.4AB17D376FC86D90.quest_desc": [
+		"Cardboard is pulp pressed flat. Mix paper or wood into pulp in a basin, then press it into sheets. Every parcel in the pack is made of the stuff, so set up a little line now. JEI shows the pulp recipes under the mixer."
+	]
+	"quest.778575145F2B72DF.title": "Packaging Department"
+	"quest.778575145F2B72DF.quest_subtitle": "Things become parcels."
+	"quest.778575145F2B72DF.quest_desc": [
+		"A packager boxes up what it is given into a labelled parcel, and unpacks parcels it receives. Put one on a chest, give it an address on a sign or a clipboard, and the workshop becomes a sorting office. Ponder shows the address rules. It builds on Paper Pulp and The Great Vault."
+	]
+	"quest.2AB3D680C66DC690.title": "Frogports"
+	"quest.2AB3D680C66DC690.quest_subtitle": "A friendly frog sends your mail."
+	"quest.2AB3D680C66DC690.quest_desc": [
+		"A frogport is a frog on a box. Link it to a chain conveyor and it posts parcels onto the chain and catches the ones addressed to it, with a long, sticky tongue. Set up two frogports and send your first parcel across the yard. It builds on Packaging Department and Chain Conveyors."
+	]
+	"quest.7E13CAD636316192.title": "Chain Conveyors"
+	"quest.7E13CAD636316192.quest_subtitle": "A cable car for parcels."
+	"quest.7E13CAD636316192.quest_desc": [
+		"Chain conveyors run between shafts on chains and carry parcels on hooks. Click two conveyors with a chain to join them. They climb, turn corners and cross roads, so the post can reach every house on the street."
+	]
+	"quest.2B8531335BC1E7DD.title": "The Postal Service"
+	"quest.2B8531335BC1E7DD.quest_subtitle": "A red box for every house."
+	"quest.2B8531335BC1E7DD.quest_desc": [
+		"A postbox is a frogport for trains: a train calling at the station picks up and drops off its parcels. Put one outside every cottage and give it the house's name. The village will think it is magic."
+	]
+	"quest.542A97FEF24B943F.title": "Wireless"
+	"quest.542A97FEF24B943F.quest_subtitle": "Redstone without the wire."
+	"quest.542A97FEF24B943F.quest_desc": [
+		"A transmitter is a lightning rod and copper sheets: the radio inside every link, stock link and remote. Make one, then turn it into redstone links to switch machines across the yard with no wire at all."
+	]
+	"quest.427FB34CC3A857E0.title": "Stock Keeping"
+	"quest.427FB34CC3A857E0.quest_subtitle": "A shop window for the whole factory."
+	"quest.427FB34CC3A857E0.quest_desc": [
+		"Stock links report what their vault holds, and a stock ticker lists everything linked on the network. Right-click the ticker to browse and order, and the parcels come to you. The quest ticks on your first order. It builds on Frogports and Wireless."
+	]
+	"quest.2EA1E9416A9EC29D.title": "Order Up"
+	"quest.2EA1E9416A9EC29D.quest_subtitle": "Machines that place their own orders."
+	"quest.2EA1E9416A9EC29D.quest_desc": [
+		"A redstone requester sends a fixed order when it gets a signal. Wire one to a button by the kitchen door and press it for a parcel of flour. Or wire it to a comparator and a machine orders its own ingredients when it runs low."
+	]
+	"quest.2C9E66F0E226E9D8.title": "Open a Shop"
+	"quest.2C9E66F0E226E9D8.quest_subtitle": "A market stall that sells itself."
+	"quest.2C9E66F0E226E9D8.quest_desc": [
+		"Put a table cloth on a table linked to a stock ticker and it becomes a shop: friends pick goods and pay you in what you ask. It is a lovely way to run a Christmas market. The quest ticks when your shop is set up."
+	]
+	"quest.74137927C1A19DE2.title": "Factory Gauges"
+	"quest.74137927C1A19DE2.quest_subtitle": "Keep it topped up."
+	"quest.74137927C1A19DE2.quest_desc": [
+		"Put a factory gauge on a packager and tell it what to make and how many to keep. It orders the ingredients and the machines restock themselves. Chain gauges together and you have a real factory floor. Ticks on your first gauge request. It builds on Stock Keeping and Precision Mechanisms."
+	]
+	"quest.406C921F7976A63C.title": "Logic Gauges"
+	"quest.406C921F7976A63C.quest_subtitle": "If this, then that."
+	"quest.406C921F7976A63C.quest_desc": [
+		"Extra Gauges adds logic, counter and expression gauges that sit on the same panel as factory gauges. Count parcels, compare stock, or stop the line when the warehouse is full. Craft a logic gauge from a precision mechanism and a redstone torch."
+	]
+	"quest.24AB643CFA05E4C6.title": "The Offline Warehouse"
+	"quest.24AB643CFA05E4C6.quest_subtitle": "Write the order down, send it later."
+	"quest.24AB643CFA05E4C6.quest_desc": [
+		"Meta Logistics compiles orders into a stock manifest you can carry, post or file. A manifest reader fills it from any warehouse, even one you are not standing near. Use it to send Santa's shopping list to the far side of the map."
+	]
+	"quest.3B920A61A854672F.title": "Keep It Running"
+	"quest.3B920A61A854672F.quest_subtitle": "A factory that works while you are away."
+	"quest.3B920A61A854672F.quest_desc": [
+		"Create: Power Loader keeps chunks loaded for as long as it is fed rotation. The bigger the area, the more stress it costs. Build one in the factory so the presents keep coming while you are out flying. It needs a respawn anchor from the Nether."
+	]
+	"quest.460ADC3B8B9E2E30.title": "The Brass Loader"
+	"quest.460ADC3B8B9E2E30.quest_subtitle": "A bigger area, a smarter loader."
+	"quest.460ADC3B8B9E2E30.quest_desc": [
+		"The brass chunk loader covers more ground and can be switched by redstone. It also rides on contraptions, which matters for a train or an airship that must keep its cargo loading. Built in a mechanical crafter grid."
+	]
+	"quest.065F14503D8E852D.title": "Express Post"
+	"quest.065F14503D8E852D.quest_subtitle": "Faster parcels for impatient elves."
+	"quest.065F14503D8E852D.quest_desc": [
+		"Create: Additional Logistics adds a package accelerator that speeds parcels along a chain conveyor. Put a few on a long line between the workshop and the dock and the post arrives in half the time."
+	]
+	"reward.7893FD2882EFD4AC.title": "Fireworks!"
+	"quest.6D539A668345416D.title": "The Control Room"
+	"quest.6D539A668345416D.quest_subtitle": "One screen to run them all."
+	"quest.6D539A668345416D.quest_desc": [
+		"Factory Controller ties your gauges into one programmable screen: production tasks, arrangements and remotes. It needs sturdy sheets and precision work, so it is the logistics capstone. Hang it in the workshop office and watch the whole factory. It builds on Factory Gauges, Logic Gauges and Sturdy Sheets."
+	]
+	"chapter.1BF338D3458F3025.title": "The Railway"
+	"chapter.1BF338D3458F3025.chapter_subtitle": [
+		"The hardest thing in Create. Worth it."
+	]
+	"quest.7927C8AE5AF11F52.title": "Laying Track"
+	"quest.7927C8AE5AF11F52.quest_subtitle": "Create trains need Create track."
+	"quest.7927C8AE5AF11F52.quest_desc": [
+		"Train track is made by sequenced assembly: sleepers, nuggets and a press, on a belt under deployers. Place it by clicking a start and an end, and it curves itself. Lay a short loop near the workshop first. JEI shows the sequence. It builds on Hands of Brass."
+	]
+	"quest.2F354FDFA55277E8.title": "Pump Trolley"
+	"quest.2F354FDFA55277E8.quest_subtitle": "A railway you power with your arms."
+	"quest.2F354FDFA55277E8.quest_desc": [
+		"Steam 'n' Rails' handcar is a tiny train you pump yourself. It needs no bogey assembly and no engine, which makes it perfect for testing a new line and for racing your friends to the station."
+	]
+	"quest.63B6C3859EB01E0E.title": "Train Casing"
+	"quest.63B6C3859EB01E0E.quest_subtitle": "Brass casing, armoured with obsidian."
+	"quest.63B6C3859EB01E0E.quest_desc": [
+		"Apply a sturdy sheet to brass casing and you get train casing, the frame of stations, controls and signals. This is where all the sturdy-sheet work pays off. Make your first, then set up a deployer to do the rest. It builds on Laying Track and Sturdy Sheets."
+	]
+	"quest.3F62B169FC5C77EF.title": "The Station"
+	"quest.3F62B169FC5C77EF.quest_subtitle": "Every route starts somewhere."
+	"quest.3F62B169FC5C77EF.quest_desc": [
+		"A train station names a stop. Place it on the track and right-click it to name it; it is also where you assemble trains. Build the first at the workshop and a second one far enough away to be worth the trip."
+	]
+	"quest.40A3BA07DF0249BF.title": "Train Controls"
+	"quest.40A3BA07DF0249BF.quest_subtitle": "A lever, a brake and a seat."
+	"quest.40A3BA07DF0249BF.quest_desc": [
+		"Train controls are the driver's cab: precision mechanism, train casing and a lever. Put them on the front of a carriage facing forward and add a seat behind. Without controls a train cannot be driven or scheduled."
+	]
+	"reward.6543D08F6352F660.title": "Fireworks!"
+	"quest.1A09B1A16F06A375.title": "Choo Choo"
+	"quest.1A09B1A16F06A375.quest_subtitle": "Your first train leaves the station."
+	"quest.1A09B1A16F06A375.quest_desc": [
+		"Build a carriage on bogeys at the station, with controls, a seat and some power: a boiler, or just glued blocks for a test. Click the station to assemble, sit down and drive. Ponder covers every step. The quest ticks on your first train. It builds on The Station and Train Controls."
+	]
+	"quest.1369B3448F511ED1.title": "The Timetable"
+	"quest.1369B3448F511ED1.quest_subtitle": "Instructions for a train that never gets lost."
+	"quest.1369B3448F511ED1.quest_desc": [
+		"A schedule is a list of stops and conditions: go here, wait until loaded, go there. Write one, give it to the driver, and the train runs on its own. The quest ticks when a schedule first sends a train on its way."
+	]
+	"quest.3949994BBFB863EF.title": "Signals and Blocks"
+	"quest.3949994BBFB863EF.quest_subtitle": "Two trains. One track. No crashes."
+	"quest.3949994BBFB863EF.quest_desc": [
+		"Signals split a line into sections and only let one train into each at a time. Place them at both ends of every junction. Add them before the second train, not after the first crash. Ponder explains the colours."
+	]
+	"quest.1797DD5D83453DA3.title": "Departures Board"
+	"quest.1797DD5D83453DA3.quest_subtitle": "Next train: the North Pole Express."
+	"quest.1797DD5D83453DA3.quest_desc": [
+		"A display link reads a block and writes it on a display board. Click it on a station, then on a board, and the platform shows which train is due and when. Nixie tubes do the same in warm orange. The village will set its clocks by it."
+	]
+	"quest.6D9D16068B8C996F.title": "The Station Clock"
+	"quest.6D9D16068B8C996F.quest_subtitle": "Five past, ten past, on time."
+	"quest.6D9D16068B8C996F.quest_desc": [
+		"Railways Navigator adds a proper station clock and announcement boards that show live times for every train. Hang the clock over the platform. Its advanced display boards can list delays and connections too."
+	]
+	"quest.7393B2F5ADBA4480.title": "Level Crossing"
+	"quest.7393B2F5ADBA4480.quest_subtitle": "Stop, look and listen."
+	"quest.7393B2F5ADBA4480.quest_desc": [
+		"Create Train Parts adds a level crossing that drops its barrier when a train comes. Put one wherever the line crosses a road through town, so nobody on a sled gets squashed. Add poles to hang it from."
+	]
+	"quest.5D8D818C376370D0.title": "Steam Locomotive"
+	"quest.5D8D818C376370D0.quest_subtitle": "A proper engine, with a proper funnel."
+	"quest.5D8D818C376370D0.quest_desc": [
+		"Steam 'n' Rails adds locometal: boilers, smokeboxes and wheels for a real-looking locomotive. Cut locometal in a stonecutter, then craft a locometal boiler in the mechanical crafter grid. Blocks & Bogies adds the wheels to match. It builds on Choo Choo and Mechanical Crafters."
+	]
+	"quest.5225DE569C17DD47.title": "Fuel Tender"
+	"quest.5225DE569C17DD47.quest_subtitle": "Bring the coal along."
+	"quest.5225DE569C17DD47.quest_desc": [
+		"A fuel tank on a train feeds its engines from fuel instead of a fixed boiler. Fill it with lava or a burnable fluid and the locomotive runs a long way between stops. It needs a sturdy sheet and a fluid tank."
+	]
+	"quest.30C0DF44479E5038.title": "The Carol Train"
+	"quest.30C0DF44479E5038.quest_subtitle": "Music that rides the rails."
+	"quest.30C0DF44479E5038.quest_desc": [
+		"A minecart with a jukebox plays as it travels. Put a carol on it, couple it to the Christmas train and let it roll through town. Here is a carol to start the repertoire."
+	]
+	"quest.3FA0AE17563DD611.title": "Head and Tail Lights"
+	"quest.3FA0AE17563DD611.quest_subtitle": "A white light ahead, a red one behind."
+	"quest.3FA0AE17563DD611.quest_desc": [
+		"Create Train Lights adds head and tail lamps that switch with the direction of travel, made by sequenced assembly. Fit them to the locomotive and to the last carriage, so the freight line looks real at night."
+	]
+	"quest.12416A728C039F5B.title": "Keep the Line Loaded"
+	"quest.12416A728C039F5B.quest_subtitle": "Trains keep running when nobody is near."
+	"quest.12416A728C039F5B.quest_desc": [
+		"Meta Logistics' station chunk loader keeps a station's chunks loaded, so a scheduled train does not freeze when you fly away. Place it on the stations of your freight line. Built in the mechanical crafter grid from train casing."
+	]
+	"quest.4F966644898FAB9B.title": "The Lost Station"
+	"quest.4F966644898FAB9B.quest_subtitle": "Somebody had a railway here before you."
+	"quest.4F966644898FAB9B.quest_desc": [
+		"Create: Structures Arise hides abandoned train stations in the world, with old track and a little loot. Find one with your Explorer's Compass and see what the last railway builders left behind."
+	]
+	"reward.4380543BF85D1503.title": "Fireworks!"
+	"quest.0FF22798DA5342D2.title": "Santa's Freight Line"
+	"quest.0FF22798DA5342D2.quest_subtitle": "Cargo, automatic, all night."
+	"quest.0FF22798DA5342D2.quest_desc": [
+		"The reason you built all of this: a long freight train, six carriages or more, running on a timetable between two stations, with signals and frogports doing the loading. The quest ticks when a train that long first sets off. It builds on The Timetable, Signals and Blocks and Steam Locomotive."
+	]
+	"chapter.185CCFBD33A4DEFF.title": "The Kitchen"
+	"chapter.185CCFBD33A4DEFF.chapter_subtitle": [
+		"From a pot on the fire to a factory that feeds a village."
+	]
+	"quest.02963B57AD9ECB82.title": "A Sharp Knife"
+	"quest.02963B57AD9ECB82.quest_subtitle": "Every cook needs one."
+	"quest.02963B57AD9ECB82.quest_desc": [
+		"A knife cuts wild crops for seeds, slices food on the cutting board and harvests straw from grass. A flint knife is a stick and a piece of flint. Keep it in your hotbar: you will use it more than your sword."
+	]
+	"quest.55375259EE4A45FB.title": "On the Board"
+	"quest.55375259EE4A45FB.quest_subtitle": "Chop, slice, dice."
+	"quest.55375259EE4A45FB.quest_desc": [
+		"Place a cutting board, put food on it and hit it with your knife. Meat becomes cuts, cabbages become leaves, cake becomes slices. JEI lists every cut. The quest ticks the first time you use the board."
+	]
+	"quest.1872715D300C1F81.title": "Put the Pot On"
+	"quest.1872715D300C1F81.quest_subtitle": "Every kitchen starts with a pot."
+	"quest.1872715D300C1F81.quest_desc": [
+		"The cooking pot makes stews, soups and sauces over any heat: a campfire, a stove or later a blaze burner. It needs bricks, iron, a shovel and a bucket of water. Place it over a fire to finish this quest. It builds on First Iron."
+	]
+	"quest.3191C1FA6231746C.title": "The Stove"
+	"quest.3191C1FA6231746C.quest_subtitle": "A fire that stays in the kitchen."
+	"quest.3191C1FA6231746C.quest_desc": [
+		"A stove is a campfire in an iron box: it heats a pot or skillet and cooks six things on top at once. Light it with flint and steel. Put it where the smoke can get out, ideally under a Sooty Chimney."
+	]
+	"quest.2A05C0645CCDAE37.title": "The Kitchen Garden"
+	"quest.2A05C0645CCDAE37.quest_subtitle": "Tomatoes, onions, cabbage and rice."
+	"quest.2A05C0645CCDAE37.quest_desc": [
+		"Grow what you want to cook. Wild crops grow in the world: cut them with a knife for seeds. Cabbages want rich soil, rice wants water and tomatoes climb ropes. Bring home your first cabbage."
+	]
+	"quest.53D656C56D16D83C.title": "Comfort Food"
+	"quest.53D656C56D16D83C.quest_subtitle": "A hearty pot for a cold night."
+	"quest.53D656C56D16D83C.quest_desc": [
+		"Winter calls for a stew. Beef, a potato and a carrot in the pot make beef stew, which keeps you fed and comfortable for a long time. Check the pot's recipes in JEI and pack a few for long flights."
+	]
+	"quest.397B6CE594F6E1C1.title": "The Bakery"
+	"quest.397B6CE594F6E1C1.quest_subtitle": "Create Ratatouille: bake by the batch."
+	"quest.397B6CE594F6E1C1.quest_desc": [
+		"Create Ratatouille's oven bakes in bulk with heat from a fan or a burner. Grind wheat into flour at the millstone, mix it with water into dough, bake a first loaf, then try cake moulds. Ponder shows how the oven and the oven fan fit together. It builds on Put the Pot On and Flour Power."
+	]
+	"quest.6FE8EBBC7B4F346D.title": "A Proper Cake"
+	"quest.6FE8EBBC7B4F346D.quest_subtitle": "Batter, mould, oven."
+	"quest.6FE8EBBC7B4F346D.quest_desc": [
+		"Mix cake batter, spout it into a cake mould, bake it, then demould it into a cake base. It is a real Create production line for a real Christmas cake. JEI under Cake Base shows every step."
+	]
+	"quest.39A528189CFE0CFC.title": "Christmas Morning Waffles"
+	"quest.39A528189CFE0CFC.quest_subtitle": "Paste, press, smoker, syrup."
+	"quest.39A528189CFE0CFC.quest_desc": [
+		"Create: Factory makes waffles the Create way. Mix sugar, dough, an egg and milk in a heated basin into cake paste, press it into an uncooked waffle and finish it in a smoker. Serve them on Christmas morning. JEI under Waffle shows every step."
+	]
+	"quest.47E3C75BB8E7B4C4.title": "The Fry Station"
+	"quest.47E3C75BB8E7B4C4.quest_subtitle": "A hot bath of oil on a belt."
+	"quest.47E3C75BB8E7B4C4.quest_desc": [
+		"Fried Delights' continuous fryer carries food through hot oil. Press sunflower seeds for oil, give it heat from a blaze burner and run potatoes through it. Every frying recipe needs heat. Start with fries: peel, cut and fry a potato. It builds on The Caged Flame, Copper Casing and Squeeze It."
+	]
+	"quest.5A35EB5DF0F5F067.title": "The Roost"
+	"quest.5A35EB5DF0F5F067.quest_subtitle": "Happy hens, steady eggs."
+	"quest.5A35EB5DF0F5F067.quest_desc": [
+		"Create: Integrated Farming's roost keeps a chicken, collects its eggs and feathers and can be farmed by Create machines. Ponder shows how to settle a chicken in it. Eggs feed the bakery and chickens feed the fryer."
+	]
+	"quest.15303E2461DFE49D.title": "Original Recipe"
+	"quest.15303E2461DFE49D.quest_subtitle": "A secret seasoning and a crunchy coat."
+	"quest.15303E2461DFE49D.quest_desc": [
+		"Raw chicken, battered on the cutting board, breaded with breadcrumbs from the millstone, then fried in seed oil. This is the whole chain and you will be proud of it. JEI under Original Chicken Drumstick walks you through every step."
+	]
+	"reward.0C432F1177FBD293.title": "Fireworks!"
+	"quest.14B33F2E980204B3.title": "The Christmas Bucket"
+	"quest.14B33F2E980204B3.quest_subtitle": "Chicken for the whole table."
+	"quest.14B33F2E980204B3.quest_desc": [
+		"Two drumsticks, two keels and a cardboard bucket: the fryer's grand finale. It needs cardboard from the logistics floor, so the two halves of the factory meet here. Pack one and it travels far. It builds on Original Recipe and Paper Pulp."
+	]
+	"quest.1248B63EDABAD563.title": "The Vacuum Harvester"
+	"quest.1248B63EDABAD563.quest_subtitle": "Harvest and collect in one pass."
+	"quest.1248B63EDABAD563.quest_desc": [
+		"The vacuum harvester reaps crops and sucks up the drops, so a moving farm no longer leaves a trail of wheat behind it. Mount it on a bearing or cart over a field and feed its output into a vault."
+	]
+	"quest.30C18A896AEAB986.title": "The Automatic Chef"
+	"quest.30C18A896AEAB986.quest_subtitle": "A knife on a shaft."
+	"quest.30C18A896AEAB986.quest_desc": [
+		"Slice & Dice's slicer does cutting-board work with a knife in its hand, over a depot or a belt. It also lets Create drive Farmer's Delight recipes. Pair it with a sprinkler to water a field on the way."
+	]
+	"quest.4337F138CEB52008.title": "The Mechanical Cutter"
+	"quest.4337F138CEB52008.quest_subtitle": "Delightful Creators on the line."
+	"quest.4337F138CEB52008.quest_desc": [
+		"The mechanical cutter is a powered cutting board for belts: food rides in whole and comes out sliced. Delightful Creators also builds whole pies by sequenced assembly. JEI shows which dishes it can make."
+	]
+	"task.12F2DC092C6E1A90.title": "A cooking pot made a meal with no player loading it"
+	"quest.5A732269A4D62924.title": "Hands-Off Cooking"
+	"quest.5A732269A4D62924.quest_subtitle": "The pot fills itself."
+	"quest.5A732269A4D62924.quest_desc": [
+		"Create: Central Kitchen lets Create machines run Farmer's Delight: packagers and arms load the cooking pot, blaze burners heat it and deployers serve it. Build a pot that cooks with nobody standing at it, then tick this."
+	]
+	"quest.36F970321ACF0A23.title": "Cranberry Sauce"
+	"quest.36F970321ACF0A23.quest_subtitle": "Tart, red and essential."
+	"quest.36F970321ACF0A23.quest_desc": [
+		"Fruits Delight grows cranberries in bogs and lemons on fruit trees. Pick some cranberries, slice a lemon on the cutting board, then cook four cranberries, sugar and a slice of lemon in the pot. No Christmas dinner is complete without it."
+	]
+	"quest.67145DC2D061549B.title": "The Turkey"
+	"quest.67145DC2D061549B.quest_subtitle": "A bird for the centre of the table."
+	"quest.67145DC2D061549B.quest_desc": [
+		"Naturalist turkeys strut through forests and plains. Hunt one, cook the drumstick, and the Christmas table finally has its star. Take only what you need: the flock should still be there next year."
+	]
+	"quest.4714E0BB08ACA4DC.title": "Set the Table"
+	"quest.4714E0BB08ACA4DC.quest_subtitle": "Food on display, not in a chest."
+	"quest.4714E0BB08ACA4DC.quest_desc": [
+		"Display Delight puts any food on a plate as a 3D block. Set a long table with a plate at every seat and the feast looks like a feast. Place the plate, then right-click it with the dish."
+	]
+	"reward.5686EC54F0103191.title": "Fireworks!"
+	"quest.2A6C37EFE40C2F5D.title": "The Christmas Feast"
+	"quest.2A6C37EFE40C2F5D.quest_subtitle": "A roast for the whole village."
+	"quest.2A6C37EFE40C2F5D.quest_desc": [
+		"Set the long table: the fried chicken bucket, a roast turkey leg and a Christmas cake. Then make the centrepiece, a whole roast chicken with onion, carrots, potatoes, bread and an egg on a bowl, and put it in the middle. It builds on the garden, the roost, the bucket and the cake."
+	]
+	"chapter.006C330CC8BEBE4C.title": "The Sweet Shop"
+	"chapter.006C330CC8BEBE4C.chapter_subtitle": [
+		"Chocolate, ginger and everything sweet."
+	]
+	"quest.151CD681AC84D1E0.title": "Melted Chocolate"
+	"quest.151CD681AC84D1E0.quest_subtitle": "Sugar, cocoa and milk, over a blaze."
+	"quest.151CD681AC84D1E0.quest_desc": [
+		"Mix sugar, cocoa beans and milk in a heated basin and it melts into chocolate. Compact the chocolate with a press over a basin and you have a bar. Cocoa grows on jungle logs, so a jungle trip pays off. It builds on The Caged Flame and Squeeze It."
+	]
+	"quest.080C4540CE3CC15C.title": "Dipped, Not Dropped"
+	"quest.080C4540CE3CC15C.quest_subtitle": "A shiny coat for every berry."
+	"quest.080C4540CE3CC15C.quest_desc": [
+		"Spout chocolate onto sweet berries and they come out glazed. Do it on a belt and a whole tray rolls past. Honeyed apples and sweet rolls use the same spout trick with honey and milk."
+	]
+	"quest.0E79731AE97F0717.title": "Dark, White and Ruby"
+	"quest.0E79731AE97F0717.quest_subtitle": "A chocolatier needs more than one bar."
+	"quest.0E79731AE97F0717.quest_desc": [
+		"Create Confectionery adds dark, white and ruby chocolate, each with its own mix in a heated basin, plus caramel and marshmallows. Make a bar of dark chocolate. It also wakes up Create: Factory's fancier sweets."
+	]
+	"quest.5D0A243E439BC9A3.title": "Cocoa on Tap"
+	"quest.5D0A243E439BC9A3.quest_subtitle": "Hot cocoa, by the bucket."
+	"quest.5D0A243E439BC9A3.quest_desc": [
+		"Delightful Creators makes hot cocoa as a Create fluid. Mix it in a heated basin, then spout it into a bucket or straight into mugs. A tank of cocoa by the pier means every pilot leaves warm."
+	]
+	"quest.41C1126F501060B4.title": "The Chocolate Fountain"
+	"quest.41C1126F501060B4.quest_subtitle": "A party in one block."
+	"quest.41C1126F501060B4.quest_desc": [
+		"Pipe chocolate into a Chocolate Fountain and it flows. Guests can dip fruit, marshmallows and biscuits in it. It is the centrepiece of every Christmas party, and it is fed by your own Create chocolate. It builds on Melted Chocolate and Dipped, Not Dropped."
+	]
+	"quest.5C5C2779095456FB.title": "Ginger Root"
+	"quest.5C5C2779095456FB.quest_subtitle": "The spice of the season."
+	"quest.5C5C2779095456FB.quest_desc": [
+		"Wild ginger grows in snowy biomes. Pick it, replant it and grow a patch at home: gingerbread, eggnog and mulled wine all need it. Your Nature's Compass can find a snowy biome if the town is not in one."
+	]
+	"quest.4C679D30BF1DD4B0.title": "Gingerbread Men"
+	"quest.4C679D30BF1DD4B0.quest_subtitle": "Run, run, as fast as you can."
+	"quest.4C679D30BF1DD4B0.quest_desc": [
+		"Ginger and wheat make gingerbread; gingerbread and a gumdrop make a gingerbread cookie. Make a tray for the kids and a few dozen for yourself. Gingerbread blocks also build the sweetest houses in town."
+	]
+	"quest.29A4615AD89C66E0.title": "Candy Cane Lane"
+	"quest.29A4615AD89C66E0.quest_subtitle": "Red, white and sweet."
+	"quest.29A4615AD89C66E0.quest_desc": [
+		"A candy cane is sugar and honeycomb. Candy cane blocks make a striking border for a path or a roof edge. Hang a few on the tree and keep a jar on the shop counter."
+	]
+	"quest.48D43B7248830572.title": "Eggnog"
+	"quest.48D43B7248830572.quest_subtitle": "For the grown-ups."
+	"quest.48D43B7248830572.quest_desc": [
+		"Ginger, milk, an egg and a glass bottle make eggnog. It is warm, it is filling and it is exactly what a pilot wants before a night flight. Keep a crate by the dock."
+	]
+	"quest.3CBF5A808C2B587C.title": "Sinterklaas Biscuits"
+	"quest.3CBF5A808C2B587C.quest_subtitle": "Spiced, stamped and Dutch."
+	"quest.3CBF5A808C2B587C.quest_desc": [
+		"Create: Bitterballen brings Dutch winter treats: speculaas biscuits, kruidnoten and stroopwafels. Mix sweet dough in a basin and bake it over a campfire. A plate of these is a proper Sinterklaas surprise."
+	]
+	"chapter.6BEB14BDFAFCC027.title": "The Cellar"
+	"chapter.6BEB14BDFAFCC027.chapter_subtitle": [
+		"Something warm to drink by the fire."
+	]
+	"quest.6A8AD8B9F2ACBA86.title": "Stomp the Grapes"
+	"quest.6A8AD8B9F2ACBA86.quest_subtitle": "Shoes off. In you get."
+	"quest.6A8AD8B9F2ACBA86.quest_desc": [
+		"Hearth and Harvest's stomping basin turns fruit into juice the old way: drop grapes in and jump. Grapes grow on trellis vines; look for wild ones and bring cuttings home. Later, Create presses and spouts can bottle juice by the tank. It builds on Put the Pot On."
+	]
+	"quest.4DD4C2A5D0A6660B.title": "Oak and Patience"
+	"quest.4DD4C2A5D0A6660B.quest_subtitle": "Good things come to those who wait."
+	"quest.4DD4C2A5D0A6660B.quest_desc": [
+		"A cask ages drinks and cheese. Put the juice in and leave it; the longer it sits, the better it gets. Line a cool stone cellar with casks and label each one with an item frame."
+	]
+	"quest.30BC8A17E132B199.title": "The First Vintage"
+	"quest.30BC8A17E132B199.quest_subtitle": "Grape juice that grew up."
+	"quest.30BC8A17E132B199.quest_desc": [
+		"Stomp grapes into juice, bottle it, then age it in a cask until it becomes red grape wine. It takes in-game days, so start a batch and go and do something else. A glass by the fire gives a warm, comfortable glow. It builds on Stomp the Grapes and Oak and Patience."
+	]
+	"quest.068C6CB1772AD4A4.title": "Keg Party"
+	"quest.068C6CB1772AD4A4.quest_subtitle": "Cider, mead and good company."
+	"quest.068C6CB1772AD4A4.quest_desc": [
+		"A Hearth and Harvest keg brews ciders and meads from juice, honey and fruit. Place it, fill it, wait. Kegs and casks side by side make a proper cellar. JEI lists every brew it can make."
+	]
+	"quest.31DF3B42D0313FA0.title": "Hard Cider"
+	"quest.31DF3B42D0313FA0.quest_subtitle": "Apples, fermented."
+	"quest.31DF3B42D0313FA0.quest_desc": [
+		"Apple juice in the keg becomes hard cider. It is the base for mulled cider later, so keep a few bottles back. An orchard of apple trees and a press next to the keg makes this almost automatic."
+	]
+	"quest.3A9A20748309C8FD.title": "Maple Season"
+	"quest.3A9A20748309C8FD.quest_subtitle": "Tap a tree, collect the sap."
+	"quest.3A9A20748309C8FD.quest_desc": [
+		"A tree tapper on a log collects sap, and a spout fills glass bottles with the syrup for pancakes, cookies and toffee. Put tappers on a row of trees by the cabin and check them each morning. JEI under Syrup Bottle shows the filling step."
+	]
+	"quest.2DA2A5C0916707E1.title": "The Cheese Cellar"
+	"quest.2DA2A5C0916707E1.quest_subtitle": "Milk, salt and time."
+	"quest.2DA2A5C0916707E1.quest_desc": [
+		"A cheese wheel ages in the cellar like wine. Make one, leave it, and slice it when it is ready. Cheese goes on everything from pizza to the burger in the diner. Goat's milk makes a stronger cheese."
+	]
+	"quest.5628DCA4765FF368.title": "Fermentation"
+	"quest.5628DCA4765FF368.quest_subtitle": "Brewin' and Chewin': the brewer's barrel."
+	"quest.5628DCA4765FF368.quest_desc": [
+		"Brewin' and Chewin's keg ferments drinks and pickles at a set temperature: a little ice cools it, a fire warms it. It is the keg Cocktails Delight brews in, so this is the road to mulled wine. Check JEI for the temperature of each drink. It builds on Put the Pot On and Stomp the Grapes."
+	]
+	"quest.2A4D966783B0F74E.title": "Flaxen Cheese"
+	"quest.2A4D966783B0F74E.quest_subtitle": "A golden wheel for the cellar shelf."
+	"quest.2A4D966783B0F74E.quest_desc": [
+		"Brewin' and Chewin' makes its own cheeses in the keg. A flaxen wheel ripens over time; cut it into wedges for fondue nights. Put a cheese board on the feast table and watch it vanish."
+	]
+	"reward.6A0395A28504CCA3.title": "Fireworks!"
+	"quest.613CD17285E1C99C.title": "Mulled Wine"
+	"quest.613CD17285E1C99C.quest_subtitle": "Spiced, warm and very Christmas."
+	"quest.613CD17285E1C99C.quest_desc": [
+		"Cocktails Delight mulls its own sweet red wine with fruit, berries, seeds and spice in the Brewin' keg; ginger is the spice. Brew a bottle and pour a glass for everyone at the market. This is the cellar's crowning drink."
+	]
+	"quest.762F2318A59201DA.title": "Mulled Cider"
+	"quest.762F2318A59201DA.quest_subtitle": "The same trick with apples."
+	"quest.762F2318A59201DA.quest_desc": [
+		"Mull hard cider instead of wine for a gentler drink the kids can smell from across the square. It is brewed in the same keg with the same spice. Serve it in tankards."
+	]
+	"quest.10A77B76B46957C4.title": "Put the Kettle On"
+	"quest.10A77B76B46957C4.quest_subtitle": "Farmer's Respite: the brewer of tea."
+	"quest.10A77B76B46957C4.quest_desc": [
+		"Farmer's Respite's kettle sits on a stove and brews tea and coffee. Grow tea bushes, pick the leaves, dry or ferment them, and brew. A pot of tea fixes most problems, and the rest can wait until it has."
+	]
+	"quest.256A10B71F598294.title": "A Proper Brew"
+	"quest.256A10B71F598294.quest_subtitle": "Black, strong, two sugars."
+	"quest.256A10B71F598294.quest_desc": [
+		"Process tea leaves into black tea leaves (JEI shows the steps), then brew them in the kettle. Black tea keeps you going on long shifts in the factory. Green and yellow teas each have their own effects."
+	]
+	"quest.1E26162DA04B7310.title": "Hot Chocolate"
+	"quest.1E26162DA04B7310.quest_subtitle": "The sweetest thing in the cellar."
+	"quest.1E26162DA04B7310.quest_desc": [
+		"Confectionery's hot chocolate is melted chocolate and milk, mixed hot and bottled with a spout. It is richer than a mug of cocoa. Bottle a crate of it for the market stall."
+	]
+	"quest.4725DF431453679E.title": "Toasted Marshmallows"
+	"quest.4725DF431453679E.quest_subtitle": "Hold it over the fire. Not too long."
+	"quest.4725DF431453679E.quest_desc": [
+		"Hearth and Harvest marshmallows go on a stick and over a campfire until they are golden. Too long and they burn. Make a stick for everyone and sit round the fire after a long day."
+	]
+	"chapter.020D37A0ED887565.title": "Christmas Town"
+	"chapter.020D37A0ED887565.chapter_subtitle": [
+		"Lights, snow and a village worth coming home to."
+	]
+	"quest.2859CC382A469F53.title": "The Town Hearth"
+	"quest.2859CC382A469F53.quest_subtitle": "Every home needs a chimney."
+	"quest.2859CC382A469F53.quest_desc": [
+		"Sooty Chimneys puffs real smoke that drifts with the wind and leaves soot on the bricks. Build a brick chimney over the cabin's fireplace and the town has its first warm heart. Seven materials match any roof. It builds on A Warm Place to Sleep."
+	]
+	"quest.25F9309F9A1D5049.title": "Deck the Doors"
+	"quest.25F9309F9A1D5049.quest_subtitle": "A wreath on every door."
+	"quest.25F9309F9A1D5049.quest_desc": [
+		"Four leaves make a wreath. Hang one on the cabin, the workshop and the stables, and the season has officially started. Dark spruce doors look best with a red ribbon, so pick your colours early."
+	]
+	"quest.7566231BA7684358.title": "Hang the Stockings"
+	"quest.7566231BA7684358.quest_subtitle": "By the chimney, with care."
+	"quest.7566231BA7684358.quest_desc": [
+		"Macaw's Holidays stockings hang from a mantel or a wall. Make a red one for every friend in the team and hang them above the hearth. On Christmas Eve, the finale fills them for you."
+	]
+	"quest.3E831D922A035549.title": "String Lights"
+	"quest.3E831D922A035549.quest_subtitle": "Fairy Lights, by the metre."
+	"quest.3E831D922A035549.quest_desc": [
+		"Iron, string and iron in a row make hanging lights; add bulbs in the grid to set the pattern. Click one fence post, walk, click another, and a drooping string of lights joins them. Dye a string by clicking it with dye."
+	]
+	"quest.126871D0A5974BE5.title": "Roofline Glow"
+	"quest.126871D0A5974BE5.quest_subtitle": "Coloured bulbs along every eave."
+	"quest.126871D0A5974BE5.quest_desc": [
+		"Snowy Spirit's glow lights run along any edge, roof, fence or window, and give real light. Glowstone, dye, amethyst and string make them. Outline a cottage in red and green and it needs no torch at all."
+	]
+	"quest.26122B15AD5C061C.title": "Lamplighters"
+	"quest.26122B15AD5C061C.quest_subtitle": "A lamp at every corner."
+	"quest.26122B15AD5C061C.quest_desc": [
+		"Macaw's Lights has a lamp for every part of town: tall street lamps for the road, chain lanterns for the porch and chandeliers for the hall. Light the corners so nobody trips over a snowdrift on the way home."
+	]
+	"quest.6C4E11A5D3853762.title": "Coloured Lanterns"
+	"quest.6C4E11A5D3853762.quest_subtitle": "Red, green and gold by the door."
+	"quest.6C4E11A5D3853762.quest_desc": [
+		"Additional Lanterns comes in every colour and stone, with chains to match, and can be switched on and off. A red lantern on one side of the door and a green one on the other is the whole season in two blocks."
+	]
+	"quest.39A5ADACC7EA650D.title": "String the Tinsel"
+	"quest.39A5ADACC7EA650D.quest_subtitle": "Garlands from roof to roof."
+	"quest.39A5ADACC7EA650D.quest_desc": [
+		"Ropeworks hangs tinsel and bunting between anchors right across the street. Cut a tinsel anchor and a rope tool from iron on the stonecutter, place anchors on two houses and join them with the tool."
+	]
+	"quest.3712642F73F5B79B.title": "Light Up the Street"
+	"quest.3712642F73F5B79B.quest_subtitle": "Wires with lights on."
+	"quest.3712642F73F5B79B.quest_desc": [
+		"Crafts & Additions makes a copper spool strung with festive lights. It takes a copper spool, redstone and biomass, which comes from a heated mixer: crops or saplings with seed oil. Wire it between connectors and the street lights up from your own power station. It builds on String Lights, The Rolling Mill, The Caged Flame and Squeeze It."
+	]
+	"quest.2EE738DB56B0F1AF.title": "Fetch a Tree"
+	"quest.2EE738DB56B0F1AF.quest_subtitle": "The biggest spruce in the forest."
+	"quest.2EE738DB56B0F1AF.quest_desc": [
+		"Macaw's Holidays builds the town tree in four parts: base, bottom, middle and top. Spruce logs and leaves make each one. Craft the base and pick the spot in the square where the whole town can see it."
+	]
+	"quest.3D71A860676313F3.title": "Baubles"
+	"quest.3D71A860676313F3.quest_subtitle": "Red and gold glass balls."
+	"quest.3D71A860676313F3.quest_desc": [
+		"Alpine Whispers' tree baubles are glowstone and dye, and they hang on any tree. Make a handful in red and yellow. They glow softly at night, so the tree is lit even before the lights go on."
+	]
+	"quest.3F5EB0E42047F17C.title": "Golden Garland"
+	"quest.3F5EB0E42047F17C.quest_subtitle": "Wrap it round and round."
+	"quest.3F5EB0E42047F17C.quest_desc": [
+		"A golden garland drapes along a wall, a mantel or a tree. Macaw's Holidays has straight and wavy ones. Wrap a few around the town tree and run another along the hearth."
+	]
+	"reward.2B4D6748E49B724B.title": "Fireworks!"
+	"quest.1254CFBE3F081FB3.title": "Raise the Town Tree"
+	"quest.1254CFBE3F081FB3.quest_subtitle": "Base, bottom, middle, top."
+	"quest.1254CFBE3F081FB3.quest_desc": [
+		"Stack the four tree parts in the square and dress the top with dye to make the decorated version. Hang the baubles, wrap the garland, and step back. Pick a colour of glow lights to wrap round it."
+	]
+	"reward.24ED40C30CBF0636.title": "Fireworks!"
+	"quest.06DF594B7AF4B392.title": "The Star on Top"
+	"quest.06DF594B7AF4B392.quest_subtitle": "The town is ready for Christmas."
+	"quest.06DF594B7AF4B392.quest_desc": [
+		"The last thing on the tree. Alpine Whispers' star topper is glowstone shaped into a star. Climb up, place it, and light the street. The doors have wreaths, the stockings are hung and the street is lit: the town is done."
+	]
+	"quest.5C397F3CFB81E06C.title": "The Nutcracker"
+	"quest.5C397F3CFB81E06C.quest_subtitle": "A wooden soldier on guard."
+	"quest.5C397F3CFB81E06C.quest_desc": [
+		"Dusty Decorations makes a nutcracker that stands guard by the door, plus winter garlands, holiday ornaments and snowflake wallpaper. Put a pair either side of the shop entrance."
+	]
+	"quest.711E45887990CFEF.title": "Furnish the Cottage"
+	"quest.711E45887990CFEF.quest_subtitle": "Somewhere soft to sit."
+	"quest.711E45887990CFEF.quest_desc": [
+		"Another Furniture adds sofas, tables, chairs, curtains and shutters. A red sofa by the fire is where every evening ends. Create Furniture Seats lets these seats work on moving contraptions too."
+	]
+	"quest.3898116089D45179.title": "A Seat That Rides"
+	"quest.3898116089D45179.quest_subtitle": "Furniture that travels."
+	"quest.3898116089D45179.quest_desc": [
+		"Create: Interiors adds chairs and cushions that work as Create seats, so you can sit in them on a train or a ship. Put a row of red chairs in the sleigh's cabin so the crew rides in comfort."
+	]
+	"quest.6A93F1580C93D89D.title": "Tudor Frames"
+	"quest.6A93F1580C93D89D.quest_subtitle": "Dark beams, white plaster."
+	"quest.6A93F1580C93D89D.quest_desc": [
+		"Hearth & Timber adds timber frames, plaster, shingles and window casings for half-timbered cottages. Frame a wall in spruce, fill it with plaster and the house looks like a Christmas card. Shingles finish the roof."
+	]
+	"quest.736C4FA45A4E8DB0.title": "The Builder's Kit"
+	"quest.736C4FA45A4E8DB0.quest_subtitle": "Roofs, windows, bridges and paths."
+	"quest.736C4FA45A4E8DB0.quest_desc": [
+		"Macaw's Roofs, Windows, Doors, Bridges, Stairs and Paths, plus Builder's Delight and Twigs, give the town proper architecture. Start with a spruce roof and see how much better a pitched roof looks than stairs."
+	]
+	"quest.73A91694E9B7836C.title": "Shop Windows"
+	"quest.73A91694E9B7836C.quest_subtitle": "Glass without the lines."
+	"quest.73A91694E9B7836C.quest_desc": [
+		"Connected Glass joins panes into one clear sheet, so a shop window looks like one big window. Craft borderless glass from plain glass. Fill the bakery and the toy shop with it and light the displays behind."
+	]
+	"quest.1DB043B0E4C80478.title": "Copycat Architecture"
+	"quest.1DB043B0E4C80478.quest_subtitle": "Any block can wear any other block."
+	"quest.1DB043B0E4C80478.quest_desc": [
+		"Copycat blocks take the look of whatever you put in them. Panels, steps and Copycats+ slopes, beams and catwalks let you build curves and trims that move with contraptions, so a ship can look like a cottage roof."
+	]
+	"quest.70F975EA0DCD33B3.title": "Sleigh Rides"
+	"quest.70F975EA0DCD33B3.quest_subtitle": "A sled, a hill and a lot of snow."
+	"quest.70F975EA0DCD33B3.quest_desc": [
+		"Snowy Spirit's sleds slide down any snowy slope. Make one from planks and sticks, find a long hill and go fast enough to earn the advancement. A wolf on a lead will pull you along flat ground."
+	]
+	"quest.793FC810F6777929.title": "The Gingerbread Cottage"
+	"quest.793FC810F6777929.quest_subtitle": "Walls of ginger, roofs of frosting."
+	"quest.793FC810F6777929.quest_desc": [
+		"Build a cottage of gingerbread blocks with frosted gingerbread for the icing and candy cane blocks at the corners. Finish it with a gingerbread door. Snowy Spirit's gingerbread golems guard it at night."
+	]
+	"quest.4F14DD6F9E9EA4B1.title": "Copy the Cottage"
+	"quest.4F14DD6F9E9EA4B1.quest_subtitle": "Build it once, print it twice."
+	"quest.4F14DD6F9E9EA4B1.quest_desc": [
+		"Save a cottage with a schematic and quill, then let the schematicannon rebuild it anywhere from your chests. Pattern Schematics adds repeating patterns for fences and street lamps. Ponder explains the cannon."
+	]
+	"quest.57E0324799A3C31B.title": "Festive Machinery"
+	"quest.57E0324799A3C31B.quest_subtitle": "A factory in Christmas colours."
+	"quest.57E0324799A3C31B.quest_desc": [
+		"Design n' Decor paints cogs, fans, girders and boards in every colour; Prismatic Shine adds glowing glass casings and Create Encased adds casings in every metal. Make the workshop look like a toy factory. Keep it red, green and gold."
+	]
+	"quest.399B0918D4B7EF5C.title": "Gift Crates"
+	"quest.399B0918D4B7EF5C.quest_subtitle": "A shipping container wrapped like a present."
+	"quest.399B0918D4B7EF5C.quest_desc": [
+		"Create Deco's shipping containers work as storage and look like giant gifts in red and green. Stack them on the dock with brass lamps and catwalks around them. Craft one from an item vault and red dye."
+	]
+	"chapter.4FD1BB85FD8B9E14.title": "Market and Carols"
+	"chapter.4FD1BB85FD8B9E14.chapter_subtitle": [
+		"Stalls, coins and a steam organ in the square."
+	]
+	"quest.7C1E7A1CC878E060.title": "The First Stall"
+	"quest.7C1E7A1CC878E060.quest_subtitle": "A striped roof and a counter."
+	"quest.7C1E7A1CC878E060.quest_desc": [
+		"Every Christmas market starts with one stall. Dusty Decorations' wool awnings make a striped roof over a counter; add a cash register and some crates of goods. Put it in the square next to the tree. It builds on The Town Hearth."
+	]
+	"quest.7A4B1E5DDA88C21A.title": "The Shop Till"
+	"quest.7A4B1E5DDA88C21A.quest_subtitle": "Ring it up."
+	"quest.7A4B1E5DDA88C21A.quest_desc": [
+		"Create: Additional Logistics' cash register is a stock-linked till: customers pick from your network, and payment lands in the drawer. It sits nicely on the market counter. It needs a stock link, so set up logistics first."
+	]
+	"quest.3C839394D14B38E8.title": "Villager Market"
+	"quest.3C839394D14B38E8.quest_subtitle": "Let the villagers trade with the factory."
+	"quest.3C839394D14B38E8.quest_desc": [
+		"Create: Trading Floor's depot lets a villager trade with items on a belt, so the factory can buy enchanted books or sell its bread without you clicking. Put a librarian next to one and see what comes out."
+	]
+	"quest.3915C5FA5CC7E2FD.title": "The Guest Book"
+	"quest.3915C5FA5CC7E2FD.quest_subtitle": "Copies of everything worth keeping."
+	"quest.3915C5FA5CC7E2FD.quest_desc": [
+		"Create: Enchantment Industry's printer copies written books, maps and enchanted books with liquid experience. Print a guest book for the town hall, or copies of the delivery map for every pilot."
+	]
+	"quest.23C95C182DF30ED3.title": "The First Pipe"
+	"quest.23C95C182DF30ED3.quest_subtitle": "Create: Sound of Steam."
+	"quest.23C95C182DF30ED3.quest_desc": [
+		"Sound of Steam builds real pipe organs that run on steam. A diapason is the plainest, warmest pipe: zinc on a pipe base. Make one and hear it with a little steam. A whole rank of them is a choir."
+	]
+	"quest.4973E242497C2A5A.title": "The Windchest"
+	"quest.4973E242497C2A5A.quest_subtitle": "The heart of the organ."
+	"quest.4973E242497C2A5A.quest_desc": [
+		"Pipes sit on windchests, and the windchest controller decides which pipes speak. It needs steam from a boiler, so put the organ near the boiler room or pipe the steam to the square. Ponder shows the layout. It builds on The First Pipe and Boiling Point."
+	]
+	"quest.30BE423FA519BE3B.title": "The Tracker Bar"
+	"quest.30BE423FA519BE3B.quest_subtitle": "An organ that reads music."
+	"quest.30BE423FA519BE3B.quest_desc": [
+		"A tracker bar reads a punched music roll and plays it on the organ, so it plays by itself. It needs a precision mechanism and brass casing. Wire it to the windchest and give it a roll. It builds on The Windchest, Precision Mechanisms and Brass Casing."
+	]
+	"quest.4758EA3CDA3BCFDD.title": "Write a Carol"
+	"quest.4758EA3CDA3BCFDD.quest_subtitle": "Punch the notes by hand."
+	"quest.4758EA3CDA3BCFDD.quest_desc": [
+		"The roll authoring table punches a music roll note by note. Pick a public-domain carol, God Rest Ye Merry or Deck the Halls, and punch it in. It is slow, but your carol will play for years."
+	]
+	"reward.6A82E690DC2B2C3F.title": "Fireworks!"
+	"quest.09D2D38C20343361.title": "The Trompette"
+	"quest.09D2D38C20343361.quest_subtitle": "A brass reed that cuts through the snow."
+	"quest.09D2D38C20343361.quest_desc": [
+		"The trompette is a reed pipe made by sequenced assembly: a pipe base, a brass boot, a brass reed and tuning wire, step by step under deployers. It is the loudest, brightest voice in the organ. JEI shows the sequence. It builds on The Tracker Bar and Hands of Brass."
+	]
+	"reward.6F850C7C8492CB04.title": "Fireworks!"
+	"quest.37BDFF7E69383EAB.title": "Carols in the Square"
+	"quest.37BDFF7E69383EAB.quest_subtitle": "The town sings."
+	"quest.37BDFF7E69383EAB.quest_desc": [
+		"Punch a full carol, feed the roll to the tracker bar and let the organ play it across the square, trompette and all. Hold your finished roll to complete the quest. Gather everyone round the tree for this one."
+	]
+	"quest.66936959534741E4.title": "Wind Chimes"
+	"quest.66936959534741E4.quest_subtitle": "A song for every breeze."
+	"quest.66936959534741E4.quest_desc": [
+		"Chimes ring softly whenever the breeze blows, and each kind has its own voice. Hang copper chimes from the eaves of the square; glass and amethyst ones make lovely gifts."
+	]
+	"quest.0B2DCE6D4CA3D5B0.title": "The Station Hall"
+	"quest.0B2DCE6D4CA3D5B0.quest_subtitle": "Moving stairs for tired shoppers."
+	"quest.0B2DCE6D4CA3D5B0.quest_desc": [
+		"Escalated adds moving walkways and escalators. Put one between the station platform and the market so shoppers glide up with their bags. They run on rotation like a belt."
+	]
+	"quest.551CD17FAE872FB4.title": "Commuter Tube"
+	"quest.551CD17FAE872FB4.quest_subtitle": "Whoosh, you are at the workshop."
+	"quest.551CD17FAE872FB4.quest_desc": [
+		"Create: Hypertube shoots players through glass tubes. Run one from the market to the workshop and nobody needs to walk through a blizzard again. Accelerators keep the speed up on long runs."
+	]
+	"chapter.563ED5DF12BDA9A0.title": "The Wild North"
+	"chapter.563ED5DF12BDA9A0.chapter_subtitle": [
+		"Snowfields, groves and the creatures that live there."
+	]
+	"quest.50DB781E1E1EB114.title": "Reach the Snowline"
+	"quest.50DB781E1E1EB114.quest_subtitle": "Where the real winter starts."
+	"quest.50DB781E1E1EB114.quest_desc": [
+		"Christmas needs proper snow. Head for a snowy biome: your Nature's Compass can find one, and Tectonic's mountains usually have snow on top. Wear your leather boots. The quest ticks the moment you stand in a snowy biome. It builds on Know the Land and Snow Boots."
+	]
+	"quest.721CF8C1956107BC.title": "A Snowy Village"
+	"quest.721CF8C1956107BC.quest_subtitle": "Neighbours for the workshop."
+	"quest.721CF8C1956107BC.quest_desc": [
+		"Find a snowy village. Improved Village Placement puts them on flatter ground, and Repurposed Structures adds more variants. Make friends: this could be the first stop on the delivery route. Mark it on your map."
+	]
+	"quest.28DFA6B901D9B307.title": "The Gingerbread House"
+	"quest.28DFA6B901D9B307.quest_subtitle": "Someone already lives here."
+	"quest.28DFA6B901D9B307.quest_desc": [
+		"Snowy Spirit hides real gingerbread houses in snowy biomes. Use your Explorer's Compass to find one, step inside and steal some decorating ideas. Mind the gingerbread golems; they are friendly if you are."
+	]
+	"quest.4BD6797EF9704B17.title": "The Alpine Grove"
+	"quest.4BD6797EF9704B17.quest_subtitle": "Arolla pines and hoarfrost."
+	"quest.4BD6797EF9704B17.quest_desc": [
+		"Let's Do: Alpine Whispers turns vanilla groves into alpine forest: Arolla pines, frosted leaves, alpine sheep and reindeer. Find a grove on a snowy mountainside. The quest ticks on Alpine Whispers' own advancement."
+	]
+	"reward.523DD47EB4F6ACC7.title": "Fireworks!"
+	"quest.13A204052223F7E5.title": "Rudolph Spotted"
+	"quest.13A204052223F7E5.quest_subtitle": "A red nose on the horizon."
+	"quest.13A204052223F7E5.quest_desc": [
+		"Reindeer roam the alpine groves in herds. Bring the spyglass from the map room and look at one through it, from a respectful distance. Santa is going to need a team; this is the first step."
+	]
+	"quest.4898451B0839A6F4.title": "Homespun Wool"
+	"quest.4898451B0839A6F4.quest_subtitle": "The warmest jumper in the world."
+	"quest.4898451B0839A6F4.quest_desc": [
+		"Alpine sheep grow thick, creamy wool. Shear one for homespun wool, which spins into cosy blankets and winter hats. Bring a pair home and start a flock behind the cabin."
+	]
+	"quest.7F84F356DC4CD8D9.title": "Light the Candle Wreath"
+	"quest.7F84F356DC4CD8D9.quest_subtitle": "Four candles, one for each week."
+	"quest.7F84F356DC4CD8D9.quest_desc": [
+		"Alpine Whispers' candle wreath is an Advent wreath: craft it, place it on the table and light it with flint and steel. Light one candle each week as December comes closer."
+	]
+	"quest.29B7216B6F0EAA83.title": "Catch a Critter"
+	"quest.29B7216B6F0EAA83.quest_subtitle": "Gently does it."
+	"quest.29B7216B6F0EAA83.quest_desc": [
+		"Naturalist's capture net catches small animals, butterflies and fireflies so you can move them somewhere safer, like the town garden. Bamboo and string make one. Fireflies in a jar make a lovely lantern."
+	]
+	"quest.3914F8DE268FCFE5.title": "Snowy Owl"
+	"quest.3914F8DE268FCFE5.quest_subtitle": "Wide eyes in the spruce."
+	"quest.3914F8DE268FCFE5.quest_desc": [
+		"Snowy owls roost in the cold forests and hunt at dusk. Find one, then look at it for a moment without startling it. No spawn eggs, no cages: just watch. Owls are easiest to spot against the dark spruce in the evening."
+	]
+	"quest.7E3B689D69318E28.title": "Harp Seal"
+	"quest.7E3B689D69318E28.quest_subtitle": "A white pup on the ice."
+	"quest.7E3B689D69318E28.quest_desc": [
+		"Harp seals haul out on frozen beaches and drift ice. Walk the cold shore until you find one, then watch it for a moment. Keep your distance and your boots dry: thin ice breaks."
+	]
+	"quest.297FC0E7773A65AF.title": "Adelie Penguin"
+	"quest.297FC0E7773A65AF.quest_subtitle": "Waddling in formation."
+	"quest.297FC0E7773A65AF.quest_desc": [
+		"Adelie penguins live on icy coasts and stony beaches. Find a colony and look at one for a moment: they are much braver than they look. A fish in your hand gets their attention."
+	]
+	"quest.2CEF501A6E45662D.title": "Silk and Steel"
+	"quest.2CEF501A6E45662D.quest_subtitle": "Swing across the crevasse."
+	"quest.2CEF501A6E45662D.quest_desc": [
+		"Critters and Companions' silkworms spin silk, and silk plus iron makes a grappling hook. It pulls you across gaps and up cliffs, which is very handy on a mountain and on a moving ship's rigging."
+	]
+	"quest.59CBBFEDC02D91EF.title": "A Warm Tavern"
+	"quest.59CBBFEDC02D91EF.quest_subtitle": "Somewhere to stop on the way."
+	"quest.59CBBFEDC02D91EF.quest_desc": [
+		"Explorify scatters small places to rest across the land: taverns, guide posts and campsites. Find a tavern, warm your hands by its fire and note it on the map as a stop on the delivery route."
+	]
+	"chapter.4B4184B5EF1E544A.title": "Flight School"
+	"chapter.4B4184B5EF1E544A.chapter_subtitle": [
+		"Build it, glue it, fly it."
+	]
+	"quest.34E2BE43E500DA5A.title": "Fabric of the Sky"
+	"quest.34E2BE43E500DA5A.quest_subtitle": "Wool and sticks that hold hot air."
+	"quest.34E2BE43E500DA5A.quest_desc": [
+		"Two white wool and two sticks make four envelope blocks: the skin of a balloon. Dye them any colour, and start collecting wool now, because a balloon eats a lot of it. Ponder shows how envelopes hold hot air."
+	]
+	"quest.3E567B4D9304BB77.title": "Make It Fly"
+	"quest.3E567B4D9304BB77.quest_subtitle": "Any build can become a vehicle."
+	"quest.3E567B4D9304BB77.quest_desc": [
+		"The physics assembler turns a glued structure into a real physics object with weight, buoyancy and momentum. Glue the blocks to it and activate it. Use the contraption diagram to see the centre of mass before you take off. It builds on Casing the Joint."
+	]
+	"quest.650CE0123CB0413A.title": "Hot Air"
+	"quest.650CE0123CB0413A.quest_subtitle": "A burner, an envelope and a calm morning."
+	"quest.650CE0123CB0413A.quest_desc": [
+		"The adjustable burner heats the air above it; envelopes trap it. More heat, more lift. A coal block goes into its recipe; give it a redstone signal (or fuel, with Burner Fuel) to light it. Build it under a closed envelope. Better Contraption Diagram works out the volume you need. It builds on Pressing Business and Fabric of the Sky."
+	]
+	"quest.774BFFAE722C9B13.title": "Head in the Clouds"
+	"quest.774BFFAE722C9B13.quest_subtitle": "Your first balloon leaves the ground."
+	"quest.774BFFAE722C9B13.quest_desc": [
+		"Assemble a small balloon: envelopes, a burner, a seat and the assembler. Fill the envelope with hot air and rise above the village. Flight HUD shows your height and speed while seated. The quest ticks on Aeronautics' first-balloon advancement. It builds on Hot Air and Make It Fly."
+	]
+	"quest.0864FEC77F3638B8.title": "Propeller Blades"
+	"quest.0864FEC77F3638B8.quest_subtitle": "Something to push the air."
+	"quest.0864FEC77F3638B8.quest_desc": [
+		"An andesite propeller is a Create propeller on a slab and a shaft. On its own it is just blades; on a propeller bearing it pushes a ship. Make a pair, one for each side, so the ship does not spin in circles."
+	]
+	"quest.58848C5C0F714BA3.title": "Sails Without Wool"
+	"quest.58848C5C0F714BA3.quest_subtitle": "Timber wings for a wooden ship."
+	"quest.58848C5C0F714BA3.quest_desc": [
+		"Simulated Addition makes sails from planks in eleven woods, so you can build wings and fins without stripping every sheep in the county. Spruce suits a sleigh. Symmetric sails give lift and steering on a small craft."
+	]
+	"quest.77C530DEAE32B1E2.title": "The Wheel"
+	"quest.77C530DEAE32B1E2.quest_subtitle": "Turn left at the church."
+	"quest.77C530DEAE32B1E2.quest_desc": [
+		"A steering wheel turns a shaft as you hold it, so it can swing a rudder or tilt a propeller. Put it in the cockpit facing forward. Spin it once to feel how it works before you fly."
+	]
+	"quest.6EA7D6DC7C660DCE.title": "In Thrust We Trust"
+	"quest.6EA7D6DC7C660DCE.quest_subtitle": "Bearings, blades and a tailwind."
+	"quest.6EA7D6DC7C660DCE.quest_desc": [
+		"A propeller bearing spins blades glued to its face and pushes the ship. It needs brass casing. Mount one each side, assemble the blades and give them rotation. The quest ticks when a propeller bearing first assembles. It builds on Propeller Blades and Brass Casing."
+	]
+	"quest.18BB27E0DD87241F.title": "Steer the Thrust"
+	"quest.18BB27E0DD87241F.quest_subtitle": "Point the push where you want it."
+	"quest.18BB27E0DD87241F.quest_desc": [
+		"Simulated Addition's directional propeller bearing turns its thrust with a redstone signal, so a small ship steers without a rudder. Fit two at the stern and wire them to the cockpit."
+	]
+	"quest.273A66967D395D19.title": "Gyroscopes"
+	"quest.273A66967D395D19.quest_subtitle": "A spinning heart that knows which way is up."
+	"quest.273A66967D395D19.quest_desc": [
+		"A gyroscopic mechanism is sequenced assembly like the precision mechanism: an iron sheet with cogs, shafts and brass nuggets added five times round. JEI shows the steps. It is the core of every self-levelling part."
+	]
+	"quest.76A247709DB4D70F.title": "Staying Level"
+	"quest.76A247709DB4D70F.quest_subtitle": "A gyroscope keeps the nose up."
+	"quest.76A247709DB4D70F.quest_desc": [
+		"A gyroscopic propeller bearing tilts its own thrust to keep the ship level. Anything bigger than a barn needs a pair. Practise on a small ship first. Read the gimbal sensor to see how far it is leaning. It builds on Gyroscopes and In Thrust We Trust."
+	]
+	"quest.517EE7AE88BA56A3.title": "The Steamless Engine"
+	"quest.517EE7AE88BA56A3.quest_subtitle": "Fuel in, rotation out, anywhere."
+	"quest.517EE7AE88BA56A3.quest_desc": [
+		"A portable engine burns fuel to turn a shaft, with no boiler. Its engine assembly is sequenced: saw, then press eight times. Add a blast furnace and an iron sheet. With Liquid Fuel it also burns piped fluids. Ticks when your first engine runs. It builds on Make It Fly and Timber!."
+	]
+	"quest.538D395FB1F679F1.title": "The Control Stand"
+	"quest.538D395FB1F679F1.quest_subtitle": "Levers and lights for the pilot."
+	"quest.538D395FB1F679F1.quest_desc": [
+		"Aeroworks' control stand gathers a ship's controls in one place and sends them by redstone link. It needs a precision mechanism and electron tube. Put it where the pilot can see out of the front window."
+	]
+	"quest.243CAA4C08E5C56F.title": "Safety First"
+	"quest.243CAA4C08E5C56F.quest_subtitle": "Wear it. Just in case."
+	"quest.243CAA4C08E5C56F.quest_desc": [
+		"Create:Parachute's pack opens when you jump off a ship and lets you float down. Wear it on every test flight. A grave keeps your things if you forget, but a parachute is much less embarrassing."
+	]
+	"quest.425DDB133CA99F87.title": "Beyond the Portal"
+	"quest.425DDB133CA99F87.quest_subtitle": "The stone that floats comes from the End."
+	"quest.425DDB133CA99F87.quest_desc": [
+		"Levitite starts as end stone, and end stone only comes from the End. Craft eyes of ender, find the stronghold with your Explorer's Compass and go through. Bring back as much end stone as you can carry. The dragon is optional. It builds on Into the Nether and Know the Land."
+	]
+	"reward.2892B73C19B897CA.title": "Fireworks!"
+	"quest.578BB842AC4DBFFA.title": "Unidentified Floating Object"
+	"quest.578BB842AC4DBFFA.quest_subtitle": "A stone that does not want to be on the ground."
+	"quest.578BB842AC4DBFFA.quest_desc": [
+		"Crush end stone into powder, mix it hot with zinc nuggets and water into levitite blend, pour it out and heat it until it crystallises. Ponder shows the last step. Levitite lifts a ship with no fire at all. This is Flight School's master capstone; the sleigh can fly without it. It builds on Beyond the Portal, Crush It and The Caged Flame."
+	]
+	"quest.195E769CD31707D3.title": "Balance the Sleigh"
+	"quest.195E769CD31707D3.quest_subtitle": "Weight where you want it."
+	"quest.195E769CD31707D3.quest_desc": [
+		"Simulated Addition's floatite floats and ballasite sinks, so you can trim a ship nose-up or nose-down without changing its shape. Both come from levitite blend. Check the centre of mass in the contraption diagram and add ballast until it sits level."
+	]
+	"reward.662FBCC3A0A8DFD0.title": "Fireworks!"
+	"quest.1C05103D4042DF1C.title": "Santa's Sleigh"
+	"quest.1C05103D4042DF1C.quest_subtitle": "The ship that carries the season."
+	"quest.1C05103D4042DF1C.quest_desc": [
+		"Build the flagship: a red sleigh hull with a sled on the prow, lift from envelopes, gyroscopic propellers and a wheel. Christen it with a nameplate and fly it once round the town at night; Contraption Lights keeps its lanterns glowing in flight. This ship delivers the presents."
+	]
+	"chapter.2457EAE0A68AC164.title": "The Sky Harbour"
+	"chapter.2457EAE0A68AC164.chapter_subtitle": [
+		"Moor it, dock it, schedule it."
+	]
+	"quest.6A683A0FED14AB6D.title": "Chart the Course"
+	"quest.6A683A0FED14AB6D.quest_subtitle": "A table that points the way."
+	"quest.6A683A0FED14AB6D.quest_desc": [
+		"A navigation table on a ship points the way to a target you set, and a display can show the heading. It is the brain of every route. Place one on your balloon and point it at the snowy village. It builds on Make It Fly, Precision Mechanisms and Brass Casing."
+	]
+	"quest.1389BFE28C27548F.title": "How High?"
+	"quest.1389BFE28C27548F.quest_subtitle": "Height, speed and tilt at a glance."
+	"quest.1389BFE28C27548F.quest_desc": [
+		"Simulated Gauges turns sensors into proper dials for the cockpit: altitude, velocity and gimbal. Craft an altitude gauge from an altitude sensor and a precision mechanism and fit it where the pilot can see it."
+	]
+	"quest.6BEDC9610C5CC5A0.title": "Which Way the Wind Blows"
+	"quest.6BEDC9610C5CC5A0.quest_subtitle": "Read the weather before you fly."
+	"quest.6BEDC9610C5CC5A0.quest_desc": [
+		"AeroWeather adds a gentle wind that pushes balloons and turns windmills, and it changes with the weather. A brass wind vane on the pier shows where it is blowing. Plan take-offs into the wind."
+	]
+	"quest.42A934B5829D66B6.title": "Harness the Wind"
+	"quest.42A934B5829D66B6.quest_subtitle": "A windmill that follows the weather."
+	"quest.42A934B5829D66B6.quest_desc": [
+		"AeroWeather's wind bearing swings a windmill round to face the wind, so it always gets the best of it. It needs a zinc wind vane and a swivel bearing. Mount one on the harbour tower for steady power."
+	]
+	"quest.782D97B787C34E88.title": "Throw a Line"
+	"quest.782D97B787C34E88.quest_subtitle": "Catch!"
+	"quest.782D97B787C34E88.quest_desc": [
+		"A throwable rope connector flies across the gap and ties the ship to whatever it hits. Throw one from the deck to a post on the pier and the ship stops drifting. A rope connector and coupling make one."
+	]
+	"quest.7CBF4943B786BC23.title": "Moored at the Pier"
+	"quest.7CBF4943B786BC23.quest_subtitle": "The ship ties itself up."
+	"quest.7CBF4943B786BC23.quest_desc": [
+		"A mounted rope launcher fires a mooring line from the ship by redstone, so the pilot can tie up without leaving the seat. Its launcher is made in the mechanical crafter grid. Fit one at each end of the sleigh. It builds on Throw a Line, Mechanical Crafters and Precision Mechanisms."
+	]
+	"quest.5062A43D07EDD9E8.title": "A Calculated Connection"
+	"quest.5062A43D07EDD9E8.quest_subtitle": "Ship meets pier, click."
+	"quest.5062A43D07EDD9E8.quest_desc": [
+		"Docking connectors latch two physics objects together: a ship to a pier, or two ships to each other. Build one on the ship and one on the dock in the mechanical crafter grid and line them up. No mooring line needed. Ticks on your first docking. It builds on Mechanical Crafters and Make It Fly."
+	]
+	"quest.099DE70A4BBC1BAE.title": "Fuel at the Pier"
+	"quest.099DE70A4BBC1BAE.quest_subtitle": "Fill her up while she is docked."
+	"quest.099DE70A4BBC1BAE.quest_desc": [
+		"Docking Connectors+ adds pipe and kinetic docks, so fluids and rotation flow between the pier and a docked ship. Pipe fuel to the sleigh's engines and water to its boiler without ever leaving the dock."
+	]
+	"quest.78326E322EF3E3D7.title": "Rudolph's Nose"
+	"quest.78326E322EF3E3D7.quest_subtitle": "A light to guide the sleigh."
+	"quest.78326E322EF3E3D7.quest_desc": [
+		"Spotlights or Something adds a bright headlight for vehicles and a searchlight that sweeps the sky. Fit a headlight to the sleigh's prow so it lights the way on a foggy night, and a searchlight on the pier."
+	]
+	"quest.7E551ECAB45C8D54.title": "The Transponder"
+	"quest.7E551ECAB45C8D54.quest_subtitle": "The ship knows where it is."
+	"quest.7E551ECAB45C8D54.quest_desc": [
+		"A vehicle transponder is a navigation table and a physics assembler in one box. On board, it lets the ship find its way between airship stations by itself. Fit one to the sleigh before you set a route."
+	]
+	"quest.3B2248CA7A854BFD.title": "The Logistics Terminal"
+	"quest.3B2248CA7A854BFD.quest_subtitle": "Send an order to the sky."
+	"quest.3B2248CA7A854BFD.quest_desc": [
+		"The logistics terminal hands out delivery orders to airships, like a stock ticker for the sky. It needs sturdy sheets, maps and a display board. Put it in the harbour office and tie it into the warehouse."
+	]
+	"reward.5D754B645C8959B1.title": "Fireworks!"
+	"quest.6CA0E83CB142808F.title": "The Airship Station"
+	"quest.6CA0E83CB142808F.quest_subtitle": "A schedule in the sky."
+	"quest.6CA0E83CB142808F.quest_desc": [
+		"An airship station is a train station for ships: name it, park the ship beside it and give the ship a schedule. Build one at the workshop and one at the village and the sleigh flies the route on its own. It is built from a real train station. It builds on The Transponder, The Logistics Terminal, A Calculated Connection and The Station."
+	]
+	"quest.62AC66F0DD6D1DA8.title": "Santa's Contracts"
+	"quest.62AC66F0DD6D1DA8.quest_subtitle": "Jobs for a cargo pilot."
+	"quest.62AC66F0DD6D1DA8.quest_desc": [
+		"The delivery quests table offers hauling contracts with real cargo you must load and fly. Pick a Christmas job, deliver it and get paid. Finishing this quest unlocks the team's special contracts on the table. It builds on Chart the Course and A Calculated Connection."
+	]
+	"quest.4536365C6B80A758.title": "The Floating Harbour"
+	"quest.4536365C6B80A758.quest_subtitle": "A town that floats on the sea."
+	"quest.4536365C6B80A758.quest_desc": [
+		"Tidal Towns builds floating villages far out at sea, a perfect first long flight. Point the navigation table at the ocean, pack food and fly until you see the harbour lights. The quest ticks when you reach one."
+	]
+	"quest.119B2E5F97E67332.title": "The Downed Balloon"
+	"quest.119B2E5F97E67332.quest_subtitle": "Somebody had a bad landing."
+	"quest.119B2E5F97E67332.quest_desc": [
+		"Create Aeronautics Discovery leaves crashed balloons around the world with their cargo still aboard. Find one from the air, land nearby and salvage what you can. Its Soaring Trader sells maps to more."
+	]
+	"quest.30702A63881514C6.title": "Snow Factory in the Sky"
+	"quest.30702A63881514C6.quest_subtitle": "Make snow, very high up."
+	"quest.30702A63881514C6.quest_desc": [
+		"Create Mechanical Extruder makes blocks from two fluids. Water against water makes snow, but only very high up, so build it on a tall tower or a moored ship. A never-ending supply of snow for the sledding hill."
+	]
+	"chapter.21ACC86D1B8F7ED6.title": "Presents by Airship"
+	"chapter.21ACC86D1B8F7ED6.chapter_subtitle": [
+		"Wrap them, pack them, fly them home."
+	]
+	"quest.7BA7BDFA001D7A50.title": "Gift Wrap Central"
+	"quest.7BA7BDFA001D7A50.quest_subtitle": "Paper, ribbon and a very tidy bench."
+	"quest.7BA7BDFA001D7A50.quest_desc": [
+		"Create: Wrapped's wrapping station turns a gift and a roll of paper into a wrapped present. Planks, paper and an iron ingot make the station; eight paper and a dye make a roll of wrapping paper. Put it at the heart of the workshop. It builds on First Iron."
+	]
+	"quest.3A956F066040C70F.title": "Wrapped With Care"
+	"quest.3A956F066040C70F.quest_subtitle": "The first present of the year."
+	"quest.3A956F066040C70F.quest_desc": [
+		"Put a gift and a roll of red paper in the station and out comes a red present. An apple or a cake always works as the gift; JEI shows what else the station takes. Every colour of paper makes its own present, so wrap one for everyone on the list."
+	]
+	"quest.0E19EB28FA12CE54.title": "A Gift for a Friend"
+	"quest.0E19EB28FA12CE54.quest_subtitle": "To: you. From: me."
+	"quest.0E19EB28FA12CE54.quest_desc": [
+		"A Supplementaries present can be addressed: write a friend's name on it and only they can open it. Wrap something for each member of the team and hide them under the town tree. No peeking."
+	]
+	"quest.782F60496AAFE2EA.title": "Paper by the Tank"
+	"quest.782F60496AAFE2EA.quest_subtitle": "Wrapping paper off the spout."
+	"quest.782F60496AAFE2EA.quest_desc": [
+		"With Create: Dragons Plus dye fluids, a spout prints wrapping paper from plain paper and a tank of dye. Set up red and green tanks over a belt of paper and you will never run short in December."
+	]
+	"quest.43A033EB56532A49.title": "Toys for the Sack"
+	"quest.43A033EB56532A49.quest_subtitle": "Every sack needs a teddy."
+	"quest.43A033EB56532A49.quest_desc": [
+		"Naturalist's bear plush is the softest toy in the pack, and the first thing in Santa's sack. Make one for every child in the village. Pearl necklaces from Critters and Companions make good gifts too."
+	]
+	"quest.020061889DC4B9E7.title": "Bee Post"
+	"quest.020061889DC4B9E7.quest_subtitle": "Tiny couriers with propellers."
+	"quest.020061889DC4B9E7.quest_desc": [
+		"Create: Mobile Packages' robo bees carry a parcel from a bee port to a player or another port. Send a bee with a present to a friend across town. Bees are for short hops; the sleigh does the long haul."
+	]
+	"quest.11A2819676335E27.title": "Load the Sleigh"
+	"quest.11A2819676335E27.quest_subtitle": "A hold full of parcels."
+	"quest.11A2819676335E27.quest_desc": [
+		"A portable storage interface moves items between a moving contraption and the world. Put one on the sleigh and one on the pier, park alongside, and the presents flow aboard by themselves. The quest ticks the first time an interface moves items in or out of a contraption."
+	]
+	"task.1BB0BDEE74C1ED07.title": "Complete a special Christmas contract from the delivery table"
+	"quest.4D35A7E30DA67A95.title": "A Special Delivery"
+	"quest.4D35A7E30DA67A95.quest_subtitle": "Santa takes a private job."
+	"quest.4D35A7E30DA67A95.quest_desc": [
+		"The contracts table has special Christmas jobs that open once you finish Santa's Contracts. Take one, load the cargo and deliver it before the deadline. Tick this when a special contract is done."
+	]
+	"task.42E3F33A5844BDF4.title": "Deliver presents by airship and unload them at another town"
+	"reward.42E9EFBA4770A2E4.title": "Fireworks!"
+	"quest.05CC7BFEFD4F6845.title": "The Delivery"
+	"quest.05CC7BFEFD4F6845.quest_subtitle": "Fly the sleigh. Drop the parcels."
+	"quest.05CC7BFEFD4F6845.quest_desc": [
+		"The big night. Load the sleigh, fly the route to the village with Rudolph's nose lit, and unload the presents into its postboxes. Somebody is waiting with a hot drink and a very surprised face. It does not have to be perfect. It has to be delivered. Tick it when the last parcel is in."
+	]
+	"task.7CF7BE41B7F9095A.title": "Gather the whole team at the lit town tree on Christmas Eve"
+	"reward.2D2821C6CD774186.title": "Fireworks!"
+	"quest.0BF3A9EC47280EBA.title": "Christmas Eve"
+	"quest.0BF3A9EC47280EBA.quest_subtitle": "Everything, all at once."
+	"quest.0BF3A9EC47280EBA.quest_desc": [
+		"The workshop hums, the feast is laid, the tree is lit, the organ plays and the presents are delivered. Gather the whole team at the town tree and watch the snow fall. You built all of this. Merry Christmas."
+	]
+	"chapter.375A3241D7D0286C.title": "The Orders Board"
+	"chapter.375A3241D7D0286C.chapter_subtitle": [
+		"Big orders, steady pay."
+	]
+	"quest.2241EEA653866A7A.title": "Order: Andesite Alloy"
+	"quest.2241EEA653866A7A.quest_subtitle": "The village builders need mortar."
+	"quest.2241EEA653866A7A.quest_desc": [
+		"The village is building and wants a full stack of andesite alloy. A mixer with andesite and iron nuggets on a belt fills this in no time. Hand it in, get paid, and the order goes back on the board."
+	]
+	"quest.1DAB130C90E1D771.title": "Order: Iron Sheets"
+	"quest.1DAB130C90E1D771.quest_subtitle": "Sixty-four sheets for the smithy."
+	"quest.1DAB130C90E1D771.quest_desc": [
+		"The smithy wants a stack of iron sheets. Your first production line is exactly the right tool: leave it running and collect the stack. This order repeats, so a line that runs overnight pays every morning."
+	]
+	"quest.185537ACC445E92C.title": "Order: Brass"
+	"quest.185537ACC445E92C.quest_subtitle": "A stack of brass for the clockmaker."
+	"quest.185537ACC445E92C.quest_desc": [
+		"The clockmaker needs a full stack of brass ingots. Feed copper and zinc to a heated mixer from vaults and let it run. Crushed and washed ores make the zinc go much further."
+	]
+	"quest.08569760DFA16A91.title": "Order: Precision Mechanisms"
+	"quest.08569760DFA16A91.quest_subtitle": "Sixteen tiny clockworks."
+	"quest.08569760DFA16A91.quest_desc": [
+		"A toymaker in the next town wants thirty-two precision mechanisms for wind-up toys. A looping sequenced assembly line with a belt back to the start makes these without you. This order pays very well."
+	]
+	"quest.5B2B86417763A229.title": "Order: Sturdy Sheets"
+	"quest.5B2B86417763A229.quest_subtitle": "Armour plate for the railway."
+	"quest.5B2B86417763A229.quest_desc": [
+		"The railway company wants thirty-two sturdy sheets for a new bridge. Crushed obsidian, a spout of lava and two presses on a depot, looping. It is the hardest order on the board, and the best paid."
+	]
+	"quest.68C4B0609F23081A.title": "Order: Chocolate"
+	"quest.68C4B0609F23081A.quest_subtitle": "The sweet shop has run dry."
+	"quest.68C4B0609F23081A.quest_desc": [
+		"The sweet shop needs thirty-two bars of chocolate before the weekend. A heated mixer for the chocolate and a press over a basin for the bars, fed from a cocoa farm, keeps the shelves full."
+	]
+	"quest.12A1455221ED0099.title": "Order: Chicken Buckets"
+	"quest.12A1455221ED0099.quest_subtitle": "Dinner for the carol singers."
+	"quest.12A1455221ED0099.quest_desc": [
+		"The carol singers want eight buckets of fried chicken after practice. Roosts, the fryer and a cardboard press all have to run together. Feed them, and they will sing louder."
+	]
+	"quest.6BB6F083715A32F8.title": "Order: Red Wine"
+	"quest.6BB6F083715A32F8.quest_subtitle": "For the Christmas market stall."
+	"quest.6BB6F083715A32F8.quest_desc": [
+		"The market wants eight bottles of red grape wine for the mulled-wine stall. Grapes, juice and casks take time, so keep a batch ageing at all times and this order pays for itself."
+	]
+	"quest.04E35920D9DB4CC4.title": "Order: Presents"
+	"quest.04E35920D9DB4CC4.quest_subtitle": "The next town wants presents too."
+	"quest.04E35920D9DB4CC4.quest_desc": [
+		"Word has spread. The next town over has sent a list for thirty-two wrapped red presents. Hand them in to send them on, and the order comes back again next time. It pays in chips, not crates: Santa's work is its own reward."
+	]
+	"quest.7E789692A12FA136.title": "Order: Levitite"
+	"quest.7E789692A12FA136.quest_subtitle": "Lift for somebody else's ship."
+	"quest.7E789692A12FA136.quest_desc": [
+		"Another airship crew wants thirty-two levitite for their own sleigh. The End trip, crushing, heated mixing and crystallising all have to work. A rare and well-paid job."
+	]
+	"quest.6DF655C105B624E3.title": "Santa's Shop: Zinc"
+	"quest.6DF655C105B624E3.quest_subtitle": "A pouch of zinc for sixty chips."
+	"quest.6DF655C105B624E3.quest_desc": [
+		"Santa's Shop sells what the factory runs short of. Hand over sixty chips and take sixteen zinc nuggets, as often as you like. Chips come from the Orders Board and from every quest you finish."
+	]
+	"quest.30F6819BDA142508.title": "Santa's Shop: Blaze Rods"
+	"quest.30F6819BDA142508.quest_subtitle": "Fuel for the fussy machines."
+	"quest.30F6819BDA142508.quest_desc": [
+		"Blaze rods for brewing, blaze cakes and the odd emergency, without another fortress run. Sixty chips buy eight. Santa keeps a box of them warm behind the counter."
+	]
+	"quest.0B44333CDF8E092B.title": "Santa's Shop: Obsidian"
+	"quest.0B44333CDF8E092B.quest_subtitle": "Sixteen blocks for 125 chips."
+	"quest.0B44333CDF8E092B.quest_desc": [
+		"Obsidian for sturdy sheets, portals and blast-proof walls. A hundred and twenty-five chips buy sixteen blocks, as often as you like. Cheaper than pouring lava on water by hand, and much safer."
+	]
+	"quest.4FEB3CC3E51034DE.title": "Santa's Shop: Totem"
+	"quest.4FEB3CC3E51034DE.quest_subtitle": "500 chips, one second chance."
+	"quest.4FEB3CC3E51034DE.quest_desc": [
+		"For the pilot who flies too close to the ground. A purple 500 chip buys a totem of undying. Keep it in your off hand on the first long flight and nobody needs to know."
+	]
+	"reward_table.2F987FFAF3252378.title": "Christmas Stocking"
+	"reward_table.23788C652AFAC294.title": "Small Gift"
+	"reward_table.3848E9948122780E.title": "Big Present"
+	"reward_table.3888701C8FA57640.title": "Santa's Sack"
+	"reward_table.2A713854D9721440.title": "Kitchen Hamper"
+	"reward_table.6D837DDCA8AA16E4.title": "Railway Toolbox"
+	"reward_table.31016B10235E2BDC.title": "Aviator's Trunk"
+	"reward_table.2F4C02B393DE3BFE.title": "Decorator's Box"
+	"reward_table.437D33AC17702B63.title": "The First Production Line: pick one"
+	"reward_table.056B279F42191062.title": "Choose a Head Start"
+	"reward_table.153DF3A5130CB8AB.title": "Choo Choo: pick one"
+	"reward_table.653EAF75B8ACC1E1.title": "Raise the Town Tree: pick one"
+	"reward_table.03E6E43497AD78DB.title": "Head in the Clouds: pick one"
+	"reward_table.44AD0C94E70657F7.title": "The Airship Station: pick one"
+}

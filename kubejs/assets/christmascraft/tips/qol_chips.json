@@ -1,0 +1,11 @@
+{
+  "type": "tipsmod:simple",
+  "title": {
+    "text": "Christmas Craft tip",
+    "color": "red",
+    "bold": true
+  },
+  "text": {
+    "text": "Quests pay casino chips. Spend them in Santa's Shop on the Orders Board, at a friend's table-cloth shop, or at the casino."
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "type": "create_bic_bit:deep_frying",
+  "heat_requirement": "heated",
+  "ingredients": [
+    {
+      "item": "ratatouille_fried_delights:raw_potato_sticks"
+    },
+    {
+      "type": "fluid_stack",
+      "amount": 125,
+      "fluid": "create_bic_bit:frying_oil"
+    }
+  ],
+  "processingTime": 100,
+  "results": [
+    {
+      "id": "ratatouille_fried_delights:french_fries"
+    }
+  ]
+}

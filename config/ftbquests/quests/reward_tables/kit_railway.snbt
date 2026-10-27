@@ -1,0 +1,83 @@
+{
+	"id": "6D837DDCA8AA16E4"
+	"order_index": 5
+	"empty_weight": 1.0d
+	"loot_size": 1
+	"use_title": true
+	"rewards": [
+		{
+			"id": "7A158023740C0E4E"
+			"item": {
+				"id": "minecraft:stone_slab"
+				"count": 1
+			}
+			"count": 64
+			"weight": 0.0d
+		}
+		{
+			"id": "46D4EACEE7CFB508"
+			"item": {
+				"id": "minecraft:iron_nugget"
+				"count": 1
+			}
+			"count": 128
+			"weight": 0.0d
+		}
+		{
+			"id": "71F51F5BA0FB0438"
+			"item": {
+				"id": "create:zinc_nugget"
+				"count": 1
+			}
+			"count": 64
+			"weight": 0.0d
+		}
+		{
+			"id": "4F84665F2CFE4F4C"
+			"item": {
+				"id": "minecraft:obsidian"
+				"count": 1
+			}
+			"count": 16
+			"weight": 0.0d
+		}
+		{
+			"id": "40135EFB16215302"
+			"item": {
+				"id": "create:andesite_alloy"
+				"count": 1
+			}
+			"count": 32
+			"weight": 0.0d
+		}
+		{
+			"id": "5364C2F4C2853E8B"
+			"item": {
+				"id": "minecraft:compass"
+				"count": 1
+			}
+			"count": 2
+			"weight": 0.0d
+		}
+		{
+			"id": "7B9DEF6A4C55C631"
+			"item": {
+				"id": "minecraft:lever"
+				"count": 1
+			}
+			"count": 2
+			"weight": 0.0d
+		}
+	]
+	"loot_crate": {
+		"string_id": "kit_railway"
+		"item_name": "Railway Toolbox"
+		"color": 5922662
+		"glow": false
+		"drops": {
+			"passive": 0
+			"monster": 0
+			"boss": 0
+		}
+	}
+}

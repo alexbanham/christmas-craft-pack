@@ -1,0 +1,43 @@
+{
+  "template": "aeronauticsdiscovery:airplane_pillager",
+  "min_altitude": 220,
+  "max_altitude": 260,
+  "weight": 0,
+  "initial_velocity": {
+    "linear": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "angular": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "impulse": false
+  },
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "plan": {
+    "goals": [
+      {
+        "type": "aeronauticsdiscovery:straight"
+      },
+      {
+        "type": "aeronauticsdiscovery:altitude",
+        "min_altitude": 170,
+        "max_altitude": 250
+      }
+    ]
+  },
+  "biome_filter": {
+    "exclude": [
+      "minecraft:jagged_peaks",
+      "minecraft:frozen_peaks",
+      "minecraft:stony_peaks",
+      "minecraft:windswept_savanna",
+      "*:*mountain*"
+    ]
+  }
+}

@@ -1,0 +1,251 @@
+{
+  "required_mods": [
+    "mcwlights"
+  ],
+  "values": [
+    {
+      "block": "mcwlights:black_ceiling_light",
+      "color": "white"
+    },
+    {
+      "block": "mcwlights:black_lamp",
+      "color": "white"
+    },
+    {
+      "block": "mcwlights:black_paper_lamp",
+      "color": "white"
+    },
+    {
+      "block": "mcwlights:blue_ceiling_light",
+      "color": "#1A26FF"
+    },
+    {
+      "block": "mcwlights:blue_lamp",
+      "color": "#1A26FF"
+    },
+    {
+      "block": "mcwlights:blue_paper_lamp",
+      "color": "#1A26FF"
+    },
+    {
+      "block": "mcwlights:brown_ceiling_light",
+      "color": "#FF7024"
+    },
+    {
+      "block": "mcwlights:brown_lamp",
+      "color": "#FF7024"
+    },
+    {
+      "block": "mcwlights:brown_paper_lamp",
+      "color": "#FF7024"
+    },
+    {
+      "block": "mcwlights:cyan_ceiling_light",
+      "color": "#4CCCFF"
+    },
+    {
+      "block": "mcwlights:cyan_lamp",
+      "color": "#4CCCFF"
+    },
+    {
+      "block": "mcwlights:cyan_paper_lamp",
+      "color": "#4CCCFF"
+    },
+    {
+      "block": "mcwlights:gray_ceiling_light",
+      "color": "white"
+    },
+    {
+      "block": "mcwlights:gray_lamp",
+      "color": "white"
+    },
+    {
+      "block": "mcwlights:gray_paper_lamp",
+      "color": "white"
+    },
+    {
+      "block": "mcwlights:green_ceiling_light",
+      "color": "#4CFF4C"
+    },
+    {
+      "block": "mcwlights:green_lamp",
+      "color": "#4CFF4C"
+    },
+    {
+      "block": "mcwlights:green_paper_lamp",
+      "color": "#4CFF4C"
+    },
+    {
+      "block": "mcwlights:light_blue_ceiling_light",
+      "color": "#80A6FF"
+    },
+    {
+      "block": "mcwlights:light_blue_lamp",
+      "color": "#80A6FF"
+    },
+    {
+      "block": "mcwlights:light_blue_paper_lamp",
+      "color": "#80A6FF"
+    },
+    {
+      "block": "mcwlights:light_gray_ceiling_light",
+      "color": "white"
+    },
+    {
+      "block": "mcwlights:light_gray_lamp",
+      "color": "white"
+    },
+    {
+      "block": "mcwlights:light_gray_paper_lamp",
+      "color": "white"
+    },
+    {
+      "block": "mcwlights:lime_ceiling_light",
+      "color": "#1AFF1A"
+    },
+    {
+      "block": "mcwlights:lime_lamp",
+      "color": "#1AFF1A"
+    },
+    {
+      "block": "mcwlights:lime_paper_lamp",
+      "color": "#1AFF1A"
+    },
+    {
+      "block": "mcwlights:magenta_ceiling_light",
+      "color": "#FF1AFF"
+    },
+    {
+      "block": "mcwlights:magenta_lamp",
+      "color": "#FF1AFF"
+    },
+    {
+      "block": "mcwlights:magenta_paper_lamp",
+      "color": "#FF1AFF"
+    },
+    {
+      "block": "mcwlights:orange_ceiling_light",
+      "color": "#FF801A"
+    },
+    {
+      "block": "mcwlights:orange_lamp",
+      "color": "#FF801A"
+    },
+    {
+      "block": "mcwlights:orange_paper_lamp",
+      "color": "#FF801A"
+    },
+    {
+      "block": "mcwlights:pink_ceiling_light",
+      "color": "#FF66FF"
+    },
+    {
+      "block": "mcwlights:pink_lamp",
+      "color": "#FF66FF"
+    },
+    {
+      "block": "mcwlights:pink_paper_lamp",
+      "color": "#FF66FF"
+    },
+    {
+      "block": "mcwlights:purple_ceiling_light",
+      "color": "#B24CFF"
+    },
+    {
+      "block": "mcwlights:purple_lamp",
+      "color": "#B24CFF"
+    },
+    {
+      "block": "mcwlights:purple_paper_lamp",
+      "color": "#B24CFF"
+    },
+    {
+      "block": "mcwlights:red_ceiling_light",
+      "color": "#FF1A1A"
+    },
+    {
+      "block": "mcwlights:red_lamp",
+      "color": "#FF1A1A"
+    },
+    {
+      "block": "mcwlights:red_paper_lamp",
+      "color": "#FF1A1A"
+    },
+    {
+      "block": "mcwlights:soul_acacia_tiki_torch",
+      "color": "#3385FF"
+    },
+    {
+      "block": "mcwlights:soul_bamboo_tiki_torch",
+      "color": "#3385FF"
+    },
+    {
+      "block": "mcwlights:soul_birch_tiki_torch",
+      "color": "#3385FF"
+    },
+    {
+      "block": "mcwlights:soul_cherry_tiki_torch",
+      "color": "#3385FF"
+    },
+    {
+      "block": "mcwlights:soul_classic_street_lamp",
+      "color": "#3385FF"
+    },
+    {
+      "block": "mcwlights:soul_crimson_tiki_torch",
+      "color": "#3385FF"
+    },
+    {
+      "block": "mcwlights:soul_dark_oak_tiki_torch",
+      "color": "#3385FF"
+    },
+    {
+      "block": "mcwlights:soul_double_street_lamp",
+      "color": "#3385FF"
+    },
+    {
+      "block": "mcwlights:soul_jungle_tiki_torch",
+      "color": "#3385FF"
+    },
+    {
+      "block": "mcwlights:soul_mangrove_tiki_torch",
+      "color": "#3385FF"
+    },
+    {
+      "block": "mcwlights:soul_oak_tiki_torch",
+      "color": "#3385FF"
+    },
+    {
+      "block": "mcwlights:soul_spruce_tiki_torch",
+      "color": "#3385FF"
+    },
+    {
+      "block": "mcwlights:soul_warped_tiki_torch",
+      "color": "#3385FF"
+    },
+    {
+      "block": "mcwlights:white_ceiling_light",
+      "color": "white"
+    },
+    {
+      "block": "mcwlights:white_lamp",
+      "color": "white"
+    },
+    {
+      "block": "mcwlights:white_paper_lamp",
+      "color": "white"
+    },
+    {
+      "block": "mcwlights:yellow_ceiling_light",
+      "color": "#FFFF1A"
+    },
+    {
+      "block": "mcwlights:yellow_lamp",
+      "color": "#FFFF1A"
+    },
+    {
+      "block": "mcwlights:yellow_paper_lamp",
+      "color": "#FFFF1A"
+    }
+  ]
+}

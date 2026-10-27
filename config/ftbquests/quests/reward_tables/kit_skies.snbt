@@ -1,0 +1,83 @@
+{
+	"id": "31016B10235E2BDC"
+	"order_index": 6
+	"empty_weight": 1.0d
+	"loot_size": 1
+	"use_title": true
+	"rewards": [
+		{
+			"id": "2FDED4D77551AAAD"
+			"item": {
+				"id": "minecraft:white_wool"
+				"count": 1
+			}
+			"count": 64
+			"weight": 0.0d
+		}
+		{
+			"id": "75DEC8839808DAB2"
+			"item": {
+				"id": "minecraft:red_wool"
+				"count": 1
+			}
+			"count": 32
+			"weight": 0.0d
+		}
+		{
+			"id": "24A0266DFFE9DE2D"
+			"item": {
+				"id": "minecraft:stick"
+				"count": 1
+			}
+			"count": 32
+			"weight": 0.0d
+		}
+		{
+			"id": "03AFFD5E8FD6544A"
+			"item": {
+				"id": "minecraft:honey_bottle"
+				"count": 1
+			}
+			"count": 8
+			"weight": 0.0d
+		}
+		{
+			"id": "10339C507DF4AF57"
+			"item": {
+				"id": "minecraft:ender_pearl"
+				"count": 1
+			}
+			"count": 8
+			"weight": 0.0d
+		}
+		{
+			"id": "1F72B6263C76145F"
+			"item": {
+				"id": "minecraft:blaze_rod"
+				"count": 1
+			}
+			"count": 4
+			"weight": 0.0d
+		}
+		{
+			"id": "7CF90E1DB0069C5A"
+			"item": {
+				"id": "minecraft:lever"
+				"count": 1
+			}
+			"count": 2
+			"weight": 0.0d
+		}
+	]
+	"loot_crate": {
+		"string_id": "kit_skies"
+		"item_name": "Aviator's Trunk"
+		"color": 8368857
+		"glow": false
+		"drops": {
+			"passive": 0
+			"monster": 0
+			"boss": 0
+		}
+	}
+}

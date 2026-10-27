@@ -1,0 +1,52 @@
+{
+	"id": "03E6E43497AD78DB"
+	"order_index": 12
+	"loot_size": 1
+	"use_title": true
+	"rewards": [
+		{
+			"id": "484262215FDC5B84"
+			"item": {
+				"id": "aeronautics:white_envelope"
+				"count": 1
+			}
+			"count": 32
+		}
+		{
+			"id": "0661A3EEB084EEE5"
+			"item": {
+				"id": "aeronautics:red_envelope"
+				"count": 1
+			}
+			"count": 32
+		}
+		{
+			"id": "0764FB7C98FF85E4"
+			"item": {
+				"id": "aeronautics:wooden_propeller"
+				"count": 1
+			}
+			"count": 4
+		}
+		{
+			"id": "36D163C35E5FE8B4"
+			"item": {
+				"id": "ftbquests:lootcrate"
+				"count": 1
+				"components": {
+					"ftbquests:loot_crate": "kit_kitchen"
+					"minecraft:lore": [
+						"{\"text\": \"8 x tomato seeds\", \"color\": \"gray\", \"italic\": false}"
+						"{\"text\": \"8 x cabbage seeds\", \"color\": \"gray\", \"italic\": false}"
+						"{\"text\": \"8 x onion\", \"color\": \"gray\", \"italic\": false}"
+						"{\"text\": \"8 x rice\", \"color\": \"gray\", \"italic\": false}"
+						"{\"text\": \"16 x sugar cane\", \"color\": \"gray\", \"italic\": false}"
+						"{\"text\": \"16 x cocoa beans\", \"color\": \"gray\", \"italic\": false}"
+						"{\"text\": \"16 x egg\", \"color\": \"gray\", \"italic\": false}"
+						"{\"text\": \"2 x milk bucket\", \"color\": \"gray\", \"italic\": false}"
+					]
+				}
+			}
+		}
+	]
+}

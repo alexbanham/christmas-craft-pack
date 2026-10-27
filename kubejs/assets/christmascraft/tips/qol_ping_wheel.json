@@ -1,0 +1,11 @@
+{
+  "type": "tipsmod:simple",
+  "title": {
+    "text": "Christmas Craft tip",
+    "color": "red",
+    "bold": true
+  },
+  "text": {
+    "text": "Ping Wheel marks a spot for your crew, even mid-flight. Find its key under Options > Controls."
+  }
+}

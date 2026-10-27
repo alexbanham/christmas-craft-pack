@@ -1,0 +1,92 @@
+{
+	"id": "2A713854D9721440"
+	"order_index": 4
+	"empty_weight": 1.0d
+	"loot_size": 1
+	"use_title": true
+	"rewards": [
+		{
+			"id": "1E9BF287C9029EA0"
+			"item": {
+				"id": "farmersdelight:tomato_seeds"
+				"count": 1
+			}
+			"count": 8
+			"weight": 0.0d
+		}
+		{
+			"id": "029E417E05B5B156"
+			"item": {
+				"id": "farmersdelight:cabbage_seeds"
+				"count": 1
+			}
+			"count": 8
+			"weight": 0.0d
+		}
+		{
+			"id": "2B12CA5722103FF2"
+			"item": {
+				"id": "farmersdelight:onion"
+				"count": 1
+			}
+			"count": 8
+			"weight": 0.0d
+		}
+		{
+			"id": "02C0A91D7B8DA9FE"
+			"item": {
+				"id": "farmersdelight:rice"
+				"count": 1
+			}
+			"count": 8
+			"weight": 0.0d
+		}
+		{
+			"id": "40F10A0B17A0C4A3"
+			"item": {
+				"id": "minecraft:sugar_cane"
+				"count": 1
+			}
+			"count": 16
+			"weight": 0.0d
+		}
+		{
+			"id": "4DADF09E0AEA71F2"
+			"item": {
+				"id": "minecraft:cocoa_beans"
+				"count": 1
+			}
+			"count": 16
+			"weight": 0.0d
+		}
+		{
+			"id": "04416F4A9B7F6296"
+			"item": {
+				"id": "minecraft:egg"
+				"count": 1
+			}
+			"count": 16
+			"weight": 0.0d
+		}
+		{
+			"id": "7B477D8B67AE1A17"
+			"item": {
+				"id": "minecraft:milk_bucket"
+				"count": 1
+			}
+			"count": 2
+			"weight": 0.0d
+		}
+	]
+	"loot_crate": {
+		"string_id": "kit_kitchen"
+		"item_name": "Kitchen Hamper"
+		"color": 13138220
+		"glow": false
+		"drops": {
+			"passive": 0
+			"monster": 0
+			"boss": 0
+		}
+	}
+}

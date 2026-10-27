@@ -1,0 +1,9 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:false"
+    }
+  ],
+  "type": "minecraft:block",
+  "pools": []
+}

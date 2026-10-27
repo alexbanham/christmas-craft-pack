@@ -1,0 +1,13 @@
+name = "ADQ TWEAKS"
+filename = "adq_tweaks-1.0.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/91xkymB7/versions/TWNJB1wz/adq_tweaks-1.0.3.jar"
+hash-format = "sha512"
+hash = "b4a253d53b3aa6915c11b788df1f0ea45465fbdb68ec251128df6e928cb5f5102133eaa983a26d8a7d50b46324dc7119722ef5dba7f67f5aae270032820b95de"
+
+[update]
+[update.modrinth]
+mod-id = "91xkymB7"
+version = "TWNJB1wz"

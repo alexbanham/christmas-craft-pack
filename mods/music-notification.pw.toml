@@ -1,0 +1,13 @@
+name = "Music Notification"
+filename = "musicnotification-neoforge-3.4.0+mc1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/A4YQgwzz/versions/2cX6HlBp/musicnotification-neoforge-3.4.0%2Bmc1.21.1.jar"
+hash-format = "sha512"
+hash = "55b61fc0136103c3b4795f93f056fa593698cecaf9cda04baf9a3f3dfc3f63c6e386845284a15b5e561a123f3c8c0351f22194e4c43363d1e91e08e8ee0ff3ae"
+
+[update]
+[update.modrinth]
+mod-id = "A4YQgwzz"
+version = "2cX6HlBp"

@@ -1,0 +1,83 @@
+{
+	"id": "2F4C02B393DE3BFE"
+	"order_index": 7
+	"empty_weight": 1.0d
+	"loot_size": 1
+	"use_title": true
+	"rewards": [
+		{
+			"id": "18A42FD7233F8B05"
+			"item": {
+				"id": "minecraft:spruce_log"
+				"count": 1
+			}
+			"count": 64
+			"weight": 0.0d
+		}
+		{
+			"id": "004D03EC4F208071"
+			"item": {
+				"id": "minecraft:glass"
+				"count": 1
+			}
+			"count": 32
+			"weight": 0.0d
+		}
+		{
+			"id": "2845CAF3C623E4A5"
+			"item": {
+				"id": "minecraft:string"
+				"count": 1
+			}
+			"count": 32
+			"weight": 0.0d
+		}
+		{
+			"id": "16BE3D6015E1D0FE"
+			"item": {
+				"id": "minecraft:glowstone"
+				"count": 1
+			}
+			"count": 16
+			"weight": 0.0d
+		}
+		{
+			"id": "33528A2DF52C00AA"
+			"item": {
+				"id": "minecraft:white_wool"
+				"count": 1
+			}
+			"count": 32
+			"weight": 0.0d
+		}
+		{
+			"id": "128B15D5AA338CA9"
+			"item": {
+				"id": "minecraft:red_dye"
+				"count": 1
+			}
+			"count": 16
+			"weight": 0.0d
+		}
+		{
+			"id": "149019F36B80EC98"
+			"item": {
+				"id": "minecraft:green_dye"
+				"count": 1
+			}
+			"count": 16
+			"weight": 0.0d
+		}
+	]
+	"loot_crate": {
+		"string_id": "kit_town"
+		"item_name": "Decorator's Box"
+		"color": 15921906
+		"glow": false
+		"drops": {
+			"passive": 0
+			"monster": 0
+			"boss": 0
+		}
+	}
+}

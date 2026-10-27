@@ -1,0 +1,97 @@
+#Hard safety limits. Defaults favor a responsive server over guaranteed quest creation.
+[generation]
+	#Never allow quest searches to generate terrain.
+	never_generate_chunks = true
+	#Only accept chunks that Minecraft reports as already generated.
+	require_already_generated = true
+	#Maximum candidate checks performed by one queued request per server tick.
+	# Default: 4
+	# Range: 1 ~ 128
+	work_budget_per_tick = 4
+	#Maximum candidates checked before the request fails safely.
+	# Default: 256
+	# Range: 1 ~ 100000
+	candidate_limit = 256
+	#Maximum lifetime of a generation request, in ticks.
+	# Default: 200
+	# Range: 1 ~ 72000
+	timeout_ticks = 200
+	#Cooldown for automatic, native, and integration generation requests. Manual /adqtweaks generate bypasses this cooldown.
+	# Default: 1200
+	# Range: 0 ~ 1728000
+	cooldown_ticks = 1200
+	#Requests beyond this queue size are rejected immediately.
+	# Default: 1
+	# Range: 0 ~ 64
+	max_queued_requests = 1
+	#Reuse endpoints proven safe by earlier searches.
+	cache_endpoints = true
+	#Maximum cached endpoints per dimension.
+	# Default: 2048
+	# Range: 0 ~ 100000
+	cache_limit = 2048
+	#CENTER: ADQ supplied center. NEAREST_PLAYER: closest online player. SPAWN: level spawn.
+	#Allowed Values: CENTER, NEAREST_PLAYER, SPAWN
+	search_origin = "CENTER"
+	#SINGLE_PLAYER searches around the requester/anchor. ALL_PLAYERS combines every player's loaded area. SPAWN searches loaded spawn chunks.
+	#Allowed Values: SINGLE_PLAYER, ALL_PLAYERS, SPAWN
+	route_scope = "SINGLE_PLAYER"
+	#Tell the requesting player when generation safely skips instead of creating a quest.
+	notify_requesting_player = true
+	#Distance at which accepted cargo spawns; 16 blocks keeps pickup activation predictable.
+	# Default: 16
+	# Range: 16 ~ 2048
+	cargo_spawn_trigger_distance = 16
+	#Horizontal radius in which the ADQ objective pillar and particles are visible.
+	# Default: 512
+	# Range: 64 ~ 2048
+	objective_particle_radius = 512
+	#Horizontal distance in blocks allowed when turning in cargo.
+	# Default: 16
+	# Range: 4 ~ 128
+	delivery_turn_in_radius = 16
+	#Radius used to identify eligible players around cargo and scanner routes; defaults to 300 blocks.
+	# Default: 300
+	# Range: 16 ~ 20000
+	nearby_player_radius = 300
+	#If true, eligible players who destroy cargo can receive proportional rewards. Defaults off.
+	cargo_pvp = false
+	#Send chat notices when cargo destruction changes a contract.
+	notify_cargo_destruction = true
+	#Allow the periodic compass/status reminder command for active contracts.
+	enable_compass_command = true
+	#Interval for optional compass/status reminders (20 ticks = 1 second).
+	# Default: 600
+	# Range: 20 ~ 72000
+	compass_command_interval_ticks = 600
+	#Horizontal radius in which players see the active cargo contract boss bar.
+	# Default: 40
+	# Range: 8 ~ 512
+	objective_bossbar_radius = 40
+	#Protect active cargo from breaking, placement, explosions, and mob griefing using Sable sublevel identity.
+	force_cargo_protection = true
+	#Reject route endpoints whose loaded surface contains fluid.
+	require_dry_land = true
+	#Prefer broad, solid island surfaces and reject candidates with void/jagged support. Special templates may be marked with the configured prefix.
+	sky_island_mode = false
+	#Radius checked for solid support in sky-island mode.
+	# Default: 4
+	# Range: 1 ~ 16
+	sky_island_support_radius = 4
+	#Generate a pair of contracts: one route toward world spawn and one route farther from world spawn. Requires room on the ADQ board.
+	generate_two_directional_quests = false
+	#Enable optional FTB Quests completion integration. Requires FTB Quests at runtime.
+	enable_ftb_quests_integration = true
+	#FTB Quests task tag that unlocks special ADQ templates.
+	ftb_unlock_tag = "adq_special_unlock"
+	#Template name prefix hidden until an FTB unlock is completed.
+	special_template_prefix = "[special]"
+	#Use the persisted-NBT structure scanner. It never loads or generates endpoint chunks.
+	use_pregenerated_structure_search = true
+	#Maximum start/end structure lookup attempts per request.
+	# Default: 6
+	# Range: 1 ~ 20
+	structure_search_attempts = 6
+	#SKIP: make no quest. RETRY_LATER: queue one retry after cooldown.
+	#Allowed Values: SKIP, RETRY_LATER
+	failure_behavior = "SKIP"

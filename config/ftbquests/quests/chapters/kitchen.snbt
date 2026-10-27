@@ -1,0 +1,1804 @@
+{
+	"id": "185CCFBD33A4DEFF"
+	"filename": "kitchen"
+	"group": "6E6872417BE99080"
+	"order_index": 8
+	"icon": {
+		"id": "farmersdelight:cooking_pot"
+	}
+	"default_hide_dependency_lines": false
+	"default_quest_size": 1.0d
+	"images": [
+		{
+			"id": "5217765EE643B624"
+			"x": 8.475d
+			"y": -1.85d
+			"width": 8.5d
+			"height": 1.7d
+			"rotation": 0.0d
+			"image": "christmascraft:textures/gui/quest/banner_kitchen.png"
+			"order": -1
+		}
+	]
+	"quests": [
+		{
+			"id": "02963B57AD9ECB82"
+			"dependencies": [
+				"47EE417242FCAD0B"
+			]
+			"icon": {
+				"id": "farmersdelight:flint_knife"
+			}
+			"x": 3.35d
+			"y": 6.5d
+			"shape": "circle"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "46437D40FF25DE85"
+					"type": "item"
+					"item": {
+						"id": "farmersdelight:flint_knife"
+						"count": 1
+					}
+					"count": 1
+				}
+			]
+			"rewards": [
+				{
+					"id": "4447C172A686A5EF"
+					"type": "xp"
+					"xp": 50
+				}
+				{
+					"id": "50DD3AADA4CBF803"
+					"type": "item"
+					"item": {
+						"id": "ftbquests:lootcrate"
+						"count": 1
+						"components": {
+							"ftbquests:loot_crate": "stocking"
+						}
+					}
+				}
+				{
+					"id": "3A105AC087AF1B38"
+					"type": "item"
+					"item": {
+						"id": "farmersdelight:onion"
+						"count": 1
+					}
+					"count": 4
+				}
+				{
+					"id": "7805B468F5B95113"
+					"type": "item"
+					"item": {
+						"id": "farmersdelight:tomato_seeds"
+						"count": 1
+					}
+					"count": 4
+				}
+				{
+					"id": "370D44FEB27B3F6C"
+					"type": "item"
+					"item": {
+						"id": "farmersdelight:cabbage_seeds"
+						"count": 1
+					}
+					"count": 4
+				}
+				{
+					"id": "0AA6B1AB0F943249"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_10"
+						"count": 1
+					}
+				}
+				{
+					"id": "4297E9EEA94F66DB"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_5"
+						"count": 1
+					}
+				}
+			]
+		}
+		{
+			"id": "55375259EE4A45FB"
+			"dependencies": [
+				"02963B57AD9ECB82"
+			]
+			"icon": {
+				"id": "farmersdelight:cutting_board"
+			}
+			"x": 7.35d
+			"y": 9.0d
+			"shape": "circle"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "25280A2B4E8EB70D"
+					"type": "advancement"
+					"advancement": "farmersdelight:main/use_cutting_board"
+					"criterion": ""
+				}
+			]
+			"rewards": [
+				{
+					"id": "78E2CBFE9267F8DB"
+					"type": "xp"
+					"xp": 50
+				}
+				{
+					"id": "35F3208C8FB42310"
+					"type": "item"
+					"item": {
+						"id": "ftbquests:lootcrate"
+						"count": 1
+						"components": {
+							"ftbquests:loot_crate": "stocking"
+						}
+					}
+				}
+				{
+					"id": "167EA62974CCE374"
+					"type": "item"
+					"item": {
+						"id": "farmersdelight:canvas"
+						"count": 1
+					}
+					"count": 8
+				}
+				{
+					"id": "134BAC1D079B15BB"
+					"type": "item"
+					"item": {
+						"id": "minecraft:bowl"
+						"count": 1
+					}
+					"count": 16
+				}
+				{
+					"id": "29C2B9AEB33F91BA"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_10"
+						"count": 1
+					}
+				}
+				{
+					"id": "6DF74BA5D94CD156"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_5"
+						"count": 1
+					}
+				}
+			]
+		}
+		{
+			"id": "1872715D300C1F81"
+			"dependencies": [
+				"38F14CE1641DBE74"
+			]
+			"icon": {
+				"id": "farmersdelight:cooking_pot"
+			}
+			"x": 0.85d
+			"y": 4.5d
+			"shape": "hexagon"
+			"size": 1.7d
+			"tasks": [
+				{
+					"id": "1DBE52EB732A0A76"
+					"type": "advancement"
+					"advancement": "farmersdelight:main/place_cooking_pot"
+					"criterion": ""
+				}
+			]
+			"rewards": [
+				{
+					"id": "7CB8EEF7D36808F8"
+					"type": "xp"
+					"xp": 100
+				}
+				{
+					"id": "4C6EFC1D8802E5BC"
+					"type": "item"
+					"item": {
+						"id": "ftbquests:lootcrate"
+						"count": 1
+						"components": {
+							"ftbquests:loot_crate": "small_gift"
+						}
+					}
+				}
+				{
+					"id": "20FEAA3A2CFB57D9"
+					"type": "item"
+					"item": {
+						"id": "farmersdelight:skillet"
+						"count": 1
+					}
+				}
+				{
+					"id": "6203648A676109F1"
+					"type": "item"
+					"item": {
+						"id": "farmersdelight:rice"
+						"count": 1
+					}
+					"count": 8
+				}
+				{
+					"id": "3D291CA5ECF71F6A"
+					"type": "item"
+					"item": {
+						"id": "minecraft:bricks"
+						"count": 1
+					}
+					"count": 16
+				}
+				{
+					"id": "3D4D075B99A1A785"
+					"type": "item"
+					"item": {
+						"id": "minecraft:milk_bucket"
+						"count": 1
+					}
+					"count": 2
+				}
+				{
+					"id": "0FCC3DA375F3FEA6"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_25"
+						"count": 1
+					}
+				}
+				{
+					"id": "3124B421D1D15652"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_5"
+						"count": 1
+					}
+				}
+			]
+		}
+		{
+			"id": "3191C1FA6231746C"
+			"dependencies": [
+				"1872715D300C1F81"
+			]
+			"icon": {
+				"id": "farmersdelight:stove"
+			}
+			"x": 3.35d
+			"y": 2.5d
+			"shape": "circle"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "585AB206618DAA71"
+					"type": "item"
+					"item": {
+						"id": "farmersdelight:stove"
+						"count": 1
+					}
+					"count": 1
+				}
+			]
+			"rewards": [
+				{
+					"id": "1AD8DA743DBAC281"
+					"type": "xp"
+					"xp": 50
+				}
+				{
+					"id": "1E31283DD4C284C4"
+					"type": "item"
+					"item": {
+						"id": "ftbquests:lootcrate"
+						"count": 1
+						"components": {
+							"ftbquests:loot_crate": "stocking"
+						}
+					}
+				}
+				{
+					"id": "28BF517AA859642D"
+					"type": "item"
+					"item": {
+						"id": "minecraft:campfire"
+						"count": 1
+					}
+					"count": 2
+				}
+				{
+					"id": "3C876EEE58DDC3DB"
+					"type": "item"
+					"item": {
+						"id": "minecraft:charcoal"
+						"count": 1
+					}
+					"count": 16
+				}
+				{
+					"id": "22C232F4467E96DA"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_10"
+						"count": 1
+					}
+				}
+				{
+					"id": "3C282D1C51643B30"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_5"
+						"count": 1
+					}
+				}
+			]
+		}
+		{
+			"id": "2A05C0645CCDAE37"
+			"dependencies": [
+				"02963B57AD9ECB82"
+			]
+			"icon": {
+				"id": "farmersdelight:cabbage"
+			}
+			"x": 5.35d
+			"y": 6.5d
+			"shape": "circle"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "785790DC77440CFA"
+					"type": "item"
+					"item": {
+						"id": "farmersdelight:cabbage"
+						"count": 1
+					}
+					"count": 1
+				}
+			]
+			"rewards": [
+				{
+					"id": "4EBBB65A7C73AF4D"
+					"type": "xp"
+					"xp": 50
+				}
+				{
+					"id": "7D531AD3CD6B7233"
+					"type": "item"
+					"item": {
+						"id": "ftbquests:lootcrate"
+						"count": 1
+						"components": {
+							"ftbquests:loot_crate": "stocking"
+						}
+					}
+				}
+				{
+					"id": "1164F661F7ED12C9"
+					"type": "item"
+					"item": {
+						"id": "farmersdelight:rich_soil"
+						"count": 1
+					}
+					"count": 8
+				}
+				{
+					"id": "5EB9FD6AA0C5BB97"
+					"type": "item"
+					"item": {
+						"id": "minecraft:bone_meal"
+						"count": 1
+					}
+					"count": 16
+				}
+				{
+					"id": "4FA3F2C7C2B7F999"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_10"
+						"count": 1
+					}
+				}
+				{
+					"id": "4A46CDA4FD09F294"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_5"
+						"count": 1
+					}
+				}
+			]
+		}
+		{
+			"id": "53D656C56D16D83C"
+			"dependencies": [
+				"1872715D300C1F81"
+				"2A05C0645CCDAE37"
+			]
+			"icon": {
+				"id": "farmersdelight:beef_stew"
+			}
+			"x": 7.35d
+			"y": 5.0d
+			"shape": "circle"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "5187AF13C86CCA15"
+					"type": "item"
+					"item": {
+						"id": "farmersdelight:beef_stew"
+						"count": 1
+					}
+					"count": 1
+				}
+			]
+			"rewards": [
+				{
+					"id": "77BE7BDDEDF22552"
+					"type": "xp"
+					"xp": 50
+				}
+				{
+					"id": "5965F739BF8D7E7F"
+					"type": "item"
+					"item": {
+						"id": "ftbquests:lootcrate"
+						"count": 1
+						"components": {
+							"ftbquests:loot_crate": "stocking"
+						}
+					}
+				}
+				{
+					"id": "0E55CC364DB1140B"
+					"type": "item"
+					"item": {
+						"id": "farmersdelight:vegetable_soup"
+						"count": 1
+					}
+					"count": 4
+				}
+				{
+					"id": "01B7F4A60DF1902F"
+					"type": "item"
+					"item": {
+						"id": "farmersdelight:chicken_soup"
+						"count": 1
+					}
+					"count": 4
+				}
+				{
+					"id": "0BCECBF6B6A63C51"
+					"type": "item"
+					"item": {
+						"id": "farmersdelight:bone_broth"
+						"count": 1
+					}
+					"count": 2
+				}
+				{
+					"id": "155EBD146211C99B"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_10"
+						"count": 1
+					}
+				}
+				{
+					"id": "6253098BB500AF87"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_5"
+						"count": 1
+					}
+				}
+			]
+		}
+		{
+			"id": "397B6CE594F6E1C1"
+			"dependencies": [
+				"1872715D300C1F81"
+				"1C737715E2EE11BC"
+			]
+			"icon": {
+				"id": "ratatouille:oven"
+			}
+			"x": 6.85d
+			"y": 2.0d
+			"shape": "gear"
+			"size": 1.5d
+			"tasks": [
+				{
+					"id": "6F41BB0559C7DAC5"
+					"type": "item"
+					"item": {
+						"id": "ratatouille:oven"
+						"count": 1
+					}
+					"count": 1
+				}
+			]
+			"rewards": [
+				{
+					"id": "644C268ED4ADE315"
+					"type": "xp"
+					"xp": 150
+				}
+				{
+					"id": "617CE1251ADB2014"
+					"type": "item"
+					"item": {
+						"id": "ftbquests:lootcrate"
+						"count": 1
+						"components": {
+							"ftbquests:loot_crate": "small_gift"
+						}
+					}
+				}
+				{
+					"id": "5580DA807CE6370D"
+					"type": "item"
+					"item": {
+						"id": "ftbquests:lootcrate"
+						"count": 1
+						"components": {
+							"ftbquests:loot_crate": "stocking"
+						}
+					}
+				}
+				{
+					"id": "31099699A6A66E5F"
+					"type": "item"
+					"item": {
+						"id": "ratatouille:oven_fan"
+						"count": 1
+					}
+				}
+				{
+					"id": "7542B7EF333D1922"
+					"type": "item"
+					"item": {
+						"id": "ratatouille:cake_mold"
+						"count": 1
+					}
+				}
+				{
+					"id": "3EFF10FF884BA8E8"
+					"type": "item"
+					"item": {
+						"id": "create:wheat_flour"
+						"count": 1
+					}
+					"count": 32
+				}
+				{
+					"id": "012D2C908B5AF692"
+					"type": "item"
+					"item": {
+						"id": "minecraft:egg"
+						"count": 1
+					}
+					"count": 12
+				}
+				{
+					"id": "7B91BAFB9FDD7C55"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_50"
+						"count": 1
+					}
+				}
+				{
+					"id": "41ABB765DBFAA136"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_10"
+						"count": 1
+					}
+				}
+			]
+		}
+		{
+			"id": "6FE8EBBC7B4F346D"
+			"dependencies": [
+				"397B6CE594F6E1C1"
+				"7620442FA3B06FD4"
+				"3FDD8DEF4A8C5D9F"
+			]
+			"icon": {
+				"id": "ratatouille:cake_base"
+			}
+			"x": 10.85d
+			"y": 1.5d
+			"shape": "circle"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "674D0275EDA137F3"
+					"type": "item"
+					"item": {
+						"id": "ratatouille:cake_base"
+						"count": 1
+					}
+					"count": 1
+				}
+			]
+			"rewards": [
+				{
+					"id": "62B695F4D192A612"
+					"type": "xp"
+					"xp": 100
+				}
+				{
+					"id": "415E1D25ED9E83AD"
+					"type": "item"
+					"item": {
+						"id": "ftbquests:lootcrate"
+						"count": 1
+						"components": {
+							"ftbquests:loot_crate": "small_gift"
+						}
+					}
+				}
+				{
+					"id": "7F8F1CDEA6628D91"
+					"type": "item"
+					"item": {
+						"id": "minecraft:cake"
+						"count": 1
+					}
+					"count": 2
+				}
+				{
+					"id": "43FF488FE0C5EA5D"
+					"type": "item"
+					"item": {
+						"id": "minecraft:sugar"
+						"count": 1
+					}
+					"count": 32
+				}
+				{
+					"id": "11A84EA3AE74B6CF"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_25"
+						"count": 1
+					}
+				}
+				{
+					"id": "1AEAC9C37D65910C"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_5"
+						"count": 1
+					}
+				}
+			]
+		}
+		{
+			"id": "39A528189CFE0CFC"
+			"dependencies": [
+				"1C737715E2EE11BC"
+				"3C3F1306AB798461"
+				"50B409297654FFC6"
+			]
+			"icon": {
+				"id": "create_factory:waffle"
+			}
+			"x": 0.5d
+			"y": 13.5d
+			"shape": "rsquare"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "7137443345211FE9"
+					"type": "item"
+					"item": {
+						"id": "create_factory:waffle"
+						"count": 1
+					}
+					"count": 1
+				}
+			]
+			"rewards": [
+				{
+					"id": "52B4F08F6A6A3088"
+					"type": "xp"
+					"xp": 150
+				}
+				{
+					"id": "086116A8F8DBFDFF"
+					"type": "item"
+					"item": {
+						"id": "ftbquests:lootcrate"
+						"count": 1
+						"components": {
+							"ftbquests:loot_crate": "small_gift"
+						}
+					}
+				}
+				{
+					"id": "7B5EBDE48EDD5EE1"
+					"type": "item"
+					"item": {
+						"id": "ftbquests:lootcrate"
+						"count": 1
+						"components": {
+							"ftbquests:loot_crate": "stocking"
+						}
+					}
+				}
+				{
+					"id": "40B44E641D892675"
+					"type": "item"
+					"item": {
+						"id": "create_factory:chocolate_waffle"
+						"count": 1
+					}
+					"count": 4
+				}
+				{
+					"id": "71533918C65D59F3"
+					"type": "item"
+					"item": {
+						"id": "create_factory:caramel_roll"
+						"count": 1
+					}
+					"count": 4
+				}
+				{
+					"id": "05A4248841C325F2"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_50"
+						"count": 1
+					}
+				}
+				{
+					"id": "1405C5BC08889867"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_10"
+						"count": 1
+					}
+				}
+			]
+			"optional": true
+		}
+		{
+			"id": "47E3C75BB8E7B4C4"
+			"dependencies": [
+				"50B409297654FFC6"
+				"70D08734C93D59ED"
+				"3FDD8DEF4A8C5D9F"
+			]
+			"icon": {
+				"id": "ratatouille_fried_delights:continuous_fryer"
+			}
+			"x": 7.35d
+			"y": 7.0d
+			"shape": "gear"
+			"size": 1.5d
+			"tasks": [
+				{
+					"id": "6115FE6DEA0CC2DA"
+					"type": "item"
+					"item": {
+						"id": "ratatouille_fried_delights:continuous_fryer"
+						"count": 1
+					}
+					"count": 1
+				}
+			]
+			"rewards": [
+				{
+					"id": "50D5D03F45CAF8C5"
+					"type": "xp"
+					"xp": 250
+				}
+				{
+					"id": "3FDE11815435540F"
+					"type": "xp_levels"
+					"xp_levels": 2
+				}
+				{
+					"id": "4A089E840D8F4B32"
+					"type": "item"
+					"item": {
+						"id": "ftbquests:lootcrate"
+						"count": 1
+						"components": {
+							"ftbquests:loot_crate": "big_present"
+						}
+					}
+				}
+				{
+					"id": "51B236E16694B484"
+					"type": "item"
+					"item": {
+						"id": "ratatouille_fried_delights:sunflower_seeds"
+						"count": 1
+					}
+					"count": 32
+				}
+				{
+					"id": "5B3E06DD9B26D4EF"
+					"type": "item"
+					"item": {
+						"id": "ratatouille_fried_delights:french_fries"
+						"count": 1
+					}
+					"count": 8
+				}
+				{
+					"id": "68B6FDA6CC90B8C7"
+					"type": "item"
+					"item": {
+						"id": "minecraft:sunflower"
+						"count": 1
+					}
+					"count": 8
+				}
+				{
+					"id": "7C7EF2CEB42E8D0D"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_100"
+						"count": 1
+					}
+				}
+				{
+					"id": "50999494BC29FCA1"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_25"
+						"count": 1
+					}
+				}
+			]
+		}
+		{
+			"id": "5A35EB5DF0F5F067"
+			"dependencies": [
+				"1872715D300C1F81"
+			]
+			"icon": {
+				"id": "create_integrated_farming:roost"
+			}
+			"x": 8.85d
+			"y": 3.0d
+			"shape": "circle"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "5C811FDF6DC59AD8"
+					"type": "item"
+					"item": {
+						"id": "create_integrated_farming:roost"
+						"count": 1
+					}
+					"count": 1
+				}
+			]
+			"rewards": [
+				{
+					"id": "28A5224F04EBCDA8"
+					"type": "xp"
+					"xp": 50
+				}
+				{
+					"id": "6A20343376458BCE"
+					"type": "item"
+					"item": {
+						"id": "ftbquests:lootcrate"
+						"count": 1
+						"components": {
+							"ftbquests:loot_crate": "stocking"
+						}
+					}
+				}
+				{
+					"id": "091175041D586B86"
+					"type": "item"
+					"item": {
+						"id": "minecraft:wheat_seeds"
+						"count": 1
+					}
+					"count": 32
+				}
+				{
+					"id": "3D784942CBE6400A"
+					"type": "item"
+					"item": {
+						"id": "create_integrated_farming:fishing_net"
+						"count": 1
+					}
+				}
+				{
+					"id": "6DFCEA654E6C71EE"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_10"
+						"count": 1
+					}
+				}
+				{
+					"id": "3922CB21A33F1A05"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_5"
+						"count": 1
+					}
+				}
+			]
+		}
+		{
+			"id": "15303E2461DFE49D"
+			"dependencies": [
+				"47E3C75BB8E7B4C4"
+				"55375259EE4A45FB"
+				"1C737715E2EE11BC"
+			]
+			"icon": {
+				"id": "ratatouille_fried_delights:original_chicken_drumstick"
+			}
+			"x": 9.85d
+			"y": 7.0d
+			"shape": "circle"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "688CE2D62D023CFB"
+					"type": "item"
+					"item": {
+						"id": "ratatouille_fried_delights:original_chicken_drumstick"
+						"count": 1
+					}
+					"count": 1
+				}
+			]
+			"rewards": [
+				{
+					"id": "5AA2DABAABDD01AF"
+					"type": "xp"
+					"xp": 150
+				}
+				{
+					"id": "52342EDAC10EA0E7"
+					"type": "item"
+					"item": {
+						"id": "ftbquests:lootcrate"
+						"count": 1
+						"components": {
+							"ftbquests:loot_crate": "small_gift"
+						}
+					}
+				}
+				{
+					"id": "5824CF0509C66D6A"
+					"type": "item"
+					"item": {
+						"id": "ftbquests:lootcrate"
+						"count": 1
+						"components": {
+							"ftbquests:loot_crate": "stocking"
+						}
+					}
+				}
+				{
+					"id": "2BDB79428FE7265A"
+					"type": "item"
+					"item": {
+						"id": "ratatouille_fried_delights:original_chicken_keel"
+						"count": 1
+					}
+					"count": 4
+				}
+				{
+					"id": "55B925D103020DEC"
+					"type": "item"
+					"item": {
+						"id": "minecraft:cooked_chicken"
+						"count": 1
+					}
+					"count": 16
+				}
+				{
+					"id": "1B7F69F9DC0B28F5"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_50"
+						"count": 1
+					}
+				}
+				{
+					"id": "5F0F10AAB1017823"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_10"
+						"count": 1
+					}
+				}
+			]
+		}
+		{
+			"id": "14B33F2E980204B3"
+			"dependencies": [
+				"15303E2461DFE49D"
+				"4AB17D376FC86D90"
+			]
+			"icon": {
+				"id": "ratatouille_fried_delights:duo_chicken_bucket"
+			}
+			"x": 12.85d
+			"y": 5.5d
+			"shape": "diamond"
+			"size": 1.9d
+			"tasks": [
+				{
+					"id": "0A7447DB09BC5926"
+					"type": "item"
+					"item": {
+						"id": "ratatouille_fried_delights:duo_chicken_bucket"
+						"count": 1
+					}
+					"count": 1
+				}
+			]
+			"rewards": [
+				{
+					"id": "2CB9F3091D74A175"
+					"type": "xp"
+					"xp": 500
+				}
+				{
+					"id": "20AC7C170982119F"
+					"type": "xp_levels"
+					"xp_levels": 3
+				}
+				{
+					"id": "405B8D3839B384DE"
+					"type": "item"
+					"item": {
+						"id": "ftbquests:lootcrate"
+						"count": 1
+						"components": {
+							"ftbquests:loot_crate": "santas_sack"
+						}
+					}
+				}
+				{
+					"id": "4AA1FDFD723ED776"
+					"type": "item"
+					"item": {
+						"id": "ftbquests:lootcrate"
+						"count": 1
+						"components": {
+							"ftbquests:loot_crate": "big_present"
+						}
+					}
+				}
+				{
+					"id": "571E9C753772F61F"
+					"type": "item"
+					"item": {
+						"id": "farmersdelight:roast_chicken"
+						"count": 1
+					}
+					"count": 4
+				}
+				{
+					"id": "6FD78E04B193AA81"
+					"type": "item"
+					"item": {
+						"id": "minecraft:cooked_chicken"
+						"count": 1
+					}
+					"count": 16
+				}
+				{
+					"id": "270B7797C36E7373"
+					"type": "item"
+					"item": {
+						"id": "create:cardboard"
+						"count": 1
+					}
+					"count": 16
+				}
+				{
+					"id": "3E9FF3A1E5E92019"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_500"
+						"count": 1
+					}
+				}
+				{
+					"id": "0C432F1177FBD293"
+					"type": "command"
+					"command": "summon minecraft:firework_rocket ~ ~1 ~ {LifeTime:30,FireworksItem:{id:\"minecraft:firework_rocket\",count:1,components:{\"minecraft:fireworks\":{flight_duration:1b,explosions:[{shape:\"star\",has_twinkle:true,has_trail:true,colors:[I;11739178,2067514,15252771],fade_colors:[I;16777215]}]}}}}"
+					"permission_level": 2
+					"silent": true
+					"team_reward": false
+					"icon": {
+						"id": "minecraft:firework_rocket"
+					}
+				}
+			]
+		}
+		{
+			"id": "1248B63EDABAD563"
+			"dependencies": [
+				"5180BA4668B69C03"
+				"3B255A4F4E51835D"
+				"04BEBADB469586F0"
+			]
+			"icon": {
+				"id": "create_integrated_farming:vacuum_harvester"
+			}
+			"x": 3.0d
+			"y": 13.5d
+			"shape": "circle"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "399F7F1919EF93AE"
+					"type": "item"
+					"item": {
+						"id": "create_integrated_farming:vacuum_harvester"
+						"count": 1
+					}
+					"count": 1
+				}
+			]
+			"rewards": [
+				{
+					"id": "4DBD46C65B03B4B3"
+					"type": "xp"
+					"xp": 150
+				}
+				{
+					"id": "6A6C4AC0A5D864AD"
+					"type": "item"
+					"item": {
+						"id": "ftbquests:lootcrate"
+						"count": 1
+						"components": {
+							"ftbquests:loot_crate": "small_gift"
+						}
+					}
+				}
+				{
+					"id": "736F744F7860C5A6"
+					"type": "item"
+					"item": {
+						"id": "ftbquests:lootcrate"
+						"count": 1
+						"components": {
+							"ftbquests:loot_crate": "stocking"
+						}
+					}
+				}
+				{
+					"id": "4B5FD7D9C4744849"
+					"type": "item"
+					"item": {
+						"id": "create:mechanical_harvester"
+						"count": 1
+					}
+					"count": 2
+				}
+				{
+					"id": "0136CEBF53F7F913"
+					"type": "item"
+					"item": {
+						"id": "minecraft:melon_seeds"
+						"count": 1
+					}
+					"count": 8
+				}
+				{
+					"id": "28A302BFDEA8CDDE"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_50"
+						"count": 1
+					}
+				}
+				{
+					"id": "04D05454FB97898B"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_10"
+						"count": 1
+					}
+				}
+			]
+		}
+		{
+			"id": "30C18A896AEAB986"
+			"dependencies": [
+				"55375259EE4A45FB"
+				"1872863EF731C6BB"
+			]
+			"icon": {
+				"id": "sliceanddice:slicer"
+			}
+			"x": 9.85d
+			"y": 9.0d
+			"shape": "circle"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "46D46A345B97D1A3"
+					"type": "item"
+					"item": {
+						"id": "sliceanddice:slicer"
+						"count": 1
+					}
+					"count": 1
+				}
+			]
+			"rewards": [
+				{
+					"id": "310F6EBFA9ABA129"
+					"type": "xp"
+					"xp": 100
+				}
+				{
+					"id": "35048BF879162404"
+					"type": "item"
+					"item": {
+						"id": "ftbquests:lootcrate"
+						"count": 1
+						"components": {
+							"ftbquests:loot_crate": "small_gift"
+						}
+					}
+				}
+				{
+					"id": "4B7CC8FEE72E2751"
+					"type": "item"
+					"item": {
+						"id": "sliceanddice:sprinkler"
+						"count": 1
+					}
+					"count": 2
+				}
+				{
+					"id": "33466937941F8B0A"
+					"type": "item"
+					"item": {
+						"id": "farmersdelight:flint_knife"
+						"count": 1
+					}
+				}
+				{
+					"id": "781DA80AFAD35070"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_25"
+						"count": 1
+					}
+				}
+				{
+					"id": "32B974160D79246A"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_5"
+						"count": 1
+					}
+				}
+			]
+		}
+		{
+			"id": "4337F138CEB52008"
+			"dependencies": [
+				"55375259EE4A45FB"
+				"1872863EF731C6BB"
+			]
+			"icon": {
+				"id": "delightfulcreators:mechanical_cutter"
+			}
+			"x": 9.85d
+			"y": 11.0d
+			"shape": "circle"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "708821E245134658"
+					"type": "item"
+					"item": {
+						"id": "delightfulcreators:mechanical_cutter"
+						"count": 1
+					}
+					"count": 1
+				}
+			]
+			"rewards": [
+				{
+					"id": "108D3F892DFB825B"
+					"type": "xp"
+					"xp": 100
+				}
+				{
+					"id": "264C779FA210F59B"
+					"type": "item"
+					"item": {
+						"id": "ftbquests:lootcrate"
+						"count": 1
+						"components": {
+							"ftbquests:loot_crate": "small_gift"
+						}
+					}
+				}
+				{
+					"id": "158C1E073D81A179"
+					"type": "item"
+					"item": {
+						"id": "minecraft:pumpkin"
+						"count": 1
+					}
+					"count": 8
+				}
+				{
+					"id": "158622436020BBED"
+					"type": "item"
+					"item": {
+						"id": "minecraft:apple"
+						"count": 1
+					}
+					"count": 16
+				}
+				{
+					"id": "1E651234F8B7DAF4"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_25"
+						"count": 1
+					}
+				}
+				{
+					"id": "0790C5BBF356E0B7"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_5"
+						"count": 1
+					}
+				}
+			]
+		}
+		{
+			"id": "5A732269A4D62924"
+			"dependencies": [
+				"30C18A896AEAB986"
+				"778575145F2B72DF"
+			]
+			"icon": {
+				"id": "farmersdelight:cooking_pot"
+			}
+			"x": 13.85d
+			"y": 9.0d
+			"shape": "rsquare"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "12F2DC092C6E1A90"
+					"type": "checkmark"
+				}
+			]
+			"rewards": [
+				{
+					"id": "09EA0A47FE3ED02D"
+					"type": "xp"
+					"xp": 100
+				}
+				{
+					"id": "1C0F600D6C2AB57F"
+					"type": "item"
+					"item": {
+						"id": "ftbquests:lootcrate"
+						"count": 1
+						"components": {
+							"ftbquests:loot_crate": "small_gift"
+						}
+					}
+				}
+				{
+					"id": "7FED8F0E3EBCB8A6"
+					"type": "item"
+					"item": {
+						"id": "minecraft:coal_block"
+						"count": 1
+					}
+					"count": 8
+				}
+				{
+					"id": "612DADA8AFB04921"
+					"type": "item"
+					"item": {
+						"id": "farmersdelight:vegetable_soup"
+						"count": 1
+					}
+					"count": 4
+				}
+				{
+					"id": "57B51671B66C46BB"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_25"
+						"count": 1
+					}
+				}
+				{
+					"id": "4D6F66D02FBE58AE"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_5"
+						"count": 1
+					}
+				}
+			]
+			"optional": true
+		}
+		{
+			"id": "36F970321ACF0A23"
+			"dependencies": [
+				"1872715D300C1F81"
+				"55375259EE4A45FB"
+			]
+			"icon": {
+				"id": "fruitsdelight:cranberry_jam"
+			}
+			"x": 3.35d
+			"y": 9.0d
+			"shape": "circle"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "3E79FD2B962A0B87"
+					"type": "item"
+					"item": {
+						"id": "fruitsdelight:cranberry_jam"
+						"count": 1
+					}
+					"count": 1
+				}
+			]
+			"rewards": [
+				{
+					"id": "612F981BA4691056"
+					"type": "xp"
+					"xp": 50
+				}
+				{
+					"id": "5B8BA54B1A454F10"
+					"type": "item"
+					"item": {
+						"id": "ftbquests:lootcrate"
+						"count": 1
+						"components": {
+							"ftbquests:loot_crate": "stocking"
+						}
+					}
+				}
+				{
+					"id": "5D86BAE8DA30B736"
+					"type": "item"
+					"item": {
+						"id": "fruitsdelight:lemon"
+						"count": 1
+					}
+					"count": 4
+				}
+				{
+					"id": "55ECB3E78D171CD0"
+					"type": "item"
+					"item": {
+						"id": "fruitsdelight:cranberry"
+						"count": 1
+					}
+					"count": 16
+				}
+				{
+					"id": "404B9E6B3F4185DA"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_10"
+						"count": 1
+					}
+				}
+				{
+					"id": "06F4CA435B4E9323"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_5"
+						"count": 1
+					}
+				}
+			]
+		}
+		{
+			"id": "67145DC2D061549B"
+			"dependencies": [
+				"310F90E7AAA1C81D"
+			]
+			"icon": {
+				"id": "naturalist:cooked_drumstick"
+			}
+			"x": 13.35d
+			"y": 1.5d
+			"shape": "circle"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "6D93F1B2634176DF"
+					"type": "item"
+					"item": {
+						"id": "naturalist:cooked_drumstick"
+						"count": 1
+					}
+					"count": 1
+				}
+			]
+			"rewards": [
+				{
+					"id": "3E4275641B70197B"
+					"type": "xp"
+					"xp": 50
+				}
+				{
+					"id": "50356E0C36038BDB"
+					"type": "item"
+					"item": {
+						"id": "ftbquests:lootcrate"
+						"count": 1
+						"components": {
+							"ftbquests:loot_crate": "stocking"
+						}
+					}
+				}
+				{
+					"id": "56FC689B8740C251"
+					"type": "item"
+					"item": {
+						"id": "minecraft:cooked_chicken"
+						"count": 1
+					}
+					"count": 8
+				}
+				{
+					"id": "23789E4C62BE8F96"
+					"type": "item"
+					"item": {
+						"id": "farmersdelight:onion"
+						"count": 1
+					}
+					"count": 8
+				}
+				{
+					"id": "532933195D45BEAD"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_10"
+						"count": 1
+					}
+				}
+				{
+					"id": "0F1CB026D2A41510"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_5"
+						"count": 1
+					}
+				}
+			]
+		}
+		{
+			"id": "4714E0BB08ACA4DC"
+			"dependencies": [
+				"1872715D300C1F81"
+			]
+			"icon": {
+				"id": "displaydelight:food_plate"
+			}
+			"x": 3.35d
+			"y": 0.5d
+			"shape": "rsquare"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "66C3336A717A5D2A"
+					"type": "item"
+					"item": {
+						"id": "displaydelight:food_plate"
+						"count": 1
+					}
+					"count": 1
+				}
+			]
+			"rewards": [
+				{
+					"id": "1181226C0932B00E"
+					"type": "xp"
+					"xp": 50
+				}
+				{
+					"id": "159FE922979838B5"
+					"type": "item"
+					"item": {
+						"id": "ftbquests:lootcrate"
+						"count": 1
+						"components": {
+							"ftbquests:loot_crate": "stocking"
+						}
+					}
+				}
+				{
+					"id": "4169F7472F73C576"
+					"type": "item"
+					"item": {
+						"id": "displaydelight:small_food_plate"
+						"count": 1
+					}
+					"count": 8
+				}
+				{
+					"id": "287470558A65E8B2"
+					"type": "item"
+					"item": {
+						"id": "minecraft:candle"
+						"count": 1
+					}
+					"count": 8
+				}
+				{
+					"id": "166714881C31587B"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_10"
+						"count": 1
+					}
+				}
+				{
+					"id": "35D0F1A2EC05E060"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_5"
+						"count": 1
+					}
+				}
+			]
+			"optional": true
+		}
+		{
+			"id": "2A6C37EFE40C2F5D"
+			"dependencies": [
+				"2A05C0645CCDAE37"
+				"5A35EB5DF0F5F067"
+				"14B33F2E980204B3"
+				"67145DC2D061549B"
+				"6FE8EBBC7B4F346D"
+			]
+			"icon": {
+				"id": "farmersdelight:roast_chicken_block"
+			}
+			"x": 15.85d
+			"y": 3.0d
+			"shape": "heart"
+			"size": 2.2d
+			"tasks": [
+				{
+					"id": "2D2A2C24265D19C3"
+					"type": "item"
+					"item": {
+						"id": "farmersdelight:roast_chicken_block"
+						"count": 1
+					}
+					"count": 1
+				}
+			]
+			"rewards": [
+				{
+					"id": "7139E97C31FA8E47"
+					"type": "xp"
+					"xp": 600
+				}
+				{
+					"id": "0CC448A905B21DD4"
+					"type": "xp_levels"
+					"xp_levels": 5
+				}
+				{
+					"id": "5289B86174C05864"
+					"type": "item"
+					"item": {
+						"id": "ftbquests:lootcrate"
+						"count": 1
+						"components": {
+							"ftbquests:loot_crate": "santas_sack"
+						}
+					}
+				}
+				{
+					"id": "275F9DE9920BCADD"
+					"type": "item"
+					"item": {
+						"id": "ftbquests:lootcrate"
+						"count": 1
+						"components": {
+							"ftbquests:loot_crate": "big_present"
+						}
+					}
+				}
+				{
+					"id": "42831E50C67128BA"
+					"type": "item"
+					"item": {
+						"id": "snowyspirit:gingerbread_golem_spawn_egg"
+						"count": 1
+					}
+				}
+				{
+					"id": "294C0B60DA13AFC7"
+					"type": "item"
+					"item": {
+						"id": "minecraft:enchanted_golden_apple"
+						"count": 1
+					}
+				}
+				{
+					"id": "21E0E73A87FA35E0"
+					"type": "item"
+					"item": {
+						"id": "farmersdelight:honey_glazed_ham"
+						"count": 1
+					}
+					"count": 4
+				}
+				{
+					"id": "6673149AD235C654"
+					"type": "item"
+					"item": {
+						"id": "farmersdelight:shepherds_pie"
+						"count": 1
+					}
+					"count": 4
+				}
+				{
+					"id": "5587854FC3663B93"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_500"
+						"count": 1
+					}
+				}
+				{
+					"id": "5686EC54F0103191"
+					"type": "command"
+					"command": "summon minecraft:firework_rocket ~ ~1 ~ {LifeTime:30,FireworksItem:{id:\"minecraft:firework_rocket\",count:1,components:{\"minecraft:fireworks\":{flight_duration:1b,explosions:[{shape:\"star\",has_twinkle:true,has_trail:true,colors:[I;11739178,2067514,15252771],fade_colors:[I;16777215]}]}}}}"
+					"permission_level": 2
+					"silent": true
+					"team_reward": false
+					"icon": {
+						"id": "minecraft:firework_rocket"
+					}
+				}
+			]
+		}
+	]
+}

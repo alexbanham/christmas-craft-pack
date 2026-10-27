@@ -1,0 +1,23 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "hearthandharvest"
+    },
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "cocktailsdelight"
+    }
+  ],
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "hearthandharvest:hard_cider"
+    }
+  ],
+  "result": {
+    "id": "cocktailsdelight:hard_cider",
+    "count": 1
+  }
+}

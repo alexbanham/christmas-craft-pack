@@ -1,0 +1,199 @@
+{
+	"id": "2F987FFAF3252378"
+	"order_index": 0
+	"loot_size": 3
+	"use_title": true
+	"rewards": [
+		{
+			"id": "62533460A62FCFD6"
+			"item": {
+				"id": "minecraft:cookie"
+				"count": 1
+			}
+			"count": 6
+			"random_bonus": 6
+			"weight": 10.0d
+		}
+		{
+			"id": "2231E8C12C85E5E2"
+			"item": {
+				"id": "create:sweet_roll"
+				"count": 1
+			}
+			"count": 2
+			"random_bonus": 2
+			"weight": 8.0d
+		}
+		{
+			"id": "57A394053976B5F2"
+			"item": {
+				"id": "create:honeyed_apple"
+				"count": 1
+			}
+			"random_bonus": 2
+			"weight": 6.0d
+		}
+		{
+			"id": "52A9AD1B53B897A0"
+			"item": {
+				"id": "farmersdelight:sweet_berry_cookie"
+				"count": 1
+			}
+			"count": 4
+			"random_bonus": 4
+			"weight": 8.0d
+		}
+		{
+			"id": "113928DEBCC824DF"
+			"item": {
+				"id": "minecraft:pumpkin_pie"
+				"count": 1
+			}
+			"random_bonus": 1
+			"weight": 6.0d
+		}
+		{
+			"id": "68E3AE4FCD0695CD"
+			"item": {
+				"id": "farmersdelight:honey_cookie"
+				"count": 1
+			}
+			"count": 2
+			"random_bonus": 2
+			"weight": 6.0d
+		}
+		{
+			"id": "30F4FAED1E5E5DE8"
+			"item": {
+				"id": "minecraft:glow_berries"
+				"count": 1
+			}
+			"count": 4
+			"random_bonus": 4
+			"weight": 5.0d
+		}
+		{
+			"id": "6D701A1C2D7CA1A7"
+			"item": {
+				"id": "minecraft:torch"
+				"count": 1
+			}
+			"count": 16
+			"random_bonus": 16
+			"weight": 8.0d
+		}
+		{
+			"id": "6428472D5BDD71CA"
+			"item": {
+				"id": "minecraft:iron_nugget"
+				"count": 1
+			}
+			"count": 9
+			"random_bonus": 9
+			"weight": 8.0d
+		}
+		{
+			"id": "29890352B6257F3D"
+			"item": {
+				"id": "create:copper_nugget"
+				"count": 1
+			}
+			"count": 9
+			"random_bonus": 9
+			"weight": 6.0d
+		}
+		{
+			"id": "262C33F2D5B434D1"
+			"item": {
+				"id": "minecraft:gold_nugget"
+				"count": 1
+			}
+			"count": 6
+			"random_bonus": 6
+			"weight": 5.0d
+		}
+		{
+			"id": "17EA6956E32DE79A"
+			"item": {
+				"id": "create:experience_nugget"
+				"count": 1
+			}
+			"count": 2
+			"random_bonus": 3
+			"weight": 8.0d
+		}
+		{
+			"id": "49705BC7BE733068"
+			"item": {
+				"id": "minecraft:firework_rocket"
+				"count": 1
+			}
+			"count": 2
+			"random_bonus": 2
+			"weight": 4.0d
+		}
+		{
+			"id": "4176739C9E168AC0"
+			"item": {
+				"id": "create_wrapped:pine_cone"
+				"count": 1
+			}
+			"count": 2
+			"random_bonus": 2
+			"weight": 3.0d
+		}
+		{
+			"id": "3B399012C8B42413"
+			"item": {
+				"id": "minecraft:snowball"
+				"count": 1
+			}
+			"count": 8
+			"random_bonus": 8
+			"weight": 3.0d
+		}
+		{
+			"id": "2970228F087AA4C4"
+			"item": {
+				"id": "minecraft:red_candle"
+				"count": 1
+			}
+			"random_bonus": 1
+			"weight": 2.0d
+		}
+		{
+			"id": "70C6A3F09807A5DF"
+			"item": {
+				"id": "minecraft:green_candle"
+				"count": 1
+			}
+			"random_bonus": 1
+			"weight": 2.0d
+		}
+		{
+			"id": "38CDC96567DD538D"
+			"item": {
+				"id": "minecraft:coal"
+				"count": 1
+				"components": {
+					"minecraft:custom_name": "{\"text\":\"Lump of Coal\",\"italic\":false}"
+					"minecraft:lore": [
+						"{\"text\":\"Somebody was a little bit naughty.\",\"color\":\"gray\"}"
+					]
+				}
+			}
+			"weight": 2.0d
+		}
+	]
+	"loot_crate": {
+		"string_id": "stocking"
+		"item_name": "Christmas Stocking"
+		"color": 11739178
+		"glow": false
+		"drops": {
+			"passive": 0
+			"monster": 0
+			"boss": 0
+		}
+	}
+}

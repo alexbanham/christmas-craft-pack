@@ -1,0 +1,40 @@
+{
+	"id": "653EAF75B8ACC1E1"
+	"order_index": 11
+	"loot_size": 1
+	"use_title": true
+	"rewards": [
+		{
+			"id": "3F1CC7603BAF75E6"
+			"item": {
+				"id": "snowyspirit:glow_lights_white"
+				"count": 1
+			}
+			"count": 32
+		}
+		{
+			"id": "66D1212644CBC3E0"
+			"item": {
+				"id": "snowyspirit:glow_lights_yellow"
+				"count": 1
+			}
+			"count": 32
+		}
+		{
+			"id": "7F56D6E019F9D745"
+			"item": {
+				"id": "snowyspirit:glow_lights_blue"
+				"count": 1
+			}
+			"count": 32
+		}
+		{
+			"id": "1B7A438253A96385"
+			"item": {
+				"id": "snowyspirit:glow_lights_prismatic"
+				"count": 1
+			}
+			"count": 16
+		}
+	]
+}

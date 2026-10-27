@@ -1,0 +1,18 @@
+{
+  "type": "create_mechanical_extruder:extruding",
+  "blockIngredients": {
+    "first": {
+      "blocks": "minecraft:gold_block"
+    },
+    "second": {
+      "blocks": "minecraft:lava"
+    }
+  },
+  "result": {
+    "id": "create:ochrum"
+  },
+  "consumeBlocks": {
+    "first": true,
+    "second": false
+  }
+}

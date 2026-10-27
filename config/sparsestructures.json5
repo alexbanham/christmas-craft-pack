@@ -1,0 +1,28 @@
+// ### THE MOD REQUIRES A RESTART OF THE GAME TO APPLY CHANGES ###
+// Christmas Craft 2026 (integration-spec-worldgen-mobs-2026-10-27 section 4.1).
+// spreadFactor 1 = vanilla spacing (mod default 2 would double all spacing, snowy villages included).
+// idBasedSalt false keeps vanilla salts so seed-scan results stay valid; overlap risk accepted.
+{
+  "spreadFactor": 1,
+
+  "idBasedSalt": false,
+
+  "customSpreadFactors": [
+    { "structure": "minecraft:mansion", "factor": 1 },
+    // 0 = disabled: off-tone, hostile, or duplicate of YUNG's Better Mineshafts
+    { "structure": "repurposed_structures:mineshafts_overworld", "factor": 0 },
+    { "structure": "repurposed_structures:mineshafts_ocean", "factor": 0 },
+    { "structure": "repurposed_structures:bastions_overworld", "factor": 0 },
+    { "structure": "repurposed_structures:fortresses_overworld", "factor": 0 },
+    { "structure": "repurposed_structures:cities_overworld", "factor": 0 },
+    { "structure": "repurposed_structures:ancient_cities_overworld", "factor": 0 },
+    { "structure": "create_structures_arise:createmonsterroom", "factor": 0 },
+    { "structure": "create_structures_arise:darkcastle", "factor": 0 },
+    { "structure": "create_structures_arise:deadlordshouse", "factor": 0 },
+    { "structure": "create_structures_arise:obsidiantemple", "factor": 0 },
+    { "structure": "create_structures_arise:create_bastion", "factor": 0 },
+    { "structure": "create_structures_arise:create_dungeon_base", "factor": 0 },
+    { "structure": "explorify:black_spirals", "factor": 0 },
+    { "structure": "explorify:mausoleums", "factor": 0 }
+  ]
+}

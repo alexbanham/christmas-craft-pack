@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "create:bar_of_chocolate",
+      "required": false
+    },
+    {
+      "id": "hearthandharvest:chocolate_bar",
+      "required": false
+    },
+    {
+      "id": "create_confectionery:full_chocolate_bar",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+	"id": "44AD0C94E70657F7"
+	"order_index": 13
+	"loot_size": 1
+	"use_title": true
+	"rewards": [
+		{
+			"id": "3A96AF99B048EFAC"
+			"item": {
+				"id": "ftbquests:lootcrate"
+				"count": 1
+				"components": {
+					"ftbquests:loot_crate": "kit_railway"
+					"minecraft:lore": [
+						"{\"text\": \"64 x stone slab\", \"color\": \"gray\", \"italic\": false}"
+						"{\"text\": \"128 x iron nugget\", \"color\": \"gray\", \"italic\": false}"
+						"{\"text\": \"64 x zinc nugget\", \"color\": \"gray\", \"italic\": false}"
+						"{\"text\": \"16 x obsidian\", \"color\": \"gray\", \"italic\": false}"
+						"{\"text\": \"32 x andesite alloy\", \"color\": \"gray\", \"italic\": false}"
+						"{\"text\": \"2 x compass\", \"color\": \"gray\", \"italic\": false}"
+						"{\"text\": \"2 x lever\", \"color\": \"gray\", \"italic\": false}"
+					]
+				}
+			}
+		}
+		{
+			"id": "0E1E5E110EF53021"
+			"item": {
+				"id": "ftbquests:lootcrate"
+				"count": 1
+				"components": {
+					"ftbquests:loot_crate": "kit_skies"
+					"minecraft:lore": [
+						"{\"text\": \"64 x white wool\", \"color\": \"gray\", \"italic\": false}"
+						"{\"text\": \"32 x red wool\", \"color\": \"gray\", \"italic\": false}"
+						"{\"text\": \"32 x stick\", \"color\": \"gray\", \"italic\": false}"
+						"{\"text\": \"8 x honey bottle\", \"color\": \"gray\", \"italic\": false}"
+						"{\"text\": \"8 x ender pearl\", \"color\": \"gray\", \"italic\": false}"
+						"{\"text\": \"4 x blaze rod\", \"color\": \"gray\", \"italic\": false}"
+						"{\"text\": \"2 x lever\", \"color\": \"gray\", \"italic\": false}"
+					]
+				}
+			}
+		}
+		{
+			"id": "7671728397DE31E8"
+			"item": {
+				"id": "ftbquests:lootcrate"
+				"count": 1
+				"components": {
+					"ftbquests:loot_crate": "kit_town"
+					"minecraft:lore": [
+						"{\"text\": \"64 x spruce log\", \"color\": \"gray\", \"italic\": false}"
+						"{\"text\": \"32 x glass\", \"color\": \"gray\", \"italic\": false}"
+						"{\"text\": \"32 x string\", \"color\": \"gray\", \"italic\": false}"
+						"{\"text\": \"16 x glowstone\", \"color\": \"gray\", \"italic\": false}"
+						"{\"text\": \"32 x white wool\", \"color\": \"gray\", \"italic\": false}"
+						"{\"text\": \"16 x red dye\", \"color\": \"gray\", \"italic\": false}"
+						"{\"text\": \"16 x green dye\", \"color\": \"gray\", \"italic\": false}"
+					]
+				}
+			}
+		}
+		{
+			"id": "00474D80B644143C"
+			"item": {
+				"id": "ftbquests:lootcrate"
+				"count": 1
+				"components": {
+					"ftbquests:loot_crate": "kit_kitchen"
+					"minecraft:lore": [
+						"{\"text\": \"8 x tomato seeds\", \"color\": \"gray\", \"italic\": false}"
+						"{\"text\": \"8 x cabbage seeds\", \"color\": \"gray\", \"italic\": false}"
+						"{\"text\": \"8 x onion\", \"color\": \"gray\", \"italic\": false}"
+						"{\"text\": \"8 x rice\", \"color\": \"gray\", \"italic\": false}"
+						"{\"text\": \"16 x sugar cane\", \"color\": \"gray\", \"italic\": false}"
+						"{\"text\": \"16 x cocoa beans\", \"color\": \"gray\", \"italic\": false}"
+						"{\"text\": \"16 x egg\", \"color\": \"gray\", \"italic\": false}"
+						"{\"text\": \"2 x milk bucket\", \"color\": \"gray\", \"italic\": false}"
+					]
+				}
+			}
+		}
+		{
+			"id": "02E5DAFE42BB87D3"
+			"item": {
+				"id": "create:precision_mechanism"
+				"count": 1
+			}
+			"count": 8
+		}
+	]
+}

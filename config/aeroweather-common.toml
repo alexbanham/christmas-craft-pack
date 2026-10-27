@@ -1,0 +1,249 @@
+#How the wind itself behaves: its natural drift and gusts, how weather and altitude
+#change it, how it varies across biomes, and the upper wind layer above the clouds.
+[wind]
+
+	#Natural wind drift: how the base direction/strength wander over time.
+	[wind.drift]
+		#Maximum degrees a newly rolled drift target may differ from the current direction.
+		# Default: 20.0
+		# Range: 0.0 ~ 180.0
+		maxDirectionDeltaDegrees = 20.0
+		#Maximum a newly rolled drift target may differ from the current strength (0-100 scale).
+		# Default: 15.0
+		# Range: 0.0 ~ 100.0
+		maxStrengthDelta = 15.0
+		#Minimum seconds between drift target re-rolls.
+		# Default: 15
+		# Range: 1 ~ 3600
+		retargetMinSeconds = 15
+		#Maximum seconds between drift target re-rolls.
+		# Default: 45
+		# Range: 1 ~ 3600
+		retargetMaxSeconds = 45
+		#Fraction of the remaining distance to the drift target covered each simulation step (higher = faster drift).
+		# Default: 0.08
+		# Range: 0.001 ~ 1.0
+		lerpFactor = 0.08
+
+	#Short-lived strength spikes layered on top of the drift.
+	[wind.gust]
+		#Chance per simulation step (roughly once per second) that a new gust starts.
+		# Default: 0.02
+		# Range: 0.0 ~ 1.0
+		chancePerSecond = 0.02
+		#Minimum additive strength a gust spikes to.
+		# Default: 10.0
+		# Range: 0.0 ~ 100.0
+		minMagnitude = 10.0
+		#Maximum additive strength a gust spikes to.
+		# Default: 25.0
+		# Range: 0.0 ~ 100.0
+		maxMagnitude = 25.0
+		#How many seconds a gust takes to ramp back down to 0.
+		# Default: 4
+		# Range: 1 ~ 600
+		durationSeconds = 4
+
+	#How weather sets the range wind wanders in. Natural wind drifts evenly between the floor
+	#and the current weather's cap, so by default 10-50, 10-75 and 10-100, averaging 30, 42.5 and 55.
+	[wind.weather]
+		#How quickly the range widens or narrows when the weather changes, as a fraction of the remaining difference per second. Higher responds faster; lower eases in more gently.
+		# Default: 0.1
+		# Range: 0.001 ~ 1.0
+		easeFactor = 0.1
+		#The lowest natural wind can ever drop, in any weather, before height scaling. The range starts here rather than at 0, and the wind still wanders evenly across what's left. 0 allows dead calm. Operator commands and the breeze maker can still set any strength.
+		# Default: 10.0
+		# Range: 0.0 ~ 100.0
+		strengthFloor = 10.0
+		#Top of the range natural wind wanders in while it's neither raining nor thundering, before height scaling.
+		# Default: 50.0
+		# Range: 0.0 ~ 100.0
+		strengthCapClear = 40.0
+		#Top of the range natural wind wanders in while raining (and not thundering), before height scaling.
+		# Default: 75.0
+		# Range: 0.0 ~ 100.0
+		strengthCapRain = 65.0
+		#Top of the range natural wind wanders in while thundering, before height scaling.
+		# Default: 100.0
+		# Range: 0.0 ~ 100.0
+		strengthCapThunder = 90.0
+
+	#How wind strength scales with elevation, approximating the real-world
+	#wind profile power law (wind speed increasing with height above the
+	#surface): a share of the base strength at sea level, ramping up above it, and none
+	#at all below sea level. Server-authoritative
+	#since /aeroweather wind info reports the elevation-adjusted value, and the
+	#aeronautics wind force below samples it at a contraption's own altitude.
+	[wind.height]
+		#Blocks above sea level where the height multiplier reaches 1.0 (unmodified base strength).
+		# Default: 25.0
+		# Range: 1.0 ~ 4064.0
+		referenceAboveSeaLevel = 25.0
+		#Power-law exponent controlling how quickly the multiplier ramps up with height.
+		# Default: 0.5
+		# Range: 0.0 ~ 5.0
+		exponent = 0.5
+		#Upper bound on the height multiplier, so extreme altitudes don't become absurd.
+		# Default: 2.0
+		# Range: 1.0 ~ 20.0
+		maxMultiplier = 2.0
+		#Multiplier at sea level: the least wind anywhere at or above it, as a share of the base strength. The height curve takes over once it climbs past this. Below sea level there is no wind at all. 0 gives a pure power law, with no wind at sea level either.
+		# Default: 0.5
+		# Range: 0.0 ~ 1.0
+		seaLevelMultiplier = 0.5
+
+	#Wind that varies from place to place instead of being one value per dimension.
+	#Direction is bent by a smooth flow map; strength is scaled by the biome, blended
+	#across borders so neighbouring biomes never jump.
+	[wind.biomeWind]
+		#Whether wind varies by position at all. Off falls back to one wind direction and strength for the whole dimension, exactly as the mod behaved before 1.5.0.
+		perBiomeWindEnabled = true
+		#How strongly a biome's own factor counts. 1 applies it in full, 0.5 halves the difference from normal, 0 ignores biomes entirely and leaves only the flow map.
+		# Default: 1.0
+		# Range: 0.0 ~ 1.0
+		biomeWindStrengthInfluence = 1.0
+		#How far a biome's wind bleeds past its border. Larger values make the change more gradual and cost slightly more to compute; a border eases over roughly twice this distance.
+		# Default: 48.0
+		# Range: 0.0 ~ 256.0
+		biomeWindBlendRadiusBlocks = 48.0
+		#The furthest the flow map can bend wind away from the dimension's prevailing direction. 0 keeps direction uniform everywhere and leaves only biome strength variation.
+		# Default: 60.0
+		# Range: 0.0 ~ 180.0
+		flowMapMaxDirectionDeviationDegrees = 60.0
+		#Roughly how many blocks across one feature of the flow map is. Larger values give broad, slowly turning weather systems; smaller ones make wind change direction over shorter distances.
+		# Default: 768.0
+		# Range: 32.0 ~ 8192.0
+		flowMapScaleBlocks = 768.0
+		#How much the flow map varies strength on top of the biome factor, as a fraction. 0.15 means plus or minus 15 percent, so wind isn't perfectly even within one biome.
+		# Default: 0.15
+		# Range: 0.0 ~ 1.0
+		flowMapStrengthVariation = 0.15
+		#Per-biome wind strength multipliers, as 'namespace:biome=1.0' entries.
+		#Above 1 is windier than normal, below 1 is more sheltered.
+		#This list fills itself in: every biome the game has loaded, modded ones included, is
+		#added on world load with a starting value guessed from its tags, so you can edit it here.
+		#Delete an entry to have it guessed again.
+		biomeWindFactors = ["minecraft:badlands=1.25", "minecraft:bamboo_jungle=0.55", "minecraft:basalt_deltas=1.15", "minecraft:beach=1.25", "minecraft:birch_forest=0.70", "minecraft:cherry_grove=0.95", "minecraft:cold_ocean=1.30", "minecraft:crimson_forest=1.15", "minecraft:dark_forest=0.55", "minecraft:deep_cold_ocean=1.35", "minecraft:deep_dark=0.40", "minecraft:deep_frozen_ocean=1.35", "minecraft:deep_lukewarm_ocean=1.35", "minecraft:deep_ocean=1.35", "minecraft:desert=1.25", "minecraft:dripstone_caves=0.40", "minecraft:end_barrens=0.88", "minecraft:end_highlands=0.88", "minecraft:end_midlands=0.88", "minecraft:eroded_badlands=1.25", "minecraft:flower_forest=0.70", "minecraft:forest=0.70", "minecraft:frozen_ocean=1.30", "minecraft:frozen_peaks=1.30", "minecraft:frozen_river=1.05", "minecraft:grove=0.70", "minecraft:ice_spikes=0.88", "minecraft:jagged_peaks=1.30", "minecraft:jungle=0.55", "minecraft:lukewarm_ocean=1.30", "minecraft:lush_caves=0.40", "minecraft:mangrove_swamp=0.55", "minecraft:meadow=0.95", "minecraft:mushroom_fields=0.65", "minecraft:nether_wastes=1.15", "minecraft:ocean=1.30", "minecraft:old_growth_birch_forest=0.55", "minecraft:old_growth_pine_taiga=0.60", "minecraft:old_growth_spruce_taiga=0.55", "minecraft:plains=1.15", "minecraft:river=1.05", "minecraft:savanna=1.15", "minecraft:savanna_plateau=1.20", "minecraft:small_end_islands=0.88", "minecraft:snowy_beach=1.25", "minecraft:snowy_plains=1.15", "minecraft:snowy_slopes=0.95", "minecraft:snowy_taiga=0.70", "minecraft:soul_sand_valley=1.15", "minecraft:sparse_jungle=0.55", "minecraft:stony_peaks=1.30", "minecraft:stony_shore=1.20", "minecraft:sunflower_plains=1.15", "minecraft:swamp=0.65", "minecraft:taiga=0.70", "minecraft:the_end=0.88", "minecraft:the_void=0.88", "minecraft:warm_ocean=1.30", "minecraft:warped_forest=1.15", "minecraft:windswept_forest=0.70", "minecraft:windswept_gravelly_hills=0.95", "minecraft:windswept_hills=0.95", "minecraft:windswept_savanna=1.30", "minecraft:wooded_badlands=1.25"]
+
+	#A second wind layer above cloud level, blowing differently from the wind below it. The two
+	#are blended across a transition band rather than switching at a line. Only in dimensions
+	#with a sky (skylight and no ceiling), so not the Nether or the End. Strength in both
+	#layers still follows the height settings above.
+	[wind.upperWind]
+		#Whether there is an upper wind layer at all. Off gives one layer of wind all the way up.
+		upperWindEnabled = true
+		#SIMPLE: above the layer the wind blows the opposite way, and dies away to nothing where the layers meet.
+		#COMPLEX: above the layer the wind follows a flow map of its own, turned from the surface wind by an angle that wanders over time (the offset and walk settings below).
+		#Allowed Values: SIMPLE, COMPLEX
+		upperWindMode = "COMPLEX"
+		#The Y level where the two layers meet: the middle of the transition band. 192 is vanilla's cloud height.
+		# Default: 170.0
+		# Range: -64.0 ~ 4064.0
+		upperWindLayerHeight = 170.0
+		#How tall the band is that the two layers blend across, centred on the layer height. 0 switches abruptly at the layer height.
+		# Default: 32.0
+		# Range: 0.0 ~ 512.0
+		upperWindTransitionBlocks = 32.0
+		#COMPLEX only: how far, in degrees clockwise, the upper layer's wind is turned from the wind below before the walk is added.
+		# Default: 90.0
+		# Range: -180.0 ~ 180.0
+		upperWindOffsetDegrees = 90.0
+		#COMPLEX only: the lowest the slowly wandering walk adds to the offset. With the defaults the total turn wanders between 60 and 180 degrees.
+		# Default: -30.0
+		# Range: -180.0 ~ 180.0
+		upperWindOffsetWalkMinDegrees = -30.0
+		#COMPLEX only: the highest the walk adds to the offset. Set it equal to the minimum to hold the offset still.
+		# Default: 90.0
+		# Range: -180.0 ~ 180.0
+		upperWindOffsetWalkMaxDegrees = 90.0
+		#COMPLEX only: roughly how many seconds the walk takes to wander from one point in its range to a new one. Larger values turn the upper wind more slowly.
+		# Default: 600
+		# Range: 10 ~ 86400
+		upperWindOffsetWalkPeriodSeconds = 600
+
+#AeroWeather's own blocks and items: the wind vanes, the wind bearing and the breeze maker.
+[itemsAndBlocks]
+
+	#How the brass wind vane turns wind into a redstone signal (M10). Server-authoritative:
+	#the server computes the signal, and the client reads the same value to pace both vanes'
+	#swing, so a brass vane's swing agrees with its signal.
+	[itemsAndBlocks.windVane]
+		#Elevation-adjusted wind strength at which a brass wind vane outputs a full redstone signal of 15, scaling linearly down to 0 in calm air. Also the strength at which either vane swings toward the wind at full speed. Defaults to the clear-weather strength cap, so a full signal means genuinely strong wind rather than an ordinary day.
+		# Default: 50.0
+		# Range: 1.0 ~ 300.0
+		windVaneFullSignalStrength = 50.0
+
+	#The wind bearing, which turns its assembled contraption to face the wind while it has
+	#rotational power. Ignored unless Create, Create Simulated and Sable are all installed.
+	[itemsAndBlocks.windBearing]
+		#Whether wind bearings turn toward the wind. When off they hold their contraption still, since nothing else drives them.
+		windBearingEnabled = true
+		#Added to the wind's bearing before the contraption is turned to it. A contraption has no inherent front - angle 0 is however it was assembled - so build yours facing north and leave this at 0, or set it to whichever bearing its front faced when assembled (90 for east, and so on).
+		# Default: 0.0
+		# Range: -180.0 ~ 180.0
+		windBearingFacingOffsetDegrees = 0.0
+
+	#The breeze maker: right-clicking the air sets the wind to blow the way the player faces,
+	#for a while. Server-authoritative. An operator's /aeroweather override takes precedence.
+	[itemsAndBlocks.breezeMaker]
+		#How long a breeze lasts, in seconds, before natural wind resumes. Using the breeze maker again starts a new breeze.
+		# Default: 60
+		# Range: 1 ~ 3600
+		breezeMakerDurationSeconds = 60
+		#Wind strength (0-100, before elevation scaling) a breeze sets.
+		# Default: 50.0
+		# Range: 0.0 ~ 100.0
+		breezeMakerStrength = 50.0
+		#Mobs and other players within this many blocks of the user are blown away from them when a breeze is summoned. 0 disables the push.
+		# Default: 8.0
+		# Range: 0.0 ~ 32.0
+		breezeMakerPushRadius = 8.0
+		#How hard they're pushed, on vanilla's knockback scale (an ordinary melee hit is 0.4). Knockback resistance still applies.
+		# Default: 1.0
+		# Range: 0.0 ~ 5.0
+		breezeMakerPushStrength = 1.0
+
+#Tuning for the wind force applied to Create Aeronautics / Sable contraptions (M7).
+#Force = pressureCoefficient * sectionalArea * windSpeed^2 * liftRatio, then eased by
+#a slow oscillation, applied at the contraption's center of mass. Requires Sable to be
+#installed; has no effect otherwise.
+[aeronautics]
+	#Scales sectional area * elevation-adjusted wind strength^2 into a force magnitude.
+	# Default: 1.0E-5
+	# Range: 0.0 ~ 1000.0
+	pressureCoefficient = 1.0E-5
+	#Safety clamp on the computed force magnitude, regardless of contraption size or wind strength.
+	# Default: 5000.0
+	# Range: 0.0 ~ 1000000.0
+	maxForce = 2500.0
+	#Fractional force oscillation (e.g. 0.05 = force varies +/-5%) - a subtle gust-like ripple, not a separate force.
+	# Default: 0.6
+	# Range: 0.0 ~ 1.0
+	oscillationAmplitude = 0.6
+	#Seconds for one full oscillation cycle.
+	# Default: 2.0
+	# Range: 0.1 ~ 600.0
+	oscillationPeriodSeconds = 2.0
+
+#How wind drives Create windmill bearings (M9). Their normal sail-count speed is
+#multiplied by the elevation-adjusted wind strength at the windmill, then by how
+#squarely the wind meets the windmill's front face. Requires Create to be installed;
+#has no effect otherwise. Server-authoritative: the client computes the same
+#multiplier to spin the sails visually, so both sides must agree on these values.
+[windmills]
+	#Whether wind affects Create windmill speed at all. When false, windmills behave exactly as vanilla Create.
+	windmillsEnabled = true
+	#Elevation-adjusted wind strength at which a windmill spins at its normal (unmodified) Create speed. Defaults to half the clear-weather strength cap, so ordinary clear-day wind already drives a windmill somewhat above its normal speed.
+	# Default: 25.0
+	# Range: 1.0 ~ 100.0
+	windmillFullSpeedStrength = 25.0
+	#Upper bound on the wind speed multiplier. Above 1.0, strong wind overspeeds windmills past their sail rating (1.5 is reached at adjusted strength 75, the rain cap).
+	# Default: 1.5
+	# Range: 0.0 ~ 5.0
+	windmillMaxSpeedMultiplier = 1.25
+	#What the speed multiplier falls to when wind runs exactly parallel to the windmill's face. 0 stops it completely; 1 disables directional dampening. Wind within 45 degrees of the face normal is never dampened.
+	# Default: 0.0
+	# Range: 0.0 ~ 1.0
+	windmillMinDirectionalScale = 0.0
+	#Whether wind arriving at the back of a windmill spins it in the opposite direction, instead of driving it forwards regardless of which face it hits.
+	windmillReverseWhenBehind = false

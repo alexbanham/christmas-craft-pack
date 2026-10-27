@@ -1,0 +1,7 @@
+# Christmas Craft: Vapor Trails frame-time headroom (integration spec 4.11).
+# Keys and defaults come from the spec's bytecode read (adaptiveQuality true, targetFps 45, maxParticles 2000);
+# the file name follows NeoForge's <modid>-client.toml default. Unset keys are filled with defaults.
+[general]
+	adaptiveQuality = true
+	targetFps = 50
+	maxParticles = 1500

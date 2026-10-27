@@ -1,0 +1,11 @@
+{
+  "type": "tipsmod:simple",
+  "title": {
+    "text": "Christmas Craft tip",
+    "color": "red",
+    "bold": true
+  },
+  "text": {
+    "text": "Sit at an airship's controls to see the Flight HUD: airspeed, altitude and heading. Its keys are under Options > Controls > AeroFlightHUD."
+  }
+}

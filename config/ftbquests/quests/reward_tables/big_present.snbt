@@ -1,0 +1,202 @@
+{
+	"id": "3848E9948122780E"
+	"order_index": 2
+	"loot_size": 3
+	"use_title": true
+	"rewards": [
+		{
+			"id": "4489A3C89163868E"
+			"item": {
+				"id": "minecraft:iron_block"
+				"count": 1
+			}
+			"count": 2
+			"random_bonus": 2
+			"weight": 10.0d
+		}
+		{
+			"id": "5FC264173E09BBEA"
+			"item": {
+				"id": "minecraft:copper_ingot"
+				"count": 1
+			}
+			"count": 32
+			"random_bonus": 16
+			"weight": 8.0d
+		}
+		{
+			"id": "5D589CDBA69EA65B"
+			"item": {
+				"id": "minecraft:gold_ingot"
+				"count": 1
+			}
+			"count": 12
+			"random_bonus": 8
+			"weight": 8.0d
+		}
+		{
+			"id": "388A8B5EACE2C05A"
+			"item": {
+				"id": "minecraft:diamond"
+				"count": 1
+			}
+			"count": 2
+			"random_bonus": 2
+			"weight": 6.0d
+		}
+		{
+			"id": "4199E5E227910DAF"
+			"item": {
+				"id": "minecraft:emerald"
+				"count": 1
+			}
+			"count": 4
+			"random_bonus": 4
+			"weight": 5.0d
+		}
+		{
+			"id": "6B1D8BD248766CC0"
+			"item": {
+				"id": "minecraft:lapis_lazuli"
+				"count": 1
+			}
+			"count": 16
+			"random_bonus": 8
+			"weight": 5.0d
+		}
+		{
+			"id": "6BC16015D9D04B3E"
+			"item": {
+				"id": "create:polished_rose_quartz"
+				"count": 1
+			}
+			"count": 4
+			"random_bonus": 4
+			"weight": 5.0d
+		}
+		{
+			"id": "475434A3A97D6AA8"
+			"item": {
+				"id": "create:experience_nugget"
+				"count": 1
+			}
+			"count": 16
+			"random_bonus": 8
+			"weight": 7.0d
+		}
+		{
+			"id": "61ECD084157A50A5"
+			"item": {
+				"id": "minecraft:experience_bottle"
+				"count": 1
+			}
+			"count": 8
+			"random_bonus": 8
+			"weight": 6.0d
+		}
+		{
+			"id": "1BC443D1B010BD05"
+			"item": {
+				"id": "minecraft:ender_pearl"
+				"count": 1
+			}
+			"count": 2
+			"random_bonus": 2
+			"weight": 5.0d
+		}
+		{
+			"id": "217ADC0215B987CC"
+			"item": {
+				"id": "minecraft:obsidian"
+				"count": 1
+			}
+			"count": 8
+			"random_bonus": 8
+			"weight": 5.0d
+		}
+		{
+			"id": "065C041C65A55C1A"
+			"item": {
+				"id": "minecraft:redstone_block"
+				"count": 1
+			}
+			"count": 2
+			"random_bonus": 2
+			"weight": 5.0d
+		}
+		{
+			"id": "109A4F7F074B6974"
+			"item": {
+				"id": "minecraft:golden_apple"
+				"count": 1
+			}
+			"random_bonus": 1
+			"weight": 4.0d
+		}
+		{
+			"id": "7A4F106109B61660"
+			"item": {
+				"id": "minecraft:name_tag"
+				"count": 1
+			}
+			"weight": 3.0d
+		}
+		{
+			"id": "06DDA0BDBEFAEA29"
+			"item": {
+				"id": "minecraft:spyglass"
+				"count": 1
+			}
+			"weight": 3.0d
+		}
+		{
+			"id": "61301E544D4D0247"
+			"item": {
+				"id": "minecraft:shroomlight"
+				"count": 1
+			}
+			"count": 4
+			"random_bonus": 4
+			"weight": 4.0d
+		}
+		{
+			"id": "5D81B6D30E46FAB4"
+			"item": {
+				"id": "minecraft:slime_ball"
+				"count": 1
+			}
+			"count": 8
+			"random_bonus": 8
+			"weight": 5.0d
+		}
+		{
+			"id": "1D6AA1482DFF6B46"
+			"item": {
+				"id": "minecraft:amethyst_shard"
+				"count": 1
+			}
+			"count": 8
+			"random_bonus": 8
+			"weight": 4.0d
+		}
+		{
+			"id": "6F0B2A858E4F6BC4"
+			"item": {
+				"id": "minecraft:music_disc_cat"
+				"count": 1
+			}
+			"weight": 2.0d
+		}
+	]
+	"loot_crate": {
+		"string_id": "big_present"
+		"item_name": "Big Present"
+		"color": 2777784
+		"glow": false
+		"drops": {
+			"passive": 0
+			"monster": 0
+			"boss": 0
+		}
+	}
+}

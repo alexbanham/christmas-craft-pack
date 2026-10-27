@@ -1,0 +1,13 @@
+name = "Ropeworks"
+filename = "ropeworks-1.0.3-1.21.1-neo.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/UgEFcYvp/versions/XHYGzeoh/ropeworks-1.0.3-1.21.1-neo.jar"
+hash-format = "sha512"
+hash = "6ac9a42bc75a9146171882cceebaf36e51a25a166e69adc5df8ba1673669b383997bcca6d7f28eb96a6e463a1a87f1afb2f1e0eddb0795ea46850a70d2c1c173"
+
+[update]
+[update.modrinth]
+mod-id = "UgEFcYvp"
+version = "XHYGzeoh"
