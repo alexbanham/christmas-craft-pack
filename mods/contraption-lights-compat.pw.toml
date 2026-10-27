@@ -1,0 +1,13 @@
+name = "Contraption Lights Compat"
+filename = "contraption_lights_compat-2.6.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/I6XTt7jm/versions/yM977iMa/contraption_lights_compat-2.6.0.jar"
+hash-format = "sha512"
+hash = "25b1c9b41777b82bb99cf819a7a0a54b985483470b4f43a2614932f203aa3a9ed040928d54687faaac4b45d91edceda1d23aa00da45ed1e7864bda9fef9f18e0"
+
+[update]
+[update.modrinth]
+mod-id = "I6XTt7jm"
+version = "yM977iMa"

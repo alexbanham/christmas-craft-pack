@@ -1,0 +1,13 @@
+name = "Christmas Craft"
+author = "Alex & friends"
+version = "0.2.2"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "76e79ae5f9a0e0a0585ff5978b1ebf22ea56f42f4efef70279b39e204e20ed16"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.265"

@@ -1,0 +1,50 @@
+# Publishes both channels to GitHub Pages on every push:
+#   https://<owner>.github.io/<repo>/stable/pack.toml   (what friends' launchers and the server use)
+#   https://<owner>.github.io/<repo>/testing/pack.toml  (what Alex tests first)
+name: publish-pack
+on:
+  push:
+    branches: [stable, testing]
+  workflow_dispatch:
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+concurrency:
+  group: pages
+  cancel-in-progress: false
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with: { ref: stable, path: stable }
+      - uses: actions/checkout@v4
+        with: { ref: testing, path: testing }
+      - name: Assemble site
+        run: |
+          mkdir -p _site
+          for ch in stable testing; do
+            rm -rf "$ch/.git" "$ch/.github"
+            cp -r "$ch" "_site/$ch"
+          done
+          ver() { grep -m1 '^version' "_site/$1/pack.toml" | cut -d'"' -f2; }
+          cat > _site/index.html <<HTML
+          <!doctype html><meta charset="utf-8"><title>Christmas Craft</title>
+          <body style="font-family:system-ui;background:#10151c;color:#e8eef5;max-width:640px;margin:48px auto;padding:0 16px">
+          <h1>🎄 Christmas Craft</h1>
+          <p>Auto-updating pack. Launchers fetch from these channels:</p>
+          <ul><li><b>stable</b> v$(ver stable) — <code>stable/pack.toml</code></li>
+          <li><b>testing</b> v$(ver testing) — <code>testing/pack.toml</code></li></ul>
+          </body>
+          HTML
+          touch _site/.nojekyll
+      - uses: actions/upload-pages-artifact@v3
+        with: { path: _site }
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment: { name: github-pages, url: "${{ steps.d.outputs.page_url }}" }
+    steps:
+      - id: d
+        uses: actions/deploy-pages@v4
