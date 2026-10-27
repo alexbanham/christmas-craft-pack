@@ -1107,6 +1107,11 @@
 	"quest.774BFFAE722C9B13.quest_desc": [
 		"Assemble a small balloon: envelopes, a burner, a seat and the assembler. Fill the envelope with hot air and rise above the village. Flight HUD shows your height and speed while seated. The quest ticks on Aeronautics' first-balloon advancement. It builds on Hot Air and Make It Fly."
 	]
+	"quest.0B320318D9979E56.title": "Wooden Floaters"
+	"quest.0B320318D9979E56.quest_subtitle": "Lift without a fire."
+	"quest.0B320318D9979E56.quest_desc": [
+		"Sable: Floaters adds wooden floaters, a light buoyant block made from a barrel, slabs and string. A few give a small craft gentle lift with no burner at all, a good stepping stone before levitite."
+	]
 	"quest.0864FEC77F3638B8.title": "Propeller Blades"
 	"quest.0864FEC77F3638B8.quest_subtitle": "Something to push the air."
 	"quest.0864FEC77F3638B8.quest_desc": [
@@ -1172,6 +1177,16 @@
 	"quest.195E769CD31707D3.quest_subtitle": "Weight where you want it."
 	"quest.195E769CD31707D3.quest_desc": [
 		"Simulated Addition's floatite floats and ballasite sinks, so you can trim a ship nose-up or nose-down without changing its shape. Both come from levitite blend. Check the centre of mass in the contraption diagram and add ballast until it sits level."
+	]
+	"quest.1097C9578E943B4C.title": "Thrusters"
+	"quest.1097C9578E943B4C.quest_subtitle": "Fire out of the back."
+	"quest.1097C9578E943B4C.quest_desc": [
+		"Create Propulsion's thruster burns fuel for straight-line thrust, no propeller needed. Vector thrusters steer, and tempered wings give lift. Platinum ore turns up deep underground. A serious sleigh might want one."
+	]
+	"quest.1B7149E4539D251B.title": "Linkages"
+	"quest.1B7149E4539D251B.quest_subtitle": "Push and pull between parts."
+	"quest.1B7149E4539D251B.quest_desc": [
+		"Transmission & Linkage adds pneumatic rods that push and pull between separate parts of a ship: flaps, landing gear, a drop hatch for presents. Fit one and wire it to the cockpit."
 	]
 	"reward.662FBCC3A0A8DFD0.title": "Fireworks!"
 	"quest.1C05103D4042DF1C.title": "Santa's Sleigh"

@@ -20,6 +20,78 @@
     {
       "id": "create_parachute:air_block",
       "required": false
+    },
+    {
+      "id": "createpropulsion:copycat_wing",
+      "required": false
+    },
+    {
+      "id": "createpropulsion:copycat_wing_8",
+      "required": false
+    },
+    {
+      "id": "createpropulsion:copycat_wing_12",
+      "required": false
+    },
+    {
+      "id": "createpropulsion:glued_contraption_cloner",
+      "required": false
+    },
+    {
+      "id": "createpropulsion:glued_contraption_mover",
+      "required": false
+    },
+    {
+      "id": "createpropulsion:contraption_remover",
+      "required": false
+    },
+    {
+      "id": "createpropulsion:assembler_stick",
+      "required": false
+    },
+    {
+      "id": "createpropulsion:auto_glue",
+      "required": false
+    },
+    {
+      "id": "createpropulsion:creative_thruster",
+      "required": false
+    },
+    {
+      "id": "createpropulsion:creative_vector_thruster",
+      "required": false
+    },
+    {
+      "id": "createpropulsion:optical_lens",
+      "required": false
+    },
+    {
+      "id": "createpropulsion:focus_lens",
+      "required": false
+    },
+    {
+      "id": "createpropulsion:fluid_lens",
+      "required": false
+    },
+    {
+      "id": "createpropulsion:invisibility_lens",
+      "required": false
+    },
+    {
+      "id": "createpropulsion:unfinished_lens",
+      "required": false
+    },
+    {
+      "id": "createpropulsion:reaction_wheel",
+      "required": false
+    },
+    {
+      "id": "createpropulsion:cable_hub",
+      "required": false
+    },
+    {
+      "id": "createpropulsion:cable_spool",
+      "required": false
     }
   ]
 }

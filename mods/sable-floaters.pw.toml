@@ -1,0 +1,13 @@
+name = "Sable: Floaters"
+filename = "sablefloaters-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/kjqs1O8F/versions/PjmCUp0h/sablefloaters-1.0.1.jar"
+hash-format = "sha512"
+hash = "e50954360759db69c346375759316326e60bd796b8819ec1743060c8dec2525e9f988df453409826866b732cc5f7ddf0479ff62a6c29a9b7d52ceab6bc17d3a6"
+
+[update]
+[update.modrinth]
+mod-id = "kjqs1O8F"
+version = "PjmCUp0h"

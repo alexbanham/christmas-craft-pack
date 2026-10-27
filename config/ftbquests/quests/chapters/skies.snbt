@@ -11,7 +11,7 @@
 	"images": [
 		{
 			"id": "5CC97906F479B0FF"
-			"x": 6.5d
+			"x": 6.25d
 			"y": -1.85d
 			"width": 8.77d
 			"height": 1.7d
@@ -29,8 +29,8 @@
 			"icon": {
 				"id": "aeronautics:white_envelope"
 			}
-			"x": 3.85d
-			"y": 5.5d
+			"x": 3.35d
+			"y": 4.25d
 			"shape": "circle"
 			"size": 1.0d
 			"tasks": [
@@ -107,7 +107,7 @@
 				"id": "simulated:physics_assembler"
 			}
 			"x": 0.85d
-			"y": 2.5d
+			"y": 8.25d
 			"shape": "hexagon"
 			"size": 1.7d
 			"tasks": [
@@ -202,8 +202,8 @@
 			"icon": {
 				"id": "aeronautics:adjustable_burner"
 			}
-			"x": 6.35d
-			"y": 5.0d
+			"x": 5.85d
+			"y": 4.25d
 			"shape": "gear"
 			"size": 1.5d
 			"tasks": [
@@ -300,8 +300,8 @@
 			"icon": {
 				"id": "aeronautics:red_envelope"
 			}
-			"x": 8.85d
-			"y": 5.0d
+			"x": 8.35d
+			"y": 4.25d
 			"shape": "hexagon"
 			"size": 1.6d
 			"tasks": [
@@ -392,6 +392,82 @@
 			]
 		}
 		{
+			"id": "0B320318D9979E56"
+			"dependencies": [
+				"3E567B4D9304BB77"
+			]
+			"icon": {
+				"id": "sablefloaters:wooden_floater"
+			}
+			"x": 3.35d
+			"y": 12.75d
+			"shape": "rsquare"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "7E49009D2059FC1C"
+					"type": "item"
+					"item": {
+						"id": "sablefloaters:wooden_floater"
+						"count": 1
+					}
+					"count": 1
+				}
+			]
+			"rewards": [
+				{
+					"id": "481C03C2A85F7F22"
+					"type": "xp"
+					"xp": 100
+				}
+				{
+					"id": "33F5F82FD3865016"
+					"type": "item"
+					"item": {
+						"id": "ftbquests:lootcrate"
+						"count": 1
+						"components": {
+							"ftbquests:loot_crate": "small_gift"
+						}
+					}
+				}
+				{
+					"id": "58C2108CAFFAAA26"
+					"type": "item"
+					"item": {
+						"id": "sablefloaters:wooden_floater_bundle"
+						"count": 1
+					}
+				}
+				{
+					"id": "54E2C0617C497160"
+					"type": "item"
+					"item": {
+						"id": "sablefloaters:reinforced_wooden_floater"
+						"count": 1
+					}
+					"count": 2
+				}
+				{
+					"id": "29ED0E53F955439A"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_25"
+						"count": 1
+					}
+				}
+				{
+					"id": "019C5990BB4B7385"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_5"
+						"count": 1
+					}
+				}
+			]
+			"optional": true
+		}
+		{
 			"id": "0864FEC77F3638B8"
 			"dependencies": [
 				"1872863EF731C6BB"
@@ -399,8 +475,8 @@
 			"icon": {
 				"id": "aeronautics:andesite_propeller"
 			}
-			"x": 3.35d
-			"y": 7.5d
+			"x": 2.85d
+			"y": 0.75d
 			"shape": "circle"
 			"size": 1.0d
 			"tasks": [
@@ -475,8 +551,8 @@
 			"icon": {
 				"id": "simulated_addition:spruce_sail"
 			}
-			"x": 3.85d
-			"y": 3.5d
+			"x": 5.35d
+			"y": 10.75d
 			"shape": "circle"
 			"size": 1.0d
 			"tasks": [
@@ -551,8 +627,8 @@
 			"icon": {
 				"id": "simulated:steering_wheel"
 			}
-			"x": 6.35d
-			"y": 3.0d
+			"x": 5.35d
+			"y": 6.25d
 			"shape": "circle"
 			"size": 1.0d
 			"tasks": [
@@ -627,8 +703,8 @@
 			"icon": {
 				"id": "aeronautics:propeller_bearing"
 			}
-			"x": 5.85d
-			"y": 7.5d
+			"x": 5.35d
+			"y": 0.75d
 			"shape": "gear"
 			"size": 1.5d
 			"tasks": [
@@ -716,8 +792,8 @@
 			"icon": {
 				"id": "simulated_addition:directional_propeller_bearing"
 			}
-			"x": 8.85d
-			"y": 7.0d
+			"x": 9.85d
+			"y": 0.75d
 			"shape": "circle"
 			"size": 1.0d
 			"tasks": [
@@ -803,8 +879,8 @@
 			"icon": {
 				"id": "simulated:gyroscopic_mechanism"
 			}
-			"x": 5.85d
-			"y": 9.5d
+			"x": 1.35d
+			"y": 2.75d
 			"shape": "circle"
 			"size": 1.0d
 			"tasks": [
@@ -900,8 +976,8 @@
 			"icon": {
 				"id": "aeronautics:gyroscopic_propeller_bearing"
 			}
-			"x": 8.85d
-			"y": 9.0d
+			"x": 7.85d
+			"y": 1.75d
 			"shape": "gear"
 			"size": 1.5d
 			"tasks": [
@@ -982,7 +1058,7 @@
 				"id": "simulated:red_portable_engine"
 			}
 			"x": 8.35d
-			"y": 1.5d
+			"y": 7.25d
 			"shape": "gear"
 			"size": 1.5d
 			"tasks": [
@@ -1068,7 +1144,7 @@
 				"id": "aeroworks:control_stand"
 			}
 			"x": 3.35d
-			"y": 0.5d
+			"y": 10.75d
 			"shape": "circle"
 			"size": 1.0d
 			"tasks": [
@@ -1170,8 +1246,8 @@
 			"icon": {
 				"id": "create_parachute:parachute_block"
 			}
-			"x": 5.35d
-			"y": 0.5d
+			"x": 3.35d
+			"y": 6.25d
 			"shape": "rsquare"
 			"size": 1.0d
 			"tasks": [
@@ -1247,7 +1323,7 @@
 				"id": "minecraft:ender_eye"
 			}
 			"x": 1.0d
-			"y": 12.5d
+			"y": 16.0d
 			"shape": "hexagon"
 			"size": 1.6d
 			"tasks": [
@@ -1335,7 +1411,7 @@
 				"id": "aeronautics:levitite"
 			}
 			"x": 4.0d
-			"y": 12.5d
+			"y": 16.0d
 			"shape": "diamond"
 			"size": 1.9d
 			"tasks": [
@@ -1447,7 +1523,7 @@
 				"id": "simulated_addition:ballasite"
 			}
 			"x": 6.5d
-			"y": 12.5d
+			"y": 16.0d
 			"shape": "circle"
 			"size": 1.0d
 			"tasks": [
@@ -1527,6 +1603,186 @@
 			]
 		}
 		{
+			"id": "1097C9578E943B4C"
+			"dependencies": [
+				"517EE7AE88BA56A3"
+				"04BEBADB469586F0"
+				"59AD1FBB8BBB8A8B"
+			]
+			"icon": {
+				"id": "createpropulsion:thruster"
+			}
+			"x": 11.35d
+			"y": 7.25d
+			"shape": "rsquare"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "7E67AEB1A61C2E2E"
+					"type": "item"
+					"item": {
+						"id": "createpropulsion:thruster"
+						"count": 1
+					}
+					"count": 1
+				}
+			]
+			"rewards": [
+				{
+					"id": "6F0632E500E027F6"
+					"type": "xp"
+					"xp": 150
+				}
+				{
+					"id": "76610C72C82ACD22"
+					"type": "item"
+					"item": {
+						"id": "ftbquests:lootcrate"
+						"count": 1
+						"components": {
+							"ftbquests:loot_crate": "small_gift"
+						}
+					}
+				}
+				{
+					"id": "18B5BCB5870A8E64"
+					"type": "item"
+					"item": {
+						"id": "ftbquests:lootcrate"
+						"count": 1
+						"components": {
+							"ftbquests:loot_crate": "stocking"
+						}
+					}
+				}
+				{
+					"id": "7940132F0DBB06F9"
+					"type": "item"
+					"item": {
+						"id": "createpropulsion:platinum_ingot"
+						"count": 1
+					}
+					"count": 8
+				}
+				{
+					"id": "7F1EE8D9C88A8856"
+					"type": "item"
+					"item": {
+						"id": "create:fluid_pipe"
+						"count": 1
+					}
+					"count": 16
+				}
+				{
+					"id": "610C47879FEA7272"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_50"
+						"count": 1
+					}
+				}
+				{
+					"id": "5708F0765215802E"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_10"
+						"count": 1
+					}
+				}
+			]
+			"optional": true
+		}
+		{
+			"id": "1B7149E4539D251B"
+			"dependencies": [
+				"3E567B4D9304BB77"
+				"162CE88B477B267E"
+				"7D3C6F898EF065B0"
+			]
+			"icon": {
+				"id": "aeronautics_utility_objects:hydraulic_rod"
+			}
+			"x": 3.35d
+			"y": 8.75d
+			"shape": "rsquare"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "13433818326295FC"
+					"type": "item"
+					"item": {
+						"id": "aeronautics_utility_objects:hydraulic_rod"
+						"count": 1
+					}
+					"count": 1
+				}
+			]
+			"rewards": [
+				{
+					"id": "459C5805219ED809"
+					"type": "xp"
+					"xp": 150
+				}
+				{
+					"id": "087204AC6F8D3766"
+					"type": "item"
+					"item": {
+						"id": "ftbquests:lootcrate"
+						"count": 1
+						"components": {
+							"ftbquests:loot_crate": "small_gift"
+						}
+					}
+				}
+				{
+					"id": "594F779D2439AF08"
+					"type": "item"
+					"item": {
+						"id": "ftbquests:lootcrate"
+						"count": 1
+						"components": {
+							"ftbquests:loot_crate": "stocking"
+						}
+					}
+				}
+				{
+					"id": "32F0AF089B0CDC8C"
+					"type": "item"
+					"item": {
+						"id": "aeronautics_utility_objects:hydraulic_regulator"
+						"count": 1
+					}
+					"count": 2
+				}
+				{
+					"id": "4EE241F1F1554B66"
+					"type": "item"
+					"item": {
+						"id": "create:fluid_pipe"
+						"count": 1
+					}
+					"count": 8
+				}
+				{
+					"id": "69F206E930EA8BC5"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_50"
+						"count": 1
+					}
+				}
+				{
+					"id": "07F6C8FCD76228BE"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_10"
+						"count": 1
+					}
+				}
+			]
+			"optional": true
+		}
+		{
 			"id": "1C05103D4042DF1C"
 			"dependencies": [
 				"774BFFAE722C9B13"
@@ -1537,8 +1793,8 @@
 			"icon": {
 				"id": "snowyspirit:sled_spruce"
 			}
-			"x": 11.85d
-			"y": 4.5d
+			"x": 11.35d
+			"y": 4.75d
 			"shape": "heart"
 			"size": 2.3d
 			"tasks": [
