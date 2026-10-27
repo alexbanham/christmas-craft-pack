@@ -22,6 +22,7 @@ jobs:
       - uses: actions/checkout@v4
         with: { ref: testing, path: testing }
       - name: Assemble site
+        env: { GITHUB_TOKEN: "${{ github.token }}" }
         run: |
           mkdir -p _site
           for ch in stable testing; do

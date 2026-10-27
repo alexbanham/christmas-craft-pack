@@ -18,7 +18,10 @@ UA = {"User-Agent": f"{REPO} site builder (github.com/{REPO})"}
 
 
 def get_json(url):
-    with urllib.request.urlopen(urllib.request.Request(url, headers=UA), timeout=20) as r:
+    headers = dict(UA)
+    if url.startswith("https://api.github.com/") and os.environ.get("GITHUB_TOKEN"):
+        headers["Authorization"] = "Bearer " + os.environ["GITHUB_TOKEN"]  # runner IPs share the anonymous rate limit
+    with urllib.request.urlopen(urllib.request.Request(url, headers=headers), timeout=20) as r:
         return json.load(r)
 
 
