@@ -1,5 +1,5 @@
 version:3955
 key_key.aeroflighthud.calibration:key.keyboard.j
-resourcePacks:["vanilla","mod_resources","file/Christmas Craft Quest Art"]
+resourcePacks:["vanilla","mod_resources","file/Christmas Craft Quest Art","file/Christmas Craft HUD"]
 key_key.kubejs.kubedex:key.keyboard.unknown
 key_key.cccasino.tray:key.keyboard.k
