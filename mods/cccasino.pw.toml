@@ -1,8 +1,8 @@
 name = "Christmas Craft Casino"
-filename = "cccasino-0.0.5.jar"
+filename = "cccasino-0.0.6.jar"
 side = "both"
 
 [download]
-url = "https://github.com/alexbanham/christmas-craft-pack/releases/download/cccasino-0.0.5-20261027/cccasino-0.0.5.jar"
+url = "https://github.com/alexbanham/christmas-craft-pack/releases/download/cccasino-0.0.6-20261027/cccasino-0.0.6.jar"
 hash-format = "sha256"
-hash = "653464ab92c426077ed250d2fd7e44bf7f1d3f47f09fd2fb88c2518c7459b4e8"
+hash = "3d7070732e3ed4e0577ac11f5c959210a66ffe7a63ab5a1516ab286823c374dc"
