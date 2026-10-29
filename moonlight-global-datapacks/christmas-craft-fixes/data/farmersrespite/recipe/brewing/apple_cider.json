@@ -1,0 +1,26 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:false"
+    }
+  ],
+  "type": "farmersrespite:brewing",
+  "base": {
+    "count": 1000,
+    "fluid": "minecraft:water"
+  },
+  "cookingtime": 300,
+  "experience": 0.7,
+  "ingredients": [
+    {
+      "tag": "c:fruit/apple"
+    },
+    {
+      "tag": "c:sugar"
+    }
+  ],
+  "result": {
+    "count": 1000,
+    "fluid": "farmersrespite:apple_cider"
+  }
+}
