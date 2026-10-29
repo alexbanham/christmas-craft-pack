@@ -1,0 +1,19 @@
+{
+ "variants": {
+  "facing=north": {
+   "model": "christmascraft:block/dish/peppermint_hot_chocolate"
+  },
+  "facing=east": {
+   "model": "christmascraft:block/dish/peppermint_hot_chocolate",
+   "y": 90
+  },
+  "facing=south": {
+   "model": "christmascraft:block/dish/peppermint_hot_chocolate",
+   "y": 180
+  },
+  "facing=west": {
+   "model": "christmascraft:block/dish/peppermint_hot_chocolate",
+   "y": 270
+  }
+ }
+}

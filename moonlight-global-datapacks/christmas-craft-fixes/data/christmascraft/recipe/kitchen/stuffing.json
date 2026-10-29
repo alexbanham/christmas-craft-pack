@@ -1,0 +1,24 @@
+{
+ "type": "create:mixing",
+ "ingredients": [
+  {
+   "item": "ratatouille_fried_delights:breadcrumb"
+  },
+  {
+   "item": "ratatouille_fried_delights:breadcrumb"
+  },
+  {
+   "item": "farmersdelight:onion"
+  },
+  {
+   "item": "minecraft:egg"
+  }
+ ],
+ "results": [
+  {
+   "id": "christmascraft:stuffing",
+   "count": 2
+  }
+ ],
+ "heat_requirement": "heated"
+}

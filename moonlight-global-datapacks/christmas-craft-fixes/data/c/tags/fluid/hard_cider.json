@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "hearthandharvest:hard_cider",
+      "required": false
+    },
+    {
+      "id": "cocktailsdelight:hard_cider",
+      "required": false
+    },
+    {
+      "id": "cocktailsdelight:flowing_hard_cider",
+      "required": false
+    }
+  ]
+}

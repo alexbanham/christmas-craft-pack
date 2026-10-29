@@ -1,0 +1,13 @@
+{
+ "criteria": {
+  "sustained": {
+   "trigger": "cccasino:sustained_delivery",
+   "conditions": {
+    "item": "create:sweet_roll",
+    "per_minute": 5,
+    "minutes": 3
+   }
+  }
+ },
+ "sends_telemetry_event": false
+}

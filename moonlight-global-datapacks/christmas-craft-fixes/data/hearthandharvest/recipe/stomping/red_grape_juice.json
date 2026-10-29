@@ -1,0 +1,21 @@
+{
+  "type": "hearthandharvest:stomping",
+  "ingredients": [
+    {
+      "tag": "c:foods/black_grapes"
+    },
+    {
+      "tag": "c:foods/black_grapes"
+    },
+    {
+      "tag": "c:foods/black_grapes"
+    },
+    {
+      "tag": "c:foods/black_grapes"
+    }
+  ],
+  "result_fluid": {
+    "amount": 500,
+    "id": "hearthandharvest:red_grape_juice"
+  }
+}

@@ -1,0 +1,13 @@
+{
+ "criteria": {
+  "sustained": {
+   "trigger": "cccasino:sustained_delivery",
+   "conditions": {
+    "item": "christmascraft:mug_of_mulled_cider",
+    "per_minute": 10,
+    "minutes": 5
+   }
+  }
+ },
+ "sends_telemetry_event": false
+}

@@ -1,0 +1,38 @@
+{
+ "type": "create:mixing",
+ "ingredients": [
+  {
+   "item": "create:wheat_flour"
+  },
+  {
+   "item": "create:wheat_flour"
+  },
+  {
+   "item": "hearthandharvest:raisins"
+  },
+  {
+   "item": "hearthandharvest:raisins"
+  },
+  {
+   "item": "minecraft:sugar"
+  },
+  {
+   "item": "minecraft:egg"
+  },
+  {
+   "item": "hearthandharvest:butter"
+  },
+  {
+   "type": "neoforge:single",
+   "amount": 100,
+   "fluid": "create:honey"
+  }
+ ],
+ "results": [
+  {
+   "id": "christmascraft:pudding_batter",
+   "amount": 500
+  }
+ ],
+ "heat_requirement": "heated"
+}

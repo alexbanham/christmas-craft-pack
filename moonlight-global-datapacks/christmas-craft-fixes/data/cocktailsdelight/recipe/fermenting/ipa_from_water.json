@@ -1,0 +1,32 @@
+{
+  "type": "brewinandchewin:fermenting",
+  "base_fluid": {
+    "amount": 1000,
+    "ingredient": {
+      "id": "minecraft:water"
+    },
+    "unit": "millibuckets"
+  },
+  "fermentingtime": 9600,
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "item": "cocktailsdelight:malt"
+    },
+    {
+      "tag": "c:crops/hops"
+    },
+    {
+      "tag": "c:crops/hops"
+    },
+    {
+      "item": "minecraft:bread"
+    }
+  ],
+  "result": {
+    "amount": 1000,
+    "id": "cocktailsdelight:ipa"
+  },
+  "temperature": 3,
+  "unit": "millibuckets"
+}

@@ -1,0 +1,27 @@
+{
+ "type": "minecraft:block",
+ "pools": [
+  {
+   "rolls": 1,
+   "entries": [
+    {
+     "type": "minecraft:item",
+     "name": "christmascraft:christmas_dinner_platter"
+    }
+   ],
+   "conditions": [
+    {
+     "condition": "minecraft:survives_explosion"
+    },
+    {
+     "condition": "minecraft:block_state_property",
+     "block": "christmascraft:christmas_dinner_platter",
+     "properties": {
+      "servings": "4"
+     }
+    }
+   ]
+  }
+ ],
+ "random_sequence": "christmascraft:blocks/christmas_dinner_platter"
+}

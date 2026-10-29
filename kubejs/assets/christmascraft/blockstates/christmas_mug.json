@@ -1,0 +1,19 @@
+{
+ "variants": {
+  "facing=north": {
+   "model": "christmascraft:block/dish/christmas_mug"
+  },
+  "facing=east": {
+   "model": "christmascraft:block/dish/christmas_mug",
+   "y": 90
+  },
+  "facing=south": {
+   "model": "christmascraft:block/dish/christmas_mug",
+   "y": 180
+  },
+  "facing=west": {
+   "model": "christmascraft:block/dish/christmas_mug",
+   "y": 270
+  }
+ }
+}

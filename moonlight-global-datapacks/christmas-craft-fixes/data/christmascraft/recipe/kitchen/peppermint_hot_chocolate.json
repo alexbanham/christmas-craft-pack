@@ -1,0 +1,20 @@
+{
+ "type": "create:mixing",
+ "ingredients": [
+  {
+   "type": "neoforge:tag",
+   "amount": 250,
+   "tag": "c:hot_chocolate"
+  },
+  {
+   "item": "christmascraft:crushed_peppermint"
+  }
+ ],
+ "results": [
+  {
+   "id": "christmascraft:peppermint_cocoa",
+   "amount": 250
+  }
+ ],
+ "heat_requirement": "heated"
+}

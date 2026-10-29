@@ -1,0 +1,65 @@
+{
+ "type": "create:sequenced_assembly",
+ "ingredient": {
+  "item": "ratatouille_fried_delights:duo_chicken_bucket"
+ },
+ "loops": 1,
+ "results": [
+  {
+   "id": "christmascraft:christmas_party_bucket"
+  }
+ ],
+ "sequence": [
+  {
+   "type": "create:deploying",
+   "ingredients": [
+    {
+     "item": "christmascraft:incomplete_party_bucket"
+    },
+    {
+     "item": "create_wrapped:red_wrapping_paper"
+    }
+   ],
+   "results": [
+    {
+     "id": "christmascraft:incomplete_party_bucket"
+    }
+   ]
+  },
+  {
+   "type": "create:deploying",
+   "ingredients": [
+    {
+     "item": "christmascraft:incomplete_party_bucket"
+    },
+    {
+     "item": "ratatouille_fried_delights:french_fries"
+    }
+   ],
+   "results": [
+    {
+     "id": "christmascraft:incomplete_party_bucket"
+    }
+   ]
+  },
+  {
+   "type": "create:deploying",
+   "ingredients": [
+    {
+     "item": "christmascraft:incomplete_party_bucket"
+    },
+    {
+     "item": "farmersdelight:cake_slice"
+    }
+   ],
+   "results": [
+    {
+     "id": "christmascraft:incomplete_party_bucket"
+    }
+   ]
+  }
+ ],
+ "transitional_item": {
+  "id": "christmascraft:incomplete_party_bucket"
+ }
+}

@@ -1,0 +1,12 @@
+{
+ "type": "minecraft:smoking",
+ "category": "food",
+ "ingredient": {
+  "item": "christmascraft:raw_mince_pie"
+ },
+ "result": {
+  "id": "christmascraft:baked_mince_pie"
+ },
+ "experience": 0.35,
+ "cookingtime": 200
+}

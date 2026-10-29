@@ -1,0 +1,23 @@
+{
+ "type": "create:mixing",
+ "ingredients": [
+  {
+   "item": "create:wheat_flour"
+  },
+  {
+   "tag": "c:foods/raw_beef"
+  },
+  {
+   "type": "neoforge:single",
+   "amount": 500,
+   "fluid": "minecraft:water"
+  }
+ ],
+ "results": [
+  {
+   "id": "christmascraft:gravy",
+   "amount": 500
+  }
+ ],
+ "heat_requirement": "heated"
+}

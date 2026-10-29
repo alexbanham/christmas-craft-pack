@@ -1,0 +1,18 @@
+{
+ "type": "create:milling",
+ "ingredients": [
+  {
+   "item": "snowyspirit:candy_cane"
+  }
+ ],
+ "results": [
+  {
+   "id": "christmascraft:crushed_peppermint",
+   "count": 3
+  },
+  {
+   "id": "christmascraft:crushed_peppermint",
+   "chance": 0.5
+  }
+ ]
+}

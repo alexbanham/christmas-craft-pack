@@ -1,0 +1,12 @@
+{
+ "type": "minecraft:blasting",
+ "category": "food",
+ "ingredient": {
+  "item": "christmascraft:christmas_pudding"
+ },
+ "result": {
+  "id": "christmascraft:flaming_christmas_pudding"
+ },
+ "experience": 0.35,
+ "cookingtime": 60
+}

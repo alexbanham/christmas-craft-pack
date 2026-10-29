@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "create_confectionery:bar_of_caramel",
+      "required": false
+    }
+  ]
+}

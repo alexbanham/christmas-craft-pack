@@ -1,0 +1,18 @@
+{
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "item": "create_bic_bit:kroket_sandwich"
+    },
+    {
+      "type": "neoforge:tag",
+      "amount": 250,
+      "tag": "c:ketchup"
+    }
+  ],
+  "results": [
+    {
+      "id": "create_bic_bit:ketchup_topped_kroket_sandwich"
+    }
+  ]
+}

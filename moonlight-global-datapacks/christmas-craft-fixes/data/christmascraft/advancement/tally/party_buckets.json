@@ -1,0 +1,13 @@
+{
+ "criteria": {
+  "sustained": {
+   "trigger": "cccasino:sustained_delivery",
+   "conditions": {
+    "item": "christmascraft:christmas_party_bucket",
+    "per_minute": 2,
+    "minutes": 5
+   }
+  }
+ },
+ "sends_telemetry_event": false
+}

@@ -1,0 +1,16 @@
+{
+ "type": "create:deploying",
+ "ingredients": [
+  {
+   "item": "christmascraft:steamed_christmas_pudding"
+  },
+  {
+   "item": "christmascraft:holly_sprig"
+  }
+ ],
+ "results": [
+  {
+   "id": "christmascraft:christmas_pudding"
+  }
+ ]
+}

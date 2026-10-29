@@ -1,0 +1,20 @@
+{
+  "type": "ratatouille_fried_delights:frying",
+  "heat_requirement": "heated",
+  "ingredients": [
+    {
+      "item": "ratatouille_fried_delights:breaded_fish_fillet"
+    },
+    {
+      "type": "neoforge:tag",
+      "amount": 125,
+      "tag": "ratatouille_fried_delights:oil"
+    }
+  ],
+  "processing_time": 200,
+  "results": [
+    {
+      "id": "ratatouille_fried_delights:fillet_o_fish"
+    }
+  ]
+}

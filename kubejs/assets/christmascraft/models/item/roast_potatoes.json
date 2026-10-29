@@ -1,0 +1,126 @@
+{
+ "loader": "neoforge:separate_transforms",
+ "gui_light": "front",
+ "base": {
+  "parent": "christmascraft:block/dish/held_roast_potatoes",
+  "display": {
+   "thirdperson_righthand": {
+    "rotation": [
+     60,
+     45,
+     0
+    ],
+    "translation": [
+     0,
+     3.5,
+     1.5
+    ],
+    "scale": [
+     0.625,
+     0.625,
+     0.625
+    ]
+   },
+   "thirdperson_lefthand": {
+    "rotation": [
+     60,
+     45,
+     0
+    ],
+    "translation": [
+     0,
+     3.5,
+     1.5
+    ],
+    "scale": [
+     0.625,
+     0.625,
+     0.625
+    ]
+   },
+   "firstperson_righthand": {
+    "rotation": [
+     0,
+     45,
+     0
+    ],
+    "translation": [
+     -1.5,
+     8,
+     0
+    ],
+    "scale": [
+     0.525,
+     0.525,
+     0.525
+    ]
+   },
+   "firstperson_lefthand": {
+    "rotation": [
+     0,
+     225,
+     0
+    ],
+    "translation": [
+     -1.5,
+     8,
+     0
+    ],
+    "scale": [
+     0.525,
+     0.525,
+     0.525
+    ]
+   },
+   "ground": {
+    "translation": [
+     0,
+     3,
+     0
+    ],
+    "scale": [
+     0.562,
+     0.562,
+     0.562
+    ]
+   },
+   "fixed": {
+    "rotation": [
+     -60,
+     0,
+     0
+    ],
+    "translation": [
+     0,
+     3.5,
+     -6.5
+    ],
+    "scale": [
+     1.25,
+     1.25,
+     1.25
+    ]
+   },
+   "head": {
+    "translation": [
+     0,
+     14,
+     0
+    ],
+    "scale": [
+     1.0,
+     1.0,
+     1.0
+    ]
+   }
+  }
+ },
+ "perspectives": {
+  "gui": {
+   "parent": "minecraft:item/generated",
+   "textures": {
+    "layer0": "christmascraft:item/roast_potatoes"
+   }
+  }
+ }
+}

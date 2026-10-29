@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "cocktailsdelight:red_grapes",
+      "required": false
+    },
+    {
+      "id": "cocktailsdelight:white_grapes",
+      "required": false
+    }
+  ]
+}

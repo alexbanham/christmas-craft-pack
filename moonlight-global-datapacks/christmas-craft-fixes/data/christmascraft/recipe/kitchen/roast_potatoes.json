@@ -1,0 +1,21 @@
+{
+ "type": "ratatouille_fried_delights:frying",
+ "ingredients": [
+  {
+   "item": "minecraft:baked_potato"
+  },
+  {
+   "type": "neoforge:tag",
+   "amount": 125,
+   "tag": "c:cooking_oil"
+  }
+ ],
+ "results": [
+  {
+   "id": "christmascraft:roast_potatoes",
+   "count": 2
+  }
+ ],
+ "heat_requirement": "heated",
+ "processing_time": 200
+}

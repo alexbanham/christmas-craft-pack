@@ -1,0 +1,25 @@
+{
+ "type": "create:mixing",
+ "ingredients": [
+  {
+   "type": "neoforge:tag",
+   "amount": 500,
+   "tag": "c:milk"
+  },
+  {
+   "item": "minecraft:egg"
+  },
+  {
+   "item": "minecraft:egg"
+  },
+  {
+   "item": "minecraft:sugar"
+  }
+ ],
+ "results": [
+  {
+   "id": "christmascraft:eggnog",
+   "amount": 500
+  }
+ ]
+}

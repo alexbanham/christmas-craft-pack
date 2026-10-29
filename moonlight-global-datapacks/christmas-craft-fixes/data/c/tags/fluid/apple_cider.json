@@ -1,0 +1,25 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "delightfulcreators:apple_cider",
+      "required": false
+    },
+    {
+      "id": "farmersrespite:apple_cider",
+      "required": false
+    },
+    {
+      "id": "hearthandharvest:apple_cider",
+      "required": false
+    },
+    {
+      "id": "cocktailsdelight:cider",
+      "required": false
+    },
+    {
+      "id": "cocktailsdelight:flowing_cider",
+      "required": false
+    }
+  ]
+}

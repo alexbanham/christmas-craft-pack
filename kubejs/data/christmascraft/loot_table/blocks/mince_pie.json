@@ -1,0 +1,61 @@
+{
+ "type": "minecraft:block",
+ "pools": [
+  {
+   "rolls": 1,
+   "entries": [
+    {
+     "type": "minecraft:item",
+     "name": "christmascraft:mince_pie",
+     "functions": [
+      {
+       "function": "minecraft:set_count",
+       "count": 2,
+       "conditions": [
+        {
+         "condition": "minecraft:block_state_property",
+         "block": "christmascraft:mince_pie",
+         "properties": {
+          "servings": "2"
+         }
+        }
+       ]
+      },
+      {
+       "function": "minecraft:set_count",
+       "count": 3,
+       "conditions": [
+        {
+         "condition": "minecraft:block_state_property",
+         "block": "christmascraft:mince_pie",
+         "properties": {
+          "servings": "3"
+         }
+        }
+       ]
+      },
+      {
+       "function": "minecraft:set_count",
+       "count": 4,
+       "conditions": [
+        {
+         "condition": "minecraft:block_state_property",
+         "block": "christmascraft:mince_pie",
+         "properties": {
+          "servings": "4"
+         }
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "conditions": [
+    {
+     "condition": "minecraft:survives_explosion"
+    }
+   ]
+  }
+ ],
+ "random_sequence": "christmascraft:blocks/mince_pie"
+}

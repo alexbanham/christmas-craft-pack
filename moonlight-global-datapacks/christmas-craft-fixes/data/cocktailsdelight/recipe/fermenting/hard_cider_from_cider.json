@@ -1,0 +1,35 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "cocktailsdelight"
+    }
+  ],
+  "type": "brewinandchewin:fermenting",
+  "base_fluid": {
+    "amount": 1000,
+    "ingredient": {
+      "tag": "#c:apple_cider"
+    },
+    "unit": "millibuckets"
+  },
+  "fermentingtime": 4800,
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "tag": "c:sugar"
+    },
+    {
+      "tag": "c:fruits/apple"
+    },
+    {
+      "tag": "c:fruits/apple"
+    }
+  ],
+  "result": {
+    "amount": 1000,
+    "id": "cocktailsdelight:hard_cider"
+  },
+  "temperature": 3,
+  "unit": "millibuckets"
+}

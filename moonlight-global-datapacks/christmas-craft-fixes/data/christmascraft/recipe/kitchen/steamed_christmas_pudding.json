@@ -1,0 +1,13 @@
+{
+ "type": "create:splashing",
+ "ingredients": [
+  {
+   "item": "christmascraft:raw_christmas_pudding"
+  }
+ ],
+ "results": [
+  {
+   "id": "christmascraft:steamed_christmas_pudding"
+  }
+ ]
+}

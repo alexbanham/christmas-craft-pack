@@ -1,0 +1,18 @@
+{
+ "type": "create:filling",
+ "ingredients": [
+  {
+   "item": "christmascraft:christmas_cookie"
+  },
+  {
+   "type": "neoforge:single",
+   "amount": 50,
+   "fluid": "christmascraft:icing"
+  }
+ ],
+ "results": [
+  {
+   "id": "christmascraft:iced_christmas_cookie"
+  }
+ ]
+}

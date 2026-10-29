@@ -1,0 +1,28 @@
+{
+ "type": "create:mixing",
+ "ingredients": [
+  {
+   "type": "neoforge:single",
+   "amount": 250,
+   "fluid": "christmascraft:mulled_cider"
+  },
+  {
+   "type": "neoforge:tag",
+   "amount": 250,
+   "tag": "c:orange_juice"
+  },
+  {
+   "item": "fruitsdelight:cranberry"
+  },
+  {
+   "item": "minecraft:honey_bottle"
+  }
+ ],
+ "results": [
+  {
+   "id": "christmascraft:wassail",
+   "amount": 500
+  }
+ ],
+ "heat_requirement": "heated"
+}

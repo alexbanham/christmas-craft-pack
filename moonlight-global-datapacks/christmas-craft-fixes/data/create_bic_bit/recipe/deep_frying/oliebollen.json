@@ -1,0 +1,19 @@
+{
+  "type": "create_bic_bit:deep_frying",
+  "heat_requirement": "heated",
+  "ingredients": [
+    {
+      "tag": "c:foods/dough/wheat"
+    },
+    {
+      "type": "neoforge:tag",
+      "amount": 125,
+      "tag": "c:cooking_oil"
+    }
+  ],
+  "results": [
+    {
+      "id": "create_bic_bit:oliebollen"
+    }
+  ]
+}

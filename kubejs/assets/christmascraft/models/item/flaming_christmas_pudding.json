@@ -1,0 +1,126 @@
+{
+ "loader": "neoforge:separate_transforms",
+ "gui_light": "front",
+ "base": {
+  "parent": "christmascraft:block/dish/held_flaming_christmas_pudding",
+  "display": {
+   "thirdperson_righthand": {
+    "rotation": [
+     60,
+     45,
+     0
+    ],
+    "translation": [
+     0,
+     3.5,
+     1.5
+    ],
+    "scale": [
+     0.5,
+     0.5,
+     0.5
+    ]
+   },
+   "thirdperson_lefthand": {
+    "rotation": [
+     60,
+     45,
+     0
+    ],
+    "translation": [
+     0,
+     3.5,
+     1.5
+    ],
+    "scale": [
+     0.5,
+     0.5,
+     0.5
+    ]
+   },
+   "firstperson_righthand": {
+    "rotation": [
+     0,
+     45,
+     0
+    ],
+    "translation": [
+     -1.5,
+     8,
+     0
+    ],
+    "scale": [
+     0.42,
+     0.42,
+     0.42
+    ]
+   },
+   "firstperson_lefthand": {
+    "rotation": [
+     0,
+     225,
+     0
+    ],
+    "translation": [
+     -1.5,
+     8,
+     0
+    ],
+    "scale": [
+     0.42,
+     0.42,
+     0.42
+    ]
+   },
+   "ground": {
+    "translation": [
+     0,
+     3,
+     0
+    ],
+    "scale": [
+     0.45,
+     0.45,
+     0.45
+    ]
+   },
+   "fixed": {
+    "rotation": [
+     0,
+     0,
+     0
+    ],
+    "translation": [
+     0,
+     3,
+     0
+    ],
+    "scale": [
+     1.0,
+     1.0,
+     1.0
+    ]
+   },
+   "head": {
+    "translation": [
+     0,
+     14,
+     0
+    ],
+    "scale": [
+     0.8,
+     0.8,
+     0.8
+    ]
+   }
+  }
+ },
+ "perspectives": {
+  "gui": {
+   "parent": "minecraft:item/generated",
+   "textures": {
+    "layer0": "christmascraft:item/flaming_christmas_pudding"
+   }
+  }
+ }
+}

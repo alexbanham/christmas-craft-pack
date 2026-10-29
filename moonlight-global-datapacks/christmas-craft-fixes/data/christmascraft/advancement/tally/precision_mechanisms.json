@@ -1,0 +1,13 @@
+{
+ "criteria": {
+  "sustained": {
+   "trigger": "cccasino:sustained_delivery",
+   "conditions": {
+    "item": "create:precision_mechanism",
+    "per_minute": 4,
+    "minutes": 5
+   }
+  }
+ },
+ "sends_telemetry_event": false
+}

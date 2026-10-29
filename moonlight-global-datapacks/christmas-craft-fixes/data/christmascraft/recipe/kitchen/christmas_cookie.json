@@ -1,0 +1,12 @@
+{
+ "type": "minecraft:smoking",
+ "category": "food",
+ "ingredient": {
+  "item": "christmascraft:raw_christmas_cookie"
+ },
+ "result": {
+  "id": "christmascraft:christmas_cookie"
+ },
+ "experience": 0.35,
+ "cookingtime": 100
+}

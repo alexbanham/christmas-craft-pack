@@ -1,0 +1,38 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "create"
+    }
+  ],
+  "type": "create:mixing",
+  "heat_requirement": "heated",
+  "ingredients": [
+    {
+      "type": "neoforge:single",
+      "amount": 250,
+      "fluid": "minecraft:water"
+    },
+    {
+      "tag": "c:fruit/melon"
+    },
+    {
+      "tag": "c:fruit/melon"
+    },
+    {
+      "tag": "c:fruit/melon"
+    },
+    {
+      "tag": "c:fruit/melon"
+    },
+    {
+      "tag": "c:sugar"
+    }
+  ],
+  "results": [
+    {
+      "amount": 250,
+      "id": "farmersrespite:melon_juice"
+    }
+  ]
+}

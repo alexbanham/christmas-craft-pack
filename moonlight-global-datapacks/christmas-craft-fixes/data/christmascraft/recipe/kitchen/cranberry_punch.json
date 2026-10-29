@@ -1,0 +1,27 @@
+{
+ "type": "create:mixing",
+ "ingredients": [
+  {
+   "type": "neoforge:single",
+   "amount": 250,
+   "fluid": "fruitsdelight:cranberry_jam"
+  },
+  {
+   "type": "neoforge:tag",
+   "amount": 250,
+   "tag": "c:orange_juice"
+  },
+  {
+   "item": "minecraft:ice"
+  },
+  {
+   "item": "minecraft:sugar"
+  }
+ ],
+ "results": [
+  {
+   "id": "christmascraft:cranberry_punch",
+   "amount": 500
+  }
+ ]
+}

@@ -6,9 +6,9 @@
       "item": "ratatouille_fried_delights:raw_potato_sticks"
     },
     {
-      "type": "fluid_stack",
+      "type": "neoforge:tag",
       "amount": 125,
-      "fluid": "create_bic_bit:frying_oil"
+      "tag": "c:cooking_oil"
     }
   ],
   "processingTime": 100,

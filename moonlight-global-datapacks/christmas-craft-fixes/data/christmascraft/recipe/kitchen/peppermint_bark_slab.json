@@ -1,0 +1,64 @@
+{
+ "type": "create:sequenced_assembly",
+ "ingredient": {
+  "item": "create:bar_of_chocolate"
+ },
+ "loops": 1,
+ "results": [
+  {
+   "id": "christmascraft:peppermint_bark_slab"
+  }
+ ],
+ "sequence": [
+  {
+   "type": "create:filling",
+   "ingredients": [
+    {
+     "item": "christmascraft:incomplete_peppermint_bark"
+    },
+    {
+     "type": "neoforge:single",
+     "amount": 250,
+     "fluid": "create_confectionery:white_chocolate"
+    }
+   ],
+   "results": [
+    {
+     "id": "christmascraft:incomplete_peppermint_bark"
+    }
+   ]
+  },
+  {
+   "type": "create:deploying",
+   "ingredients": [
+    {
+     "item": "christmascraft:incomplete_peppermint_bark"
+    },
+    {
+     "item": "christmascraft:crushed_peppermint"
+    }
+   ],
+   "results": [
+    {
+     "id": "christmascraft:incomplete_peppermint_bark"
+    }
+   ]
+  },
+  {
+   "type": "create:pressing",
+   "ingredients": [
+    {
+     "item": "christmascraft:incomplete_peppermint_bark"
+    }
+   ],
+   "results": [
+    {
+     "id": "christmascraft:incomplete_peppermint_bark"
+    }
+   ]
+  }
+ ],
+ "transitional_item": {
+  "id": "christmascraft:incomplete_peppermint_bark"
+ }
+}

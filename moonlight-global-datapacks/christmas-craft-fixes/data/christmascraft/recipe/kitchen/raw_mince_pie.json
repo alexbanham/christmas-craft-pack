@@ -1,0 +1,64 @@
+{
+ "type": "create:sequenced_assembly",
+ "ingredient": {
+  "item": "christmascraft:pastry_case"
+ },
+ "loops": 1,
+ "results": [
+  {
+   "id": "christmascraft:raw_mince_pie"
+  }
+ ],
+ "sequence": [
+  {
+   "type": "create:filling",
+   "ingredients": [
+    {
+     "item": "christmascraft:incomplete_mince_pie"
+    },
+    {
+     "type": "neoforge:single",
+     "amount": 100,
+     "fluid": "christmascraft:mincemeat"
+    }
+   ],
+   "results": [
+    {
+     "id": "christmascraft:incomplete_mince_pie"
+    }
+   ]
+  },
+  {
+   "type": "create:deploying",
+   "ingredients": [
+    {
+     "item": "christmascraft:incomplete_mince_pie"
+    },
+    {
+     "item": "ratatouille_fried_delights:puff_pastry"
+    }
+   ],
+   "results": [
+    {
+     "id": "christmascraft:incomplete_mince_pie"
+    }
+   ]
+  },
+  {
+   "type": "create:pressing",
+   "ingredients": [
+    {
+     "item": "christmascraft:incomplete_mince_pie"
+    }
+   ],
+   "results": [
+    {
+     "id": "christmascraft:incomplete_mince_pie"
+    }
+   ]
+  }
+ ],
+ "transitional_item": {
+  "id": "christmascraft:incomplete_mince_pie"
+ }
+}

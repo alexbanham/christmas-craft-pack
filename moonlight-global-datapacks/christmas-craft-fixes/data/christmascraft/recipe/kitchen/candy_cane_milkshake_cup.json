@@ -1,0 +1,18 @@
+{
+ "type": "create:filling",
+ "ingredients": [
+  {
+   "item": "ratatouille_fried_delights:tall_cup"
+  },
+  {
+   "type": "neoforge:single",
+   "amount": 250,
+   "fluid": "christmascraft:candy_cane_shake"
+  }
+ ],
+ "results": [
+  {
+   "id": "christmascraft:candy_cane_milkshake"
+  }
+ ]
+}

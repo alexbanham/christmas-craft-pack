@@ -1,0 +1,30 @@
+{
+  "type": "farmersdelight:cooking",
+  "container": {
+    "count": 1,
+    "id": "minecraft:bowl"
+  },
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "item": "farmersdelight:raw_pasta"
+    },
+    {
+      "tag": "c:dusts/salt"
+    },
+    {
+      "tag": "c:drinks/milk"
+    },
+    {
+      "tag": "c:foods/butter"
+    },
+    {
+      "tag": "c:foods/cheese"
+    }
+  ],
+  "recipe_book_tab": "meals",
+  "result": {
+    "count": 1,
+    "id": "hearthandharvest:macaroni_and_cheese"
+  }
+}

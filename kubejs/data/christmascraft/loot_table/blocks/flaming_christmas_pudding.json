@@ -1,0 +1,27 @@
+{
+ "type": "minecraft:block",
+ "pools": [
+  {
+   "rolls": 1,
+   "entries": [
+    {
+     "type": "minecraft:item",
+     "name": "christmascraft:flaming_christmas_pudding"
+    }
+   ],
+   "conditions": [
+    {
+     "condition": "minecraft:survives_explosion"
+    },
+    {
+     "condition": "minecraft:block_state_property",
+     "block": "christmascraft:flaming_christmas_pudding",
+     "properties": {
+      "servings": "4"
+     }
+    }
+   ]
+  }
+ ],
+ "random_sequence": "christmascraft:blocks/flaming_christmas_pudding"
+}

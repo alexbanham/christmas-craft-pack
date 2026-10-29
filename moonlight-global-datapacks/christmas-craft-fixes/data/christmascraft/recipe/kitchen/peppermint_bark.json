@@ -1,0 +1,15 @@
+{
+ "type": "create:cutting",
+ "ingredients": [
+  {
+   "item": "christmascraft:peppermint_bark_slab"
+  }
+ ],
+ "results": [
+  {
+   "id": "christmascraft:peppermint_bark",
+   "count": 4
+  }
+ ],
+ "processing_time": 100
+}

@@ -1,0 +1,26 @@
+{
+ "type": "create:mixing",
+ "ingredients": [
+  {
+   "item": "create:wheat_flour"
+  },
+  {
+   "item": "create:wheat_flour"
+  },
+  {
+   "item": "minecraft:sugar"
+  },
+  {
+   "item": "hearthandharvest:butter"
+  },
+  {
+   "item": "minecraft:egg"
+  }
+ ],
+ "results": [
+  {
+   "id": "christmascraft:christmas_cookie_dough",
+   "count": 4
+  }
+ ]
+}

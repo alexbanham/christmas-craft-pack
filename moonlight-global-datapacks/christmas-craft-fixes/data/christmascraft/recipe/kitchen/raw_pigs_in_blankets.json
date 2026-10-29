@@ -1,0 +1,16 @@
+{
+ "type": "create:deploying",
+ "ingredients": [
+  {
+   "item": "hearthandharvest:raw_sausage"
+  },
+  {
+   "item": "farmersdelight:bacon"
+  }
+ ],
+ "results": [
+  {
+   "id": "christmascraft:raw_pigs_in_blankets"
+  }
+ ]
+}

@@ -1,0 +1,24 @@
+{
+ "type": "create:mixing",
+ "ingredients": [
+  {
+   "type": "neoforge:single",
+   "amount": 250,
+   "fluid": "ratatouille_fried_delights:ice_cream_base"
+  },
+  {
+   "type": "neoforge:tag",
+   "amount": 250,
+   "tag": "c:milk"
+  },
+  {
+   "item": "christmascraft:crushed_peppermint"
+  }
+ ],
+ "results": [
+  {
+   "id": "christmascraft:candy_cane_shake",
+   "amount": 500
+  }
+ ]
+}

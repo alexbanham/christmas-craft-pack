@@ -1,0 +1,33 @@
+{
+ "type": "create:mixing",
+ "ingredients": [
+  {
+   "item": "minecraft:apple"
+  },
+  {
+   "item": "minecraft:apple"
+  },
+  {
+   "item": "hearthandharvest:raisins"
+  },
+  {
+   "item": "hearthandharvest:raisins"
+  },
+  {
+   "item": "minecraft:sugar"
+  },
+  {
+   "item": "snowyspirit:ginger"
+  },
+  {
+   "item": "hearthandharvest:butter"
+  }
+ ],
+ "results": [
+  {
+   "id": "christmascraft:mincemeat",
+   "amount": 500
+  }
+ ],
+ "heat_requirement": "heated"
+}

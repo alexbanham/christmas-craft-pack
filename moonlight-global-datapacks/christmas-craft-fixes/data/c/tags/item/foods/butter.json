@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "ratatouille_fried_delights:butter",
+      "required": false
+    },
+    {
+      "id": "hearthandharvest:butter",
+      "required": false
+    }
+  ]
+}

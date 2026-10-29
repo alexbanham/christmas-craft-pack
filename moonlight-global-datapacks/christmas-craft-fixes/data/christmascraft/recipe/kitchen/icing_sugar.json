@@ -1,0 +1,17 @@
+{
+ "type": "create:milling",
+ "ingredients": [
+  {
+   "item": "minecraft:sugar"
+  }
+ ],
+ "results": [
+  {
+   "id": "christmascraft:icing_sugar"
+  },
+  {
+   "id": "christmascraft:icing_sugar",
+   "chance": 0.25
+  }
+ ]
+}

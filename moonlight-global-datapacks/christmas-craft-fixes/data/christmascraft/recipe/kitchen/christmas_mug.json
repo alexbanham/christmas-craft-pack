@@ -1,0 +1,19 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  {
+   "item": "minecraft:brick"
+  },
+  {
+   "item": "minecraft:brick"
+  },
+  {
+   "item": "minecraft:red_dye"
+  }
+ ],
+ "result": {
+  "id": "christmascraft:christmas_mug",
+  "count": 2
+ }
+}
