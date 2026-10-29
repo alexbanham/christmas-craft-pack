@@ -1,6 +1,6 @@
 name = "Christmas Craft"
 author = "Alex & friends"
-version = "0.5.3"
+version = "0.5.4"
 pack-format = "packwiz:1.1.0"
 
 [index]
