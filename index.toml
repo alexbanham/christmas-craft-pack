@@ -253,6 +253,10 @@ file = "config/vaportrails-client.toml"
 hash = "a419a4cf35c265812ad8afc3dfc94609f5d86ff85f032d034f13968f21c5ec3c"
 
 [[files]]
+file = "defaultconfigs/createdieselgenerators-server.toml"
+hash = "62cf417c50db5af74470e6a0b55f5389002ca136aaa582ed70302bd48e49e823"
+
+[[files]]
 file = "kubejs/assets/christmascraft/blockstates/bottle_of_cranberry_punch.json"
 hash = "03c296e8166289c145b7eea4e63376792b04c86ddf5b8e99138629efcd8178ca"
 
@@ -1438,6 +1442,11 @@ metafile = true
 [[files]]
 file = "mods/create-design-n-decor.pw.toml"
 hash = "e05bc0c3ee97da0dfcf9dabd3c3eaee0e90819091ead3f500ddc3b1caf77fe54"
+metafile = true
+
+[[files]]
+file = "mods/create-diesel-generators.pw.toml"
+hash = "456f66abd180b3f5765473cda5e8acb1a6ea8b15b7ee34442be9a7af414cfc63"
 metafile = true
 
 [[files]]
@@ -3320,6 +3329,14 @@ file = "moonlight-global-datapacks/christmas-craft-fixes/data/createdeco/recipe/
 hash = "ddc3d0dd56b604d914bedbf2f985a2f0b5f7374eac79aad668a8a2cfd7cc154c"
 
 [[files]]
+file = "moonlight-global-datapacks/christmas-craft-fixes/data/createdieselgenerators/recipe/compacting/plant_oil.json"
+hash = "3243151aa4af801e285dc30410de0621ea264ecebe741cf1669624ee4e3a34c4"
+
+[[files]]
+file = "moonlight-global-datapacks/christmas-craft-fixes/data/createdieselgenerators/recipe/crushing/wood_chip_casings.json"
+hash = "665d5872dd93f6108c67a56a094826ba46118fe38c35a5ae4f1a09abc18daa1f"
+
+[[files]]
 file = "moonlight-global-datapacks/christmas-craft-fixes/data/createpropulsion/recipe/cutting/copycat_wing.json"
 hash = "f84ffe73c9e5b3c63ae716f0d32906e9e40d613dd8e4cc756d914e4db9fc5666"
 
@@ -4786,6 +4803,10 @@ hash = "99b969132018e9da1071065a8593ba9564928b1ed0aa5ae3ab45f9dac071f7d5"
 [[files]]
 file = "moonlight-global-datapacks/christmas-craft-fixes/data/naturalist/neoforge/biome_modifier/remove_forest_pigs.json"
 hash = "99b969132018e9da1071065a8593ba9564928b1ed0aa5ae3ab45f9dac071f7d5"
+
+[[files]]
+file = "moonlight-global-datapacks/christmas-craft-fixes/data/portable_engine_liquid_fuel/data_maps/fluid/engine_fuel.json"
+hash = "d0eeadeaaeca607524c7df2a79af7f9d1b83c2d62c9b9771160a74f4354c05f1"
 
 [[files]]
 file = "moonlight-global-datapacks/christmas-craft-fixes/data/portable_engine_liquid_fuel/data_maps/fluid/super_engine_fuel.json"

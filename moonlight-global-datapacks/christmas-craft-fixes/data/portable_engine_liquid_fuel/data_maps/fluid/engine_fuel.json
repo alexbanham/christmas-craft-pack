@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": {
+    "#c:diesel": {
+      "burn_time": 24000
+    },
+    "#c:biodiesel": {
+      "burn_time": 24000
+    }
+  }
+}
