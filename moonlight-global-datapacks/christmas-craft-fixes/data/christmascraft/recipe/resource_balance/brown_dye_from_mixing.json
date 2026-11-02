@@ -1,0 +1,5 @@
+{
+  "type": "create:mixing",
+  "ingredients": [{"tag": "c:dyes/red"}, {"tag": "c:dyes/green"}],
+  "results": [{"id": "minecraft:brown_dye", "count": 2}]
+}

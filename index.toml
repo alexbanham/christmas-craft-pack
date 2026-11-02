@@ -1121,6 +1121,10 @@ file = "kubejs/startup_scripts/food-balance.js"
 hash = "49b4e13d102ac5f453d362e4256b7f16b46e1100c6955b6e35668c076daf8256"
 
 [[files]]
+file = "kubejs/startup_scripts/stone-formations.js"
+hash = "a3cc0de72be59d554ebc5c5bdafb55a87d565379534692c91fe710d921cfd5a4"
+
+[[files]]
 file = "kubejs/startup_scripts/xmas-decor.js"
 hash = "e294980b3d4f8df3744d68cbc67d453dd9598582afe26b4c3eff5d0d8eac10cf"
 
@@ -2236,6 +2240,10 @@ file = "moonlight-global-datapacks/christmas-craft-fixes/data/c/tags/fluid/cooki
 hash = "7ecc48716a13a61c0a2825f2e692eadea39be8ce834e639b6066caab2e068348"
 
 [[files]]
+file = "moonlight-global-datapacks/christmas-craft-fixes/data/c/tags/fluid/ethanol.json"
+hash = "35eb5414568755321e3d53b3e0b7f1d226efe9de3e8783d01090c39b58812056"
+
+[[files]]
 file = "moonlight-global-datapacks/christmas-craft-fixes/data/c/tags/fluid/hard_cider.json"
 hash = "fdbff4512f783a692c8d76b8e7365b5254eaaa7a432c4c9b54a5c30cf7ece2fe"
 
@@ -2732,6 +2740,14 @@ file = "moonlight-global-datapacks/christmas-craft-fixes/data/christmascraft/rec
 hash = "517a72cfefaabe480dec6b1e440f5685673fbf52c5f90d100f97d2c860f07dcc"
 
 [[files]]
+file = "moonlight-global-datapacks/christmas-craft-fixes/data/christmascraft/recipe/resource_balance/brown_dye_from_mixing.json"
+hash = "7b96a0cbfabb854e69f2be5f7fa4de5372864e3c33fb71adaf2291524cc4c917"
+
+[[files]]
+file = "moonlight-global-datapacks/christmas-craft-fixes/data/christmascraft/recipe/resource_balance/prismarine_shards_from_crushing.json"
+hash = "c4bc41d21c4e89d9eea201a9a8b3da6bf0efc22692916131ade8e9a80ea96dc2"
+
+[[files]]
 file = "moonlight-global-datapacks/christmas-craft-fixes/data/christmascraft/tags/item/oil_seeds.json"
 hash = "6cbe84b9990ad17bc33de60474e9b784d7e9d70d69da0f9055f51886dc8bdebd"
 
@@ -2966,6 +2982,38 @@ hash = "c0da6e3db1d5786f54756c75c82fc87ba41951fc90e6b903d7ce119570ede6a9"
 [[files]]
 file = "moonlight-global-datapacks/christmas-craft-fixes/data/copycats/physics_block_properties/copycat_catwalk.json"
 hash = "fe16203088b321e6e3b7cc68c73928ed7e2ecf84aa61f142600d9903c95b9694"
+
+[[files]]
+file = "moonlight-global-datapacks/christmas-craft-fixes/data/create/recipe/crushing/asurine.json"
+hash = "d90fbd2f8b7306cbfc400e4c755ab19e6b82e5d78ff83bc014cb4fe1475e093f"
+
+[[files]]
+file = "moonlight-global-datapacks/christmas-craft-fixes/data/create/recipe/crushing/asurine_recycling.json"
+hash = "77dcc8afc2b20d0b0befd8e38da4dd6ae354dd7f5c6502fe7d796473ef36b060"
+
+[[files]]
+file = "moonlight-global-datapacks/christmas-craft-fixes/data/create/recipe/crushing/crimsite.json"
+hash = "401a8fa7464923c9253bd8283afe922b6d0f3e231b483435dd8147b51b3f306a"
+
+[[files]]
+file = "moonlight-global-datapacks/christmas-craft-fixes/data/create/recipe/crushing/crimsite_recycling.json"
+hash = "a450fdd2c1aa97d6a1ad592e4e99bff8c627247c96f17055e5aa992cd743afc8"
+
+[[files]]
+file = "moonlight-global-datapacks/christmas-craft-fixes/data/create/recipe/crushing/ochrum.json"
+hash = "e993d7704f4c76ab19cb053a4ca256fa2524593aeb9bd9ee2ce6998afb72fed4"
+
+[[files]]
+file = "moonlight-global-datapacks/christmas-craft-fixes/data/create/recipe/crushing/ochrum_recycling.json"
+hash = "991552572332552f5a9bb584611972dd4fc9e03ad4f92f1c9d11751ab95fb029"
+
+[[files]]
+file = "moonlight-global-datapacks/christmas-craft-fixes/data/create/recipe/crushing/veridium.json"
+hash = "152ff7a5a70634d7e14280d74969ce6ae5e397d8d9c0a74b6957e07e65fe6347"
+
+[[files]]
+file = "moonlight-global-datapacks/christmas-craft-fixes/data/create/recipe/crushing/veridium_recycling.json"
+hash = "d85ced50ffb1345bdee11e464c234a08a0d83c76216296fd0306c4679a239753"
 
 [[files]]
 file = "moonlight-global-datapacks/christmas-craft-fixes/data/create/recipe/mixing/apple_cider.json"
@@ -3242,22 +3290,6 @@ hash = "0a129b534eb6b5d7aa4e5ed39036a227f9e64b931add697c4ddbeb2612b7ee91"
 [[files]]
 file = "moonlight-global-datapacks/christmas-craft-fixes/data/create_factory/recipe/caramel_waffle.json"
 hash = "1d36c624d262302dcd0fcdd3c200dee3ad7693d3f916d210faeade121bd3d673"
-
-[[files]]
-file = "moonlight-global-datapacks/christmas-craft-fixes/data/create_mechanical_extruder/recipe/extruding/asurine.json"
-hash = "c2bf62fdb25a6e1f7e784832912102926497a0c05b010042b368d244b078f674"
-
-[[files]]
-file = "moonlight-global-datapacks/christmas-craft-fixes/data/create_mechanical_extruder/recipe/extruding/crimsite.json"
-hash = "eb4049db9b384e4b57994052a8d6186f1c4d98f5cd2e9fba03613b42b9a3600d"
-
-[[files]]
-file = "moonlight-global-datapacks/christmas-craft-fixes/data/create_mechanical_extruder/recipe/extruding/ochrum.json"
-hash = "20a82c7526e7c24ecae8a68f1751f735c265d367eafdcd4c77b8e76cff118538"
-
-[[files]]
-file = "moonlight-global-datapacks/christmas-craft-fixes/data/create_mechanical_extruder/recipe/extruding/veridium.json"
-hash = "9fcabca9c63198e0196d113752d5a6d6d2d9f61e3ac6115261f1f30c5a8befa6"
 
 [[files]]
 file = "moonlight-global-datapacks/christmas-craft-fixes/data/create_parachute/loot_table/blocks/parachute_block.json"
