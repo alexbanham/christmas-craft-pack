@@ -1415,11 +1415,6 @@ hash = "96c9428f2a610d58e6ac47a9fc369159b6ca4dd59fe8b8b7a6a7caa8faf548d2"
 metafile = true
 
 [[files]]
-file = "mods/create-cobblestone.pw.toml"
-hash = "265c47a67d9e22610bcad5418fcdf0d08fc0f051822d8a744947c97fe451ea53"
-metafile = true
-
-[[files]]
 file = "mods/create-confectionery.pw.toml"
 hash = "33018abac3d5d96ba7774d9666a0f5d769974dd5c32487308f74744da3f1bcca"
 metafile = true
