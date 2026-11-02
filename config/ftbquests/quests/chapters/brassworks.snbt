@@ -30,7 +30,7 @@
 				"id": "create:crushing_wheel"
 			}
 			"x": 0.75d
-			"y": 1.5d
+			"y": 1.75d
 			"shape": "gear"
 			"size": 1.5d
 			"tasks": [
@@ -119,7 +119,7 @@
 				"id": "create:crushed_raw_iron"
 			}
 			"x": 3.25d
-			"y": 0.5d
+			"y": 2.75d
 			"shape": "circle"
 			"size": 1.0d
 			"tasks": [
@@ -217,7 +217,7 @@
 				"id": "create:blaze_cake"
 			}
 			"x": 3.25d
-			"y": 2.5d
+			"y": 0.75d
 			"shape": "gear"
 			"size": 1.5d
 			"tasks": [
@@ -309,7 +309,7 @@
 				"id": "create:sturdy_sheet"
 			}
 			"x": 6.25d
-			"y": 1.5d
+			"y": 1.75d
 			"shape": "diamond"
 			"size": 2.2d
 			"tasks": [
@@ -937,97 +937,6 @@
 				}
 				{
 					"id": "3DB62549FB3302E1"
-					"type": "item"
-					"item": {
-						"id": "cccasino:chip_10"
-						"count": 1
-					}
-				}
-			]
-			"optional": true
-		}
-		{
-			"id": "247F70B208464BC0"
-			"dependencies": [
-				"162CE88B477B267E"
-				"5332A80303E44DB2"
-				"7CC5DFB019472438"
-				"04BEBADB469586F0"
-			]
-			"icon": {
-				"id": "createcobblestone:mechanical_generator"
-			}
-			"x": 5.5d
-			"y": 7.5d
-			"shape": "rsquare"
-			"size": 1.0d
-			"tasks": [
-				{
-					"id": "2101FAD6BA65D3C6"
-					"type": "item"
-					"item": {
-						"id": "createcobblestone:mechanical_generator"
-						"count": 1
-					}
-					"count": 1
-				}
-			]
-			"rewards": [
-				{
-					"id": "64F9E0D025C7FE87"
-					"type": "xp"
-					"xp": 150
-				}
-				{
-					"id": "270E96939930910A"
-					"type": "item"
-					"item": {
-						"id": "ftbquests:lootcrate"
-						"count": 1
-						"components": {
-							"ftbquests:loot_crate": "small_gift"
-						}
-					}
-				}
-				{
-					"id": "518FC5FA05F64B4D"
-					"type": "item"
-					"item": {
-						"id": "ftbquests:lootcrate"
-						"count": 1
-						"components": {
-							"ftbquests:loot_crate": "stocking"
-						}
-					}
-				}
-				{
-					"id": "0BEE50AF6A42DFAD"
-					"type": "item"
-					"item": {
-						"id": "create:crushed_raw_zinc"
-						"count": 1
-					}
-					"count": 8
-				}
-				{
-					"id": "35958CD4480AF821"
-					"type": "item"
-					"item": {
-						"id": "minecraft:stone"
-						"count": 1
-					}
-					"count": 64
-				}
-				{
-					"id": "1572925C017BB565"
-					"type": "item"
-					"item": {
-						"id": "cccasino:chip_50"
-						"count": 1
-					}
-				}
-				{
-					"id": "230A38601BBD77E1"
 					"type": "item"
 					"item": {
 						"id": "cccasino:chip_10"

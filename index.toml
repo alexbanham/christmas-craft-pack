@@ -98,7 +98,7 @@ hash = "42a739a1bf38915787a4236f2f8e941769ad175490c27cc276e063019f906ccc"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/brassworks.snbt"
-hash = "09cb94b007ea5fc4496a50fc2999c5509ba6f3d0cd959b3655716b6615e8fbb1"
+hash = "9a86b57d1d8e916bd5466b902ac30f73306d2abdef8ead944f935fb311730373"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/carols.snbt"
@@ -166,7 +166,7 @@ hash = "1968b1172f4184e36962ea8442accf213b5f8b69b998a18c8d4b045026441741"
 
 [[files]]
 file = "config/ftbquests/quests/lang/en_us.snbt"
-hash = "619b88855d8943478f8a2e7dd29b65b419158a2b47a73e6bb5f409510bd061b2"
+hash = "5fcd8dcd182b458824532cf667ae932ba30ff14c48c54c11c6bf82211a1699d6"
 
 [[files]]
 file = "config/ftbquests/quests/reward_tables/big_present.snbt"
