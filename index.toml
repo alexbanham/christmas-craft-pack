@@ -1122,7 +1122,7 @@ hash = "49b4e13d102ac5f453d362e4256b7f16b46e1100c6955b6e35668c076daf8256"
 
 [[files]]
 file = "kubejs/startup_scripts/stone-formations.js"
-hash = "a3cc0de72be59d554ebc5c5bdafb55a87d565379534692c91fe710d921cfd5a4"
+hash = "8892e94cbb6cd3fec2c69a0e15354f18fdf4d124119cc4e3e838ed15fe5c3695"
 
 [[files]]
 file = "kubejs/startup_scripts/xmas-decor.js"

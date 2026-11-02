@@ -27,7 +27,7 @@ StartupEvents.postInit(event => {
     ['farmersrespite:rose_hip_tea', 'twigs:rhyolite'],
     ['farmersrespite:black_tea', 'twigs:schist'],
     ['create_factory:sweet_berries_jam', 'twigs:bloodstone'],
-    ['supplementaries:lumisene', 'minecraft:prismarine'],
+    ['ratatouille:melon_juice_fluid', 'minecraft:prismarine'],
     // Tuff crushes into five metal nuggets (C&A), so it is harder (Alex): it needs crude oil from a pumpjack.
     ['createdieselgenerators:crude_oil', 'minecraft:tuff']
   ]
