@@ -22,7 +22,7 @@ hash = "cca57b47b126f6411e71d00f6a74227028e8314101c847d47793ad6a1105c38b"
 
 [[files]]
 file = "config/aeronauticsdiscovery-common.toml"
-hash = "7a5d792b770755317c38cda4fe00b4e8100114caa757b6c52efeb1cbcd1841f9"
+hash = "70c93a1793f55e81dc148d14d0d0da7274aafb6f9852914c604cb3c8f6db6844"
 
 [[files]]
 file = "config/aeroweather-common.toml"
@@ -30,7 +30,7 @@ hash = "acecbad0b4b0480972ea721be501a9d87d8a78c36c180e3d155555b4167341cb"
 
 [[files]]
 file = "config/alpinewhispers-common.toml"
-hash = "1bbf09b73f53fa63caa970cccf55c91443331246e1204dc943de3023e11d0147"
+hash = "5cf3392948ff0dc2bd9d916abf9e9f070d653e313fb1ea45ef8511bc9be9aa0d"
 
 [[files]]
 file = "config/bits_n_bobs-common.toml"
@@ -238,7 +238,7 @@ hash = "69d00383434af962d368f7367a7a27081dc63f0ea018b332b74e51f8c47ffcbb"
 
 [[files]]
 file = "config/naturalist-server.toml"
-hash = "598ec3839ddb502ee1d7eaeb05145613cbc46a3aa61eeaef794e56c811c493b4"
+hash = "82da4dcecbdc76b9d0e8c240186ed42db9452868d83691c091698479cc6e384a"
 
 [[files]]
 file = "config/simplebackups-common.toml"
@@ -246,7 +246,7 @@ hash = "e5ebd6a4eceaaf2fb07560cfb67672a9883cb14319949616f4d1a42857ffb4f3"
 
 [[files]]
 file = "config/sparsestructures.json5"
-hash = "d27cd31110808cb784dee8e70e9f7d5fa9c0ffd10238b878cd3904194d8636ef"
+hash = "b86130f71375cdf1e6295ea097bc23d5eb3d5229db3a873d6d4229fab367167c"
 
 [[files]]
 file = "config/vaportrails-client.toml"
@@ -2202,18 +2202,6 @@ metafile = true
 file = "mods/yungs-better-mineshafts.pw.toml"
 hash = "e839608ebc974e9e7819adc7bf29132ea86fc41b46af540fe0fa39b2007b2439"
 metafile = true
-
-[[files]]
-file = "moonlight-global-datapacks/christmas-craft-fixes/data/aeronauticsdiscovery/flyover_events/airplane_pillager.json"
-hash = "106b24ee40fb43602ab4176b851def70f6fcb828816a3c392e6f51d176a1aaaf"
-
-[[files]]
-file = "moonlight-global-datapacks/christmas-craft-fixes/data/aeronauticsdiscovery/patrols/mansion_patrol.json"
-hash = "3ba6dcbe8244e275ff322605ac4268c628530f4a9f7587dba9372b2c447ad469"
-
-[[files]]
-file = "moonlight-global-datapacks/christmas-craft-fixes/data/aeronauticsdiscovery/patrols/outpost_patrol.json"
-hash = "8c8fadab147c7abb2cbbf27e6b9ff067d664566d090df614a704cdfd4a3f2f88"
 
 [[files]]
 file = "moonlight-global-datapacks/christmas-craft-fixes/data/alpinewhispers/recipe/candle_wreath.json"

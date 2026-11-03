@@ -41,7 +41,7 @@
 
 	[impact.explosion]
 		#Whether explosive pins destroy blocks on detonation.
-		blocks = false
+		blocks = true
 		#Whether explosions can create fire
 		fire = false
 		#Explosion mode: OPTIMIZED (no raycasting) or VANILLA (more accurate, can be very slow on sublevels).

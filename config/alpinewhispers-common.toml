@@ -54,7 +54,7 @@
 	# Range: 1 ~ 100
 	groveSnowStrength = 15
 	#Snow slides down steep slopes in Groves
-	avalanches = false
+	avalanches = true
 	#Quiet wind and distant avalanche sounds in Groves
 	groveAmbience = true
 	#Needles drift down from spruce and Arolla pine leaves
