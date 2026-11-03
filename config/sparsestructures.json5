@@ -8,9 +8,6 @@
   "idBasedSalt": false,
 
   "customSpreadFactors": [
-    { "structure": "minecraft:mansion", "factor": 1 },
-    // 0 = disabled: duplicates of YUNG's Better Mineshafts. Hostile structures are on (Alex, 2026-11-02).
-    { "structure": "repurposed_structures:mineshafts_overworld", "factor": 0 },
-    { "structure": "repurposed_structures:mineshafts_ocean", "factor": 0 },
+    { "structure": "minecraft:mansion", "factor": 1 }
   ]
 }

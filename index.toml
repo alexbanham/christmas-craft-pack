@@ -34,7 +34,7 @@ hash = "5cf3392948ff0dc2bd9d916abf9e9f070d653e313fb1ea45ef8511bc9be9aa0d"
 
 [[files]]
 file = "config/bits_n_bobs-common.toml"
-hash = "46194970096a22166aceb7741a5342317e57c7ebaa488ebb40174033982c6904"
+hash = "ef974c139b71fdbc4cc14048f46150ff95e8d9911d32a0f5c5bd0b393742fb80"
 
 [[files]]
 file = "config/carryon-common.toml"
@@ -238,7 +238,7 @@ hash = "69d00383434af962d368f7367a7a27081dc63f0ea018b332b74e51f8c47ffcbb"
 
 [[files]]
 file = "config/naturalist-server.toml"
-hash = "82da4dcecbdc76b9d0e8c240186ed42db9452868d83691c091698479cc6e384a"
+hash = "b0a11f9fa0636e2852345241f28d8992f19c00b6103979d0c87ec17fc8efce14"
 
 [[files]]
 file = "config/simplebackups-common.toml"
@@ -246,7 +246,7 @@ hash = "e5ebd6a4eceaaf2fb07560cfb67672a9883cb14319949616f4d1a42857ffb4f3"
 
 [[files]]
 file = "config/sparsestructures.json5"
-hash = "b86130f71375cdf1e6295ea097bc23d5eb3d5229db3a873d6d4229fab367167c"
+hash = "1bd9fb4ba60c8343e7718f4f01a95abf04597814554adf98abdd98a3bdceb967"
 
 [[files]]
 file = "config/vaportrails-client.toml"
@@ -1030,11 +1030,11 @@ hash = "d96400565f72e7270eeb9daaab2b1cf2a450e9491bbd488d217ed5f7e49c4bc3"
 
 [[files]]
 file = "kubejs/client_scripts/create-addons.js"
-hash = "88683c3385db300db212934f481ced6b2fc73db03dfb3acab3ac159609009370"
+hash = "4a5839700ecc816c85d4d4b1276a5bd466740ba36b567a6c976de5df73f0a699"
 
 [[files]]
 file = "kubejs/client_scripts/food-drink.js"
-hash = "928713d653f4d7affdf3db9c5766840ef56dc3cb21765b01fd4b7ee245ec3cdf"
+hash = "f05c77f10848694eb7e7d95a352fce28efd93b23f26e1a94a2a8fd7bf6f40f93"
 
 [[files]]
 file = "kubejs/client_scripts/missing-art.js"
@@ -1046,7 +1046,7 @@ hash = "2d3225735ef1e3f5df8970f234144c6c8c8f81a7e584557f7050d336d0a82dad"
 
 [[files]]
 file = "kubejs/client_scripts/xmas-decor.js"
-hash = "7265d51ec0e6af5856fef9865cd23604b2eae81672bbcc443e03a1eb2b00b637"
+hash = "08d511244bfd51d17708c30b218c8504fad053b14fb444e7674c21793d786f5b"
 
 [[files]]
 file = "kubejs/data/christmascraft/loot_table/blocks/bottle_of_cranberry_punch.json"
@@ -1123,10 +1123,6 @@ hash = "49b4e13d102ac5f453d362e4256b7f16b46e1100c6955b6e35668c076daf8256"
 [[files]]
 file = "kubejs/startup_scripts/stone-formations.js"
 hash = "8892e94cbb6cd3fec2c69a0e15354f18fdf4d124119cc4e3e838ed15fe5c3695"
-
-[[files]]
-file = "kubejs/startup_scripts/xmas-decor.js"
-hash = "e294980b3d4f8df3744d68cbc67d453dd9598582afe26b4c3eff5d0d8eac10cf"
 
 [[files]]
 file = "mods/additional-lanterns.pw.toml"
@@ -3153,7 +3149,7 @@ hash = "0fb18144ae4783f7c4b4fea6d8200fc4f977b985761c629ef7bef7ed512e870d"
 
 [[files]]
 file = "moonlight-global-datapacks/christmas-craft-fixes/data/create_confectionery/recipe/candy_cane_axe_recipe.json"
-hash = "21b11674b18c3fb0d8292095cf7c12bca82ef4054ec3f1cd8d1e0222d1655629"
+hash = "3ded9413d5b15c77c2a8fd3d1c4c9d86cd5df08df1b3e2d00ac8f937a69b1a47"
 
 [[files]]
 file = "moonlight-global-datapacks/christmas-craft-fixes/data/create_confectionery/recipe/candy_cane_block_recipe.json"
@@ -3161,11 +3157,11 @@ hash = "21b11674b18c3fb0d8292095cf7c12bca82ef4054ec3f1cd8d1e0222d1655629"
 
 [[files]]
 file = "moonlight-global-datapacks/christmas-craft-fixes/data/create_confectionery/recipe/candy_cane_hoe_recipe.json"
-hash = "21b11674b18c3fb0d8292095cf7c12bca82ef4054ec3f1cd8d1e0222d1655629"
+hash = "6db4ba16eba66b75da2a86873cbafbed4e267dd1aa09e1afc610f853d1b93b02"
 
 [[files]]
 file = "moonlight-global-datapacks/christmas-craft-fixes/data/create_confectionery/recipe/candy_cane_pickaxe_recipe.json"
-hash = "21b11674b18c3fb0d8292095cf7c12bca82ef4054ec3f1cd8d1e0222d1655629"
+hash = "8e38e7e0fa9ac1a1ab60415d86d2ed091abc23a30f39654a2fbbfec5c8f99e14"
 
 [[files]]
 file = "moonlight-global-datapacks/christmas-craft-fixes/data/create_confectionery/recipe/candy_cane_recipe.json"
@@ -3177,11 +3173,11 @@ hash = "60c4c06a9df1299a500a0481d471fa370aaf92fa6698c8d2ae578108dd02dfd5"
 
 [[files]]
 file = "moonlight-global-datapacks/christmas-craft-fixes/data/create_confectionery/recipe/candy_cane_shovel_recipe.json"
-hash = "21b11674b18c3fb0d8292095cf7c12bca82ef4054ec3f1cd8d1e0222d1655629"
+hash = "fca3a005d129541ce700009491adcd73e287f5956922dbb8bb26282984e314a5"
 
 [[files]]
 file = "moonlight-global-datapacks/christmas-craft-fixes/data/create_confectionery/recipe/candy_cane_sword_recipe.json"
-hash = "21b11674b18c3fb0d8292095cf7c12bca82ef4054ec3f1cd8d1e0222d1655629"
+hash = "a84bc496d4e3ffe1f9c6896b09e548a84d66d6f27555de1778ea149a5135c4fd"
 
 [[files]]
 file = "moonlight-global-datapacks/christmas-craft-fixes/data/create_confectionery/recipe/cocoa_powder_and_butter_recipe.json"
@@ -3197,7 +3193,7 @@ hash = "6e2e6be46c01d145d5ca134725145957acdc734ab6efbaab37a9c0edcf991e7c"
 
 [[files]]
 file = "moonlight-global-datapacks/christmas-craft-fixes/data/create_confectionery/recipe/music_disc_the_bright_side_recipe.json"
-hash = "21b11674b18c3fb0d8292095cf7c12bca82ef4054ec3f1cd8d1e0222d1655629"
+hash = "32fbe013623f825827cd595264e2c7abe3f2f71e0fcc3568bf13deb1449e2218"
 
 [[files]]
 file = "moonlight-global-datapacks/christmas-craft-fixes/data/create_confectionery/recipe/white_chocolate_recipe.json"
@@ -4526,278 +4522,6 @@ hash = "bd210fd6c532f3b5f1af1dc625887250d3c4be8996a11749b1cef628520b21cb"
 [[files]]
 file = "moonlight-global-datapacks/christmas-craft-fixes/data/lagless_adq/recipe/affordable_docking_connector.json"
 hash = "25cb2cc9b01ef0dfc427b9695e018cf9e32f40b592d6dad8ec2843dc96bfa28b"
-
-[[files]]
-file = "moonlight-global-datapacks/christmas-craft-fixes/data/mcwholidays/recipe/bat_doormat.json"
-hash = "78740b3b40d7de023cde14124d10a1baada91bc9b826f9e38b79f4bbd80a5e16"
-
-[[files]]
-file = "moonlight-global-datapacks/christmas-craft-fixes/data/mcwholidays/recipe/bat_sleeping.json"
-hash = "78740b3b40d7de023cde14124d10a1baada91bc9b826f9e38b79f4bbd80a5e16"
-
-[[files]]
-file = "moonlight-global-datapacks/christmas-craft-fixes/data/mcwholidays/recipe/bat_wall_deco_1.json"
-hash = "78740b3b40d7de023cde14124d10a1baada91bc9b826f9e38b79f4bbd80a5e16"
-
-[[files]]
-file = "moonlight-global-datapacks/christmas-craft-fixes/data/mcwholidays/recipe/bat_wall_deco_2.json"
-hash = "78740b3b40d7de023cde14124d10a1baada91bc9b826f9e38b79f4bbd80a5e16"
-
-[[files]]
-file = "moonlight-global-datapacks/christmas-craft-fixes/data/mcwholidays/recipe/bat_wall_deco_3.json"
-hash = "78740b3b40d7de023cde14124d10a1baada91bc9b826f9e38b79f4bbd80a5e16"
-
-[[files]]
-file = "moonlight-global-datapacks/christmas-craft-fixes/data/mcwholidays/recipe/carved_evil_pumpkin.json"
-hash = "78740b3b40d7de023cde14124d10a1baada91bc9b826f9e38b79f4bbd80a5e16"
-
-[[files]]
-file = "moonlight-global-datapacks/christmas-craft-fixes/data/mcwholidays/recipe/carved_friendly_pumpkin.json"
-hash = "78740b3b40d7de023cde14124d10a1baada91bc9b826f9e38b79f4bbd80a5e16"
-
-[[files]]
-file = "moonlight-global-datapacks/christmas-craft-fixes/data/mcwholidays/recipe/carved_screaming_pumpkin.json"
-hash = "78740b3b40d7de023cde14124d10a1baada91bc9b826f9e38b79f4bbd80a5e16"
-
-[[files]]
-file = "moonlight-global-datapacks/christmas-craft-fixes/data/mcwholidays/recipe/carved_shocked_pumpkin.json"
-hash = "78740b3b40d7de023cde14124d10a1baada91bc9b826f9e38b79f4bbd80a5e16"
-
-[[files]]
-file = "moonlight-global-datapacks/christmas-craft-fixes/data/mcwholidays/recipe/carved_smile_pumpkin.json"
-hash = "78740b3b40d7de023cde14124d10a1baada91bc9b826f9e38b79f4bbd80a5e16"
-
-[[files]]
-file = "moonlight-global-datapacks/christmas-craft-fixes/data/mcwholidays/recipe/cat_wall_deco_1.json"
-hash = "78740b3b40d7de023cde14124d10a1baada91bc9b826f9e38b79f4bbd80a5e16"
-
-[[files]]
-file = "moonlight-global-datapacks/christmas-craft-fixes/data/mcwholidays/recipe/chaotic_cobweb.json"
-hash = "78740b3b40d7de023cde14124d10a1baada91bc9b826f9e38b79f4bbd80a5e16"
-
-[[files]]
-file = "moonlight-global-datapacks/christmas-craft-fixes/data/mcwholidays/recipe/cornered_cobweb.json"
-hash = "78740b3b40d7de023cde14124d10a1baada91bc9b826f9e38b79f4bbd80a5e16"
-
-[[files]]
-file = "moonlight-global-datapacks/christmas-craft-fixes/data/mcwholidays/recipe/flat_dirt_gravestone.json"
-hash = "78740b3b40d7de023cde14124d10a1baada91bc9b826f9e38b79f4bbd80a5e16"
-
-[[files]]
-file = "moonlight-global-datapacks/christmas-craft-fixes/data/mcwholidays/recipe/flat_gravestone.json"
-hash = "78740b3b40d7de023cde14124d10a1baada91bc9b826f9e38b79f4bbd80a5e16"
-
-[[files]]
-file = "moonlight-global-datapacks/christmas-craft-fixes/data/mcwholidays/recipe/ghost.json"
-hash = "78740b3b40d7de023cde14124d10a1baada91bc9b826f9e38b79f4bbd80a5e16"
-
-[[files]]
-file = "moonlight-global-datapacks/christmas-craft-fixes/data/mcwholidays/recipe/ghost_balloon.json"
-hash = "78740b3b40d7de023cde14124d10a1baada91bc9b826f9e38b79f4bbd80a5e16"
-
-[[files]]
-file = "moonlight-global-datapacks/christmas-craft-fixes/data/mcwholidays/recipe/ghost_doormat.json"
-hash = "78740b3b40d7de023cde14124d10a1baada91bc9b826f9e38b79f4bbd80a5e16"
-
-[[files]]
-file = "moonlight-global-datapacks/christmas-craft-fixes/data/mcwholidays/recipe/ghost_wall_deco_1.json"
-hash = "78740b3b40d7de023cde14124d10a1baada91bc9b826f9e38b79f4bbd80a5e16"
-
-[[files]]
-file = "moonlight-global-datapacks/christmas-craft-fixes/data/mcwholidays/recipe/ghost_wall_deco_2.json"
-hash = "78740b3b40d7de023cde14124d10a1baada91bc9b826f9e38b79f4bbd80a5e16"
-
-[[files]]
-file = "moonlight-global-datapacks/christmas-craft-fixes/data/mcwholidays/recipe/gravestone.json"
-hash = "78740b3b40d7de023cde14124d10a1baada91bc9b826f9e38b79f4bbd80a5e16"
-
-[[files]]
-file = "moonlight-global-datapacks/christmas-craft-fixes/data/mcwholidays/recipe/ground_skeleton.json"
-hash = "78740b3b40d7de023cde14124d10a1baada91bc9b826f9e38b79f4bbd80a5e16"
-
-[[files]]
-file = "moonlight-global-datapacks/christmas-craft-fixes/data/mcwholidays/recipe/half_cobweb.json"
-hash = "78740b3b40d7de023cde14124d10a1baada91bc9b826f9e38b79f4bbd80a5e16"
-
-[[files]]
-file = "moonlight-global-datapacks/christmas-craft-fixes/data/mcwholidays/recipe/hanging_cobweb.json"
-hash = "78740b3b40d7de023cde14124d10a1baada91bc9b826f9e38b79f4bbd80a5e16"
-
-[[files]]
-file = "moonlight-global-datapacks/christmas-craft-fixes/data/mcwholidays/recipe/hay_wheelbarrow.json"
-hash = "78740b3b40d7de023cde14124d10a1baada91bc9b826f9e38b79f4bbd80a5e16"
-
-[[files]]
-file = "moonlight-global-datapacks/christmas-craft-fixes/data/mcwholidays/recipe/large_pumpkin.json"
-hash = "78740b3b40d7de023cde14124d10a1baada91bc9b826f9e38b79f4bbd80a5e16"
-
-[[files]]
-file = "moonlight-global-datapacks/christmas-craft-fixes/data/mcwholidays/recipe/laying_hay_bale.json"
-hash = "78740b3b40d7de023cde14124d10a1baada91bc9b826f9e38b79f4bbd80a5e16"
-
-[[files]]
-file = "moonlight-global-datapacks/christmas-craft-fixes/data/mcwholidays/recipe/lit_evil_pumpkin.json"
-hash = "78740b3b40d7de023cde14124d10a1baada91bc9b826f9e38b79f4bbd80a5e16"
-
-[[files]]
-file = "moonlight-global-datapacks/christmas-craft-fixes/data/mcwholidays/recipe/lit_friendly_pumpkin.json"
-hash = "78740b3b40d7de023cde14124d10a1baada91bc9b826f9e38b79f4bbd80a5e16"
-
-[[files]]
-file = "moonlight-global-datapacks/christmas-craft-fixes/data/mcwholidays/recipe/lit_screaming_pumpkin.json"
-hash = "78740b3b40d7de023cde14124d10a1baada91bc9b826f9e38b79f4bbd80a5e16"
-
-[[files]]
-file = "moonlight-global-datapacks/christmas-craft-fixes/data/mcwholidays/recipe/lit_shocked_pumpkin.json"
-hash = "78740b3b40d7de023cde14124d10a1baada91bc9b826f9e38b79f4bbd80a5e16"
-
-[[files]]
-file = "moonlight-global-datapacks/christmas-craft-fixes/data/mcwholidays/recipe/lit_smile_pumpkin.json"
-hash = "78740b3b40d7de023cde14124d10a1baada91bc9b826f9e38b79f4bbd80a5e16"
-
-[[files]]
-file = "moonlight-global-datapacks/christmas-craft-fixes/data/mcwholidays/recipe/medium_pumpkin.json"
-hash = "78740b3b40d7de023cde14124d10a1baada91bc9b826f9e38b79f4bbd80a5e16"
-
-[[files]]
-file = "moonlight-global-datapacks/christmas-craft-fixes/data/mcwholidays/recipe/outlined_cobweb.json"
-hash = "78740b3b40d7de023cde14124d10a1baada91bc9b826f9e38b79f4bbd80a5e16"
-
-[[files]]
-file = "moonlight-global-datapacks/christmas-craft-fixes/data/mcwholidays/recipe/pair_of_potions.json"
-hash = "78740b3b40d7de023cde14124d10a1baada91bc9b826f9e38b79f4bbd80a5e16"
-
-[[files]]
-file = "moonlight-global-datapacks/christmas-craft-fixes/data/mcwholidays/recipe/pair_of_pumpkins.json"
-hash = "78740b3b40d7de023cde14124d10a1baada91bc9b826f9e38b79f4bbd80a5e16"
-
-[[files]]
-file = "moonlight-global-datapacks/christmas-craft-fixes/data/mcwholidays/recipe/pumpkin_balloon.json"
-hash = "78740b3b40d7de023cde14124d10a1baada91bc9b826f9e38b79f4bbd80a5e16"
-
-[[files]]
-file = "moonlight-global-datapacks/christmas-craft-fixes/data/mcwholidays/recipe/pumpkin_doormat.json"
-hash = "78740b3b40d7de023cde14124d10a1baada91bc9b826f9e38b79f4bbd80a5e16"
-
-[[files]]
-file = "moonlight-global-datapacks/christmas-craft-fixes/data/mcwholidays/recipe/pumpkin_wall_deco_1.json"
-hash = "78740b3b40d7de023cde14124d10a1baada91bc9b826f9e38b79f4bbd80a5e16"
-
-[[files]]
-file = "moonlight-global-datapacks/christmas-craft-fixes/data/mcwholidays/recipe/pumpkin_wall_deco_2.json"
-hash = "78740b3b40d7de023cde14124d10a1baada91bc9b826f9e38b79f4bbd80a5e16"
-
-[[files]]
-file = "moonlight-global-datapacks/christmas-craft-fixes/data/mcwholidays/recipe/pumpkin_wheelbarrow.json"
-hash = "78740b3b40d7de023cde14124d10a1baada91bc9b826f9e38b79f4bbd80a5e16"
-
-[[files]]
-file = "moonlight-global-datapacks/christmas-craft-fixes/data/mcwholidays/recipe/pyramid_cobweb.json"
-hash = "78740b3b40d7de023cde14124d10a1baada91bc9b826f9e38b79f4bbd80a5e16"
-
-[[files]]
-file = "moonlight-global-datapacks/christmas-craft-fixes/data/mcwholidays/recipe/scarecrow.json"
-hash = "78740b3b40d7de023cde14124d10a1baada91bc9b826f9e38b79f4bbd80a5e16"
-
-[[files]]
-file = "moonlight-global-datapacks/christmas-craft-fixes/data/mcwholidays/recipe/single_potion.json"
-hash = "78740b3b40d7de023cde14124d10a1baada91bc9b826f9e38b79f4bbd80a5e16"
-
-[[files]]
-file = "moonlight-global-datapacks/christmas-craft-fixes/data/mcwholidays/recipe/sitting_skeleton.json"
-hash = "78740b3b40d7de023cde14124d10a1baada91bc9b826f9e38b79f4bbd80a5e16"
-
-[[files]]
-file = "moonlight-global-datapacks/christmas-craft-fixes/data/mcwholidays/recipe/skeleton_balloon.json"
-hash = "78740b3b40d7de023cde14124d10a1baada91bc9b826f9e38b79f4bbd80a5e16"
-
-[[files]]
-file = "moonlight-global-datapacks/christmas-craft-fixes/data/mcwholidays/recipe/slanted_gravestone.json"
-hash = "78740b3b40d7de023cde14124d10a1baada91bc9b826f9e38b79f4bbd80a5e16"
-
-[[files]]
-file = "moonlight-global-datapacks/christmas-craft-fixes/data/mcwholidays/recipe/small_gravestone.json"
-hash = "78740b3b40d7de023cde14124d10a1baada91bc9b826f9e38b79f4bbd80a5e16"
-
-[[files]]
-file = "moonlight-global-datapacks/christmas-craft-fixes/data/mcwholidays/recipe/small_pumpkin.json"
-hash = "78740b3b40d7de023cde14124d10a1baada91bc9b826f9e38b79f4bbd80a5e16"
-
-[[files]]
-file = "moonlight-global-datapacks/christmas-craft-fixes/data/mcwholidays/recipe/spider_balloon.json"
-hash = "78740b3b40d7de023cde14124d10a1baada91bc9b826f9e38b79f4bbd80a5e16"
-
-[[files]]
-file = "moonlight-global-datapacks/christmas-craft-fixes/data/mcwholidays/recipe/spider_wall_deco_1.json"
-hash = "78740b3b40d7de023cde14124d10a1baada91bc9b826f9e38b79f4bbd80a5e16"
-
-[[files]]
-file = "moonlight-global-datapacks/christmas-craft-fixes/data/mcwholidays/recipe/spider_wall_deco_2.json"
-hash = "78740b3b40d7de023cde14124d10a1baada91bc9b826f9e38b79f4bbd80a5e16"
-
-[[files]]
-file = "moonlight-global-datapacks/christmas-craft-fixes/data/mcwholidays/recipe/spooky_cobweb.json"
-hash = "78740b3b40d7de023cde14124d10a1baada91bc9b826f9e38b79f4bbd80a5e16"
-
-[[files]]
-file = "moonlight-global-datapacks/christmas-craft-fixes/data/mcwholidays/recipe/square_gravestone.json"
-hash = "78740b3b40d7de023cde14124d10a1baada91bc9b826f9e38b79f4bbd80a5e16"
-
-[[files]]
-file = "moonlight-global-datapacks/christmas-craft-fixes/data/mcwholidays/recipe/standing_broomstick.json"
-hash = "78740b3b40d7de023cde14124d10a1baada91bc9b826f9e38b79f4bbd80a5e16"
-
-[[files]]
-file = "moonlight-global-datapacks/christmas-craft-fixes/data/mcwholidays/recipe/standing_hay_bale.json"
-hash = "78740b3b40d7de023cde14124d10a1baada91bc9b826f9e38b79f4bbd80a5e16"
-
-[[files]]
-file = "moonlight-global-datapacks/christmas-craft-fixes/data/mcwholidays/recipe/standing_rake.json"
-hash = "78740b3b40d7de023cde14124d10a1baada91bc9b826f9e38b79f4bbd80a5e16"
-
-[[files]]
-file = "moonlight-global-datapacks/christmas-craft-fixes/data/mcwholidays/recipe/standing_shovel.json"
-hash = "78740b3b40d7de023cde14124d10a1baada91bc9b826f9e38b79f4bbd80a5e16"
-
-[[files]]
-file = "moonlight-global-datapacks/christmas-craft-fixes/data/mcwholidays/recipe/stone_cross.json"
-hash = "78740b3b40d7de023cde14124d10a1baada91bc9b826f9e38b79f4bbd80a5e16"
-
-[[files]]
-file = "moonlight-global-datapacks/christmas-craft-fixes/data/mcwholidays/recipe/tall_gravestone.json"
-hash = "78740b3b40d7de023cde14124d10a1baada91bc9b826f9e38b79f4bbd80a5e16"
-
-[[files]]
-file = "moonlight-global-datapacks/christmas-craft-fixes/data/mcwholidays/recipe/three_potions.json"
-hash = "78740b3b40d7de023cde14124d10a1baada91bc9b826f9e38b79f4bbd80a5e16"
-
-[[files]]
-file = "moonlight-global-datapacks/christmas-craft-fixes/data/mcwholidays/recipe/three_pumpkins.json"
-hash = "78740b3b40d7de023cde14124d10a1baada91bc9b826f9e38b79f4bbd80a5e16"
-
-[[files]]
-file = "moonlight-global-datapacks/christmas-craft-fixes/data/mcwholidays/recipe/triangle_cobweb.json"
-hash = "78740b3b40d7de023cde14124d10a1baada91bc9b826f9e38b79f4bbd80a5e16"
-
-[[files]]
-file = "moonlight-global-datapacks/christmas-craft-fixes/data/mcwholidays/recipe/witch_cauldron.json"
-hash = "78740b3b40d7de023cde14124d10a1baada91bc9b826f9e38b79f4bbd80a5e16"
-
-[[files]]
-file = "moonlight-global-datapacks/christmas-craft-fixes/data/mcwholidays/recipe/witch_hat.json"
-hash = "78740b3b40d7de023cde14124d10a1baada91bc9b826f9e38b79f4bbd80a5e16"
-
-[[files]]
-file = "moonlight-global-datapacks/christmas-craft-fixes/data/mcwholidays/recipe/witch_hat_wall_deco_1.json"
-hash = "78740b3b40d7de023cde14124d10a1baada91bc9b826f9e38b79f4bbd80a5e16"
-
-[[files]]
-file = "moonlight-global-datapacks/christmas-craft-fixes/data/mcwholidays/recipe/witch_hat_wall_deco_2.json"
-hash = "78740b3b40d7de023cde14124d10a1baada91bc9b826f9e38b79f4bbd80a5e16"
-
-[[files]]
-file = "moonlight-global-datapacks/christmas-craft-fixes/data/mcwholidays/recipe/wooden_cross.json"
-hash = "78740b3b40d7de023cde14124d10a1baada91bc9b826f9e38b79f4bbd80a5e16"
 
 [[files]]
 file = "moonlight-global-datapacks/christmas-craft-fixes/data/minecraft/recipe/red_dye.json"

@@ -25,10 +25,10 @@
 		crab_removed = false
 		deer_removed = false
 		duck_removed = false
-		elephant_removed = true
+		elephant_removed = false
 		forest_fox_removed = false
 		forest_rabbit_removed = false
-		giraffe_removed = true
+		giraffe_removed = false
 		hedgehog_removed = false
 		hippo_removed = false
 		komodo_dragon_removed = false
@@ -36,7 +36,7 @@
 		lizard_removed = false
 		mammoth_removed = false
 		mole_removed = false
-		ostrich_removed = true
+		ostrich_removed = false
 		rat_removed = false
 		rhino_removed = false
 		snake_removed = false
@@ -44,16 +44,16 @@
 		tortoise_removed = false
 		turkey_removed = false
 		vulture_removed = false
-		zebra_removed = true
+		zebra_removed = false
 
 	[disable_mobs.bugs]
 		ant_removed = false
 		butterfly_removed = false
 		desert_scorpion_removed = false
-		dragonfly_removed = true
+		dragonfly_removed = false
 		firefly_removed = false
 		jungle_scorpion_removed = false
-		snail_removed = true
+		snail_removed = false
 
 [behavior]
 	snail_crushing = false

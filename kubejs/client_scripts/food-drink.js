@@ -5,10 +5,7 @@
 // create_wrapped and christmascraft/recipe/food_drink). [R] verify in JEI.
 
 RecipeViewerEvents.removeEntries('item', event => {
-  // P8: Confectionery off-theme items (tool, disc and block recipes are disabled in the datapack).
-  const caneTools = ['axe', 'hoe', 'pickaxe', 'shovel', 'sword']
-  caneTools.forEach(t => event.remove('create_confectionery:candy_cane_' + t))
-  event.remove('create_confectionery:the_bright_side') // music disc, audio licence unknown
+  // P8: Confectionery's spawn egg and tab icon (the candy cane tools and disc are back, made from Snowy Spirit's cane).
   event.remove('create_confectionery:little_gingerbread_man_spawn_egg')
   event.remove('create_confectionery:create_confectionery_icon')
 

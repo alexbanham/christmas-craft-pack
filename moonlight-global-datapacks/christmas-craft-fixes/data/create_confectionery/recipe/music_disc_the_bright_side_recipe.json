@@ -1,7 +1,21 @@
 {
-  "neoforge:conditions": [
-    {
-      "type": "neoforge:false"
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "aba",
+    " a "
+  ],
+  "key": {
+    "a": {
+      "item": "snowyspirit:candy_cane"
+    },
+    "b": {
+      "item": "create_confectionery:bar_of_black_chocolate"
     }
-  ]
+  },
+  "result": {
+    "id": "create_confectionery:the_bright_side",
+    "count": 1
+  }
 }

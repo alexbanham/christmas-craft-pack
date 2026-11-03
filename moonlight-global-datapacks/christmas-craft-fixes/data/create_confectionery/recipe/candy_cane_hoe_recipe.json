@@ -1,7 +1,21 @@
 {
-  "neoforge:conditions": [
-    {
-      "type": "neoforge:false"
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "aa",
+    " b",
+    " b"
+  ],
+  "key": {
+    "a": {
+      "item": "snowyspirit:candy_cane"
+    },
+    "b": {
+      "item": "minecraft:stick"
     }
-  ]
+  },
+  "result": {
+    "id": "create_confectionery:candy_cane_hoe",
+    "count": 1
+  }
 }

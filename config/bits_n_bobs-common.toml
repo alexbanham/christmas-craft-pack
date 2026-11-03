@@ -44,7 +44,7 @@
 		headlamp = true
 		#.
 		#Availability of the Chair blocks.
-		chairs = false
+		chairs = true
 		#.
 		#Availability of the tile decoration blocks.
 		tiles = true
