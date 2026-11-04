@@ -1,0 +1,76 @@
+{
+	"id": "7D07FDD67EE67215"
+	"filename": "welcome"
+	"group": "6E6872417BE99080"
+	"order_index": 0
+	"icon": {
+		"id": "mcwholidays:big_red_present"
+	}
+	"default_hide_dependency_lines": false
+	"default_quest_size": 1.0d
+	"images": [
+		{
+			"id": "4EF37717D08CEBF1"
+			"x": 0.0d
+			"y": -2.6d
+			"width": 13.87d
+			"height": 1.7d
+			"rotation": 0.0d
+			"image": "christmascraft:textures/gui/quest/banner_welcome.png"
+			"order": -1
+		}
+	]
+	"quests": [
+		{
+			"id": "4DCC2697FB0B9A91"
+			"dependencies": []
+			"icon": {
+				"id": "mcwholidays:big_red_present"
+			}
+			"x": 0.0d
+			"y": 0.0d
+			"shape": "gear"
+			"size": 1.5d
+			"tasks": [
+				{
+					"id": "497C515B3EF1A706"
+					"type": "checkmark"
+				}
+			]
+			"rewards": [
+				{
+					"id": "5081B11BA9F16449"
+					"type": "xp"
+					"xp": 100
+				}
+				{
+					"id": "708E33F0419177C6"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+				{
+					"id": "5BCD38EC65EB6C21"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+				{
+					"id": "0A9A8F0E142282CD"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_50"
+						"count": 1
+					}
+				}
+				{
+					"id": "794780B766D808D7"
+					"type": "item"
+					"item": {
+						"id": "cccasino:gift_chip"
+						"count": 1
+					}
+					"count": 10
+				}
+			]
+		}
+	]
+}

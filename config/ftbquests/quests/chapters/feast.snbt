@@ -1,0 +1,763 @@
+{
+	"id": "7F369D70FE74A142"
+	"filename": "feast"
+	"group": "6E6872417BE99080"
+	"order_index": 6
+	"icon": {
+		"id": "christmascraft:christmas_dinner_platter"
+	}
+	"default_hide_dependency_lines": false
+	"default_quest_size": 1.0d
+	"images": [
+		{
+			"id": "33B0BF2CC658B473"
+			"x": 4.812d
+			"y": -1.85d
+			"width": 10.47d
+			"height": 1.7d
+			"rotation": 0.0d
+			"image": "christmascraft:textures/gui/quest/banner_feast.png"
+			"order": -1
+		}
+	]
+	"quests": [
+		{
+			"id": "218B55EFD010CFEC"
+			"dependencies": [
+				"2D6C48A4632400D4"
+				"7503AC37CF41C36B"
+				"06F63AFDD1B0E263"
+				"7D2EA14C7C7A57C2"
+			]
+			"icon": {
+				"id": "christmascraft:iced_christmas_cookie"
+			}
+			"x": 0.5d
+			"y": 5.0d
+			"shape": "circle"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "52915CBAF0CEFFD7"
+					"type": "item"
+					"item": {
+						"id": "christmascraft:iced_christmas_cookie"
+						"count": 1
+					}
+					"count": 1
+				}
+			]
+			"rewards": [
+				{
+					"id": "3BA89E81CB15252C"
+					"type": "xp"
+					"xp": 100
+				}
+				{
+					"id": "093EC4E716BBF6B4"
+					"type": "random"
+					"table_id": 8811780716223278392L
+				}
+				{
+					"id": "0954754B020C64B1"
+					"type": "random"
+					"table_id": 8811780716223278392L
+				}
+				{
+					"id": "7D4ECB2F0B137632"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_50"
+						"count": 1
+					}
+				}
+			]
+		}
+		{
+			"id": "4D56E6D890C10155"
+			"dependencies": [
+				"3DFFD8787102662E"
+				"497A914F8455C00B"
+				"5EF48C56802EEDC6"
+			]
+			"icon": {
+				"id": "christmascraft:peppermint_bark"
+			}
+			"x": 5.0d
+			"y": 5.0d
+			"shape": "circle"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "0CE97C54B07E50FE"
+					"type": "item"
+					"item": {
+						"id": "christmascraft:peppermint_bark"
+						"count": 1
+					}
+					"count": 1
+				}
+			]
+			"rewards": [
+				{
+					"id": "0AF974EF69ADCDA7"
+					"type": "xp"
+					"xp": 250
+				}
+				{
+					"id": "56D192179F5F7568"
+					"type": "random"
+					"table_id": 4055748288478083086L
+				}
+				{
+					"id": "4E513EF286ED6292"
+					"type": "random"
+					"table_id": 4055748288478083086L
+				}
+				{
+					"id": "5FF8FD487BA867AF"
+					"type": "random"
+					"table_id": 4055748288478083086L
+				}
+				{
+					"id": "415657A72A008C07"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_100"
+						"count": 1
+					}
+				}
+				{
+					"id": "24A6DC9BB56DC7F7"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_50"
+						"count": 1
+					}
+				}
+			]
+		}
+		{
+			"id": "273FFFA1BD6ED44E"
+			"dependencies": [
+				"218B55EFD010CFEC"
+				"497A914F8455C00B"
+				"0602DD406B2351E9"
+			]
+			"icon": {
+				"id": "christmascraft:mince_pie"
+			}
+			"x": 2.5d
+			"y": 5.0d
+			"shape": "circle"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "3121B0D3F4D9050B"
+					"type": "item"
+					"item": {
+						"id": "christmascraft:mince_pie"
+						"count": 1
+					}
+					"count": 1
+				}
+			]
+			"rewards": [
+				{
+					"id": "545E31B50A3BF758"
+					"type": "xp"
+					"xp": 250
+				}
+				{
+					"id": "7CE8BE6553090E81"
+					"type": "random"
+					"table_id": 4055748288478083086L
+				}
+				{
+					"id": "48DFCD37DADB9DF7"
+					"type": "random"
+					"table_id": 4055748288478083086L
+				}
+				{
+					"id": "116FE267DB786676"
+					"type": "random"
+					"table_id": 4055748288478083086L
+				}
+				{
+					"id": "7FFBBE0A89BA5B35"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_100"
+						"count": 1
+					}
+				}
+				{
+					"id": "4699FDD10248B67F"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_50"
+						"count": 1
+					}
+				}
+			]
+		}
+		{
+			"id": "0381E588199B1136"
+			"dependencies": [
+				"6FE8EBBC7B4F346D"
+				"19AA7CB7279E702E"
+				"497A914F8455C00B"
+			]
+			"icon": {
+				"id": "christmascraft:yule_log"
+			}
+			"x": 7.5d
+			"y": 5.0d
+			"shape": "hexagon"
+			"size": 1.25d
+			"tasks": [
+				{
+					"id": "2EF3E3A6B1293A91"
+					"type": "item"
+					"item": {
+						"id": "christmascraft:yule_log"
+						"count": 1
+					}
+					"count": 1
+				}
+			]
+			"rewards": [
+				{
+					"id": "72A881D9B30B9464"
+					"type": "xp"
+					"xp": 250
+				}
+				{
+					"id": "4E09B6284E28656F"
+					"type": "random"
+					"table_id": 4055748288478083086L
+				}
+				{
+					"id": "246AEFE16BF25F50"
+					"type": "random"
+					"table_id": 4055748288478083086L
+				}
+				{
+					"id": "34F3015555C21815"
+					"type": "random"
+					"table_id": 4055748288478083086L
+				}
+				{
+					"id": "34174E5CEBAA1083"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_100"
+						"count": 1
+					}
+				}
+				{
+					"id": "611BCF2B30B5BC9B"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_50"
+						"count": 1
+					}
+				}
+			]
+		}
+		{
+			"id": "7FD24F3D2D6988BB"
+			"dependencies": [
+				"7D2EA14C7C7A57C2"
+				"06F63AFDD1B0E263"
+				"497A914F8455C00B"
+				"0AF1029F15061223"
+			]
+			"icon": {
+				"id": "christmascraft:flaming_christmas_pudding"
+			}
+			"x": 0.5d
+			"y": 7.5d
+			"shape": "hexagon"
+			"size": 1.25d
+			"tasks": [
+				{
+					"id": "79E08272C05BB731"
+					"type": "item"
+					"item": {
+						"id": "christmascraft:flaming_christmas_pudding"
+						"count": 1
+					}
+					"count": 1
+				}
+			]
+			"rewards": [
+				{
+					"id": "5987CF74BE9CFA8E"
+					"type": "xp"
+					"xp": 250
+				}
+				{
+					"id": "09BB30A247DBBE33"
+					"type": "random"
+					"table_id": 4055748288478083086L
+				}
+				{
+					"id": "49D586CB8A88E75E"
+					"type": "random"
+					"table_id": 4055748288478083086L
+				}
+				{
+					"id": "5FA86B85C6B8D285"
+					"type": "random"
+					"table_id": 4055748288478083086L
+				}
+				{
+					"id": "3AD0D16CFBAF7BB6"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_100"
+						"count": 1
+					}
+				}
+				{
+					"id": "0B4CE52DF4B4102C"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_50"
+						"count": 1
+					}
+				}
+			]
+		}
+		{
+			"id": "6EC26317596FD2F4"
+			"dependencies": [
+				"0602DD406B2351E9"
+				"06F63AFDD1B0E263"
+			]
+			"icon": {
+				"id": "christmascraft:mug_of_mulled_cider"
+			}
+			"x": 3.0d
+			"y": 7.5d
+			"shape": "circle"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "46DBE73164945618"
+					"type": "item"
+					"item": {
+						"id": "christmascraft:mug_of_mulled_cider"
+						"count": 1
+					}
+					"count": 1
+				}
+			]
+			"rewards": [
+				{
+					"id": "17FE3DD37AC8591C"
+					"type": "xp"
+					"xp": 100
+				}
+				{
+					"id": "67B456AD4F630F83"
+					"type": "random"
+					"table_id": 8811780716223278392L
+				}
+				{
+					"id": "6464B846519151E8"
+					"type": "random"
+					"table_id": 8811780716223278392L
+				}
+				{
+					"id": "489B4760A33C73ED"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_50"
+						"count": 1
+					}
+				}
+			]
+		}
+		{
+			"id": "625FF1E0791A1A67"
+			"dependencies": [
+				"06F63AFDD1B0E263"
+				"497A914F8455C00B"
+			]
+			"icon": {
+				"id": "christmascraft:deluxe_hot_chocolate"
+			}
+			"x": 6.0d
+			"y": 7.5d
+			"shape": "hexagon"
+			"size": 1.25d
+			"tasks": [
+				{
+					"id": "6B980DA3281BEA09"
+					"type": "item"
+					"item": {
+						"id": "christmascraft:deluxe_hot_chocolate"
+						"count": 1
+					}
+					"count": 1
+				}
+			]
+			"rewards": [
+				{
+					"id": "04DAA82A4F2BC1CE"
+					"type": "xp"
+					"xp": 250
+				}
+				{
+					"id": "780868E198B75472"
+					"type": "random"
+					"table_id": 4055748288478083086L
+				}
+				{
+					"id": "1C0AE260716D2391"
+					"type": "random"
+					"table_id": 4055748288478083086L
+				}
+				{
+					"id": "6C522EE870BBC698"
+					"type": "random"
+					"table_id": 4055748288478083086L
+				}
+				{
+					"id": "06190ECBF1B2D0AC"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_100"
+						"count": 1
+					}
+				}
+				{
+					"id": "27844AC06782A94D"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_50"
+						"count": 1
+					}
+				}
+			]
+		}
+		{
+			"id": "165F13210E83C72D"
+			"dependencies": [
+				"47E3C75BB8E7B4C4"
+			]
+			"icon": {
+				"id": "christmascraft:roast_potatoes"
+			}
+			"x": 2.5d
+			"y": 0.5d
+			"shape": "circle"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "53AC4068454D9912"
+					"type": "item"
+					"item": {
+						"id": "christmascraft:roast_potatoes"
+						"count": 1
+					}
+					"count": 1
+				}
+			]
+			"rewards": [
+				{
+					"id": "51A0A3E13E680E0A"
+					"type": "xp"
+					"xp": 100
+				}
+				{
+					"id": "78202699B3A2133C"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+				{
+					"id": "5C56D42D8B74666A"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+				{
+					"id": "0FFB67644A011FDF"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_50"
+						"count": 1
+					}
+				}
+			]
+		}
+		{
+			"id": "5713C778265B627E"
+			"dependencies": [
+				"497A914F8455C00B"
+				"7D2EA14C7C7A57C2"
+			]
+			"icon": {
+				"id": "christmascraft:pigs_in_blankets"
+			}
+			"x": 0.5d
+			"y": 1.5d
+			"shape": "circle"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "1CFF8CF6FC99F0C4"
+					"type": "item"
+					"item": {
+						"id": "christmascraft:pigs_in_blankets"
+						"count": 1
+					}
+					"count": 1
+				}
+			]
+			"rewards": [
+				{
+					"id": "03822D6C6C6FE0DD"
+					"type": "xp"
+					"xp": 100
+				}
+				{
+					"id": "687A8B77E52A20BD"
+					"type": "random"
+					"table_id": 8811780716223278392L
+				}
+				{
+					"id": "5B9880D389AD32E0"
+					"type": "random"
+					"table_id": 8811780716223278392L
+				}
+				{
+					"id": "351A2AB6D262F06C"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_50"
+						"count": 1
+					}
+				}
+			]
+		}
+		{
+			"id": "06A2643E279627EC"
+			"dependencies": [
+				"0602DD406B2351E9"
+				"06F63AFDD1B0E263"
+				"0AF1029F15061223"
+			]
+			"icon": {
+				"id": "christmascraft:gravy_bucket"
+			}
+			"x": 2.5d
+			"y": 2.5d
+			"shape": "circle"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "7320A4EC2326389D"
+					"type": "item"
+					"item": {
+						"id": "christmascraft:gravy_bucket"
+						"count": 1
+					}
+					"count": 1
+				}
+			]
+			"rewards": [
+				{
+					"id": "3326B9AA7763A545"
+					"type": "xp"
+					"xp": 50
+				}
+				{
+					"id": "219F7ADEC025DF75"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+				{
+					"id": "4FCC1B058B9C9F00"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+				{
+					"id": "2B6F974C3A751D0C"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_25"
+						"count": 1
+					}
+				}
+			]
+		}
+		{
+			"id": "47CA656304C804DD"
+			"dependencies": [
+				"165F13210E83C72D"
+				"5713C778265B627E"
+				"06A2643E279627EC"
+				"093AA491ABBCBEC2"
+			]
+			"icon": {
+				"id": "christmascraft:christmas_dinner_platter"
+			}
+			"x": 5.0d
+			"y": 1.5d
+			"shape": "gear"
+			"size": 1.5d
+			"tasks": [
+				{
+					"id": "4BC37BD1F77A20E8"
+					"type": "item"
+					"item": {
+						"id": "christmascraft:christmas_dinner_platter"
+						"count": 1
+					}
+					"count": 1
+				}
+			]
+			"rewards": [
+				{
+					"id": "08B4EC842D9542AE"
+					"type": "xp"
+					"xp": 500
+				}
+				{
+					"id": "38E7F418926A821F"
+					"type": "random"
+					"table_id": 4073629130927994432L
+				}
+				{
+					"id": "709CBDB1B6E652BD"
+					"type": "random"
+					"table_id": 4073629130927994432L
+				}
+				{
+					"id": "0AAA142965B99918"
+					"type": "random"
+					"table_id": 4073629130927994432L
+				}
+				{
+					"id": "1CE0A8E9DE28A616"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_250"
+						"count": 1
+					}
+				}
+				{
+					"id": "715C71C211511DA7"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_100"
+						"count": 1
+					}
+				}
+				{
+					"id": "7A4077C220F8A1CC"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_50"
+						"count": 1
+					}
+				}
+				{
+					"id": "172441F3FDBB073A"
+					"type": "command"
+					"command": "summon minecraft:firework_rocket ~ ~1 ~ {LifeTime:30,FireworksItem:{id:\"minecraft:firework_rocket\",count:1,components:{\"minecraft:fireworks\":{flight_duration:1b,explosions:[{shape:\"star\",has_twinkle:true,has_trail:true,colors:[I;11739178,2067514,15252771],fade_colors:[I;16777215]}]}}}}"
+					"permission_level": 2
+					"silent": true
+					"team_reward": false
+					"icon": {
+						"id": "minecraft:firework_rocket"
+					}
+				}
+			]
+		}
+		{
+			"id": "11F5DC58C84D39B9"
+			"dependencies": [
+				"14B33F2E980204B3"
+				"497A914F8455C00B"
+			]
+			"icon": {
+				"id": "christmascraft:christmas_party_bucket"
+			}
+			"x": 9.0d
+			"y": 8.0d
+			"shape": "gear"
+			"size": 1.5d
+			"tasks": [
+				{
+					"id": "690D6DD627A25C84"
+					"type": "item"
+					"item": {
+						"id": "christmascraft:christmas_party_bucket"
+						"count": 1
+					}
+					"count": 1
+				}
+			]
+			"rewards": [
+				{
+					"id": "700BDDB8977E76C8"
+					"type": "xp"
+					"xp": 500
+				}
+				{
+					"id": "5B2F6BA6D23EB7ED"
+					"type": "random"
+					"table_id": 4073629130927994432L
+				}
+				{
+					"id": "1B7524951D948816"
+					"type": "random"
+					"table_id": 4073629130927994432L
+				}
+				{
+					"id": "7A8DD58E42B2BBEF"
+					"type": "random"
+					"table_id": 4073629130927994432L
+				}
+				{
+					"id": "4E3F203BB560B771"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_250"
+						"count": 1
+					}
+				}
+				{
+					"id": "536285CB414F17E7"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_100"
+						"count": 1
+					}
+				}
+				{
+					"id": "04D2F6264C5CD439"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_50"
+						"count": 1
+					}
+				}
+				{
+					"id": "6F9EC56D5F3A8FFF"
+					"type": "command"
+					"command": "summon minecraft:firework_rocket ~ ~1 ~ {LifeTime:30,FireworksItem:{id:\"minecraft:firework_rocket\",count:1,components:{\"minecraft:fireworks\":{flight_duration:1b,explosions:[{shape:\"star\",has_twinkle:true,has_trail:true,colors:[I;11739178,2067514,15252771],fade_colors:[I;16777215]}]}}}}"
+					"permission_level": 2
+					"silent": true
+					"team_reward": false
+					"icon": {
+						"id": "minecraft:firework_rocket"
+					}
+				}
+			]
+		}
+	]
+}

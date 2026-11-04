@@ -1,0 +1,657 @@
+{
+	"id": "4F4482EF7FA6359B"
+	"filename": "spirits"
+	"group": "6E6872417BE99080"
+	"order_index": 10
+	"icon": {
+		"id": "minecraft:wither_skeleton_skull"
+	}
+	"default_hide_dependency_lines": false
+	"default_quest_size": 1.0d
+	"images": [
+		{
+			"id": "5A5000F0451E1BBB"
+			"x": 4.5d
+			"y": -2.6d
+			"width": 10.045d
+			"height": 1.7d
+			"rotation": 0.0d
+			"image": "christmascraft:textures/gui/quest/banner_spirits.png"
+			"order": -1
+		}
+	]
+	"quests": [
+		{
+			"id": "1B3551E21608CAFF"
+			"dependencies": []
+			"icon": {
+				"id": "minecraft:chain"
+			}
+			"x": 0.0d
+			"y": 0.0d
+			"shape": "gear"
+			"size": 1.5d
+			"tasks": [
+				{
+					"id": "7CF675F36E1AF890"
+					"type": "advancement"
+					"advancement": "christmascraft:spirits/krampus"
+					"criterion": ""
+					"icon": {
+						"id": "minecraft:chain"
+					}
+				}
+			]
+			"rewards": [
+				{
+					"id": "4C6AD7CEC11B7BDE"
+					"type": "xp"
+					"xp": 500
+				}
+				{
+					"id": "61A98530AEB45BC6"
+					"type": "random"
+					"table_id": 4073629130927994432L
+				}
+				{
+					"id": "6807BCA3AF14B8BA"
+					"type": "random"
+					"table_id": 4073629130927994432L
+				}
+				{
+					"id": "6E976F54C93D1F15"
+					"type": "random"
+					"table_id": 4073629130927994432L
+				}
+				{
+					"id": "1B0965B26B0AD766"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_250"
+						"count": 1
+					}
+				}
+				{
+					"id": "422D0F4DCE393714"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_100"
+						"count": 1
+					}
+				}
+				{
+					"id": "3D2B3EA2C519ECE0"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_50"
+						"count": 1
+					}
+				}
+				{
+					"id": "0B0197D3B2A59DDC"
+					"type": "command"
+					"command": "summon minecraft:firework_rocket ~ ~1 ~ {LifeTime:30,FireworksItem:{id:\"minecraft:firework_rocket\",count:1,components:{\"minecraft:fireworks\":{flight_duration:1b,explosions:[{shape:\"star\",has_twinkle:true,has_trail:true,colors:[I;11739178,2067514,15252771],fade_colors:[I;16777215]}]}}}}"
+					"permission_level": 2
+					"silent": true
+					"team_reward": false
+					"icon": {
+						"id": "minecraft:firework_rocket"
+					}
+				}
+			]
+		}
+		{
+			"id": "08B432324938E9BE"
+			"dependencies": []
+			"icon": {
+				"id": "minecraft:blue_ice"
+			}
+			"x": 3.0d
+			"y": 0.0d
+			"shape": "gear"
+			"size": 1.5d
+			"tasks": [
+				{
+					"id": "6426510A37227A0F"
+					"type": "advancement"
+					"advancement": "christmascraft:spirits/frost_wyrm"
+					"criterion": ""
+					"icon": {
+						"id": "minecraft:blue_ice"
+					}
+				}
+			]
+			"rewards": [
+				{
+					"id": "428D7E8981F27AD5"
+					"type": "xp"
+					"xp": 500
+				}
+				{
+					"id": "01A8C672F6493F87"
+					"type": "random"
+					"table_id": 4073629130927994432L
+				}
+				{
+					"id": "7385E0C33A37FE54"
+					"type": "random"
+					"table_id": 4073629130927994432L
+				}
+				{
+					"id": "42F5B3118E348A65"
+					"type": "random"
+					"table_id": 4073629130927994432L
+				}
+				{
+					"id": "389A105CD605B031"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_250"
+						"count": 1
+					}
+				}
+				{
+					"id": "47960D9B9F20F065"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_100"
+						"count": 1
+					}
+				}
+				{
+					"id": "4E4143757328C575"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_50"
+						"count": 1
+					}
+				}
+				{
+					"id": "3689235AFB4CE88B"
+					"type": "command"
+					"command": "summon minecraft:firework_rocket ~ ~1 ~ {LifeTime:30,FireworksItem:{id:\"minecraft:firework_rocket\",count:1,components:{\"minecraft:fireworks\":{flight_duration:1b,explosions:[{shape:\"star\",has_twinkle:true,has_trail:true,colors:[I;11739178,2067514,15252771],fade_colors:[I;16777215]}]}}}}"
+					"permission_level": 2
+					"silent": true
+					"team_reward": false
+					"icon": {
+						"id": "minecraft:firework_rocket"
+					}
+				}
+			]
+		}
+		{
+			"id": "51E3D867E3B037D3"
+			"dependencies": []
+			"icon": {
+				"id": "minecraft:rotten_flesh"
+			}
+			"x": 6.0d
+			"y": 0.0d
+			"shape": "gear"
+			"size": 1.5d
+			"tasks": [
+				{
+					"id": "4EC1E97BECAC8CFC"
+					"type": "advancement"
+					"advancement": "christmascraft:spirits/rat_king"
+					"criterion": ""
+					"icon": {
+						"id": "minecraft:rotten_flesh"
+					}
+				}
+			]
+			"rewards": [
+				{
+					"id": "76ADB3EF24F65463"
+					"type": "xp"
+					"xp": 500
+				}
+				{
+					"id": "4A9A91B63209176B"
+					"type": "random"
+					"table_id": 4073629130927994432L
+				}
+				{
+					"id": "7ED5986EB461258A"
+					"type": "random"
+					"table_id": 4073629130927994432L
+				}
+				{
+					"id": "756137247413738F"
+					"type": "random"
+					"table_id": 4073629130927994432L
+				}
+				{
+					"id": "13F25483E6DD125A"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_250"
+						"count": 1
+					}
+				}
+				{
+					"id": "2B479193E6A2A465"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_100"
+						"count": 1
+					}
+				}
+				{
+					"id": "62F878456311057A"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_50"
+						"count": 1
+					}
+				}
+				{
+					"id": "45A7941B99B8A95B"
+					"type": "command"
+					"command": "summon minecraft:firework_rocket ~ ~1 ~ {LifeTime:30,FireworksItem:{id:\"minecraft:firework_rocket\",count:1,components:{\"minecraft:fireworks\":{flight_duration:1b,explosions:[{shape:\"star\",has_twinkle:true,has_trail:true,colors:[I;11739178,2067514,15252771],fade_colors:[I;16777215]}]}}}}"
+					"permission_level": 2
+					"silent": true
+					"team_reward": false
+					"icon": {
+						"id": "minecraft:firework_rocket"
+					}
+				}
+			]
+		}
+		{
+			"id": "0558CFF730B2BAC8"
+			"dependencies": []
+			"icon": {
+				"id": "minecraft:coal"
+			}
+			"x": 9.0d
+			"y": 0.0d
+			"shape": "gear"
+			"size": 1.5d
+			"tasks": [
+				{
+					"id": "1E2C61EE5BCD76D4"
+					"type": "advancement"
+					"advancement": "christmascraft:spirits/humbug"
+					"criterion": ""
+					"icon": {
+						"id": "minecraft:coal"
+					}
+				}
+			]
+			"rewards": [
+				{
+					"id": "0103E12E100B37E7"
+					"type": "xp"
+					"xp": 500
+				}
+				{
+					"id": "224935AC64033139"
+					"type": "random"
+					"table_id": 4073629130927994432L
+				}
+				{
+					"id": "2DD22220B8E72F7D"
+					"type": "random"
+					"table_id": 4073629130927994432L
+				}
+				{
+					"id": "5B508EE49D7C6EE3"
+					"type": "random"
+					"table_id": 4073629130927994432L
+				}
+				{
+					"id": "09D18FA7DEFBD891"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_250"
+						"count": 1
+					}
+				}
+				{
+					"id": "563B09B784B838CE"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_100"
+						"count": 1
+					}
+				}
+				{
+					"id": "3B7198C789EFA2B7"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_50"
+						"count": 1
+					}
+				}
+				{
+					"id": "183B428A4CF6F5D1"
+					"type": "command"
+					"command": "summon minecraft:firework_rocket ~ ~1 ~ {LifeTime:30,FireworksItem:{id:\"minecraft:firework_rocket\",count:1,components:{\"minecraft:fireworks\":{flight_duration:1b,explosions:[{shape:\"star\",has_twinkle:true,has_trail:true,colors:[I;11739178,2067514,15252771],fade_colors:[I;16777215]}]}}}}"
+					"permission_level": 2
+					"silent": true
+					"team_reward": false
+					"icon": {
+						"id": "minecraft:firework_rocket"
+					}
+				}
+			]
+		}
+		{
+			"id": "51867C53CE8E5F9F"
+			"dependencies": []
+			"icon": {
+				"id": "minecraft:coal_block"
+			}
+			"x": 0.0d
+			"y": 3.0d
+			"shape": "gear"
+			"size": 1.5d
+			"tasks": [
+				{
+					"id": "62E337A8AE5923E7"
+					"type": "advancement"
+					"advancement": "christmascraft:spirits/coal_golem"
+					"criterion": ""
+					"icon": {
+						"id": "minecraft:coal_block"
+					}
+				}
+			]
+			"rewards": [
+				{
+					"id": "3DB6F771BCEA1E25"
+					"type": "xp"
+					"xp": 500
+				}
+				{
+					"id": "234070E6BB16E944"
+					"type": "random"
+					"table_id": 4073629130927994432L
+				}
+				{
+					"id": "5E7CE2A496DCDF19"
+					"type": "random"
+					"table_id": 4073629130927994432L
+				}
+				{
+					"id": "49D3EC1BE2794779"
+					"type": "random"
+					"table_id": 4073629130927994432L
+				}
+				{
+					"id": "0E9FD833D513CEEA"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_250"
+						"count": 1
+					}
+				}
+				{
+					"id": "10764CD68E8E8389"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_100"
+						"count": 1
+					}
+				}
+				{
+					"id": "1951DF4E075C42E1"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_50"
+						"count": 1
+					}
+				}
+				{
+					"id": "1E25186A7DE98F57"
+					"type": "command"
+					"command": "summon minecraft:firework_rocket ~ ~1 ~ {LifeTime:30,FireworksItem:{id:\"minecraft:firework_rocket\",count:1,components:{\"minecraft:fireworks\":{flight_duration:1b,explosions:[{shape:\"star\",has_twinkle:true,has_trail:true,colors:[I;11739178,2067514,15252771],fade_colors:[I;16777215]}]}}}}"
+					"permission_level": 2
+					"silent": true
+					"team_reward": false
+					"icon": {
+						"id": "minecraft:firework_rocket"
+					}
+				}
+			]
+		}
+		{
+			"id": "4139CFBEDA31B46D"
+			"dependencies": []
+			"icon": {
+				"id": "minecraft:packed_ice"
+			}
+			"x": 3.0d
+			"y": 3.0d
+			"shape": "gear"
+			"size": 1.5d
+			"tasks": [
+				{
+					"id": "68FE2628E1B01A8E"
+					"type": "advancement"
+					"advancement": "christmascraft:spirits/ice_queen"
+					"criterion": ""
+					"icon": {
+						"id": "minecraft:packed_ice"
+					}
+				}
+			]
+			"rewards": [
+				{
+					"id": "29CFEC6B4623ECE4"
+					"type": "xp"
+					"xp": 500
+				}
+				{
+					"id": "63076221ACFBE933"
+					"type": "random"
+					"table_id": 4073629130927994432L
+				}
+				{
+					"id": "49946AD9E08624DC"
+					"type": "random"
+					"table_id": 4073629130927994432L
+				}
+				{
+					"id": "50FF33F17C7CA9A4"
+					"type": "random"
+					"table_id": 4073629130927994432L
+				}
+				{
+					"id": "38C395C56BAE954E"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_250"
+						"count": 1
+					}
+				}
+				{
+					"id": "773EFDB4656C56FE"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_100"
+						"count": 1
+					}
+				}
+				{
+					"id": "06C06B235E1F0768"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_50"
+						"count": 1
+					}
+				}
+				{
+					"id": "424DC8C3F545C37B"
+					"type": "command"
+					"command": "summon minecraft:firework_rocket ~ ~1 ~ {LifeTime:30,FireworksItem:{id:\"minecraft:firework_rocket\",count:1,components:{\"minecraft:fireworks\":{flight_duration:1b,explosions:[{shape:\"star\",has_twinkle:true,has_trail:true,colors:[I;11739178,2067514,15252771],fade_colors:[I;16777215]}]}}}}"
+					"permission_level": 2
+					"silent": true
+					"team_reward": false
+					"icon": {
+						"id": "minecraft:firework_rocket"
+					}
+				}
+			]
+		}
+		{
+			"id": "342A3841E27A20B7"
+			"dependencies": []
+			"icon": {
+				"id": "minecraft:snow_block"
+			}
+			"x": 6.0d
+			"y": 3.0d
+			"shape": "gear"
+			"size": 1.5d
+			"tasks": [
+				{
+					"id": "5188EB1A6AF3D981"
+					"type": "advancement"
+					"advancement": "christmascraft:spirits/yeti"
+					"criterion": ""
+					"icon": {
+						"id": "minecraft:snow_block"
+					}
+				}
+			]
+			"rewards": [
+				{
+					"id": "2A18E6069E6874B3"
+					"type": "xp"
+					"xp": 500
+				}
+				{
+					"id": "38757929031F7A48"
+					"type": "random"
+					"table_id": 4073629130927994432L
+				}
+				{
+					"id": "677265FB60DBB15D"
+					"type": "random"
+					"table_id": 4073629130927994432L
+				}
+				{
+					"id": "21E8687CE55CD56C"
+					"type": "random"
+					"table_id": 4073629130927994432L
+				}
+				{
+					"id": "30FE4DF0AB35CD5E"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_250"
+						"count": 1
+					}
+				}
+				{
+					"id": "063DB548996FD839"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_100"
+						"count": 1
+					}
+				}
+				{
+					"id": "11E8E6483E08F86A"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_50"
+						"count": 1
+					}
+				}
+				{
+					"id": "0CA920CD4F92A98F"
+					"type": "command"
+					"command": "summon minecraft:firework_rocket ~ ~1 ~ {LifeTime:30,FireworksItem:{id:\"minecraft:firework_rocket\",count:1,components:{\"minecraft:fireworks\":{flight_duration:1b,explosions:[{shape:\"star\",has_twinkle:true,has_trail:true,colors:[I;11739178,2067514,15252771],fade_colors:[I;16777215]}]}}}}"
+					"permission_level": 2
+					"silent": true
+					"team_reward": false
+					"icon": {
+						"id": "minecraft:firework_rocket"
+					}
+				}
+			]
+		}
+		{
+			"id": "46F09AC114FE8C01"
+			"dependencies": []
+			"icon": {
+				"id": "minecraft:wither_skeleton_skull"
+			}
+			"x": 9.0d
+			"y": 3.0d
+			"shape": "gear"
+			"size": 1.5d
+			"tasks": [
+				{
+					"id": "749EE7B374FC23CF"
+					"type": "advancement"
+					"advancement": "christmascraft:spirits/wraith"
+					"criterion": ""
+					"icon": {
+						"id": "minecraft:wither_skeleton_skull"
+					}
+				}
+			]
+			"rewards": [
+				{
+					"id": "19232936245FC72A"
+					"type": "xp"
+					"xp": 500
+				}
+				{
+					"id": "0FBE8FBBC76A3BF0"
+					"type": "random"
+					"table_id": 4073629130927994432L
+				}
+				{
+					"id": "09C349EE494A828C"
+					"type": "random"
+					"table_id": 4073629130927994432L
+				}
+				{
+					"id": "5AE677BDBD3ED91F"
+					"type": "random"
+					"table_id": 4073629130927994432L
+				}
+				{
+					"id": "107CAC414C6D485C"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_250"
+						"count": 1
+					}
+				}
+				{
+					"id": "661CFF4C39CC7B84"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_100"
+						"count": 1
+					}
+				}
+				{
+					"id": "09CF057AC4D7597E"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_50"
+						"count": 1
+					}
+				}
+				{
+					"id": "46E525A02A6F5565"
+					"type": "command"
+					"command": "summon minecraft:firework_rocket ~ ~1 ~ {LifeTime:30,FireworksItem:{id:\"minecraft:firework_rocket\",count:1,components:{\"minecraft:fireworks\":{flight_duration:1b,explosions:[{shape:\"star\",has_twinkle:true,has_trail:true,colors:[I;11739178,2067514,15252771],fade_colors:[I;16777215]}]}}}}"
+					"permission_level": 2
+					"silent": true
+					"team_reward": false
+					"icon": {
+						"id": "minecraft:firework_rocket"
+					}
+				}
+			]
+		}
+	]
+}

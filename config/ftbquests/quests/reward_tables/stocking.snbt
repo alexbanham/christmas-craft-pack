@@ -1,188 +1,150 @@
 {
 	"id": "2F987FFAF3252378"
 	"order_index": 0
-	"loot_size": 3
+	"loot_size": 2
 	"use_title": true
 	"rewards": [
 		{
 			"id": "62533460A62FCFD6"
 			"item": {
-				"id": "minecraft:cookie"
+				"id": "create:andesite_casing"
 				"count": 1
 			}
-			"count": 6
-			"random_bonus": 6
 			"weight": 10.0d
+			"count": 4
+			"random_bonus": 4
 		}
 		{
 			"id": "2231E8C12C85E5E2"
 			"item": {
-				"id": "create:sweet_roll"
+				"id": "create:iron_sheet"
 				"count": 1
 			}
-			"count": 2
-			"random_bonus": 2
-			"weight": 8.0d
+			"weight": 10.0d
+			"count": 4
+			"random_bonus": 4
 		}
 		{
 			"id": "57A394053976B5F2"
 			"item": {
-				"id": "create:honeyed_apple"
+				"id": "create:copper_sheet"
 				"count": 1
 			}
-			"random_bonus": 2
-			"weight": 6.0d
+			"weight": 8.0d
+			"count": 4
+			"random_bonus": 4
 		}
 		{
 			"id": "52A9AD1B53B897A0"
 			"item": {
-				"id": "farmersdelight:sweet_berry_cookie"
+				"id": "create:zinc_ingot"
 				"count": 1
 			}
-			"count": 4
-			"random_bonus": 4
 			"weight": 8.0d
+			"count": 3
+			"random_bonus": 3
 		}
 		{
 			"id": "113928DEBCC824DF"
 			"item": {
-				"id": "minecraft:pumpkin_pie"
+				"id": "create:cogwheel"
 				"count": 1
 			}
-			"random_bonus": 1
-			"weight": 6.0d
+			"weight": 8.0d
+			"count": 6
+			"random_bonus": 6
 		}
 		{
 			"id": "68E3AE4FCD0695CD"
 			"item": {
-				"id": "farmersdelight:honey_cookie"
+				"id": "create:belt_connector"
 				"count": 1
 			}
-			"count": 2
-			"random_bonus": 2
 			"weight": 6.0d
+			"count": 4
+			"random_bonus": 4
 		}
 		{
 			"id": "30F4FAED1E5E5DE8"
 			"item": {
-				"id": "minecraft:glow_berries"
+				"id": "minecraft:egg"
 				"count": 1
 			}
-			"count": 4
-			"random_bonus": 4
 			"weight": 5.0d
+			"count": 6
+			"random_bonus": 6
 		}
 		{
 			"id": "6D701A1C2D7CA1A7"
 			"item": {
-				"id": "minecraft:torch"
+				"id": "minecraft:sugar"
 				"count": 1
 			}
-			"count": 16
-			"random_bonus": 16
-			"weight": 8.0d
+			"weight": 5.0d
+			"count": 8
+			"random_bonus": 8
 		}
 		{
 			"id": "6428472D5BDD71CA"
 			"item": {
-				"id": "minecraft:iron_nugget"
+				"id": "snowyspirit:gingerbread_cookie"
 				"count": 1
 			}
-			"count": 9
-			"random_bonus": 9
-			"weight": 8.0d
+			"weight": 6.0d
+			"count": 4
+			"random_bonus": 4
 		}
 		{
 			"id": "29890352B6257F3D"
 			"item": {
-				"id": "create:copper_nugget"
+				"id": "cccasino:gift_chip"
 				"count": 1
+				"components": {
+					"minecraft:custom_name": "{\"text\": \"Gift Chip\", \"italic\": false}"
+					"minecraft:lore": [
+						"{\"text\": \"Plays the slot machines. Winnings are real chips.\", \"color\": \"gray\"}"
+					]
+				}
 			}
-			"count": 9
-			"random_bonus": 9
-			"weight": 6.0d
+			"weight": 8.0d
+			"count": 3
+			"random_bonus": 2
 		}
 		{
 			"id": "262C33F2D5B434D1"
 			"item": {
-				"id": "minecraft:gold_nugget"
+				"id": "cccasino:chip_25"
 				"count": 1
 			}
-			"count": 6
-			"random_bonus": 6
 			"weight": 5.0d
 		}
 		{
 			"id": "17EA6956E32DE79A"
 			"item": {
-				"id": "create:experience_nugget"
+				"id": "cccasino:chip_100"
 				"count": 1
+				"components": {
+					"minecraft:custom_name": "{\"text\": \"A Hundred, Tucked in the Toe\", \"italic\": false}"
+					"minecraft:lore": [
+						"{\"text\": \"Lucky you.\", \"color\": \"gray\"}"
+					]
+				}
 			}
-			"count": 2
-			"random_bonus": 3
-			"weight": 8.0d
+			"weight": 1.0d
 		}
 		{
 			"id": "49705BC7BE733068"
 			"item": {
-				"id": "minecraft:firework_rocket"
-				"count": 1
-			}
-			"count": 2
-			"random_bonus": 2
-			"weight": 4.0d
-		}
-		{
-			"id": "4176739C9E168AC0"
-			"item": {
-				"id": "create_wrapped:pine_cone"
-				"count": 1
-			}
-			"count": 2
-			"random_bonus": 2
-			"weight": 3.0d
-		}
-		{
-			"id": "3B399012C8B42413"
-			"item": {
-				"id": "minecraft:snowball"
-				"count": 1
-			}
-			"count": 8
-			"random_bonus": 8
-			"weight": 3.0d
-		}
-		{
-			"id": "2970228F087AA4C4"
-			"item": {
-				"id": "minecraft:red_candle"
-				"count": 1
-			}
-			"random_bonus": 1
-			"weight": 2.0d
-		}
-		{
-			"id": "70C6A3F09807A5DF"
-			"item": {
-				"id": "minecraft:green_candle"
-				"count": 1
-			}
-			"random_bonus": 1
-			"weight": 2.0d
-		}
-		{
-			"id": "38CDC96567DD538D"
-			"item": {
 				"id": "minecraft:coal"
 				"count": 1
 				"components": {
-					"minecraft:custom_name": "{\"text\":\"Lump of Coal\",\"italic\":false}"
+					"minecraft:custom_name": "{\"text\": \"Lump of Coal\", \"italic\": false}"
 					"minecraft:lore": [
-						"{\"text\":\"Somebody was a little bit naughty.\",\"color\":\"gray\"}"
+						"{\"text\": \"Somebody was a little bit naughty.\", \"color\": \"gray\"}"
 					]
 				}
 			}
-			"weight": 2.0d
+			"weight": 3.0d
 		}
 	]
 	"loot_crate": {
@@ -194,6 +156,14 @@
 			"passive": 0
 			"monster": 0
 			"boss": 0
+		}
+	}
+	"icon": {
+		"id": "ftbquests:lootcrate"
+		"count": 1
+		"components": {
+			"ftbquests:loot_crate": "stocking"
+			"minecraft:custom_model_data": 7701
 		}
 	}
 }

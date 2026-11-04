@@ -1,0 +1,1116 @@
+{
+	"id": "2EA6984255333DCF"
+	"filename": "create"
+	"group": "6E6872417BE99080"
+	"order_index": 1
+	"icon": {
+		"id": "create:andesite_alloy"
+	}
+	"default_hide_dependency_lines": false
+	"default_quest_size": 1.0d
+	"images": [
+		{
+			"id": "4C98BFA17B0BF35C"
+			"x": 9.562d
+			"y": -7.35d
+			"width": 10.895d
+			"height": 1.7d
+			"rotation": 0.0d
+			"image": "christmascraft:textures/gui/quest/banner_create.png"
+			"order": -1
+		}
+	]
+	"quests": [
+		{
+			"id": "05A1F9B3EA14DE2E"
+			"dependencies": [
+				"4DCC2697FB0B9A91"
+			]
+			"icon": {
+				"id": "create:andesite_alloy"
+			}
+			"x": 0.0d
+			"y": 0.0d
+			"shape": "hexagon"
+			"size": 1.25d
+			"tasks": [
+				{
+					"id": "1E17D0B00C325646"
+					"type": "item"
+					"item": {
+						"id": "create:andesite_alloy"
+						"count": 1
+					}
+					"count": 1
+				}
+			]
+			"rewards": [
+				{
+					"id": "6B3BBD0F1A54DC36"
+					"type": "xp"
+					"xp": 100
+				}
+				{
+					"id": "457975FE87E5D912"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+				{
+					"id": "4059C68257EF0D61"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+				{
+					"id": "2C874B28359C3CD9"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_50"
+						"count": 1
+					}
+				}
+			]
+		}
+		{
+			"id": "7BEE285CCC7460D7"
+			"dependencies": [
+				"05A1F9B3EA14DE2E"
+			]
+			"icon": {
+				"id": "create:andesite_casing"
+			}
+			"x": 2.5d
+			"y": 2.5d
+			"shape": "circle"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "45740D171CF28A8C"
+					"type": "advancement"
+					"advancement": "create:andesite_casing"
+					"criterion": ""
+				}
+			]
+			"rewards": [
+				{
+					"id": "349E083EC924F859"
+					"type": "xp"
+					"xp": 50
+				}
+				{
+					"id": "7B6204A1CA513F0D"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+				{
+					"id": "3DF859EF80F4E5BD"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+				{
+					"id": "4AE1EAA176B90208"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_25"
+						"count": 1
+					}
+				}
+			]
+		}
+		{
+			"id": "43FA1A61A5A20377"
+			"dependencies": [
+				"05A1F9B3EA14DE2E"
+			]
+			"icon": {
+				"id": "create:water_wheel"
+			}
+			"x": 2.5d
+			"y": -2.5d
+			"shape": "square"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "3498D531C2578EF5"
+					"type": "advancement"
+					"advancement": "create:water_wheel"
+					"criterion": ""
+				}
+			]
+			"rewards": [
+				{
+					"id": "633C3DD587AB8CE6"
+					"type": "xp"
+					"xp": 100
+				}
+				{
+					"id": "0088D95EA66B6F8D"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+				{
+					"id": "6C9A9FA4C41BF75A"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+				{
+					"id": "43BFF97839E97A63"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_50"
+						"count": 1
+					}
+				}
+			]
+		}
+		{
+			"id": "60857CA854DC52AC"
+			"dependencies": [
+				"43FA1A61A5A20377"
+			]
+			"icon": {
+				"id": "create:windmill_bearing"
+			}
+			"x": 2.5d
+			"y": -5.0d
+			"shape": "square"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "1868BB60F925AE01"
+					"type": "advancement"
+					"advancement": "create:windmill"
+					"criterion": ""
+				}
+			]
+			"rewards": [
+				{
+					"id": "452D15F16F1D7D87"
+					"type": "xp"
+					"xp": 50
+				}
+				{
+					"id": "1F1022F330DF8198"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+				{
+					"id": "19D3AEDA662C1DC9"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+				{
+					"id": "4653E079A798E6A7"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_25"
+						"count": 1
+					}
+				}
+			]
+		}
+		{
+			"id": "078A22D13BD97AEE"
+			"dependencies": [
+				"43FA1A61A5A20377"
+			]
+			"icon": {
+				"id": "create:large_cogwheel"
+			}
+			"x": 5.0d
+			"y": -4.5d
+			"shape": "circle"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "5E2D85B92D97186C"
+					"type": "advancement"
+					"advancement": "create:shifting_gears"
+					"criterion": ""
+				}
+			]
+			"rewards": [
+				{
+					"id": "5AEF83413D6AE456"
+					"type": "xp"
+					"xp": 50
+				}
+				{
+					"id": "4B3E3640424004DA"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+				{
+					"id": "150BD1E5CE475435"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+				{
+					"id": "0225DF2ECDD80980"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_25"
+						"count": 1
+					}
+				}
+			]
+		}
+		{
+			"id": "35E9C0E66E9E82AD"
+			"dependencies": [
+				"43FA1A61A5A20377"
+			]
+			"icon": {
+				"id": "create:belt_connector"
+			}
+			"x": 5.0d
+			"y": -1.5d
+			"shape": "circle"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "1C43E5027B6BFE4A"
+					"type": "advancement"
+					"advancement": "create:belt"
+					"criterion": ""
+				}
+			]
+			"rewards": [
+				{
+					"id": "43187D21106D8D9A"
+					"type": "xp"
+					"xp": 100
+				}
+				{
+					"id": "0B7B1E908F952FFB"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+				{
+					"id": "69DDD5FC10791EAB"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+				{
+					"id": "27138C4B58F52F56"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_50"
+						"count": 1
+					}
+				}
+			]
+		}
+		{
+			"id": "7B93378B31B6F8C3"
+			"dependencies": [
+				"35E9C0E66E9E82AD"
+			]
+			"icon": {
+				"id": "create:andesite_funnel"
+			}
+			"x": 7.5d
+			"y": -2.5d
+			"shape": "circle"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "70FFE22D0D479394"
+					"type": "advancement"
+					"advancement": "create:funnel"
+					"criterion": ""
+				}
+				{
+					"id": "73239331054B9EEB"
+					"type": "advancement"
+					"advancement": "create:chute"
+					"criterion": ""
+				}
+			]
+			"rewards": [
+				{
+					"id": "04A16AAC9D9409F2"
+					"type": "xp"
+					"xp": 50
+				}
+				{
+					"id": "1EDBB7D0E4D7492D"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+				{
+					"id": "4A0AC86F24383F48"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+				{
+					"id": "2109C42DA7129CC0"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_25"
+						"count": 1
+					}
+				}
+			]
+		}
+		{
+			"id": "2D6C48A4632400D4"
+			"dependencies": [
+				"7BEE285CCC7460D7"
+			]
+			"icon": {
+				"id": "create:millstone"
+			}
+			"x": 5.0d
+			"y": 2.5d
+			"shape": "circle"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "71396101DD640098"
+					"type": "advancement"
+					"advancement": "create:millstone"
+					"criterion": ""
+				}
+			]
+			"rewards": [
+				{
+					"id": "72268EB3C85EB8AA"
+					"type": "xp"
+					"xp": 50
+				}
+				{
+					"id": "2EF7D07317E48FDC"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+				{
+					"id": "149C91E04DF445D0"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+				{
+					"id": "3DB86D7CA07009A8"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_25"
+						"count": 1
+					}
+				}
+			]
+		}
+		{
+			"id": "6BB02375EE1FFF0B"
+			"dependencies": [
+				"7BEE285CCC7460D7"
+				"35E9C0E66E9E82AD"
+			]
+			"icon": {
+				"id": "create:mechanical_press"
+			}
+			"x": 7.5d
+			"y": 0.0d
+			"shape": "circle"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "6699E8C85FC76F29"
+					"type": "advancement"
+					"advancement": "create:mechanical_press"
+					"criterion": ""
+				}
+			]
+			"rewards": [
+				{
+					"id": "059C3CC566BACF3F"
+					"type": "xp"
+					"xp": 100
+				}
+				{
+					"id": "108262BCE7EA4514"
+					"type": "random"
+					"table_id": 8811780716223278392L
+				}
+				{
+					"id": "4F22E57468F20E87"
+					"type": "random"
+					"table_id": 8811780716223278392L
+				}
+				{
+					"id": "5461E57AC1985AE7"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_50"
+						"count": 1
+					}
+				}
+			]
+		}
+		{
+			"id": "7B1E7435B98D2AC2"
+			"dependencies": [
+				"6BB02375EE1FFF0B"
+				"078A22D13BD97AEE"
+			]
+			"icon": {
+				"id": "create:goggles"
+			}
+			"x": 12.5d
+			"y": -3.5d
+			"shape": "circle"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "3782CABE68214F60"
+					"type": "item"
+					"item": {
+						"id": "create:wrench"
+						"count": 1
+					}
+					"count": 1
+				}
+				{
+					"id": "341815A6784B8FF7"
+					"type": "item"
+					"item": {
+						"id": "create:goggles"
+						"count": 1
+					}
+					"count": 1
+				}
+				{
+					"id": "0F3D946F277A417B"
+					"type": "advancement"
+					"advancement": "create:stressometer"
+					"criterion": ""
+				}
+			]
+			"rewards": [
+				{
+					"id": "5BB00DD98D328B42"
+					"type": "xp"
+					"xp": 50
+				}
+				{
+					"id": "4E4B7843EA3CA457"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+				{
+					"id": "4A159EA8AF448471"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+				{
+					"id": "1D02891D1C2572AB"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_25"
+						"count": 1
+					}
+				}
+			]
+		}
+		{
+			"id": "7D2EA14C7C7A57C2"
+			"dependencies": [
+				"6BB02375EE1FFF0B"
+			]
+			"icon": {
+				"id": "create:encased_fan"
+			}
+			"x": 9.5d
+			"y": -2.5d
+			"shape": "circle"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "6013B7E5DC89F5DB"
+					"type": "advancement"
+					"advancement": "create:fan_processing"
+					"criterion": ""
+				}
+			]
+			"rewards": [
+				{
+					"id": "57E0552941F5388F"
+					"type": "xp"
+					"xp": 100
+				}
+				{
+					"id": "15C2D6A16E4773C6"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+				{
+					"id": "3C230746F7FD7A03"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+				{
+					"id": "2634C1DDE39CE9C2"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_50"
+						"count": 1
+					}
+				}
+			]
+		}
+		{
+			"id": "5EF48C56802EEDC6"
+			"dependencies": [
+				"6BB02375EE1FFF0B"
+			]
+			"icon": {
+				"id": "create:mechanical_saw"
+			}
+			"x": 10.5d
+			"y": 1.75d
+			"shape": "circle"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "45B94E7181B67032"
+					"type": "advancement"
+					"advancement": "create:saw_processing"
+					"criterion": ""
+				}
+			]
+			"rewards": [
+				{
+					"id": "02C34A772B674452"
+					"type": "xp"
+					"xp": 50
+				}
+				{
+					"id": "75A4ACBABB613C9E"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+				{
+					"id": "333AFBE918DF92E8"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+				{
+					"id": "62F2F33234808965"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_25"
+						"count": 1
+					}
+				}
+			]
+		}
+		{
+			"id": "11CEBDBF935C4AE8"
+			"dependencies": [
+				"7BEE285CCC7460D7"
+			]
+			"icon": {
+				"id": "create:mechanical_piston"
+			}
+			"x": 5.0d
+			"y": 5.0d
+			"shape": "circle"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "2A5C74D9B1714CAF"
+					"type": "item"
+					"item": {
+						"id": "create:mechanical_piston"
+						"count": 1
+					}
+					"count": 1
+				}
+				{
+					"id": "06B85B6ECC7C4B2C"
+					"type": "advancement"
+					"advancement": "create:super_glue"
+					"criterion": ""
+				}
+			]
+			"rewards": [
+				{
+					"id": "5EBF793A6E1A22AC"
+					"type": "xp"
+					"xp": 100
+				}
+				{
+					"id": "2EBE8F5D67417862"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+				{
+					"id": "40DC46A9D21DC84B"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+				{
+					"id": "798C6561CB455EA3"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_50"
+						"count": 1
+					}
+				}
+			]
+		}
+		{
+			"id": "375AA80127FAA27D"
+			"dependencies": [
+				"11CEBDBF935C4AE8"
+			]
+			"icon": {
+				"id": "create:mechanical_drill"
+			}
+			"x": 7.5d
+			"y": 6.0d
+			"shape": "hexagon"
+			"size": 1.25d
+			"tasks": [
+				{
+					"id": "7FDBD2D887EF2AA0"
+					"type": "advancement"
+					"advancement": "create:contraption_actors"
+					"criterion": ""
+				}
+			]
+			"rewards": [
+				{
+					"id": "08367320FB5C7D51"
+					"type": "xp"
+					"xp": 250
+				}
+				{
+					"id": "360AEDC3908A6AE8"
+					"type": "random"
+					"table_id": 8811780716223278392L
+				}
+				{
+					"id": "09D6EE745275BC71"
+					"type": "random"
+					"table_id": 8811780716223278392L
+				}
+				{
+					"id": "7346EF6A708BBE1E"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_100"
+						"count": 1
+					}
+				}
+				{
+					"id": "034027EB132FCD8A"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_50"
+						"count": 1
+					}
+				}
+			]
+		}
+		{
+			"id": "7503AC37CF41C36B"
+			"dependencies": [
+				"6BB02375EE1FFF0B"
+			]
+			"icon": {
+				"id": "create:mechanical_mixer"
+			}
+			"x": 10.0d
+			"y": 0.0d
+			"shape": "circle"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "2E799BDF8F2BFBA5"
+					"type": "advancement"
+					"advancement": "create:mechanical_mixer"
+					"criterion": ""
+				}
+			]
+			"rewards": [
+				{
+					"id": "56A96DBB7FD7D2F3"
+					"type": "xp"
+					"xp": 100
+				}
+				{
+					"id": "23EFE129B4CF73CF"
+					"type": "random"
+					"table_id": 8811780716223278392L
+				}
+				{
+					"id": "06A8C6070F68E410"
+					"type": "random"
+					"table_id": 8811780716223278392L
+				}
+				{
+					"id": "16DEEE067308F7D4"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_50"
+						"count": 1
+					}
+				}
+			]
+		}
+		{
+			"id": "29FFDE4D5A1A6204"
+			"dependencies": [
+				"6BB02375EE1FFF0B"
+			]
+			"icon": {
+				"id": "create:copper_casing"
+			}
+			"x": 10.0d
+			"y": 4.0d
+			"shape": "diamond"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "0F625FD1C8BDC15E"
+					"type": "advancement"
+					"advancement": "create:copper_casing"
+					"criterion": ""
+				}
+			]
+			"rewards": [
+				{
+					"id": "573CB171DF93CEDD"
+					"type": "xp"
+					"xp": 50
+				}
+				{
+					"id": "16DDD3CBBCB3E1F9"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+				{
+					"id": "09FB0E5802919231"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+				{
+					"id": "21C44AC1373402CB"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_25"
+						"count": 1
+					}
+				}
+			]
+		}
+		{
+			"id": "092D98FB67CF5295"
+			"dependencies": [
+				"29FFDE4D5A1A6204"
+			]
+			"icon": {
+				"id": "create:mechanical_pump"
+			}
+			"x": 12.5d
+			"y": 4.0d
+			"shape": "diamond"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "7E3C282CC9254D05"
+					"type": "advancement"
+					"advancement": "create:water_supply"
+					"criterion": ""
+				}
+			]
+			"rewards": [
+				{
+					"id": "0322693C29DC89D9"
+					"type": "xp"
+					"xp": 100
+				}
+				{
+					"id": "084DECF360430A84"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+				{
+					"id": "3B0AD4572E348B0F"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+				{
+					"id": "03FCD594DDDD642B"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_50"
+						"count": 1
+					}
+				}
+			]
+		}
+		{
+			"id": "06F63AFDD1B0E263"
+			"dependencies": [
+				"092D98FB67CF5295"
+			]
+			"icon": {
+				"id": "create:spout"
+			}
+			"x": 15.0d
+			"y": 5.5d
+			"shape": "diamond"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "74990F2D0E1A2944"
+					"type": "advancement"
+					"advancement": "create:spout"
+					"criterion": ""
+				}
+			]
+			"rewards": [
+				{
+					"id": "3F888A97D09BE4E6"
+					"type": "xp"
+					"xp": 100
+				}
+				{
+					"id": "647A811864FAD59E"
+					"type": "random"
+					"table_id": 8811780716223278392L
+				}
+				{
+					"id": "7E5AF58AA8E59C7C"
+					"type": "random"
+					"table_id": 8811780716223278392L
+				}
+				{
+					"id": "327C105F4A9125D7"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_50"
+						"count": 1
+					}
+				}
+			]
+		}
+		{
+			"id": "0602DD406B2351E9"
+			"dependencies": [
+				"7503AC37CF41C36B"
+			]
+			"icon": {
+				"id": "create:blaze_burner"
+			}
+			"x": 12.5d
+			"y": 0.0d
+			"shape": "hexagon"
+			"size": 1.25d
+			"tasks": [
+				{
+					"id": "41F4C6B5F705CAE8"
+					"type": "item"
+					"item": {
+						"id": "create:blaze_burner"
+						"count": 1
+					}
+					"count": 1
+				}
+			]
+			"rewards": [
+				{
+					"id": "58E6AC5BFD57AFCC"
+					"type": "xp"
+					"xp": 250
+				}
+				{
+					"id": "63B50AF6426E82FA"
+					"type": "random"
+					"table_id": 8811780716223278392L
+				}
+				{
+					"id": "794D7EB12CC0063C"
+					"type": "random"
+					"table_id": 8811780716223278392L
+				}
+				{
+					"id": "52874C5ED12D0B76"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_100"
+						"count": 1
+					}
+				}
+				{
+					"id": "2E57221FC0FB8FEE"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_50"
+						"count": 1
+					}
+				}
+			]
+		}
+		{
+			"id": "0B103E9F08E2B8FC"
+			"dependencies": [
+				"0602DD406B2351E9"
+				"092D98FB67CF5295"
+				"7B1E7435B98D2AC2"
+			]
+			"icon": {
+				"id": "create:steam_engine"
+			}
+			"x": 16.0d
+			"y": 0.5d
+			"shape": "hexagon"
+			"size": 1.25d
+			"tasks": [
+				{
+					"id": "0B377FA84886BBC3"
+					"type": "advancement"
+					"advancement": "create:steam_engine"
+					"criterion": ""
+				}
+			]
+			"rewards": [
+				{
+					"id": "1D48FA6C4FB9085E"
+					"type": "xp"
+					"xp": 250
+				}
+				{
+					"id": "2E3A998E592FFA1A"
+					"type": "random"
+					"table_id": 4055748288478083086L
+				}
+				{
+					"id": "10512934ED105B11"
+					"type": "random"
+					"table_id": 4055748288478083086L
+				}
+				{
+					"id": "1AC42D50C0469CA1"
+					"type": "random"
+					"table_id": 4055748288478083086L
+				}
+				{
+					"id": "2ECA70264A1F0AD8"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_100"
+						"count": 1
+					}
+				}
+				{
+					"id": "27BB7566C32E2A47"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_50"
+						"count": 1
+					}
+				}
+			]
+		}
+		{
+			"id": "363868FA03E37D7B"
+			"dependencies": [
+				"0B103E9F08E2B8FC"
+			]
+			"icon": {
+				"id": "create:fluid_tank"
+			}
+			"x": 19.0d
+			"y": 0.5d
+			"shape": "gear"
+			"size": 1.5d
+			"tasks": [
+				{
+					"id": "43DBC1ED50720EB9"
+					"type": "item"
+					"item": {
+						"id": "create:fluid_tank"
+						"count": 1
+					}
+					"count": 72
+				}
+				{
+					"id": "4F44FAEE5FA50D06"
+					"type": "item"
+					"item": {
+						"id": "create:blaze_burner"
+						"count": 1
+					}
+					"count": 9
+				}
+				{
+					"id": "31B6BD1E60852095"
+					"type": "item"
+					"item": {
+						"id": "create:steam_engine"
+						"count": 1
+					}
+					"count": 9
+				}
+			]
+			"rewards": [
+				{
+					"id": "786665D73107B8F5"
+					"type": "xp"
+					"xp": 500
+				}
+				{
+					"id": "69E9541B5653318C"
+					"type": "random"
+					"table_id": 4055748288478083086L
+				}
+				{
+					"id": "0CB13948F1FF2C1F"
+					"type": "random"
+					"table_id": 4055748288478083086L
+				}
+				{
+					"id": "54F66AD78FD94BD3"
+					"type": "random"
+					"table_id": 4055748288478083086L
+				}
+				{
+					"id": "56A32FED6B4EBCD7"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_250"
+						"count": 1
+					}
+				}
+				{
+					"id": "6E82E9820DD26331"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_100"
+						"count": 1
+					}
+				}
+				{
+					"id": "13C1C3E8CF8BE099"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_50"
+						"count": 1
+					}
+				}
+				{
+					"id": "17091A799D98F12E"
+					"type": "command"
+					"command": "summon minecraft:firework_rocket ~ ~1 ~ {LifeTime:30,FireworksItem:{id:\"minecraft:firework_rocket\",count:1,components:{\"minecraft:fireworks\":{flight_duration:1b,explosions:[{shape:\"star\",has_twinkle:true,has_trail:true,colors:[I;11739178,2067514,15252771],fade_colors:[I;16777215]}]}}}}"
+					"permission_level": 2
+					"silent": true
+					"team_reward": false
+					"icon": {
+						"id": "minecraft:firework_rocket"
+					}
+				}
+			]
+		}
+	]
+}

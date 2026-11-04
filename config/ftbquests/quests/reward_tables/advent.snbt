@@ -1,0 +1,138 @@
+{
+	"id": "575BD0F5305D8B39"
+	"order_index": 4
+	"loot_size": 2
+	"use_title": true
+	"rewards": [
+		{
+			"id": "7EA42E35F56AFCEE"
+			"item": {
+				"id": "snowyspirit:gingerbread_cookie"
+				"count": 1
+			}
+			"weight": 10.0d
+			"count": 4
+			"random_bonus": 4
+		}
+		{
+			"id": "22E9076E32EF906B"
+			"item": {
+				"id": "alpinewhispers:garland"
+				"count": 1
+			}
+			"weight": 8.0d
+			"count": 4
+			"random_bonus": 4
+		}
+		{
+			"id": "68284C5953301637"
+			"item": {
+				"id": "alpinewhispers:candle_wreath"
+				"count": 1
+			}
+			"weight": 6.0d
+		}
+		{
+			"id": "1CC80453A37B90FD"
+			"item": {
+				"id": "alpinewhispers:fairy_lights"
+				"count": 1
+			}
+			"weight": 6.0d
+			"count": 8
+		}
+		{
+			"id": "2C9BA2C4A5398B60"
+			"item": {
+				"id": "mcwholidays:big_red_present"
+				"count": 1
+			}
+			"weight": 5.0d
+		}
+		{
+			"id": "2CCD10FF657EDA20"
+			"item": {
+				"id": "mcwholidays:big_blue_present"
+				"count": 1
+			}
+			"weight": 5.0d
+		}
+		{
+			"id": "7B298B4FF08C62F3"
+			"item": {
+				"id": "minecraft:firework_rocket"
+				"count": 1
+			}
+			"weight": 6.0d
+			"count": 4
+			"random_bonus": 4
+		}
+		{
+			"id": "285D946B93E53443"
+			"item": {
+				"id": "minecraft:blaze_powder"
+				"count": 1
+			}
+			"weight": 4.0d
+			"count": 4
+			"random_bonus": 4
+		}
+		{
+			"id": "210E8938C1EF7027"
+			"item": {
+				"id": "cccasino:gift_chip"
+				"count": 1
+				"components": {
+					"minecraft:custom_name": "{\"text\": \"Gift Chip\", \"italic\": false}"
+					"minecraft:lore": [
+						"{\"text\": \"Plays the slot machines. Winnings are real chips.\", \"color\": \"gray\"}"
+					]
+				}
+			}
+			"weight": 10.0d
+			"count": 5
+			"random_bonus": 5
+		}
+		{
+			"id": "5AD8BA512FA575F2"
+			"item": {
+				"id": "cccasino:chip_25"
+				"count": 1
+			}
+			"weight": 5.0d
+		}
+		{
+			"id": "4F5FD6B51ECE7789"
+			"item": {
+				"id": "cccasino:chip_250"
+				"count": 1
+				"components": {
+					"minecraft:custom_name": "{\"text\": \"Two-Fifty Behind the Door\", \"italic\": false}"
+					"minecraft:lore": [
+						"{\"text\": \"Merry Christmas.\", \"color\": \"gray\"}"
+					]
+				}
+			}
+			"weight": 0.5d
+		}
+	]
+	"loot_crate": {
+		"string_id": "advent"
+		"item_name": "Advent Box"
+		"color": 13185068
+		"glow": false
+		"drops": {
+			"passive": 0
+			"monster": 0
+			"boss": 0
+		}
+	}
+	"icon": {
+		"id": "ftbquests:lootcrate"
+		"count": 1
+		"components": {
+			"ftbquests:loot_crate": "advent"
+			"minecraft:custom_model_data": 7705
+		}
+	}
+}

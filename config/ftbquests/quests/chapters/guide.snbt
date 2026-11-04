@@ -1,0 +1,583 @@
+{
+	"id": "07A864A645B84CC0"
+	"filename": "guide"
+	"group": "227D82CAA2C2C613"
+	"order_index": 12
+	"icon": {
+		"id": "minecraft:book"
+	}
+	"default_hide_dependency_lines": false
+	"default_quest_size": 1.0d
+	"images": [
+		{
+			"id": "09C688E3E9E4A110"
+			"x": 5.0d
+			"y": -2.35d
+			"width": 8.5d
+			"height": 1.7d
+			"rotation": 0.0d
+			"image": "christmascraft:textures/gui/quest/banner_guide.png"
+			"order": -1
+		}
+	]
+	"quests": [
+		{
+			"id": "49CD427ACD3F27B2"
+			"dependencies": [
+				"35E9C0E66E9E82AD"
+			]
+			"icon": {
+				"id": "create:schematicannon"
+			}
+			"x": 0.0d
+			"y": 0.0d
+			"shape": "circle"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "33E672A3BDFA42EC"
+					"type": "item"
+					"item": {
+						"id": "create:schematicannon"
+						"count": 1
+					}
+					"count": 1
+				}
+			]
+			"rewards": [
+				{
+					"id": "1DB9FB927AFA2E85"
+					"type": "xp"
+					"xp": 100
+				}
+				{
+					"id": "3F859A2A46E0829D"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+				{
+					"id": "1557DCD4AA241AD2"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+			]
+			"optional": true
+		}
+		{
+			"id": "35FB736AB6004EBB"
+			"dependencies": [
+				"11CEBDBF935C4AE8"
+			]
+			"icon": {
+				"id": "create:mechanical_harvester"
+			}
+			"x": 2.5d
+			"y": 0.0d
+			"shape": "circle"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "266A907FB307DE0F"
+					"type": "item"
+					"item": {
+						"id": "create:mechanical_harvester"
+						"count": 1
+					}
+					"count": 1
+				}
+			]
+			"rewards": [
+				{
+					"id": "572232CCF890BB19"
+					"type": "xp"
+					"xp": 100
+				}
+				{
+					"id": "6E5D14DE1E6251DA"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+				{
+					"id": "6E9D04BE98A0F3A9"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+			]
+			"optional": true
+		}
+		{
+			"id": "3CEF2B31B22D4E4A"
+			"dependencies": [
+				"092D98FB67CF5295"
+			]
+			"icon": {
+				"id": "create:scorchia"
+			}
+			"x": 5.0d
+			"y": 0.0d
+			"shape": "circle"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "26ACBF48C3796F26"
+					"type": "item"
+					"item": {
+						"id": "create:scorchia"
+						"count": 1
+					}
+					"count": 1
+				}
+			]
+			"rewards": [
+				{
+					"id": "49CC1C0F6714C3A9"
+					"type": "xp"
+					"xp": 100
+				}
+				{
+					"id": "1DE30FE29C801B48"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+				{
+					"id": "138EFE14D3A43638"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+			]
+			"optional": true
+		}
+		{
+			"id": "2A7E0185CF5DA58A"
+			"dependencies": [
+				"7D2EA14C7C7A57C2"
+			]
+			"icon": {
+				"id": "minecraft:blackstone"
+			}
+			"x": 7.5d
+			"y": 0.0d
+			"shape": "circle"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "4904C42552CC5818"
+					"type": "item"
+					"item": {
+						"id": "minecraft:blackstone"
+						"count": 1
+					}
+					"count": 1
+				}
+			]
+			"rewards": [
+				{
+					"id": "698E88286F45DC57"
+					"type": "xp"
+					"xp": 100
+				}
+				{
+					"id": "4B780CBE557F9B56"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+				{
+					"id": "084A7474E7E252C4"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+			]
+			"optional": true
+		}
+		{
+			"id": "0582BE6035D4D467"
+			"dependencies": [
+				"092D98FB67CF5295"
+			]
+			"icon": {
+				"id": "create:copper_backtank"
+			}
+			"x": 10.0d
+			"y": 0.0d
+			"shape": "circle"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "733CC7EBCC0CCE19"
+					"type": "item"
+					"item": {
+						"id": "create:copper_backtank"
+						"count": 1
+					}
+					"count": 1
+				}
+				{
+					"id": "40718E1FEF3AC3D8"
+					"type": "item"
+					"item": {
+						"id": "create:copper_diving_helmet"
+						"count": 1
+					}
+					"count": 1
+				}
+			]
+			"rewards": [
+				{
+					"id": "168106C19DFEABED"
+					"type": "xp"
+					"xp": 100
+				}
+				{
+					"id": "67E2F0E27D695F9F"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+				{
+					"id": "46ADA56DD4F7FB53"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+			]
+			"optional": true
+		}
+		{
+			"id": "738FCE3772DDEDFF"
+			"dependencies": [
+				"2AEA10F9FB69206E"
+				"70221A959234FE1A"
+			]
+			"icon": {
+				"id": "create:potato_cannon"
+			}
+			"x": 0.0d
+			"y": 2.5d
+			"shape": "circle"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "40D95E076902A7E5"
+					"type": "item"
+					"item": {
+						"id": "create:potato_cannon"
+						"count": 1
+					}
+					"count": 1
+				}
+			]
+			"rewards": [
+				{
+					"id": "5A4BFCAE0773D11B"
+					"type": "xp"
+					"xp": 100
+				}
+				{
+					"id": "49F7D33C561B0A8E"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+				{
+					"id": "5CD0481CCE3B671F"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+			]
+			"optional": true
+		}
+		{
+			"id": "7B6A31AFEA6FA2A2"
+			"dependencies": [
+				"162CE88B477B267E"
+			]
+			"icon": {
+				"id": "create:item_vault"
+			}
+			"x": 2.5d
+			"y": 2.5d
+			"shape": "circle"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "4174ADF2B46FA1A4"
+					"type": "item"
+					"item": {
+						"id": "create:item_vault"
+						"count": 1
+					}
+					"count": 1
+				}
+			]
+			"rewards": [
+				{
+					"id": "2E3D23C4EF32AA36"
+					"type": "xp"
+					"xp": 100
+				}
+				{
+					"id": "07D6B2F0F9615549"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+				{
+					"id": "738A5AB5A8156AC9"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+			]
+			"optional": true
+		}
+		{
+			"id": "2EB7A654E81D70A3"
+			"dependencies": [
+				"70221A959234FE1A"
+			]
+			"icon": {
+				"id": "create:rotation_speed_controller"
+			}
+			"x": 5.0d
+			"y": 2.5d
+			"shape": "circle"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "423640A7991C6040"
+					"type": "item"
+					"item": {
+						"id": "create:rotation_speed_controller"
+						"count": 1
+					}
+					"count": 1
+				}
+			]
+			"rewards": [
+				{
+					"id": "09FBC1BB61367926"
+					"type": "xp"
+					"xp": 100
+				}
+				{
+					"id": "1D25041EC2258786"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+				{
+					"id": "1829A63F6E6E6AE1"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+			]
+			"optional": true
+		}
+		{
+			"id": "7E799DBCBA9F6520"
+			"dependencies": [
+				"11CEBDBF935C4AE8"
+				"162CE88B477B267E"
+			]
+			"icon": {
+				"id": "create:elevator_pulley"
+			}
+			"x": 7.5d
+			"y": 2.5d
+			"shape": "circle"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "29E0B53BADD966EA"
+					"type": "item"
+					"item": {
+						"id": "create:elevator_pulley"
+						"count": 1
+					}
+					"count": 1
+				}
+			]
+			"rewards": [
+				{
+					"id": "1B313C485CEDF55A"
+					"type": "xp"
+					"xp": 100
+				}
+				{
+					"id": "1CC74C7B0B51C8A9"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+				{
+					"id": "07965F4041299364"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+			]
+			"optional": true
+		}
+		{
+			"id": "3BBA298AFC171715"
+			"dependencies": [
+				"2AEA10F9FB69206E"
+				"70221A959234FE1A"
+			]
+			"icon": {
+				"id": "create:extendo_grip"
+			}
+			"x": 10.0d
+			"y": 2.5d
+			"shape": "circle"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "409F6D7D901D3270"
+					"type": "item"
+					"item": {
+						"id": "create:extendo_grip"
+						"count": 1
+					}
+					"count": 1
+				}
+			]
+			"rewards": [
+				{
+					"id": "6F5EBC21DD7F4AF8"
+					"type": "xp"
+					"xp": 100
+				}
+				{
+					"id": "542964C8686862C1"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+				{
+					"id": "5976157198A398C4"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+			]
+			"optional": true
+		}
+		{
+			"id": "22C6FD4AB848F277"
+			"dependencies": [
+				"6BB02375EE1FFF0B"
+			]
+			"icon": {
+				"id": "create_bic_bit:aged_cheese"
+			}
+			"x": 0.0d
+			"y": 5.0d
+			"shape": "circle"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "50CD774D98AABA13"
+					"type": "item"
+					"item": {
+						"id": "create_bic_bit:aged_cheese"
+						"count": 1
+					}
+					"count": 1
+				}
+			]
+			"rewards": [
+				{
+					"id": "55E1CA6ED07BF5A0"
+					"type": "xp"
+					"xp": 100
+				}
+				{
+					"id": "0D7E4DD95C2A3771"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+				{
+					"id": "00B8DCAFFD721755"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+			]
+			"optional": true
+		}
+		{
+			"id": "293938781A468D28"
+			"dependencies": [
+				"47E3C75BB8E7B4C4"
+			]
+			"icon": {
+				"id": "create_bic_bit:mechanical_fryer"
+			}
+			"x": 2.5d
+			"y": 5.0d
+			"shape": "circle"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "2BF88021129CF318"
+					"type": "item"
+					"item": {
+						"id": "create_bic_bit:mechanical_fryer"
+						"count": 1
+					}
+					"count": 1
+				}
+			]
+			"rewards": [
+				{
+					"id": "0BA0107C61C28AAF"
+					"type": "xp"
+					"xp": 100
+				}
+				{
+					"id": "48CFBAB9A3360BC7"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+				{
+					"id": "420F1571E2D6B0CC"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+			]
+			"optional": true
+		}
+		{
+			"id": "038921FFDFD25064"
+			"dependencies": [
+				"06F63AFDD1B0E263"
+			]
+			"icon": {
+				"id": "farmersrespite:green_tea"
+			}
+			"x": 5.0d
+			"y": 5.0d
+			"shape": "circle"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "2F2E939CE146F3DC"
+					"type": "item"
+					"item": {
+						"id": "farmersrespite:green_tea"
+						"count": 1
+					}
+					"count": 1
+				}
+			]
+			"rewards": [
+				{
+					"id": "734C222B34B2C865"
+					"type": "xp"
+					"xp": 100
+				}
+				{
+					"id": "1FB2970796DAC9BA"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+				{
+					"id": "5517B7DC9165FCE0"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+			]
+			"optional": true
+		}
+	]
+}

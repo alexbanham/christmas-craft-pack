@@ -1,0 +1,497 @@
+{
+	"id": "6EFBA7C7F19E4A02"
+	"filename": "workshop"
+	"group": "6E6872417BE99080"
+	"order_index": 9
+	"icon": {
+		"id": "create_wrapped:wrapping_station"
+	}
+	"default_hide_dependency_lines": false
+	"default_quest_size": 1.0d
+	"images": [
+		{
+			"id": "683770D5597D58C8"
+			"x": 5.312d
+			"y": -4.6d
+			"width": 10.045d
+			"height": 1.7d
+			"rotation": 0.0d
+			"image": "christmascraft:textures/gui/quest/banner_workshop.png"
+			"order": -1
+		}
+	]
+	"quests": [
+		{
+			"id": "50F37896395DFCB1"
+			"dependencies": [
+				"70221A959234FE1A"
+			]
+			"icon": {
+				"id": "cccasino:toy_works_controller"
+			}
+			"x": 0.0d
+			"y": 0.0d
+			"shape": "hexagon"
+			"size": 1.25d
+			"tasks": [
+				{
+					"id": "7CFC817CD92C9E0B"
+					"type": "item"
+					"item": {
+						"id": "cccasino:wooden_train"
+						"count": 1
+					}
+					"count": 1
+				}
+			]
+			"rewards": [
+				{
+					"id": "0364DB308CA0E1ED"
+					"type": "xp"
+					"xp": 250
+				}
+				{
+					"id": "472037976898F629"
+					"type": "random"
+					"table_id": 4055748288478083086L
+				}
+				{
+					"id": "0BC37AB01320FE81"
+					"type": "random"
+					"table_id": 4055748288478083086L
+				}
+				{
+					"id": "0CD728FDA213C2C6"
+					"type": "random"
+					"table_id": 4055748288478083086L
+				}
+				{
+					"id": "54667C039DAFA0AF"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_100"
+						"count": 1
+					}
+				}
+				{
+					"id": "1787580167AE5BDC"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_50"
+						"count": 1
+					}
+				}
+			]
+		}
+		{
+			"id": "41023DBBCE14EC9D"
+			"dependencies": [
+				"50F37896395DFCB1"
+			]
+			"icon": {
+				"id": "cccasino:toy_blueprint"
+			}
+			"x": 2.5d
+			"y": -2.0d
+			"shape": "circle"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "4219777BB3DAB175"
+					"type": "item"
+					"item": {
+						"id": "cccasino:toy_blueprint"
+						"count": 1
+					}
+					"count": 1
+				}
+			]
+			"rewards": [
+				{
+					"id": "6538A7F3DEBBB9E8"
+					"type": "xp"
+					"xp": 100
+				}
+				{
+					"id": "2EDF0F191569C522"
+					"type": "random"
+					"table_id": 8811780716223278392L
+				}
+				{
+					"id": "578EED871EEFBABD"
+					"type": "random"
+					"table_id": 8811780716223278392L
+				}
+				{
+					"id": "0AB12D517FBB9988"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_50"
+						"count": 1
+					}
+				}
+			]
+		}
+		{
+			"id": "3C332E5EB1726584"
+			"dependencies": [
+				"41023DBBCE14EC9D"
+			]
+			"icon": {
+				"id": "cccasino:clockwork_mouse"
+			}
+			"x": 5.0d
+			"y": -2.0d
+			"shape": "hexagon"
+			"size": 1.25d
+			"tasks": [
+				{
+					"id": "2A2D6C7AE483978A"
+					"type": "item"
+					"item": {
+						"id": "cccasino:clockwork_mouse"
+						"count": 1
+					}
+					"count": 1
+				}
+			]
+			"rewards": [
+				{
+					"id": "68499A3E02FB7A1C"
+					"type": "xp"
+					"xp": 250
+				}
+				{
+					"id": "5428F542736CA6CB"
+					"type": "random"
+					"table_id": 4055748288478083086L
+				}
+				{
+					"id": "4431ADF88557134D"
+					"type": "random"
+					"table_id": 4055748288478083086L
+				}
+				{
+					"id": "223619BE68EEAAAF"
+					"type": "random"
+					"table_id": 4055748288478083086L
+				}
+				{
+					"id": "4AE1E2D580C3D801"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_100"
+						"count": 1
+					}
+				}
+				{
+					"id": "6EDDE50FE9506BF5"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_50"
+						"count": 1
+					}
+				}
+			]
+		}
+		{
+			"id": "7F19373A1F5858BC"
+			"dependencies": [
+				"3C332E5EB1726584"
+				"0602DD406B2351E9"
+			]
+			"icon": {
+				"id": "cccasino:toy_telescope"
+			}
+			"x": 7.5d
+			"y": -2.0d
+			"shape": "circle"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "0E828349CCA7BED7"
+					"type": "item"
+					"item": {
+						"id": "cccasino:toy_telescope"
+						"count": 1
+					}
+					"count": 1
+				}
+			]
+			"rewards": [
+				{
+					"id": "106278BB5D9638F1"
+					"type": "xp"
+					"xp": 100
+				}
+				{
+					"id": "1C308B7E869ED335"
+					"type": "random"
+					"table_id": 4055748288478083086L
+				}
+				{
+					"id": "31607D1E1FE24669"
+					"type": "random"
+					"table_id": 4055748288478083086L
+				}
+				{
+					"id": "22AF92D031635927"
+					"type": "random"
+					"table_id": 4055748288478083086L
+				}
+				{
+					"id": "18071306568A26EA"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_50"
+						"count": 1
+					}
+				}
+			]
+		}
+		{
+			"id": "70E21DF1177F2B61"
+			"dependencies": [
+				"7F19373A1F5858BC"
+				"19D69A83BF60C0FF"
+			]
+			"icon": {
+				"id": "cccasino:snow_globe"
+			}
+			"x": 10.5d
+			"y": -2.0d
+			"shape": "gear"
+			"size": 1.5d
+			"tasks": [
+				{
+					"id": "6AF9E6DE1BB6B0E1"
+					"type": "item"
+					"item": {
+						"id": "cccasino:snow_globe"
+						"count": 1
+					}
+					"count": 1
+				}
+			]
+			"rewards": [
+				{
+					"id": "7E24CB88799FF14D"
+					"type": "xp"
+					"xp": 500
+				}
+				{
+					"id": "240DF2EAE0108620"
+					"type": "random"
+					"table_id": 4073629130927994432L
+				}
+				{
+					"id": "5CE454A16460F83F"
+					"type": "random"
+					"table_id": 4073629130927994432L
+				}
+				{
+					"id": "096604C8FF5CCA23"
+					"type": "random"
+					"table_id": 4073629130927994432L
+				}
+				{
+					"id": "6223D103526278AB"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_250"
+						"count": 1
+					}
+				}
+				{
+					"id": "06127458C5E637ED"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_100"
+						"count": 1
+					}
+				}
+				{
+					"id": "33F02BE658D90BBA"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_50"
+						"count": 1
+					}
+				}
+				{
+					"id": "4A1954435A3DD9B6"
+					"type": "command"
+					"command": "summon minecraft:firework_rocket ~ ~1 ~ {LifeTime:30,FireworksItem:{id:\"minecraft:firework_rocket\",count:1,components:{\"minecraft:fireworks\":{flight_duration:1b,explosions:[{shape:\"star\",has_twinkle:true,has_trail:true,colors:[I;11739178,2067514,15252771],fade_colors:[I;16777215]}]}}}}"
+					"permission_level": 2
+					"silent": true
+					"team_reward": false
+					"icon": {
+						"id": "minecraft:firework_rocket"
+					}
+				}
+			]
+		}
+		{
+			"id": "6E5B88DF0CAA50F1"
+			"dependencies": [
+				"50F37896395DFCB1"
+				"7503AC37CF41C36B"
+			]
+			"icon": {
+				"id": "cccasino:gift_wrapper"
+			}
+			"x": 2.5d
+			"y": 2.0d
+			"shape": "circle"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "61FC7AE55882633A"
+					"type": "item"
+					"item": {
+						"id": "cccasino:present_red"
+						"count": 1
+					}
+					"count": 1
+				}
+			]
+			"rewards": [
+				{
+					"id": "08CA3094EA868CBC"
+					"type": "xp"
+					"xp": 100
+				}
+				{
+					"id": "2C9B581C17B05157"
+					"type": "random"
+					"table_id": 8811780716223278392L
+				}
+				{
+					"id": "5DC7FDB23DD75A0B"
+					"type": "random"
+					"table_id": 8811780716223278392L
+				}
+				{
+					"id": "4AE4E73ADF24A78F"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_50"
+						"count": 1
+					}
+				}
+			]
+		}
+		{
+			"id": "755A24D22F84FF75"
+			"dependencies": [
+				"6E5B88DF0CAA50F1"
+				"497A914F8455C00B"
+			]
+			"icon": {
+				"id": "cccasino:ribbon_spool"
+			}
+			"x": 5.0d
+			"y": 2.0d
+			"shape": "circle"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "4F4DE54038E8FDE7"
+					"type": "item"
+					"item": {
+						"id": "cccasino:present_red_tagged"
+						"count": 1
+					}
+					"count": 1
+				}
+			]
+			"rewards": [
+				{
+					"id": "74DC42410F739E23"
+					"type": "xp"
+					"xp": 50
+				}
+				{
+					"id": "7DB58722E281E8DD"
+					"type": "random"
+					"table_id": 8811780716223278392L
+				}
+				{
+					"id": "2D654D844CA66068"
+					"type": "random"
+					"table_id": 8811780716223278392L
+				}
+				{
+					"id": "3E2641C48618ED2E"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_25"
+						"count": 1
+					}
+				}
+			]
+		}
+		{
+			"id": "072E0AC2B3CCAE09"
+			"dependencies": [
+				"755A24D22F84FF75"
+			]
+			"icon": {
+				"id": "cccasino:sack_hoist"
+			}
+			"x": 7.5d
+			"y": 2.0d
+			"shape": "hexagon"
+			"size": 1.25d
+			"tasks": [
+				{
+					"id": "15715867B1CE3EA3"
+					"type": "item"
+					"item": {
+						"id": "cccasino:sack_of_presents"
+						"count": 1
+					}
+					"count": 1
+				}
+			]
+			"rewards": [
+				{
+					"id": "3B4CD401D3853A68"
+					"type": "xp"
+					"xp": 250
+				}
+				{
+					"id": "6DCC8AB8DD1B8AE0"
+					"type": "random"
+					"table_id": 4055748288478083086L
+				}
+				{
+					"id": "4BC47B96C7950351"
+					"type": "random"
+					"table_id": 4055748288478083086L
+				}
+				{
+					"id": "1785E007CB28727C"
+					"type": "random"
+					"table_id": 4055748288478083086L
+				}
+				{
+					"id": "34E12FF368201036"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_100"
+						"count": 1
+					}
+				}
+				{
+					"id": "6C87C66ADF2C82B7"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_50"
+						"count": 1
+					}
+				}
+			]
+		}
+	]
+}

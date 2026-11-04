@@ -7,161 +7,23 @@
 		{
 			"id": "26672BD9D4AFAA84"
 			"item": {
-				"id": "minecraft:diamond"
+				"id": "minecraft:netherite_scrap"
 				"count": 1
 			}
-			"count": 6
-			"random_bonus": 6
-			"weight": 16.0d
+			"weight": 5.0d
+			"count": 2
+			"random_bonus": 2
 		}
 		{
 			"id": "2E9608DAC1AFB67B"
 			"item": {
-				"id": "minecraft:emerald_block"
-				"count": 1
-			}
-			"count": 2
-			"random_bonus": 2
-			"weight": 5.0d
-		}
-		{
-			"id": "5553FD5B5306E70A"
-			"item": {
-				"id": "minecraft:experience_bottle"
-				"count": 1
-			}
-			"count": 32
-			"random_bonus": 16
-			"weight": 8.0d
-		}
-		{
-			"id": "674B9144CBAFE7E5"
-			"item": {
-				"id": "create:experience_block"
-				"count": 1
-			}
-			"count": 2
-			"random_bonus": 2
-			"weight": 6.0d
-		}
-		{
-			"id": "6EEFE6E5D70283C8"
-			"item": {
-				"id": "minecraft:enchanted_book"
-				"count": 1
-				"components": {
-					"minecraft:stored_enchantments": {
-						"levels": {
-							"minecraft:mending": 1
-						}
-					}
-				}
-			}
-			"weight": 5.0d
-		}
-		{
-			"id": "1598FE80720D360F"
-			"item": {
-				"id": "minecraft:enchanted_book"
-				"count": 1
-				"components": {
-					"minecraft:stored_enchantments": {
-						"levels": {
-							"minecraft:efficiency": 5
-						}
-					}
-				}
-			}
-			"weight": 5.0d
-		}
-		{
-			"id": "67832114C671AE1E"
-			"item": {
-				"id": "minecraft:enchanted_book"
-				"count": 1
-				"components": {
-					"minecraft:stored_enchantments": {
-						"levels": {
-							"minecraft:unbreaking": 3
-						}
-					}
-				}
-			}
-			"weight": 5.0d
-		}
-		{
-			"id": "577D8AAB2AB69338"
-			"item": {
-				"id": "minecraft:enchanted_book"
-				"count": 1
-				"components": {
-					"minecraft:stored_enchantments": {
-						"levels": {
-							"minecraft:fortune": 3
-						}
-					}
-				}
-			}
-			"weight": 4.0d
-		}
-		{
-			"id": "5D561DCB2A3E0AB8"
-			"item": {
-				"id": "minecraft:enchanted_book"
-				"count": 1
-				"components": {
-					"minecraft:stored_enchantments": {
-						"levels": {
-							"minecraft:silk_touch": 1
-						}
-					}
-				}
-			}
-			"weight": 4.0d
-		}
-		{
-			"id": "0ED0CBE648C38E6F"
-			"item": {
-				"id": "minecraft:enchanted_book"
-				"count": 1
-				"components": {
-					"minecraft:stored_enchantments": {
-						"levels": {
-							"minecraft:feather_falling": 4
-						}
-					}
-				}
-			}
-			"weight": 5.0d
-		}
-		{
-			"id": "192A74D012083051"
-			"item": {
-				"id": "minecraft:totem_of_undying"
-				"count": 1
-			}
-			"weight": 4.0d
-		}
-		{
-			"id": "7EB6BD4D46ECF326"
-			"item": {
-				"id": "minecraft:enchanted_golden_apple"
+				"id": "minecraft:netherite_ingot"
 				"count": 1
 			}
 			"weight": 2.0d
 		}
 		{
-			"id": "225E7B5403343210"
-			"item": {
-				"id": "minecraft:netherite_scrap"
-				"count": 1
-			}
-			"count": 2
-			"random_bonus": 1
-			"weight": 4.0d
-		}
-		{
-			"id": "7FF29F29E5734807"
+			"id": "5553FD5B5306E70A"
 			"item": {
 				"id": "minecraft:netherite_upgrade_smithing_template"
 				"count": 1
@@ -169,58 +31,86 @@
 			"weight": 2.0d
 		}
 		{
-			"id": "24FE9AD232AB4654"
+			"id": "674B9144CBAFE7E5"
 			"item": {
-				"id": "minecraft:heart_of_the_sea"
+				"id": "minecraft:totem_of_undying"
+				"count": 1
+			}
+			"weight": 3.0d
+		}
+		{
+			"id": "6EEFE6E5D70283C8"
+			"item": {
+				"id": "minecraft:diamond"
+				"count": 1
+			}
+			"weight": 6.0d
+			"count": 8
+			"random_bonus": 8
+		}
+		{
+			"id": "1598FE80720D360F"
+			"item": {
+				"id": "minecraft:golden_apple"
+				"count": 1
+			}
+			"weight": 5.0d
+			"count": 4
+		}
+		{
+			"id": "67832114C671AE1E"
+			"item": {
+				"id": "minecraft:enchanted_golden_apple"
 				"count": 1
 			}
 			"weight": 2.0d
 		}
 		{
-			"id": "013D1DA5F590430F"
+			"id": "577D8AAB2AB69338"
+			"item": {
+				"id": "minecraft:elytra"
+				"count": 1
+				"components": {
+					"minecraft:custom_name": "{\"text\": \"Reindeer Wings\", \"italic\": false}"
+					"minecraft:lore": [
+						"{\"text\": \"For when the sleigh is full.\", \"color\": \"gray\"}"
+					]
+				}
+			}
+			"weight": 1.0d
+		}
+		{
+			"id": "5D561DCB2A3E0AB8"
 			"item": {
 				"id": "minecraft:experience_bottle"
-				"count": 8
+				"count": 1
 			}
-			"count": 2
-			"random_bonus": 2
 			"weight": 5.0d
-		}
-		{
-			"id": "10E7F0EBFA577EBC"
-			"item": {
-				"id": "snowyspirit:music_disc_a_carol"
-				"count": 1
-			}
-			"weight": 3.0d
-		}
-		{
-			"id": "31981ACA7467DCF1"
-			"item": {
-				"id": "minecraft:music_disc_far"
-				"count": 1
-			}
-			"weight": 3.0d
-		}
-		{
-			"id": "7E28AE42CF84A22A"
-			"item": {
-				"id": "minecraft:golden_carrot"
-				"count": 1
-			}
 			"count": 16
 			"random_bonus": 16
-			"weight": 6.0d
 		}
 		{
-			"id": "705B4B6BB2A413DF"
+			"id": "0ED0CBE648C38E6F"
 			"item": {
-				"id": "minecraft:ender_pearl"
+				"id": "cccasino:chip_100"
 				"count": 1
 			}
-			"count": 8
-			"random_bonus": 8
-			"weight": 6.0d
+			"weight": 5.0d
+			"random_bonus": 2
+		}
+		{
+			"id": "192A74D012083051"
+			"item": {
+				"id": "cccasino:chip_5000"
+				"count": 1
+				"components": {
+					"minecraft:custom_name": "{\"text\": \"Santa's Own Chip\", \"italic\": false}"
+					"minecraft:lore": [
+						"{\"text\": \"Five thousand. Do not tell the elves.\", \"color\": \"gray\"}"
+					]
+				}
+			}
+			"weight": 0.1d
 		}
 	]
 	"loot_crate": {
@@ -232,6 +122,14 @@
 			"passive": 0
 			"monster": 0
 			"boss": 0
+		}
+	}
+	"icon": {
+		"id": "ftbquests:lootcrate"
+		"count": 1
+		"components": {
+			"ftbquests:loot_crate": "santas_sack"
+			"minecraft:custom_model_data": 7704
 		}
 	}
 }

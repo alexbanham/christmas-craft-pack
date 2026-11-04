@@ -1,0 +1,168 @@
+{
+	"id": "7A49BBDFE5202D38"
+	"order_index": 1
+	"loot_size": 2
+	"use_title": true
+	"rewards": [
+		{
+			"id": "68D604E9E8D2BAB2"
+			"item": {
+				"id": "create:copper_casing"
+				"count": 1
+			}
+			"weight": 9.0d
+			"count": 4
+			"random_bonus": 4
+		}
+		{
+			"id": "2383B32F556BA853"
+			"item": {
+				"id": "create:large_cogwheel"
+				"count": 1
+			}
+			"weight": 7.0d
+			"count": 4
+			"random_bonus": 4
+		}
+		{
+			"id": "29279F37AFABBCD7"
+			"item": {
+				"id": "create:fluid_pipe"
+				"count": 1
+			}
+			"weight": 6.0d
+			"count": 8
+			"random_bonus": 8
+		}
+		{
+			"id": "680829099F7FD424"
+			"item": {
+				"id": "create:mechanical_pump"
+				"count": 1
+			}
+			"weight": 5.0d
+			"random_bonus": 1
+		}
+		{
+			"id": "790CF765C5A3AE5F"
+			"item": {
+				"id": "create:encased_fan"
+				"count": 1
+			}
+			"weight": 5.0d
+			"random_bonus": 1
+		}
+		{
+			"id": "2043DDFD81E320F7"
+			"item": {
+				"id": "create:gearbox"
+				"count": 1
+			}
+			"weight": 5.0d
+			"count": 2
+			"random_bonus": 2
+		}
+		{
+			"id": "4A4A675B8D0DC2F7"
+			"item": {
+				"id": "create:basin"
+				"count": 1
+			}
+			"weight": 4.0d
+			"random_bonus": 1
+		}
+		{
+			"id": "54954203EAE9DAB9"
+			"item": {
+				"id": "create:item_drain"
+				"count": 1
+			}
+			"weight": 4.0d
+		}
+		{
+			"id": "3CB9FC82DFA35379"
+			"item": {
+				"id": "minecraft:cocoa_beans"
+				"count": 1
+			}
+			"weight": 4.0d
+			"count": 6
+			"random_bonus": 6
+		}
+		{
+			"id": "56B34869157C788A"
+			"item": {
+				"id": "create:builders_tea"
+				"count": 1
+			}
+			"weight": 5.0d
+			"count": 2
+		}
+		{
+			"id": "46E145A4D6AB58F2"
+			"item": {
+				"id": "alpinewhispers:fairy_lights"
+				"count": 1
+			}
+			"weight": 4.0d
+			"count": 8
+		}
+		{
+			"id": "0D8BE43FB5791B26"
+			"item": {
+				"id": "cccasino:gift_chip"
+				"count": 1
+				"components": {
+					"minecraft:custom_name": "{\"text\": \"Gift Chip\", \"italic\": false}"
+					"minecraft:lore": [
+						"{\"text\": \"Plays the slot machines. Winnings are real chips.\", \"color\": \"gray\"}"
+					]
+				}
+			}
+			"weight": 8.0d
+			"count": 5
+			"random_bonus": 5
+		}
+		{
+			"id": "779530FAB2607B63"
+			"item": {
+				"id": "cccasino:chip_25"
+				"count": 1
+			}
+			"weight": 6.0d
+		}
+		{
+			"id": "4D807C78C025ABBB"
+			"item": {
+				"id": "cccasino:chip_250"
+				"count": 1
+				"components": {
+					"minecraft:custom_name": "{\"text\": \"Two-Fifty Under the Ribbon\", \"italic\": false}"
+					"minecraft:lore": [
+						"{\"text\": \"Someone up north likes you.\", \"color\": \"gray\"}"
+					]
+				}
+			}
+			"weight": 1.0d
+		}
+	]
+	"loot_crate": {
+		"string_id": "wrapped_gift"
+		"item_name": "Wrapped Gift"
+		"color": 2062906
+		"glow": false
+		"drops": {
+			"passive": 0
+			"monster": 0
+			"boss": 0
+		}
+	}
+	"icon": {
+		"id": "ftbquests:lootcrate"
+		"count": 1
+		"components": {
+			"ftbquests:loot_crate": "wrapped_gift"
+			"minecraft:custom_model_data": 7702
+		}
+	}
+}
