@@ -486,38 +486,38 @@
 	"quest.5BD417BE5DE016AD.title": "Deal for Your Friends"
 	"quest.5BD417BE5DE016AD.quest_subtitle": "The small blackjack table."
 	"quest.5BD417BE5DE016AD.quest_desc": [
-		"Lay padded rails, a printed blackjack layout, a chip tray and a loaded dealing shoe on a geared table base in your Mechanical Crafters. Set it on Create power, and your friends can play wherever the felt is laid."
+		"Make the pieces at the Workshop: a Dealer's Station, a Card Shoe and two Padded Rail Sections. Set them in their two-by-two frame and lay a printed blackjack layout on the felt: the table forms. Put the shoe on Create power, and your friends can play wherever the felt is laid."
 	]
 	"quest.09F4E97815BACFA7.title": "The House Table"
 	"quest.09F4E97815BACFA7.quest_subtitle": "Five seats and a dealer console."
 	"quest.09F4E97815BACFA7.quest_desc": [
-		"The medium table adds a dealer console: golden and brass sheets, a nixie read-out and a precision mechanism, built on a Mechanical Crafter grid of its own. This is the table the casino floor is built on."
+		"The medium table adds a Dealer's Apron with the dealer console in it: golden and brass sheets, a nixie read-out and a precision mechanism. Three rail sections across the front, the cloth laid last. This is the table the casino floor is built on."
 	]
 	"quest.07247796C5F51FB3.title": "High Stakes"
 	"quest.07247796C5F51FB3.quest_subtitle": "The large blackjack table."
 	"quest.07247796C5F51FB3.quest_desc": [
-		"Seven wide on the crafter array, with brass casings and a precision mechanism under the felt and two table bases beneath. It is the biggest blackjack table there is, for the biggest games of the season."
+		"Five wide and three deep: two Dealer's Aprons, four Felt Beds and seven Rail Sections round the station and the shoe. Lay the blackjack layout on the big frame: it is the biggest blackjack table there is, for the biggest games of the season."
 	]
 	"quest.0540CCBE9A343034.title": "Hold'em at Home"
 	"quest.0540CCBE9A343034.quest_subtitle": "A shuffler of your own."
 	"quest.0540CCBE9A343034.quest_desc": [
-		"The poker table needs a card shuffler, made on a sequenced-assembly line: a precision mechanism takes cogwheels, rubber rollers and an electron tube, twice round. Then the oval goes together on the crafters."
+		"The poker table needs a card shuffler, made on a sequenced-assembly line: a precision mechanism takes cogwheels, rubber rollers and an electron tube, twice round. The Workshop houses it in a Card Shuffler; ring the oval with rail sections and lay the poker layout."
 	]
 	"quest.58AF8CB9EC71E889.title": "Spin the Wheel"
 	"quest.58AF8CB9EC71E889.quest_subtitle": "Bowl, frets, ring and bearing."
 	"quest.58AF8CB9EC71E889.quest_desc": [
-		"Turn a dark-oak bowl on the Lathe and send it down a sequenced line: a Spout varnishes it, Deployers fit brass frets, a spun number ring and a mechanical bearing. The wheel then sets into the roulette table."
+		"Turn a dark-oak bowl on the Lathe and send it down a sequenced line: a Spout varnishes it, Deployers fit brass frets, a spun number ring and a mechanical bearing. The Workshop sets it in a Wheel Bowl; lay the roulette layout on its frame."
 	]
 	"quest.70B9DA851B83DADE.title": "Jingle Reels"
 	"quest.70B9DA851B83DADE.quest_subtitle": "Three reels and a sequenced stop."
 	"quest.70B9DA851B83DADE.quest_desc": [
-		"Spin iron drums on the Lathe and print their reels on the Press, then bank three of them on a shaft with a sequenced gearshift to stop them in turn. Add the cabinet art and a payout tray, and the reels can roll."
+		"Spin iron drums on the Lathe and print their reels on the Press, then bank three of them on a shaft with a sequenced gearshift to stop them in turn. The Workshop builds them into a Reel Drum Housing: stand it on a Cabinet Plinth and the reels can roll."
 	]
 	"reward.3951FF9A2E2C7F8D.title": "Fireworks!"
 	"quest.11C16135B26F8B1F.title": "Grand Opening"
 	"quest.11C16135B26F8B1F.quest_subtitle": "Every table, made by you."
 	"quest.11C16135B26F8B1F.quest_desc": [
-		"A poker table, a roulette table and a slot cabinet, each made from start to finish in your own Workshop and on your own crafters. Throw the doors open: the North Pole has a casino of its own making."
+		"A poker table, a roulette table and a slot cabinet, every piece made in your own Workshop and put together on your own floor. Throw the doors open: the North Pole has a casino of its own making."
 	]
 	"quest.26329079A83DBAA0.title": "Punto Banco"
 	"quest.26329079A83DBAA0.quest_subtitle": "Player, Banker or Tie."
@@ -569,22 +569,22 @@
 	"quest.233AAF32706D7F1B.title": "The Baccarat Table"
 	"quest.233AAF32706D7F1B.quest_subtitle": "Five seats, eight decks."
 	"quest.233AAF32706D7F1B.quest_desc": [
-		"Print a baccarat layout on the Workshop Press (felt, red and black ink, blue dye), and build it on the large half-moon body with a dealing shoe, two decks, a dealer console and two table bases. Power the shoe and seat a dealer."
+		"Print a baccarat layout on the Workshop Press (felt, red and black ink, blue dye) and lay it, with two decks for the eight-deck shoe, on a large blackjack frame of pieces: the cloth makes it baccarat. Power the shoe and seat a dealer."
 	]
 	"quest.4FF3E69EE26E2A8C.title": "A Cabinet of Your Own"
 	"quest.4FF3E69EE26E2A8C.quest_subtitle": "Five flaps on one axle."
 	"quest.4FF3E69EE26E2A8C.quest_desc": [
-		"Varnished card leaves, iron and a press ride a sequenced line round a precision mechanism five times to make the flap card bank. Set it in a cabinet with brass HOLD keys, cabinet art and a tray, and run a shaft into its back."
+		"Varnished card leaves, iron and a press ride a sequenced line round a precision mechanism five times to make the flap card bank. The Workshop builds it into a Split-Flap Screen: stand it on a Cabinet Plinth and run a shaft into the plinth's back."
 	]
 	"quest.794A08662876BB40.title": "Roll It Up"
 	"quest.794A08662876BB40.quest_subtitle": "Five drums and a bell."
 	"quest.794A08662876BB40.quest_desc": [
-		"Spin copper drums on the Workshop Lathe and print their digits on the Press, then set five of them in a meter with nixie tubes, a bell and precision mechanisms. Seat it on a bank of cabinets: every meter shows the same pot."
+		"Spin copper drums on the Workshop Lathe and print their digits on the Press. Two Counter Drum Banks either side of a Jackpot Bell Drive make the meter. Seat it on a bank of cabinets: every meter shows the same pot."
 	]
 	"quest.4E5304ECD7C6AE5F.title": "The Reindeer Derby"
 	"quest.4E5304ECD7C6AE5F.quest_subtitle": "Six runners and a tote."
 	"quest.4E5304ECD7C6AE5F.quest_desc": [
-		"Turn birch reindeer on the Lathe, blanket them in velvet on the Loom and number them on the Press. Six of them, a tote of six Create display boards, chain conveyors and precision mechanisms make the track. A shaft up into its front middle block runs the chains."
+		"Lay a Start Gate, eight Derby Track Segments and the Starter's Box with its tote of six Create display boards. Turn six birch reindeer on the Lathe, blanket them on the Loom, number them on the Press and lead them into the Start Gate. A shaft up into the Starter's Box runs the chains."
 	]
 	"reward.7DBB11749BED1860.title": "Fireworks!"
 	"quest.22F01DA66DD51A33.title": "The Full Floor"

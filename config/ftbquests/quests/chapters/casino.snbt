@@ -366,13 +366,10 @@
 			"size": 1.0d
 			"tasks": [
 				{
-					"id": "7AE8FD891BD4B3ED"
-					"type": "item"
-					"item": {
-						"id": "cccasino:blackjack_table_small"
-						"count": 1
-					}
-					"count": 1
+					"id": "7E348925DF945280"
+					"type": "advancement"
+					"advancement": "cccasino:multiblock/blackjack_table_small"
+					"criterion": ""
 				}
 			]
 			"rewards": [
@@ -428,13 +425,10 @@
 			"size": 1.0d
 			"tasks": [
 				{
-					"id": "5C25840064E91111"
-					"type": "item"
-					"item": {
-						"id": "cccasino:blackjack_table"
-						"count": 1
-					}
-					"count": 1
+					"id": "7BAEBA1F236A1C2C"
+					"type": "advancement"
+					"advancement": "cccasino:multiblock/blackjack_table"
+					"criterion": ""
 				}
 			]
 			"rewards": [
@@ -490,13 +484,10 @@
 			"size": 1.0d
 			"tasks": [
 				{
-					"id": "3662B42B066D18F0"
-					"type": "item"
-					"item": {
-						"id": "cccasino:blackjack_table_large"
-						"count": 1
-					}
-					"count": 1
+					"id": "4DD1A1DC61ECC551"
+					"type": "advancement"
+					"advancement": "cccasino:multiblock/blackjack_table_large"
+					"criterion": ""
 				}
 			]
 			"rewards": [
@@ -552,13 +543,10 @@
 			"size": 1.0d
 			"tasks": [
 				{
-					"id": "6F43AC2637EF0E66"
-					"type": "item"
-					"item": {
-						"id": "cccasino:poker_table"
-						"count": 1
-					}
-					"count": 1
+					"id": "6A0FA136D94DB8F4"
+					"type": "advancement"
+					"advancement": "cccasino:multiblock/poker_table"
+					"criterion": ""
 				}
 			]
 			"rewards": [
@@ -614,13 +602,10 @@
 			"size": 1.0d
 			"tasks": [
 				{
-					"id": "483D580434DEC94B"
-					"type": "item"
-					"item": {
-						"id": "cccasino:roulette_table"
-						"count": 1
-					}
-					"count": 1
+					"id": "180B698775FE4061"
+					"type": "advancement"
+					"advancement": "cccasino:multiblock/roulette_table"
+					"criterion": ""
 				}
 			]
 			"rewards": [
@@ -676,13 +661,10 @@
 			"size": 1.0d
 			"tasks": [
 				{
-					"id": "551DC471F2D3ACF4"
-					"type": "item"
-					"item": {
-						"id": "cccasino:slot_cabinet"
-						"count": 1
-					}
-					"count": 1
+					"id": "115AD816CD5FD31B"
+					"type": "advancement"
+					"advancement": "cccasino:multiblock/slot_cabinet"
+					"criterion": ""
 				}
 			]
 			"rewards": [
@@ -741,31 +723,22 @@
 			"size": 1.5d
 			"tasks": [
 				{
-					"id": "161CADAB683EDDA0"
-					"type": "item"
-					"item": {
-						"id": "cccasino:poker_table"
-						"count": 1
-					}
-					"count": 1
+					"id": "695DC7833DDFE49E"
+					"type": "advancement"
+					"advancement": "cccasino:multiblock/poker_table"
+					"criterion": ""
 				}
 				{
-					"id": "4170E01314B86654"
-					"type": "item"
-					"item": {
-						"id": "cccasino:roulette_table"
-						"count": 1
-					}
-					"count": 1
+					"id": "393F80E97E01428F"
+					"type": "advancement"
+					"advancement": "cccasino:multiblock/roulette_table"
+					"criterion": ""
 				}
 				{
-					"id": "77AC5B4514627639"
-					"type": "item"
-					"item": {
-						"id": "cccasino:slot_cabinet"
-						"count": 1
-					}
-					"count": 1
+					"id": "1A69BFE10D33FEEF"
+					"type": "advancement"
+					"advancement": "cccasino:multiblock/slot_cabinet"
+					"criterion": ""
 				}
 			]
 			"rewards": [
@@ -1359,13 +1332,10 @@
 			"size": 1.0d
 			"tasks": [
 				{
-					"id": "1FC97D5C971931B0"
-					"type": "item"
-					"item": {
-						"id": "cccasino:baccarat_table"
-						"count": 1
-					}
-					"count": 1
+					"id": "7090C2B62A2BCA7E"
+					"type": "advancement"
+					"advancement": "cccasino:multiblock/baccarat_table"
+					"criterion": ""
 				}
 			]
 			"rewards": [
@@ -1421,13 +1391,10 @@
 			"size": 1.0d
 			"tasks": [
 				{
-					"id": "0F12365D05830766"
-					"type": "item"
-					"item": {
-						"id": "cccasino:video_poker"
-						"count": 1
-					}
-					"count": 1
+					"id": "6EB8EEA4DB7F7C68"
+					"type": "advancement"
+					"advancement": "cccasino:multiblock/video_poker"
+					"criterion": ""
 				}
 			]
 			"rewards": [
@@ -1483,13 +1450,10 @@
 			"size": 1.0d
 			"tasks": [
 				{
-					"id": "694CDCB170A3DA21"
-					"type": "item"
-					"item": {
-						"id": "cccasino:jackpot_meter"
-						"count": 1
-					}
-					"count": 1
+					"id": "6ABCA0C96153187A"
+					"type": "advancement"
+					"advancement": "cccasino:multiblock/jackpot_meter"
+					"criterion": ""
 				}
 			]
 			"rewards": [
@@ -1545,13 +1509,10 @@
 			"size": 1.0d
 			"tasks": [
 				{
-					"id": "26B88CE75F61BDFC"
-					"type": "item"
-					"item": {
-						"id": "cccasino:reindeer_derby"
-						"count": 1
-					}
-					"count": 1
+					"id": "6A1890DF09A432AD"
+					"type": "advancement"
+					"advancement": "cccasino:multiblock/reindeer_derby"
+					"criterion": ""
 				}
 			]
 			"rewards": [
@@ -1610,31 +1571,22 @@
 			"size": 1.5d
 			"tasks": [
 				{
-					"id": "1A5FCD176C7B7FED"
-					"type": "item"
-					"item": {
-						"id": "cccasino:baccarat_table"
-						"count": 1
-					}
-					"count": 1
+					"id": "564439861E79ABAA"
+					"type": "advancement"
+					"advancement": "cccasino:multiblock/baccarat_table"
+					"criterion": ""
 				}
 				{
-					"id": "4F0C99A1DBF69B33"
-					"type": "item"
-					"item": {
-						"id": "cccasino:jackpot_meter"
-						"count": 1
-					}
-					"count": 1
+					"id": "42CA965565D1849D"
+					"type": "advancement"
+					"advancement": "cccasino:multiblock/jackpot_meter"
+					"criterion": ""
 				}
 				{
-					"id": "5E39D9F10CE80374"
-					"type": "item"
-					"item": {
-						"id": "cccasino:reindeer_derby"
-						"count": 1
-					}
-					"count": 1
+					"id": "710F84BE668EBE08"
+					"type": "advancement"
+					"advancement": "cccasino:multiblock/reindeer_derby"
+					"criterion": ""
 				}
 			]
 			"rewards": [
