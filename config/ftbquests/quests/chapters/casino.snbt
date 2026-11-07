@@ -352,9 +352,121 @@
 			]
 		}
 		{
-			"id": "5BD417BE5DE016AD"
+			"id": "39B0D878CD31828F"
 			"dependencies": [
 				"046BF9F97A37F92E"
+			]
+			"icon": {
+				"id": "cccasino:dealer_station"
+			}
+			"x": 7.5d
+			"y": -7.25d
+			"shape": "circle"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "11D772048CD1602F"
+					"type": "item"
+					"item": {
+						"id": "cccasino:dealer_station"
+						"count": 1
+					}
+					"count": 1
+				}
+				{
+					"id": "75C3CC40CD5FC73C"
+					"type": "item"
+					"item": {
+						"id": "cccasino:shoe_housing"
+						"count": 1
+					}
+					"count": 1
+				}
+				{
+					"id": "267D00A710522B3B"
+					"type": "item"
+					"item": {
+						"id": "cccasino:rail_section"
+						"count": 1
+					}
+					"count": 1
+				}
+			]
+			"rewards": [
+				{
+					"id": "43576E85BEAF21CC"
+					"type": "xp"
+					"xp": 100
+				}
+				{
+					"id": "42B788CB547F10E5"
+					"type": "random"
+					"table_id": 8811780716223278392L
+				}
+				{
+					"id": "1434F8E5E2DE593A"
+					"type": "random"
+					"table_id": 8811780716223278392L
+				}
+				{
+					"id": "1F3AFAD9C7491DE5"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_50"
+						"count": 1
+					}
+				}
+			]
+		}
+		{
+			"id": "53BA852B2FDB1B1A"
+			"dependencies": [
+				"39B0D878CD31828F"
+			]
+			"icon": {
+				"id": "cccasino:blackjack_layout"
+			}
+			"x": 10.0d
+			"y": -7.75d
+			"shape": "circle"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "1AD926128CE3C763"
+					"type": "checkmark"
+				}
+			]
+			"rewards": [
+				{
+					"id": "3EAC3F6EE6C6E67B"
+					"type": "xp"
+					"xp": 50
+				}
+				{
+					"id": "442A10C65B12E307"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+				{
+					"id": "314BB4C99EF8D27F"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+				{
+					"id": "77DE40D28137FED8"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_25"
+						"count": 1
+					}
+				}
+			]
+			"optional": true
+		}
+		{
+			"id": "5BD417BE5DE016AD"
+			"dependencies": [
+				"39B0D878CD31828F"
 				"367F247FAC4883D3"
 			]
 			"icon": {
