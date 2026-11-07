@@ -11,8 +11,8 @@
 	"images": [
 		{
 			"id": "05FD3531FEC81F93"
-			"x": 8.25d
-			"y": -1.85d
+			"x": 8.75d
+			"y": -13.35d
 			"width": 8.5d
 			"height": 1.7d
 			"rotation": 0.0d
@@ -29,8 +29,8 @@
 			"icon": {
 				"id": "cccasino:blackjack_table"
 			}
-			"x": 0.5d
-			"y": 8.5d
+			"x": 0.0d
+			"y": 3.0d
 			"shape": "circle"
 			"size": 1.0d
 			"tasks": [
@@ -103,8 +103,8 @@
 			"icon": {
 				"id": "cccasino:site_controller"
 			}
-			"x": 0.75d
-			"y": 2.0d
+			"x": 0.0d
+			"y": -7.0d
 			"shape": "gear"
 			"size": 1.5d
 			"tasks": [
@@ -162,8 +162,8 @@
 			"icon": {
 				"id": "cccasino:casino_felt"
 			}
-			"x": 3.25d
-			"y": 1.5d
+			"x": 2.5d
+			"y": -8.5d
 			"shape": "circle"
 			"size": 1.0d
 			"tasks": [
@@ -211,8 +211,8 @@
 			"icon": {
 				"id": "cccasino:deck_of_cards"
 			}
-			"x": 5.25d
-			"y": 3.5d
+			"x": 2.5d
+			"y": -6.0d
 			"shape": "circle"
 			"size": 1.0d
 			"tasks": [
@@ -260,8 +260,8 @@
 			"icon": {
 				"id": "cccasino:padded_rail"
 			}
-			"x": 5.25d
-			"y": 1.5d
+			"x": 5.0d
+			"y": -8.5d
 			"shape": "circle"
 			"size": 1.0d
 			"tasks": [
@@ -310,8 +310,8 @@
 			"icon": {
 				"id": "cccasino:chip_tray"
 			}
-			"x": 7.25d
-			"y": 1.5d
+			"x": 7.5d
+			"y": -8.5d
 			"shape": "circle"
 			"size": 1.0d
 			"tasks": [
@@ -360,8 +360,8 @@
 			"icon": {
 				"id": "cccasino:blackjack_table_small"
 			}
-			"x": 9.25d
-			"y": 3.5d
+			"x": 7.5d
+			"y": -6.0d
 			"shape": "circle"
 			"size": 1.0d
 			"tasks": [
@@ -422,8 +422,8 @@
 			"icon": {
 				"id": "cccasino:blackjack_table"
 			}
-			"x": 11.25d
-			"y": 4.0d
+			"x": 10.0d
+			"y": -6.0d
 			"shape": "circle"
 			"size": 1.0d
 			"tasks": [
@@ -484,8 +484,8 @@
 			"icon": {
 				"id": "cccasino:blackjack_table_large"
 			}
-			"x": 13.25d
-			"y": 6.0d
+			"x": 12.5d
+			"y": -4.75d
 			"shape": "circle"
 			"size": 1.0d
 			"tasks": [
@@ -546,8 +546,8 @@
 			"icon": {
 				"id": "cccasino:poker_table"
 			}
-			"x": 13.25d
-			"y": 2.0d
+			"x": 12.5d
+			"y": -7.25d
 			"shape": "circle"
 			"size": 1.0d
 			"tasks": [
@@ -608,8 +608,8 @@
 			"icon": {
 				"id": "cccasino:roulette_table"
 			}
-			"x": 13.25d
-			"y": 4.0d
+			"x": 12.5d
+			"y": -6.0d
 			"shape": "circle"
 			"size": 1.0d
 			"tasks": [
@@ -670,8 +670,8 @@
 			"icon": {
 				"id": "cccasino:slot_cabinet"
 			}
-			"x": 11.25d
-			"y": 0.5d
+			"x": 10.0d
+			"y": -9.75d
 			"shape": "circle"
 			"size": 1.0d
 			"tasks": [
@@ -735,8 +735,8 @@
 			"icon": {
 				"id": "cccasino:roulette_table"
 			}
-			"x": 15.75d
-			"y": 2.0d
+			"x": 15.0d
+			"y": -7.5d
 			"shape": "gear"
 			"size": 1.5d
 			"tasks": [
@@ -827,6 +827,875 @@
 			]
 		}
 		{
+			"id": "26329079A83DBAA0"
+			"dependencies": [
+				"17B3295222734544"
+			]
+			"icon": {
+				"id": "cccasino:baccarat_layout"
+			}
+			"x": 2.5d
+			"y": 1.0d
+			"shape": "circle"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "7843B9F07EE730A5"
+					"type": "advancement"
+					"advancement": "cccasino:tablegames/baccarat_played"
+					"criterion": ""
+				}
+			]
+			"rewards": [
+				{
+					"id": "1FFBE12B5CF3DB7B"
+					"type": "xp"
+					"xp": 100
+				}
+				{
+					"id": "1A7161B070286A90"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+				{
+					"id": "75E8EEAF80D3F1DA"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+				{
+					"id": "607BC2410AC38D35"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_50"
+						"count": 1
+					}
+				}
+			]
+		}
+		{
+			"id": "687565AB514EEF81"
+			"dependencies": [
+				"26329079A83DBAA0"
+			]
+			"icon": {
+				"id": "cccasino:deck_of_cards"
+			}
+			"x": 5.0d
+			"y": 0.25d
+			"shape": "circle"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "6F462215994B73ED"
+					"type": "advancement"
+					"advancement": "cccasino:tablegames/baccarat_natural"
+					"criterion": ""
+				}
+			]
+			"rewards": [
+				{
+					"id": "7CFE932D1685700B"
+					"type": "xp"
+					"xp": 100
+				}
+				{
+					"id": "2242A7ECA4A1B16F"
+					"type": "random"
+					"table_id": 8811780716223278392L
+				}
+				{
+					"id": "7AF4E4DD58B7BF72"
+					"type": "random"
+					"table_id": 8811780716223278392L
+				}
+				{
+					"id": "7B03661C396DD4E3"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_50"
+						"count": 1
+					}
+				}
+			]
+		}
+		{
+			"id": "67F72F29FA3BC607"
+			"dependencies": [
+				"26329079A83DBAA0"
+			]
+			"icon": {
+				"id": "cccasino:baccarat_layout"
+			}
+			"x": 5.0d
+			"y": 1.75d
+			"shape": "hexagon"
+			"size": 1.25d
+			"tasks": [
+				{
+					"id": "246AB03A106A303C"
+					"type": "advancement"
+					"advancement": "cccasino:tablegames/baccarat_side_bet"
+					"criterion": ""
+				}
+			]
+			"rewards": [
+				{
+					"id": "45AD0DCDDE4C9161"
+					"type": "xp"
+					"xp": 250
+				}
+				{
+					"id": "571DC780F30B7780"
+					"type": "random"
+					"table_id": 4055748288478083086L
+				}
+				{
+					"id": "62C676398CA3ACE0"
+					"type": "random"
+					"table_id": 4055748288478083086L
+				}
+				{
+					"id": "41956AFE83CBC5B6"
+					"type": "random"
+					"table_id": 4055748288478083086L
+				}
+				{
+					"id": "400449AAEF151DD0"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_100"
+						"count": 1
+					}
+				}
+				{
+					"id": "2AF56010C0366687"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_50"
+						"count": 1
+					}
+				}
+			]
+		}
+		{
+			"id": "45A920982B16572E"
+			"dependencies": [
+				"17B3295222734544"
+			]
+			"icon": {
+				"id": "cccasino:video_poker"
+			}
+			"x": 2.5d
+			"y": 3.0d
+			"shape": "circle"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "7E989797A365CB95"
+					"type": "advancement"
+					"advancement": "cccasino:tablegames/video_poker_won"
+					"criterion": ""
+				}
+			]
+			"rewards": [
+				{
+					"id": "5EADAEE532D7A7B5"
+					"type": "xp"
+					"xp": 100
+				}
+				{
+					"id": "7F2D28AE488E94E3"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+				{
+					"id": "5C2599EB943825F2"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+				{
+					"id": "3965ECBD99A2F1B3"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_50"
+						"count": 1
+					}
+				}
+			]
+		}
+		{
+			"id": "45F2F984A25678EA"
+			"dependencies": [
+				"45A920982B16572E"
+			]
+			"icon": {
+				"id": "cccasino:flap_card_bank"
+			}
+			"x": 5.0d
+			"y": 3.0d
+			"shape": "circle"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "33683A9ADB1B2D73"
+					"type": "advancement"
+					"advancement": "cccasino:tablegames/video_poker_quads"
+					"criterion": ""
+				}
+			]
+			"rewards": [
+				{
+					"id": "398AFC4EE0BCAB9F"
+					"type": "xp"
+					"xp": 250
+				}
+				{
+					"id": "32CA4479614B4305"
+					"type": "random"
+					"table_id": 4055748288478083086L
+				}
+				{
+					"id": "07951DCB9E89DA61"
+					"type": "random"
+					"table_id": 4055748288478083086L
+				}
+				{
+					"id": "0D8AF75D18A0C748"
+					"type": "random"
+					"table_id": 4055748288478083086L
+				}
+				{
+					"id": "49520E5390495A81"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_100"
+						"count": 1
+					}
+				}
+				{
+					"id": "2F78056FE3397BC6"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_50"
+						"count": 1
+					}
+				}
+			]
+		}
+		{
+			"id": "3D5AAD87F5A0BC70"
+			"dependencies": [
+				"45F2F984A25678EA"
+			]
+			"icon": {
+				"id": "cccasino:video_poker"
+			}
+			"x": 7.5d
+			"y": 3.0d
+			"shape": "gear"
+			"size": 1.5d
+			"tasks": [
+				{
+					"id": "3465A3A7B364D7CF"
+					"type": "advancement"
+					"advancement": "cccasino:tablegames/video_poker_royal"
+					"criterion": ""
+				}
+			]
+			"rewards": [
+				{
+					"id": "0BCDBB523D5D21E6"
+					"type": "xp"
+					"xp": 500
+				}
+				{
+					"id": "22A651121A2F2FD8"
+					"type": "random"
+					"table_id": 4073629130927994432L
+				}
+				{
+					"id": "2E0E1879778F8722"
+					"type": "random"
+					"table_id": 4073629130927994432L
+				}
+				{
+					"id": "2F7102AB8DA1E5FC"
+					"type": "random"
+					"table_id": 4073629130927994432L
+				}
+				{
+					"id": "6717134DC2F8C7BF"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_250"
+						"count": 1
+					}
+				}
+				{
+					"id": "382B4E8E31552007"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_100"
+						"count": 1
+					}
+				}
+				{
+					"id": "587CB751B74022DE"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_50"
+						"count": 1
+					}
+				}
+				{
+					"id": "3217CA0B1A1ED90E"
+					"type": "command"
+					"command": "summon minecraft:firework_rocket ~ ~1 ~ {LifeTime:30,FireworksItem:{id:\"minecraft:firework_rocket\",count:1,components:{\"minecraft:fireworks\":{flight_duration:1b,explosions:[{shape:\"star\",has_twinkle:true,has_trail:true,colors:[I;11739178,2067514,15252771],fade_colors:[I;16777215]}]}}}}"
+					"permission_level": 2
+					"silent": true
+					"team_reward": false
+					"icon": {
+						"id": "minecraft:firework_rocket"
+					}
+				}
+			]
+			"optional": true
+		}
+		{
+			"id": "1ABB42B4520AF9CC"
+			"dependencies": [
+				"45A920982B16572E"
+			]
+			"icon": {
+				"id": "cccasino:jackpot_meter"
+			}
+			"x": 5.0d
+			"y": 4.25d
+			"shape": "gear"
+			"size": 1.5d
+			"tasks": [
+				{
+					"id": "3812AEB5A6A45B58"
+					"type": "advancement"
+					"advancement": "cccasino:tablegames/north_pole_jackpot"
+					"criterion": ""
+				}
+			]
+			"rewards": [
+				{
+					"id": "416D2B2306B012F0"
+					"type": "xp"
+					"xp": 500
+				}
+				{
+					"id": "4DD25407B796624A"
+					"type": "random"
+					"table_id": 4073629130927994432L
+				}
+				{
+					"id": "7C133AD482F5A711"
+					"type": "random"
+					"table_id": 4073629130927994432L
+				}
+				{
+					"id": "23478B85E85AC150"
+					"type": "random"
+					"table_id": 4073629130927994432L
+				}
+				{
+					"id": "2560DC17B20B83B0"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_250"
+						"count": 1
+					}
+				}
+				{
+					"id": "791DFE178F1D0222"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_100"
+						"count": 1
+					}
+				}
+				{
+					"id": "15463D2A21A510C7"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_50"
+						"count": 1
+					}
+				}
+				{
+					"id": "70A4379119D5653F"
+					"type": "command"
+					"command": "summon minecraft:firework_rocket ~ ~1 ~ {LifeTime:30,FireworksItem:{id:\"minecraft:firework_rocket\",count:1,components:{\"minecraft:fireworks\":{flight_duration:1b,explosions:[{shape:\"star\",has_twinkle:true,has_trail:true,colors:[I;11739178,2067514,15252771],fade_colors:[I;16777215]}]}}}}"
+					"permission_level": 2
+					"silent": true
+					"team_reward": false
+					"icon": {
+						"id": "minecraft:firework_rocket"
+					}
+				}
+			]
+			"optional": true
+		}
+		{
+			"id": "65BCB7C6DA9DFD52"
+			"dependencies": [
+				"17B3295222734544"
+			]
+			"icon": {
+				"id": "cccasino:reindeer_derby"
+			}
+			"x": 2.5d
+			"y": 5.5d
+			"shape": "circle"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "04A125928A805168"
+					"type": "advancement"
+					"advancement": "cccasino:tablegames/derby_won"
+					"criterion": ""
+				}
+			]
+			"rewards": [
+				{
+					"id": "7FB3C6750F008966"
+					"type": "xp"
+					"xp": 100
+				}
+				{
+					"id": "704C08BE2ACEB649"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+				{
+					"id": "7677B4CBCB9DDA99"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+				{
+					"id": "7B8B280950F4CE95"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_50"
+						"count": 1
+					}
+				}
+			]
+		}
+		{
+			"id": "54C7CF4D81CE9164"
+			"dependencies": [
+				"65BCB7C6DA9DFD52"
+			]
+			"icon": {
+				"id": "cccasino:racing_reindeer"
+			}
+			"x": 5.0d
+			"y": 5.5d
+			"shape": "hexagon"
+			"size": 1.25d
+			"tasks": [
+				{
+					"id": "0E273865C5D0B497"
+					"type": "advancement"
+					"advancement": "cccasino:tablegames/derby_long_shot"
+					"criterion": ""
+				}
+			]
+			"rewards": [
+				{
+					"id": "7FD538CF834A358F"
+					"type": "xp"
+					"xp": 250
+				}
+				{
+					"id": "0F282E48D8F51745"
+					"type": "random"
+					"table_id": 4055748288478083086L
+				}
+				{
+					"id": "64B7ACC28C6C07AE"
+					"type": "random"
+					"table_id": 4055748288478083086L
+				}
+				{
+					"id": "2B31958AAD682CB2"
+					"type": "random"
+					"table_id": 4055748288478083086L
+				}
+				{
+					"id": "425D2AB5DE760C36"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_100"
+						"count": 1
+					}
+				}
+				{
+					"id": "53A0EBFF4820911E"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_50"
+						"count": 1
+					}
+				}
+			]
+		}
+		{
+			"id": "233AAF32706D7F1B"
+			"dependencies": [
+				"07247796C5F51FB3"
+			]
+			"icon": {
+				"id": "cccasino:baccarat_table"
+			}
+			"x": 15.0d
+			"y": -4.0d
+			"shape": "circle"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "1FC97D5C971931B0"
+					"type": "item"
+					"item": {
+						"id": "cccasino:baccarat_table"
+						"count": 1
+					}
+					"count": 1
+				}
+			]
+			"rewards": [
+				{
+					"id": "363234BC7BC35276"
+					"type": "xp"
+					"xp": 250
+				}
+				{
+					"id": "71128E4206FCBB12"
+					"type": "random"
+					"table_id": 4055748288478083086L
+				}
+				{
+					"id": "7E1C889A6A1D09C3"
+					"type": "random"
+					"table_id": 4055748288478083086L
+				}
+				{
+					"id": "111BD71F7F270070"
+					"type": "random"
+					"table_id": 4055748288478083086L
+				}
+				{
+					"id": "08A5617172ADA948"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_100"
+						"count": 1
+					}
+				}
+				{
+					"id": "4136D56EA460FA34"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_50"
+						"count": 1
+					}
+				}
+			]
+		}
+		{
+			"id": "4FF3E69EE26E2A8C"
+			"dependencies": [
+				"70B9DA851B83DADE"
+			]
+			"icon": {
+				"id": "cccasino:video_poker"
+			}
+			"x": 12.5d
+			"y": -11.0d
+			"shape": "circle"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "0F12365D05830766"
+					"type": "item"
+					"item": {
+						"id": "cccasino:video_poker"
+						"count": 1
+					}
+					"count": 1
+				}
+			]
+			"rewards": [
+				{
+					"id": "4F4EEC99BAF66287"
+					"type": "xp"
+					"xp": 250
+				}
+				{
+					"id": "368D632305F65F56"
+					"type": "random"
+					"table_id": 4055748288478083086L
+				}
+				{
+					"id": "2BBA8556833F7CD6"
+					"type": "random"
+					"table_id": 4055748288478083086L
+				}
+				{
+					"id": "13319326B521B7B2"
+					"type": "random"
+					"table_id": 4055748288478083086L
+				}
+				{
+					"id": "6A4E2EE550A51606"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_100"
+						"count": 1
+					}
+				}
+				{
+					"id": "521AF94D52A3E089"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_50"
+						"count": 1
+					}
+				}
+			]
+		}
+		{
+			"id": "794A08662876BB40"
+			"dependencies": [
+				"4FF3E69EE26E2A8C"
+			]
+			"icon": {
+				"id": "cccasino:jackpot_meter"
+			}
+			"x": 15.0d
+			"y": -11.0d
+			"shape": "circle"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "694CDCB170A3DA21"
+					"type": "item"
+					"item": {
+						"id": "cccasino:jackpot_meter"
+						"count": 1
+					}
+					"count": 1
+				}
+			]
+			"rewards": [
+				{
+					"id": "523424732C6A9890"
+					"type": "xp"
+					"xp": 250
+				}
+				{
+					"id": "00A21E8E5CD5BDD4"
+					"type": "random"
+					"table_id": 4055748288478083086L
+				}
+				{
+					"id": "4779BF5E421D978C"
+					"type": "random"
+					"table_id": 4055748288478083086L
+				}
+				{
+					"id": "60E0B075A0BF2233"
+					"type": "random"
+					"table_id": 4055748288478083086L
+				}
+				{
+					"id": "2C4EFD7F49890CD4"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_100"
+						"count": 1
+					}
+				}
+				{
+					"id": "3EB6E53772ACAD91"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_50"
+						"count": 1
+					}
+				}
+			]
+		}
+		{
+			"id": "4E5304ECD7C6AE5F"
+			"dependencies": [
+				"09F4E97815BACFA7"
+			]
+			"icon": {
+				"id": "cccasino:reindeer_derby"
+			}
+			"x": 15.0d
+			"y": -1.5d
+			"shape": "circle"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "26B88CE75F61BDFC"
+					"type": "item"
+					"item": {
+						"id": "cccasino:reindeer_derby"
+						"count": 1
+					}
+					"count": 1
+				}
+			]
+			"rewards": [
+				{
+					"id": "40EF101F9B59E0E9"
+					"type": "xp"
+					"xp": 250
+				}
+				{
+					"id": "078EB7939626F110"
+					"type": "random"
+					"table_id": 4055748288478083086L
+				}
+				{
+					"id": "77B8FB3410DBDCAC"
+					"type": "random"
+					"table_id": 4055748288478083086L
+				}
+				{
+					"id": "6334791CE25239E7"
+					"type": "random"
+					"table_id": 4055748288478083086L
+				}
+				{
+					"id": "325BB76EE933004A"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_100"
+						"count": 1
+					}
+				}
+				{
+					"id": "21C4194D05E7448F"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_50"
+						"count": 1
+					}
+				}
+			]
+		}
+		{
+			"id": "22F01DA66DD51A33"
+			"dependencies": [
+				"233AAF32706D7F1B"
+				"794A08662876BB40"
+				"4E5304ECD7C6AE5F"
+				"11C16135B26F8B1F"
+			]
+			"icon": {
+				"id": "cccasino:jackpot_meter"
+			}
+			"x": 17.5d
+			"y": -6.0d
+			"shape": "gear"
+			"size": 1.5d
+			"tasks": [
+				{
+					"id": "1A5FCD176C7B7FED"
+					"type": "item"
+					"item": {
+						"id": "cccasino:baccarat_table"
+						"count": 1
+					}
+					"count": 1
+				}
+				{
+					"id": "4F0C99A1DBF69B33"
+					"type": "item"
+					"item": {
+						"id": "cccasino:jackpot_meter"
+						"count": 1
+					}
+					"count": 1
+				}
+				{
+					"id": "5E39D9F10CE80374"
+					"type": "item"
+					"item": {
+						"id": "cccasino:reindeer_derby"
+						"count": 1
+					}
+					"count": 1
+				}
+			]
+			"rewards": [
+				{
+					"id": "0FA8FF93AB53672A"
+					"type": "xp"
+					"xp": 500
+				}
+				{
+					"id": "2C764C9F0297A529"
+					"type": "random"
+					"table_id": 4073629130927994432L
+				}
+				{
+					"id": "5487E2045CC53BC5"
+					"type": "random"
+					"table_id": 4073629130927994432L
+				}
+				{
+					"id": "5CBABE28A83A2199"
+					"type": "random"
+					"table_id": 4073629130927994432L
+				}
+				{
+					"id": "0EBC6755B89D4D74"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_250"
+						"count": 1
+					}
+				}
+				{
+					"id": "6417BAE8A3F6436B"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_100"
+						"count": 1
+					}
+				}
+				{
+					"id": "1F375A7D66C1595A"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_50"
+						"count": 1
+					}
+				}
+				{
+					"id": "7DBB11749BED1860"
+					"type": "command"
+					"command": "summon minecraft:firework_rocket ~ ~1 ~ {LifeTime:30,FireworksItem:{id:\"minecraft:firework_rocket\",count:1,components:{\"minecraft:fireworks\":{flight_duration:1b,explosions:[{shape:\"star\",has_twinkle:true,has_trail:true,colors:[I;11739178,2067514,15252771],fade_colors:[I;16777215]}]}}}}"
+					"permission_level": 2
+					"silent": true
+					"team_reward": false
+					"icon": {
+						"id": "minecraft:firework_rocket"
+					}
+				}
+			]
+		}
+		{
 			"id": "50C1DFAAE00DF7F8"
 			"dependencies": [
 				"0EFC2DA5F4BEF5FC"
@@ -834,8 +1703,8 @@
 			"icon": {
 				"id": "cccasino:chip_10000"
 			}
-			"x": 3.0d
-			"y": 9.0d
+			"x": 7.5d
+			"y": 0.5d
 			"shape": "gear"
 			"size": 1.5d
 			"tasks": [

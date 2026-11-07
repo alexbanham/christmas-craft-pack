@@ -98,7 +98,7 @@ hash = "437adf244e8f1c9c95df1b6e947bf10a30d2e3e2aa955f577bc9eddde6b0e284"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/casino.snbt"
-hash = "ab732d52afecd847cbc3afe4b11de39fc918509118b1f86321a671159baa2b6e"
+hash = "485cf58cf3d1e57f50cd1f347db5bb2017c0c292b19a6f59a239297c925765d1"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/create.snbt"
@@ -146,7 +146,7 @@ hash = "1968b1172f4184e36962ea8442accf213b5f8b69b998a18c8d4b045026441741"
 
 [[files]]
 file = "config/ftbquests/quests/lang/en_us.snbt"
-hash = "922fa933d8ffc895dc1ba1f2904b8459f846d39409b45100eb21a775a85d0991"
+hash = "ca57d0c771d2fcc915911b393791af2c8437ffde1ad4ae2c36e620410b7759eb"
 
 [[files]]
 file = "config/ftbquests/quests/reward_tables/advent.snbt"
@@ -1195,7 +1195,7 @@ metafile = true
 
 [[files]]
 file = "mods/cccasino.pw.toml"
-hash = "f80a30327647203a677a4c583ad7218e814810cc8730c1ff2351f952d4b71bc4"
+hash = "5e7172d00da1a480891421d5789c61b779fde68601f271b14ea9019ca2089907"
 metafile = true
 
 [[files]]

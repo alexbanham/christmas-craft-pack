@@ -351,6 +351,79 @@
 	"quest.11C16135B26F8B1F.quest_desc": [
 		"A poker table, a roulette table and a slot cabinet, each made from start to finish in your own Workshop and on your own crafters. Throw the doors open: the North Pole has a casino of its own making."
 	]
+	"quest.26329079A83DBAA0.title": "Punto Banco"
+	"quest.26329079A83DBAA0.quest_subtitle": "Player, Banker or Tie."
+	"quest.26329079A83DBAA0.quest_desc": [
+		"Sit at a baccarat table and put chips in your seat's boxes: PLAYER, BANKER or TIE. There is nothing to decide once the cards come out: the dealer draws by the tableau, closest to nine wins. The Banker wins a little more often, so a Banker win on a three-card 7 only pushes."
+	]
+	"quest.687565AB514EEF81.title": "A Natural"
+	"quest.687565AB514EEF81.quest_subtitle": "Eight or nine on two cards."
+	"quest.687565AB514EEF81.quest_desc": [
+		"Win a coup that was settled by a natural: an 8 or a 9 on the first two cards, where nobody draws. It is over before a third card can save anyone, and the whole table sees it land on the felt at once."
+	]
+	"quest.67F72F29FA3BC607.title": "Krampus and the Polar Bear"
+	"quest.67F72F29FA3BC607.quest_subtitle": "The side bets."
+	"quest.67F72F29FA3BC607.quest_desc": [
+		"The red 7 wins forty to one when the Banker wins on three cards to 7; the white 8 wins twenty-five to one when the Player wins on three cards to 8. Win either. They come up about once in forty coups."
+	]
+	"quest.45A920982B16572E.title": "Jacks or Better"
+	"quest.45A920982B16572E.quest_subtitle": "Hold, then draw."
+	"quest.45A920982B16572E.quest_desc": [
+		"Put up to five coins in a Video Poker cabinet, pull the lever, press the brass keys under the cards you keep and pull again. Win any paying hand. Five coins is the full return: the royal pays 800 a coin there."
+	]
+	"quest.45F2F984A25678EA.title": "Four of a Kind"
+	"quest.45F2F984A25678EA.quest_subtitle": "Twenty-five a coin."
+	"quest.45F2F984A25678EA.quest_desc": [
+		"Draw four of a kind (or better) at Video Poker. It comes about once in four hundred hands with good holds: keep every pair, never a kicker, and let the flaps riffle. Four of a kind pays twenty-five a coin."
+	]
+	"reward.3217CA0B1A1ED90E.title": "Fireworks!"
+	"quest.3D5AAD87F5A0BC70.title": "The Royal"
+	"quest.3D5AAD87F5A0BC70.quest_subtitle": "Ten to ace, one suit."
+	"quest.3D5AAD87F5A0BC70.quest_desc": [
+		"Draw a royal flush: ten, jack, queen, king and ace of one suit. About one hand in forty thousand, so it is a story people will hear about all season. At five coins it pays 4,000 of them."
+	]
+	"reward.70A4379119D5653F.title": "Fireworks!"
+	"quest.1ABB42B4520AF9CC.title": "The North Pole Jackpot"
+	"quest.1ABB42B4520AF9CC.quest_subtitle": "It must drop before 5,000."
+	"quest.1ABB42B4520AF9CC.quest_desc": [
+		"Every real chip staked on Jingle Reels or Video Poker puts two in a hundred into one pot for the whole server, and the meters roll it up. It must drop before 5,000, at a point sealed when it starts: be the spin or the hand that carries it there."
+	]
+	"quest.65BCB7C6DA9DFD52.title": "They're Off"
+	"quest.65BCB7C6DA9DFD52.quest_subtitle": "Back the right reindeer."
+	"quest.65BCB7C6DA9DFD52.quest_desc": [
+		"Put chips on a runner's roundel at the Reindeer Derby, then press START or wait for the gate. The odds are on the tote, the order is drawn at the gate, and the chains under the track carry it home. Win a race."
+	]
+	"quest.54C7CF4D81CE9164.title": "The Long Shot"
+	"quest.54C7CF4D81CE9164.quest_subtitle": "Twelve to one or longer."
+	"quest.54C7CF4D81CE9164.quest_desc": [
+		"Win backing a runner at 12-1 or longer. The long shots win less often than the favourites, but every bet on the card returns the same in the long run: the difference is the story."
+	]
+	"quest.233AAF32706D7F1B.title": "The Baccarat Table"
+	"quest.233AAF32706D7F1B.quest_subtitle": "Five seats, eight decks."
+	"quest.233AAF32706D7F1B.quest_desc": [
+		"Print a baccarat layout on the Workshop Press (felt, red and black ink, blue dye), and build it on the large half-moon body with a dealing shoe, two decks, a dealer console and two table bases. Power the shoe and seat a dealer."
+	]
+	"quest.4FF3E69EE26E2A8C.title": "A Cabinet of Your Own"
+	"quest.4FF3E69EE26E2A8C.quest_subtitle": "Five flaps on one axle."
+	"quest.4FF3E69EE26E2A8C.quest_desc": [
+		"Varnished card leaves, iron and a press ride a sequenced line round a precision mechanism five times to make the flap card bank. Set it in a cabinet with brass HOLD keys, cabinet art and a tray, and run a shaft into its back."
+	]
+	"quest.794A08662876BB40.title": "Roll It Up"
+	"quest.794A08662876BB40.quest_subtitle": "Five drums and a bell."
+	"quest.794A08662876BB40.quest_desc": [
+		"Spin copper drums on the Workshop Lathe and print their digits on the Press, then set five of them in a meter with nixie tubes, a bell and precision mechanisms. Seat it on a bank of cabinets: every meter shows the same pot."
+	]
+	"quest.4E5304ECD7C6AE5F.title": "The Reindeer Derby"
+	"quest.4E5304ECD7C6AE5F.quest_subtitle": "Six runners and a tote."
+	"quest.4E5304ECD7C6AE5F.quest_desc": [
+		"Turn birch reindeer on the Lathe, blanket them in velvet on the Loom and number them on the Press. Six of them, a tote of six Create display boards, chain conveyors and precision mechanisms make the track. A shaft up into its front middle block runs the chains."
+	]
+	"reward.7DBB11749BED1860.title": "Fireworks!"
+	"quest.22F01DA66DD51A33.title": "The Full Floor"
+	"quest.22F01DA66DD51A33.quest_subtitle": "Every game in the house."
+	"quest.22F01DA66DD51A33.quest_desc": [
+		"A baccarat table, a Video Poker cabinet under a jackpot meter, and the Reindeer Derby, all of your own making. The North Pole has a casino floor to rival anywhere."
+	]
 	"quest.50C1DFAAE00DF7F8.title": "High Roller"
 	"quest.50C1DFAAE00DF7F8.quest_subtitle": "Ten thousand. In one chip."
 	"quest.50C1DFAAE00DF7F8.quest_desc": [
