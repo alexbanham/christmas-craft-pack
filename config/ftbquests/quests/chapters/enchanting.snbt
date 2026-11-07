@@ -1,0 +1,386 @@
+{
+	"id": "1307FF7F66F8AE5E"
+	"filename": "enchanting"
+	"group": "6E6872417BE99080"
+	"order_index": 4
+	"icon": {
+		"id": "create_enchantment_industry:blaze_enchanter"
+	}
+	"default_hide_dependency_lines": false
+	"default_quest_size": 1.0d
+	"images": [
+		{
+			"id": "104879D503C93877"
+			"x": 5.25d
+			"y": -4.85d
+			"width": 11.32d
+			"height": 1.7d
+			"rotation": 0.0d
+			"image": "christmascraft:textures/gui/quest/banner_enchanting.png"
+			"order": -1
+		}
+	]
+	"quests": [
+		{
+			"id": "4DA03BF61E993584"
+			"dependencies": [
+				"135DBA54FAE60B84"
+			]
+			"icon": {
+				"id": "create:experience_nugget"
+			}
+			"x": 0.0d
+			"y": 0.0d
+			"shape": "circle"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "03C909EA899D8103"
+					"type": "advancement"
+					"advancement": "create_enchantment_industry:experienced_engineer"
+					"criterion": ""
+				}
+			]
+			"rewards": [
+				{
+					"id": "41A54E9418E8A360"
+					"type": "xp"
+					"xp": 50
+				}
+				{
+					"id": "1D5E77FE4F978171"
+					"type": "random"
+					"table_id": 8811780716223278392L
+				}
+				{
+					"id": "707D440E5E7F3317"
+					"type": "random"
+					"table_id": 8811780716223278392L
+				}
+				{
+					"id": "070175FC03E9746E"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_25"
+						"count": 1
+					}
+				}
+			]
+		}
+		{
+			"id": "2E8694C7301004DD"
+			"dependencies": [
+				"4DA03BF61E993584"
+			]
+			"icon": {
+				"id": "create_enchantment_industry:mechanical_grindstone"
+			}
+			"x": 3.5d
+			"y": 0.0d
+			"shape": "diamond"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "03EE477D25E4532D"
+					"type": "advancement"
+					"advancement": "create_enchantment_industry:gone_with_the_foil"
+					"criterion": ""
+				}
+			]
+			"rewards": [
+				{
+					"id": "7ABC25828191AD1B"
+					"type": "xp"
+					"xp": 100
+				}
+				{
+					"id": "7977E4AA0143F3E6"
+					"type": "random"
+					"table_id": 8811780716223278392L
+				}
+				{
+					"id": "1D804AD55976DC3E"
+					"type": "random"
+					"table_id": 8811780716223278392L
+				}
+				{
+					"id": "47C1D62C17F43A35"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_50"
+						"count": 1
+					}
+				}
+			]
+		}
+		{
+			"id": "13F782ECDCE5E8F0"
+			"dependencies": [
+				"2E8694C7301004DD"
+			]
+			"icon": {
+				"id": "create_enchantment_industry:experience_hatch"
+			}
+			"x": 7.0d
+			"y": 0.0d
+			"shape": "circle"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "1807673CDAA34B76"
+					"type": "advancement"
+					"advancement": "create_enchantment_industry:spirit_taking"
+					"criterion": ""
+				}
+			]
+			"rewards": [
+				{
+					"id": "21678DDD1D7E8557"
+					"type": "xp"
+					"xp": 50
+				}
+				{
+					"id": "6D3E6DDB9E21F488"
+					"type": "random"
+					"table_id": 8811780716223278392L
+				}
+				{
+					"id": "78D4B80D71DAE92D"
+					"type": "random"
+					"table_id": 8811780716223278392L
+				}
+				{
+					"id": "3134CE75FF01E114"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_25"
+						"count": 1
+					}
+				}
+			]
+		}
+		{
+			"id": "379B71B01E545234"
+			"dependencies": [
+				"2E8694C7301004DD"
+				"06F63AFDD1B0E263"
+			]
+			"icon": {
+				"id": "create_enchantment_industry:printer"
+			}
+			"x": 7.0d
+			"y": -2.5d
+			"shape": "circle"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "113E1CB45149E75C"
+					"type": "advancement"
+					"advancement": "create_enchantment_industry:copiable_mystery"
+					"criterion": ""
+				}
+			]
+			"rewards": [
+				{
+					"id": "341321A7A31EC0CB"
+					"type": "xp"
+					"xp": 100
+				}
+				{
+					"id": "4459AC7FDCAA9280"
+					"type": "random"
+					"table_id": 4055748288478083086L
+				}
+				{
+					"id": "54B03B47A6812979"
+					"type": "random"
+					"table_id": 4055748288478083086L
+				}
+				{
+					"id": "6F2DEECFCE2AAAFC"
+					"type": "random"
+					"table_id": 4055748288478083086L
+				}
+				{
+					"id": "76FF33BC48078B4B"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_50"
+						"count": 1
+					}
+				}
+			]
+		}
+		{
+			"id": "5DBB957D6A35DF8E"
+			"dependencies": [
+				"2E8694C7301004DD"
+				"0602DD406B2351E9"
+			]
+			"icon": {
+				"id": "create_enchantment_industry:blaze_enchanter"
+			}
+			"x": 7.0d
+			"y": 2.5d
+			"shape": "hexagon"
+			"size": 1.25d
+			"tasks": [
+				{
+					"id": "742D8597B4A1EC0C"
+					"type": "advancement"
+					"advancement": "create_enchantment_industry:blazing_enchantment"
+					"criterion": ""
+				}
+			]
+			"rewards": [
+				{
+					"id": "41242475FF8422DD"
+					"type": "xp"
+					"xp": 250
+				}
+				{
+					"id": "2CD2F91CE56BA4BA"
+					"type": "random"
+					"table_id": 4055748288478083086L
+				}
+				{
+					"id": "775B405850FF3DBA"
+					"type": "random"
+					"table_id": 4055748288478083086L
+				}
+				{
+					"id": "5FE5525FFFC517F4"
+					"type": "random"
+					"table_id": 4055748288478083086L
+				}
+				{
+					"id": "6C79C32133933B8F"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_100"
+						"count": 1
+					}
+				}
+				{
+					"id": "51960DE14F9F0F62"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_50"
+						"count": 1
+					}
+				}
+			]
+		}
+		{
+			"id": "2626F3D7FA0C4A58"
+			"dependencies": [
+				"5DBB957D6A35DF8E"
+			]
+			"icon": {
+				"id": "create_enchantment_industry:blaze_forger"
+			}
+			"x": 10.5d
+			"y": 1.5d
+			"shape": "circle"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "31501BE56DA22B6E"
+					"type": "advancement"
+					"advancement": "create_enchantment_industry:blazing_fusion"
+					"criterion": ""
+				}
+			]
+			"rewards": [
+				{
+					"id": "190BD9FB809BEA80"
+					"type": "xp"
+					"xp": 100
+				}
+				{
+					"id": "7EB853F1C290362D"
+					"type": "random"
+					"table_id": 4055748288478083086L
+				}
+				{
+					"id": "14A02758C92C1367"
+					"type": "random"
+					"table_id": 4055748288478083086L
+				}
+				{
+					"id": "66958084813AF826"
+					"type": "random"
+					"table_id": 4055748288478083086L
+				}
+				{
+					"id": "4FFA937FD3AC6C2C"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_50"
+						"count": 1
+					}
+				}
+			]
+		}
+		{
+			"id": "7D07BCD66230D2B9"
+			"dependencies": [
+				"5DBB957D6A35DF8E"
+				"19D69A83BF60C0FF"
+			]
+			"icon": {
+				"id": "create_enchantment_industry:super_experience_block"
+			}
+			"x": 10.5d
+			"y": 3.5d
+			"shape": "circle"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "7C99B273178D0DDD"
+					"type": "advancement"
+					"advancement": "create_enchantment_industry:lightning_catalysis"
+					"criterion": ""
+				}
+			]
+			"rewards": [
+				{
+					"id": "3C199F2D8DBE7A80"
+					"type": "xp"
+					"xp": 250
+				}
+				{
+					"id": "362334963057CE54"
+					"type": "random"
+					"table_id": 4055748288478083086L
+				}
+				{
+					"id": "660D1D5BDB0B566F"
+					"type": "random"
+					"table_id": 4055748288478083086L
+				}
+				{
+					"id": "702D18F272037616"
+					"type": "random"
+					"table_id": 4055748288478083086L
+				}
+				{
+					"id": "322021DCC34B854F"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_100"
+						"count": 1
+					}
+				}
+				{
+					"id": "6A2601AD5E61750C"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_50"
+						"count": 1
+					}
+				}
+			]
+		}
+	]
+}

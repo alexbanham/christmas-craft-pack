@@ -86,7 +86,7 @@ hash = "d5b8cb9e22b573850a5491e2ba05a825aa31f2b97392989c987c5ca44506b1d4"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/advent.snbt"
-hash = "a7f2e85bf1c4c3cff1b63046daeafd990d606cd01b7e8e63482d2e9d76cc086c"
+hash = "8223f28226752281306ee6796c8878ac9d5ce89de60308f1af32905febea86e2"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/brass.snbt"
@@ -94,39 +94,47 @@ hash = "437adf244e8f1c9c95df1b6e947bf10a30d2e3e2aa955f577bc9eddde6b0e284"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/casino.snbt"
-hash = "485cf58cf3d1e57f50cd1f347db5bb2017c0c292b19a6f59a239297c925765d1"
+hash = "ba548c8cfb55de12184e838f691410d5deadb53368827dd5eee5e4b7ccd95e92"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/create.snbt"
 hash = "e5e2ea7e1fdfd1ce814dccef77d45c021977683db91af45b8ba83db2793f9979"
 
 [[files]]
+file = "config/ftbquests/quests/chapters/enchanting.snbt"
+hash = "4da6eb6108026dc9ed6a6087bd2220e5ca22ced9cfb772104d3648668a5ff84f"
+
+[[files]]
 file = "config/ftbquests/quests/chapters/feast.snbt"
-hash = "d46c7fa09618689aec811e15dad92d27990e77497aaaf145cd1f22dddcc2a0f7"
+hash = "1ae6754a2ac95442fcccedfb4fd09baa0ad15cb376161f7fd3a5f683104c5957"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/food.snbt"
-hash = "8111c8b9c9fd8ca95f76f0ff7302339ab32d8f29752f0e066ac367661707d1cc"
+hash = "d6bac147e25cb30e5b4b8adba5f4df1b732a54cfcad948a597e69866793f46fe"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/guide.snbt"
-hash = "179aaae7f172f0cbff97c9157919eb1acfad3995a4370d16acdbbb8eb2a1d12e"
+hash = "929eb5ab64ee67b8c9e22e4505dd9f490313098a7da38ab4dfd3eb542e5a58ca"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/kitchen.snbt"
-hash = "54efb672ac44e3c133e628b877cff63b5b2f0d21d8aa5597b31667e4bbdfd3c9"
+hash = "bc53f92f0f0ed0868025bbf25f660783fa2a500cf997c855389624f56e3eec4f"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/living.snbt"
-hash = "5a0a5d29c6675cacec4a967355e83a6de185138716456967e02bbe7aec95fb20"
+hash = "a1f1b13367ff0e19a1b35814948c749f34a22d9933f5dc8508573212551931eb"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/quarry.snbt"
+hash = "cef096d27bfcf71dbe60074ecc200f36618a8c158118519d63a82c4602ac1313"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/skies.snbt"
-hash = "5de22d5c1f7d21721e9ddf2340b74047eca991c2c24bd4cdc885be3e402252f3"
+hash = "05b7059a6c1a75cb28c6ae417e17d9f931439969755f723900862264fd41b536"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/spirits.snbt"
-hash = "7378f510110abcc08da5d4138d4eef4b090ffad73654c369ab06e696764c1ba9"
+hash = "ef23c5acfb10e9ca65d380493e6fcb3522e649217b0f55642a11be6186c06ef4"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/welcome.snbt"
@@ -134,7 +142,7 @@ hash = "f1eb75bacb9800600ad8cdf2cd3131af67f3c13532a1eb442ccf96e7b0baffdc"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/workshop.snbt"
-hash = "fcf7fad718dffcf9747147abcc9705e8f3fef8f3bd2dd41b91a86ded2faf64c9"
+hash = "55a45f6a4189b5a27276d200a35fb9d703ae4e62ee83d8ca58240a8ce1d4b369"
 
 [[files]]
 file = "config/ftbquests/quests/data.snbt"
@@ -142,7 +150,7 @@ hash = "1968b1172f4184e36962ea8442accf213b5f8b69b998a18c8d4b045026441741"
 
 [[files]]
 file = "config/ftbquests/quests/lang/en_us.snbt"
-hash = "abc7c73189d445c1dfdd06d07f0ee14dbf8fe10806bfe2019963ffae8ea8bc7e"
+hash = "2d24a06ee72eb5e168d0213c9bfd600e506421a8a589ced0baacc2a679c2b1ed"
 
 [[files]]
 file = "config/ftbquests/quests/reward_tables/advent.snbt"
@@ -6337,7 +6345,7 @@ hash = "950ad3d03a474888c65afbe1e2c82d28cc71908164323ec5a21931faed6c4bc8"
 
 [[files]]
 file = "resourcepacks/Christmas Craft Quest Art/assets/christmascraft/textures/gui/quest/banner_advent.png"
-hash = "40308be98870bdfd533e9e7a52978b8f57c4918bd1f0ef59eb8ad23391dbec62"
+hash = "5f2def46fd314cf5ef1ad19d4b13004a89eacd9f5a2f6a7083bd14b4446c8186"
 
 [[files]]
 file = "resourcepacks/Christmas Craft Quest Art/assets/christmascraft/textures/gui/quest/banner_brass.png"
@@ -6345,39 +6353,47 @@ hash = "2179a99220ada0d87e8827883c5feabe8522d694211eeffb042a6034f3e04ffb"
 
 [[files]]
 file = "resourcepacks/Christmas Craft Quest Art/assets/christmascraft/textures/gui/quest/banner_casino.png"
-hash = "7c12ca14b2985ad3e20923b1bf69c5459bcff4ea54a7f696ebad6cb6e36a6efb"
+hash = "29ad9b9d9ca0a8d2283e112b88409208c7a95352ccabfc65fdb606b0dea1703d"
 
 [[files]]
 file = "resourcepacks/Christmas Craft Quest Art/assets/christmascraft/textures/gui/quest/banner_create.png"
 hash = "c0bbdf23692918f7f8715c223976264ce2c6b9a0a407d927bae26fc72dc81e03"
 
 [[files]]
+file = "resourcepacks/Christmas Craft Quest Art/assets/christmascraft/textures/gui/quest/banner_enchanting.png"
+hash = "1732048106d1f2163f75d447406b33838dbb088592b1ebaab9df7850ac250636"
+
+[[files]]
 file = "resourcepacks/Christmas Craft Quest Art/assets/christmascraft/textures/gui/quest/banner_feast.png"
-hash = "230cf6f3f7618f23150c3c77fc72f11c00dc1239cc2827cce0933a274fc4b2f0"
+hash = "fc9981242d2982a9bd971584ed3cc779d6dd1db34fe2ebf2fe58022b92a18ec1"
 
 [[files]]
 file = "resourcepacks/Christmas Craft Quest Art/assets/christmascraft/textures/gui/quest/banner_food.png"
-hash = "b9067c9c02ee6ba2e18b0046848bdafacd5e64e3d6e5c4226a8371eb526ccac4"
+hash = "34a49f74b3f5cb562670ec588b48668681a7b99a6cb02c381caeb82105340bf5"
 
 [[files]]
 file = "resourcepacks/Christmas Craft Quest Art/assets/christmascraft/textures/gui/quest/banner_guide.png"
-hash = "d3276ccc62031c3cb51c0955093e028e81f226bd1d4afecdec17a44b96e73cd1"
+hash = "7f54fd04bab4a63cf3c3e56af2447556543bb0851c9286d0ec7db78d75946b10"
 
 [[files]]
 file = "resourcepacks/Christmas Craft Quest Art/assets/christmascraft/textures/gui/quest/banner_kitchen.png"
-hash = "1c01ae04b851564ffaf488d0540f4d4af595b08f41b539052b767ec860a81320"
+hash = "db355290d589ca7ae10920977422a50ae1421552d776d886420827fbb40b63cc"
 
 [[files]]
 file = "resourcepacks/Christmas Craft Quest Art/assets/christmascraft/textures/gui/quest/banner_living.png"
-hash = "f7e58d2d62e7322b04586450e24ee441fb295fa6e1147d1d070aaebb68cfb298"
+hash = "2f1b2e3244af9af264f55faa0bccc46fce8f1d417d3c34b3abfaa9b0ca0ff15d"
+
+[[files]]
+file = "resourcepacks/Christmas Craft Quest Art/assets/christmascraft/textures/gui/quest/banner_quarry.png"
+hash = "b0d46984499be986ed743b45454ab4e8bce086dfb3b26db938a78632705b7a22"
 
 [[files]]
 file = "resourcepacks/Christmas Craft Quest Art/assets/christmascraft/textures/gui/quest/banner_skies.png"
-hash = "0420f36d9265fe11804c46df6931500a31d8026b8693f34df32848a5e7c9b944"
+hash = "dd767f251f94f3ae5f18e475aff1ecf62b124bec581df34eca0276ebcf9cd0b5"
 
 [[files]]
 file = "resourcepacks/Christmas Craft Quest Art/assets/christmascraft/textures/gui/quest/banner_spirits.png"
-hash = "337c3c0942a7d2d59aa0b724fe06ce940643ff9b9180e0134604f627623b9d5d"
+hash = "bd455a72d9b663be85349c396bda25dce8273bbbf011d9e03544c791a8f50b0e"
 
 [[files]]
 file = "resourcepacks/Christmas Craft Quest Art/assets/christmascraft/textures/gui/quest/banner_welcome.png"
@@ -6385,7 +6401,7 @@ hash = "319b8df9d93dcbfdf5c7d4a596dd14c03b422369a668101dbe00a44ddd3ac161"
 
 [[files]]
 file = "resourcepacks/Christmas Craft Quest Art/assets/christmascraft/textures/gui/quest/banner_workshop.png"
-hash = "1f9e576cac0cab03a7e43e77334b42b5694009928134393dd83b2dca41db74b4"
+hash = "afed9edb213d546df3f9cbb8b38543fda6feae33f070497cfd5ecbcd9b63c5e8"
 
 [[files]]
 file = "resourcepacks/Christmas Craft Quest Art/assets/christmascraft/textures/item/crate/advent.png"

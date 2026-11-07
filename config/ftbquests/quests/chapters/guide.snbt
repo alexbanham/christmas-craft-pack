@@ -2,7 +2,7 @@
 	"id": "07A864A645B84CC0"
 	"filename": "guide"
 	"group": "227D82CAA2C2C613"
-	"order_index": 12
+	"order_index": 14
 	"icon": {
 		"id": "minecraft:book"
 	}
@@ -106,48 +106,6 @@
 			"optional": true
 		}
 		{
-			"id": "3CEF2B31B22D4E4A"
-			"dependencies": [
-				"092D98FB67CF5295"
-			]
-			"icon": {
-				"id": "create:scorchia"
-			}
-			"x": 5.0d
-			"y": 0.0d
-			"shape": "circle"
-			"size": 1.0d
-			"tasks": [
-				{
-					"id": "26ACBF48C3796F26"
-					"type": "item"
-					"item": {
-						"id": "create:scorchia"
-						"count": 1
-					}
-					"count": 1
-				}
-			]
-			"rewards": [
-				{
-					"id": "49CC1C0F6714C3A9"
-					"type": "xp"
-					"xp": 100
-				}
-				{
-					"id": "1DE30FE29C801B48"
-					"type": "random"
-					"table_id": 3429631832040481656L
-				}
-				{
-					"id": "138EFE14D3A43638"
-					"type": "random"
-					"table_id": 3429631832040481656L
-				}
-			]
-			"optional": true
-		}
-		{
 			"id": "2A7E0185CF5DA58A"
 			"dependencies": [
 				"7D2EA14C7C7A57C2"
@@ -155,7 +113,7 @@
 			"icon": {
 				"id": "minecraft:blackstone"
 			}
-			"x": 7.5d
+			"x": 5.0d
 			"y": 0.0d
 			"shape": "circle"
 			"size": 1.0d
@@ -197,7 +155,7 @@
 			"icon": {
 				"id": "create:copper_backtank"
 			}
-			"x": 10.0d
+			"x": 7.5d
 			"y": 0.0d
 			"shape": "circle"
 			"size": 1.0d
@@ -249,8 +207,8 @@
 			"icon": {
 				"id": "create:potato_cannon"
 			}
-			"x": 0.0d
-			"y": 2.5d
+			"x": 10.0d
+			"y": 0.0d
 			"shape": "circle"
 			"size": 1.0d
 			"tasks": [
@@ -291,7 +249,7 @@
 			"icon": {
 				"id": "create:item_vault"
 			}
-			"x": 2.5d
+			"x": 0.0d
 			"y": 2.5d
 			"shape": "circle"
 			"size": 1.0d
@@ -333,7 +291,7 @@
 			"icon": {
 				"id": "create:rotation_speed_controller"
 			}
-			"x": 5.0d
+			"x": 2.5d
 			"y": 2.5d
 			"shape": "circle"
 			"size": 1.0d
@@ -376,7 +334,7 @@
 			"icon": {
 				"id": "create:elevator_pulley"
 			}
-			"x": 7.5d
+			"x": 5.0d
 			"y": 2.5d
 			"shape": "circle"
 			"size": 1.0d
@@ -419,7 +377,7 @@
 			"icon": {
 				"id": "create:extendo_grip"
 			}
-			"x": 10.0d
+			"x": 7.5d
 			"y": 2.5d
 			"shape": "circle"
 			"size": 1.0d
@@ -461,8 +419,8 @@
 			"icon": {
 				"id": "create_bic_bit:aged_cheese"
 			}
-			"x": 0.0d
-			"y": 5.0d
+			"x": 10.0d
+			"y": 2.5d
 			"shape": "circle"
 			"size": 1.0d
 			"tasks": [
@@ -503,7 +461,7 @@
 			"icon": {
 				"id": "create_bic_bit:mechanical_fryer"
 			}
-			"x": 2.5d
+			"x": 0.0d
 			"y": 5.0d
 			"shape": "circle"
 			"size": 1.0d
@@ -545,7 +503,7 @@
 			"icon": {
 				"id": "farmersrespite:green_tea"
 			}
-			"x": 5.0d
+			"x": 2.5d
 			"y": 5.0d
 			"shape": "circle"
 			"size": 1.0d

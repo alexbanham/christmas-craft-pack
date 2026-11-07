@@ -201,6 +201,174 @@
 	"quest.6AD25BF88D33507A.quest_desc": [
 		"Run a boiler at level 18. It needs 72 tank blocks (a 3 by 3 tank, 8 high), 180 mB of water a tick, and 18 heat: nine superheated burners, kept fed. Each level drives one engine at full, so hang 18 steam engines on it. That is power for a whole district."
 	]
+	"chapter.58F729BA1D46E8B3.title": "The Quarry"
+	"chapter.58F729BA1D46E8B3.chapter_subtitle": [
+		"Lava meets a fluid: stone, for ever."
+	]
+	"quest.43313C459681A4B6.title": "The Cobblestone Generator"
+	"quest.43313C459681A4B6.quest_subtitle": "Water, lava, a drill. Stone for ever."
+	"quest.43313C459681A4B6.quest_desc": [
+		"There is no machine in this pack that makes stone out of nothing. Stone comes from fluids: flowing lava that touches water cools into cobblestone, and the water is never used up. Put a drill on it and you have every cobblestone you will ever need."
+	]
+	"quest.5A8A7B1615173966.title": "Smooth from the Start"
+	"quest.5A8A7B1615173966.quest_subtitle": "Lava that falls onto water."
+	"quest.5A8A7B1615173966.quest_desc": [
+		"Lava that flows down onto water turns the water into stone, not cobblestone. Keep a water source topped up under a lava fall and drill the stone it leaves: no furnace needed for stone bricks."
+	]
+	"quest.52E91BA3D7734CCC.title": "Obsidian on Tap"
+	"quest.52E91BA3D7734CCC.quest_subtitle": "Water meets a lava source."
+	"quest.52E91BA3D7734CCC.quest_desc": [
+		"Water touching a lava source turns it to obsidian. A hose pulley in a lava lake refills the source after every block, so a drill and a pulley make obsidian without a bucket in sight."
+	]
+	"quest.6383F2F7A5F84E9A.title": "Basalt Columns"
+	"quest.6383F2F7A5F84E9A.quest_subtitle": "Soul soil below, blue ice beside."
+	"quest.6383F2F7A5F84E9A.quest_desc": [
+		"Lava that flows over soul soil next to blue ice becomes basalt. Bring back soul soil from one Nether trip; a fan blowing through soul fire makes more from dirt, and freezing packed ice makes blue ice."
+	]
+	"quest.67C656B10167A7AC.title": "Limestone"
+	"quest.67C656B10167A7AC.quest_subtitle": "Lava meets honey."
+	"quest.67C656B10167A7AC.quest_desc": [
+		"Flowing lava that touches honey cools into limestone, the oldest trick in Create. Melt honey blocks in a heated mixer or drain honey bottles in an item drain. Build it as a generator: the pool sits beside the spot, lava falls into the spot from a source two blocks up, and a drill faces it. Lava never reacts with fluid below it."
+	]
+	"quest.3230F577DF600307.title": "Scoria"
+	"quest.3230F577DF600307.quest_subtitle": "Lava meets chocolate."
+	"quest.3230F577DF600307.quest_desc": [
+		"Flowing lava that touches Create's chocolate cools into scoria. A heated mixer makes the chocolate from sugar, cocoa beans and milk. Eight scoria and a black dye make scorchia by hand, or see the next quest. Build it like the limestone generator."
+	]
+	"quest.7B29C1ACD97F510A.title": "Scorchia"
+	"quest.7B29C1ACD97F510A.quest_subtitle": "Lava meets dark chocolate."
+	"quest.7B29C1ACD97F510A.quest_desc": [
+		"Dark chocolate from Create Confectionery makes scorchia. Mix sugar, cocoa butter, two cocoa beans and milk over a blaze burner. Build it like the limestone generator."
+	]
+	"quest.3F53BA96877F4F28.title": "Diorite"
+	"quest.3F53BA96877F4F28.quest_subtitle": "Lava meets white chocolate."
+	"quest.3F53BA96877F4F28.quest_desc": [
+		"White chocolate makes diorite: sugar, cocoa butter and milk in a heated mixer. Crushing diorite gives a little quartz. Build it like the limestone generator."
+	]
+	"quest.2587A9EB4621C1B5.title": "Dripstone"
+	"quest.2587A9EB4621C1B5.quest_subtitle": "Lava meets caramel."
+	"quest.2587A9EB4621C1B5.quest_desc": [
+		"Caramel makes dripstone: two sugar and water in a heated mixer. Milling a dripstone block gives a ball of clay, so this is also the easy way to bricks and terracotta. Build it like the limestone generator."
+	]
+	"quest.54EEE72ADB58708F.title": "Granite"
+	"quest.54EEE72ADB58708F.quest_subtitle": "Lava meets ruby chocolate."
+	"quest.54EEE72ADB58708F.quest_desc": [
+		"Ruby chocolate makes granite, and ruby chocolate needs dragon's breath. Mix sugar, cocoa beans, milk and a bottle of breath over a blaze burner. Build it like the limestone generator."
+	]
+	"quest.190A62B3F5BC9A67.title": "Calcite"
+	"quest.190A62B3F5BC9A67.quest_subtitle": "Lava meets icing."
+	"quest.190A62B3F5BC9A67.quest_desc": [
+		"Icing from our kitchen makes calcite: two icing sugar and milk in a mixer. Aeronautics' levitite blend makes calcite too, if you have some spare. Crushing calcite gives bone meal. Build it like the limestone generator."
+	]
+	"quest.26DA756CCF0D9D33.title": "Crimsite"
+	"quest.26DA756CCF0D9D33.quest_subtitle": "Lava meets cranberry punch."
+	"quest.26DA756CCF0D9D33.quest_desc": [
+		"Cranberry punch makes crimsite: ice, sugar, cranberry jam and orange juice in a mixer. In this pack the ore stones are building stone, and crushing them gives gravel. Build it like the limestone generator."
+	]
+	"quest.2127C657611F1D19.title": "Ochrum"
+	"quest.2127C657611F1D19.quest_subtitle": "Lava meets eggnog."
+	"quest.2127C657611F1D19.quest_desc": [
+		"Our eggnog makes ochrum, Create's golden layered stone: two eggs, sugar and milk in a mixer. Crushing it gives gravel here, not gold: the ore stones are for building. Build it like the limestone generator."
+	]
+	"quest.2EA23C2DCFEE4A6E.title": "Veridium"
+	"quest.2EA23C2DCFEE4A6E.quest_subtitle": "Lava meets green tea."
+	"quest.2EA23C2DCFEE4A6E.quest_desc": [
+		"Green tea makes veridium, Create's green layered stone. Brew it in a Farmer's Respite kettle, or mix two green tea leaves and water over a blaze burner and pump the tea into a pool. Build it like the limestone generator."
+	]
+	"quest.16C1C12B70C09430.title": "Asurine"
+	"quest.16C1C12B70C09430.quest_subtitle": "Lava meets gambler's tea."
+	"quest.16C1C12B70C09430.quest_desc": [
+		"Gambler's tea makes asurine, Create's blue layered stone: coffee berries, glow berries and water, in a kettle or a heated mixer. Glow berries grow in lush caves. Build it like the limestone generator."
+	]
+	"quest.45E448D313F48A29.title": "Rhyolite"
+	"quest.45E448D313F48A29.quest_subtitle": "Lava meets rose hip tea."
+	"quest.45E448D313F48A29.quest_desc": [
+		"Rose hip tea makes Twigs' rhyolite, a warm red stone with its own bricks and tiles: two rose hips and water, in a kettle or a heated mixer. Build it like the limestone generator."
+	]
+	"quest.2987737183978F64.title": "Schist"
+	"quest.2987737183978F64.quest_subtitle": "Lava meets black tea."
+	"quest.2987737183978F64.quest_desc": [
+		"Black tea makes Twigs' schist, a grey banded stone with its own bricks and tiles: two black tea leaves and water, in a kettle or a heated mixer. Build it like the limestone generator."
+	]
+	"quest.76A87BCBEDEFB727.title": "Alpine Gneiss"
+	"quest.76A87BCBEDEFB727.quest_subtitle": "Lava meets curdled milk."
+	"quest.76A87BCBEDEFB727.quest_desc": [
+		"Bitterballen's curdled milk makes Alpine Whispers' gneiss: crushed nether wart and milk in a heated mixer. Otherwise gneiss is only found high in the mountains. Build it like the limestone generator."
+	]
+	"quest.6F9F3A74E02D6BC9.title": "Rubblestone"
+	"quest.6F9F3A74E02D6BC9.quest_subtitle": "Lava meets compost tea."
+	"quest.6F9F3A74E02D6BC9.quest_desc": [
+		"Ratatouille's compost tea makes Hearth & Timber's groutless rubblestone. The composter brews it from compost mass. Build it like the limestone generator."
+	]
+	"quest.3E572CAF47603709.title": "Bloodstone"
+	"quest.3E572CAF47603709.quest_subtitle": "Lava meets sweet berry jam."
+	"quest.3E572CAF47603709.quest_desc": [
+		"Create Factory's sweet berry jam makes Twigs' bloodstone. The jam needs a superheated mixer: two sugar and sweet berries over a blaze burner fed blaze cake. Build it like the limestone generator."
+	]
+	"quest.6E6EA369F0D8E659.title": "Prismarine"
+	"quest.6E6EA369F0D8E659.quest_subtitle": "Lava meets melon juice."
+	"quest.6E6EA369F0D8E659.quest_desc": [
+		"Ratatouille's melon juice makes prismarine: four melon slices and sugar in a mixer. Crushing prismarine gives its shards back, so prismarine bricks and dark prismarine come from the same generator. Build it like the limestone generator."
+	]
+	"quest.06102D3CB1467FE3.title": "Tuff"
+	"quest.06102D3CB1467FE3.quest_subtitle": "Lava meets crude oil."
+	"quest.06102D3CB1467FE3.quest_desc": [
+		"Crude oil makes tuff, and crude oil only comes from a Diesel Generators pumpjack on an oil deposit. Tuff crushes into a little of five metals, which is why it is the hard one. Build it like the limestone generator."
+	]
+	"quest.2E95380CC48CEC03.title": "Concrete Without the Water"
+	"quest.2E95380CC48CEC03.quest_subtitle": "Lava meets dye."
+	"quest.2E95380CC48CEC03.quest_desc": [
+		"Dragons Plus turns any dye into a dye fluid in a mixer with water, and lava that touches a dye fluid cools into concrete of that colour. All sixteen colours work; red is for Christmas. Build it like the limestone generator."
+	]
+	"quest.7F8B2280AF445E9A.title": "End Stone"
+	"quest.7F8B2280AF445E9A.quest_subtitle": "Lava meets dragon's breath."
+	"quest.7F8B2280AF445E9A.quest_desc": [
+		"Flowing lava that touches dragon's breath cools into end stone. Drain bottles of breath in an item drain to fill the pool; one trip to the End keeps the levitite and the purpur coming for good. Build it like the limestone generator."
+	]
+	"quest.2F844B3F1EEA6F89.title": "Crystallised Oil"
+	"quest.2F844B3F1EEA6F89.quest_subtitle": "Lava meets frying oil."
+	"quest.2F844B3F1EEA6F89.quest_desc": [
+		"Bitterballen's frying oil sets into crystallised oil where flowing lava touches it: crushed sunflower seeds and water in a heated mixer make the oil. Build it like the limestone generator."
+	]
+	"chapter.1307FF7F66F8AE5E.title": "The Enchanting Line"
+	"chapter.1307FF7F66F8AE5E.chapter_subtitle": [
+		"Experience by the bucket, enchantments by the press."
+	]
+	"quest.4DA03BF61E993584.title": "Experience You Can Hold"
+	"quest.4DA03BF61E993584.quest_subtitle": "Crushing wheels leave something behind."
+	"quest.4DA03BF61E993584.quest_desc": [
+		"Ore through crushing wheels often drops Nuggets of Experience, and Deployers that kill or mine collect them too. Nine make a Block of Experience. This is the raw material for everything in this chapter: start saving them now."
+	]
+	"quest.2E8694C7301004DD.title": "Liquid Experience"
+	"quest.2E8694C7301004DD.quest_subtitle": "Grind it down, pipe it around."
+	"quest.2E8694C7301004DD.quest_desc": [
+		"A Mechanical Grindstone grinds experience nuggets into liquid experience, 3 mB a nugget and 27 a block, and grinds the enchantments off old gear into the same fluid. Pump it into a tank. Watch one strip an enchanted item."
+	]
+	"quest.13F782ECDCE5E8F0.title": "Bank Your Levels"
+	"quest.13F782ECDCE5E8F0.quest_subtitle": "Experience, on deposit."
+	"quest.13F782ECDCE5E8F0.quest_desc": [
+		"Put a Block of Experience on a Dragons Plus fluid hatch to make an Experience Hatch. Click it to pour your own levels into a tank, and take them back later. No more losing thirty levels to a creeper."
+	]
+	"quest.379B71B01E545234.title": "The Printing Press"
+	"quest.379B71B01E545234.quest_subtitle": "One enchanted book, many copies."
+	"quest.379B71B01E545234.quest_desc": [
+		"A Printer (a spout on an iron block, under a brass sheet) copies an enchanted book with liquid experience and a blank book. It copies written books, names, banner patterns and package addresses too. Copy an enchanted book."
+	]
+	"quest.5DBB957D6A35DF8E.title": "The Blaze Enchanter"
+	"quest.5DBB957D6A35DF8E.quest_subtitle": "Blazes can do more than boil water."
+	"quest.5DBB957D6A35DF8E.quest_desc": [
+		"A smithing table upgrades a Blaze Burner with an enchanting table into a Blaze Enchanter. The blaze upgrade template comes from bastion and Nether fortress chests, then copies itself. Feed it liquid experience and enchant an item."
+	]
+	"quest.2626F3D7FA0C4A58.title": "The Blaze Forger"
+	"quest.2626F3D7FA0C4A58.quest_subtitle": "An anvil that never wears out."
+	"quest.2626F3D7FA0C4A58.quest_desc": [
+		"The same upgrade with an anvil makes a Blaze Forger. It merges two of the same item, strips or adds enchantments, and applies enchanting templates pressed from Blocks of Experience. Merge two items."
+	]
+	"quest.7D07BCD66230D2B9.title": "Super Experience"
+	"quest.7D07BCD66230D2B9.quest_subtitle": "Strike while the block is hot."
+	"quest.7D07BCD66230D2B9.quest_desc": [
+		"Lightning that strikes a Block of Experience turns it into Super Experience. A blaze enchanter fed blaze cake super-enchants with it, giving combinations no enchanting table allows. Bring a lightning rod to a thunderstorm."
+	]
 	"chapter.3FB53030CEF3907D.title": "Making a Living"
 	"chapter.3FB53030CEF3907D.chapter_subtitle": [
 		"Honest chips for honest work."
@@ -981,11 +1149,6 @@
 	"quest.35FB736AB6004EBB.quest_subtitle": "Let the machine do the harvest."
 	"quest.35FB736AB6004EBB.quest_desc": [
 		"A harvester on a moving contraption reaps ripe crops and leaves the plant to grow back. Sweep a row of wheat with one and your bakery will never run short of flour."
-	]
-	"quest.3CEF2B31B22D4E4A.title": "Sweet Stone"
-	"quest.3CEF2B31B22D4E4A.quest_subtitle": "Lava meets chocolate."
-	"quest.3CEF2B31B22D4E4A.quest_desc": [
-		"Lava that touches a pool of a kitchen fluid cools into stone, the way Create's honey makes limestone, and the pool is never used up. Dark chocolate makes scorchia, white chocolate diorite, icing calcite, eggnog ochrum and green tea veridium. Crude oil makes tuff."
 	]
 	"quest.2A7E0185CF5DA58A.title": "Soul Fire"
 	"quest.2A7E0185CF5DA58A.quest_subtitle": "One trip to the Nether, then never again."
