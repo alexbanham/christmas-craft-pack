@@ -742,7 +742,7 @@
 	"quest.072E0AC2B3CCAE09.title": "Santa's Sack Hoist"
 	"quest.072E0AC2B3CCAE09.quest_subtitle": "Thirty-two presents, one sealed sack."
 	"quest.072E0AC2B3CCAE09.quest_desc": [
-		"Feed presents to the Sack Hoist and give it an empty sack. Every present that drops in counts once toward the server's Toy Quota; at 32 the winch seals the sack and sets it down. Fill your first sack."
+		"Feed presents to the Sack Hoist and give it an empty sack. At 32 presents the winch seals the sack and sets it down. A sack counts toward the server's Toy Quota once it is delivered to Santa's Sleigh in the North Pole village, and the delivery is credited to whoever placed the hoist. Fill your first sack."
 	]
 	"quest.11CE1B69A84314E4.title": "Bottled Christmas Spirit"
 	"quest.11CE1B69A84314E4.quest_subtitle": "What rises from a full sack."
@@ -948,7 +948,7 @@
 	"quest.33FA66DBB7BAF932.title": "Door 22: Loading the Sleigh"
 	"quest.33FA66DBB7BAF932.quest_subtitle": "Opens on 22 December."
 	"quest.33FA66DBB7BAF932.quest_desc": [
-		"Santa's sleigh is being loaded, and every present wrapped counts toward the toy quota. The elves check the count twice a day now, and so does Santa. Door twenty-two is for the loaders."
+		"Santa's sleigh is being loaded, and every sack delivered to it counts toward the toy quota. The elves check the count twice a day now, and so does Santa. Door twenty-two is for the loaders."
 	]
 	"task.75C8D060369C4899.title": "Open on 23 December"
 	"quest.7ED1D431533DF59B.title": "Door 23: The Night Before the Night Before"
