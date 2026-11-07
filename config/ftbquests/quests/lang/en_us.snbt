@@ -671,6 +671,16 @@
 	"quest.072E0AC2B3CCAE09.quest_desc": [
 		"Feed presents to the Sack Hoist and give it an empty sack. Every present that drops in counts once toward the server's Toy Quota; at 32 the winch seals the sack and sets it down. Fill your first sack."
 	]
+	"quest.11CE1B69A84314E4.title": "Bottled Christmas Spirit"
+	"quest.11CE1B69A84314E4.quest_subtitle": "What rises from a full sack."
+	"quest.11CE1B69A84314E4.quest_desc": [
+		"Each sealed sack gives off Spirit Wisps. Mix a wisp with eggnog and glowstone dust in a heated basin and the Spirit is bottled. The Yuletide Forge runs on it, so every sack you fill also fuels your own gear."
+	]
+	"quest.37DFA7AC580C4A8C.title": "The Yuletide Forge"
+	"quest.37DFA7AC580C4A8C.quest_subtitle": "Armour fit for the season."
+	"quest.37DFA7AC580C4A8C.quest_desc": [
+		"Build the Yuletide Forge and cast your first piece of the Yuletide set: the crucible, hammer and quench on one drive, with Bottled Spirit in every job. Start with the helmet; there are nine pieces in three colourways."
+	]
 	"chapter.4F4482EF7FA6359B.title": "Free the Spirits"
 	"chapter.4F4482EF7FA6359B.chapter_subtitle": [
 		"Eight villains. Eight spirits. Coming soon."

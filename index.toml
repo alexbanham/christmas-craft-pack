@@ -138,7 +138,7 @@ hash = "f1eb75bacb9800600ad8cdf2cd3131af67f3c13532a1eb442ccf96e7b0baffdc"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/workshop.snbt"
-hash = "fb1b6fc56d206610aca80f23423247637935d841375ee6cffd59782db2cb853d"
+hash = "fcf7fad718dffcf9747147abcc9705e8f3fef8f3bd2dd41b91a86ded2faf64c9"
 
 [[files]]
 file = "config/ftbquests/quests/data.snbt"
@@ -146,7 +146,7 @@ hash = "1968b1172f4184e36962ea8442accf213b5f8b69b998a18c8d4b045026441741"
 
 [[files]]
 file = "config/ftbquests/quests/lang/en_us.snbt"
-hash = "4506b08fd8238ab508c8842e200c89ad93772305465badea79240267d4f32ae5"
+hash = "922fa933d8ffc895dc1ba1f2904b8459f846d39409b45100eb21a775a85d0991"
 
 [[files]]
 file = "config/ftbquests/quests/reward_tables/advent.snbt"
