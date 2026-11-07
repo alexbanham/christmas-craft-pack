@@ -53,10 +53,6 @@ file = "config/create_enchantment_industry-server.toml"
 hash = "2eb998443ccc10f9adccaf5fd5b8b42e7a828176862de76fa3a99e01229d13af"
 
 [[files]]
-file = "config/create_hypertube-server.toml"
-hash = "f050b43daa7a9dd2b5e6271aac0715f5076399ff70acd5619480b97dbf66e5e6"
-
-[[files]]
 file = "config/create_integrated_farming-server.toml"
 hash = "4633e073bfc114f24e9a2db43720a1c92478246462ae9b3861f5c0bc0ce2791b"
 
@@ -1689,11 +1685,6 @@ metafile = true
 [[files]]
 file = "mods/hearth-and-harvest.pw.toml"
 hash = "97344bc7bf1a1fc945bfce66e66b0cb8f3325f70c2d3f4e5488e4a1a400cb54e"
-metafile = true
-
-[[files]]
-file = "mods/hypertube.pw.toml"
-hash = "672fe2518a1795814efc943c3e3cf8dc1b993bc7d838cc62950acfaba348c2c7"
 metafile = true
 
 [[files]]
