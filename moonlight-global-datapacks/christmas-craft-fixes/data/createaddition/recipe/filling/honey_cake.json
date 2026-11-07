@@ -1,18 +1,10 @@
 {
-  "type": "create:filling",
-  "ingredients": [
+  "neoforge:conditions": [
     {
-      "item": "ratatouille:cake_base"
-    },
-    {
-      "type": "neoforge:tag",
-      "amount": 500,
-      "tag": "c:honey"
+      "type": "neoforge:false"
     }
   ],
-  "results": [
-    {
-      "id": "createaddition:honey_cake"
-    }
-  ]
+  "type": "create:filling",
+  "ingredients": [],
+  "results": []
 }
