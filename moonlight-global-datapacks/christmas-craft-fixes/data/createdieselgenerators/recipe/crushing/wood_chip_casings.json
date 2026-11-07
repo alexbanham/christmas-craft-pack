@@ -1,14 +1,9 @@
 {
-  "neoforge:conditions": [
-    {
-      "type": "neoforge:false"
-    }
-  ],
   "type": "create:crushing",
   "ingredients": [
     [
       {
-        "tag": "create:casing"
+        "item": "create:andesite_casing"
       },
       {
         "item": "create:linear_chassis"

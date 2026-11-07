@@ -12,7 +12,7 @@
 	entityWhitelist = ["minecraft:player", "minecraft:villager", "minecraft:wandering_trader", "create:package"]
 	#Entities that CANNOT travel (used in BLACKLIST and TAG_WITH_BLACKLIST modes).
 	#Use entity registry names like 'minecraft:creeper' or 'minecraft:wither'
-	entityBlacklist = ["minecraft:wither", "minecraft:ender_dragon", "minecraft:zombie", "minecraft:husk", "minecraft:drowned", "minecraft:zombie_villager", "minecraft:skeleton", "minecraft:stray", "minecraft:bogged", "minecraft:wither_skeleton", "minecraft:creeper", "minecraft:spider", "minecraft:cave_spider", "minecraft:enderman", "minecraft:endermite", "minecraft:silverfish", "minecraft:witch", "minecraft:slime", "minecraft:magma_cube", "minecraft:phantom", "minecraft:blaze", "minecraft:ghast", "minecraft:breeze", "minecraft:guardian", "minecraft:elder_guardian", "minecraft:shulker", "minecraft:vex", "minecraft:pillager", "minecraft:vindicator", "minecraft:evoker", "minecraft:illusioner", "minecraft:ravager", "minecraft:piglin_brute", "minecraft:hoglin", "minecraft:zoglin", "minecraft:zombified_piglin", "minecraft:warden"]
+	entityBlacklist = ["minecraft:wither", "minecraft:ender_dragon"]
 	#Multiplier for the speed of the tubes. Default is 1.0, which is normal speed. (THIS IS HIGHLY EXPERIMENTAL)
 	# Default: 1.0
 	# Range: 0.5 ~ 99.0

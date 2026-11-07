@@ -23,7 +23,7 @@
 	deployerCollectXp = true
 	#.
 	#Whether the Mending enchantment applies to Deployer-held items (Needs deployerCollectXp = true).
-	deployerMendItem = false
+	deployerMendItem = true
 	#.
 	#Whether Deployers can perform sweep attacks.
 	deployerSweepAttack = true

@@ -10,7 +10,7 @@ beeSpeed = 6
 beeRotationSpeed = 45
 #.
 #If true, the Robo Bee will be able to deliver packages from one port to another. Default: true
-portToPort = false
+portToPort = true
 #.
 #The maximum distance a Robo Bee can travel. Default: -1 (unlimited)
 # Default: -1

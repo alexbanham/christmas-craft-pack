@@ -1,9 +1,4 @@
 {
-  "neoforge:conditions": [
-    {
-      "type": "neoforge:false"
-    }
-  ],
   "type": "create:compacting",
   "ingredients": [
     {
@@ -26,7 +21,7 @@
     },
     {
       "type": "neoforge:tag",
-      "amount": 81000,
+      "amount": 1000,
       "tag": "c:milk"
     }
   ],

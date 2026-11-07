@@ -1,12 +1,7 @@
 {
-  "neoforge:conditions": [
-    {
-      "type": "neoforge:false"
-    }
-  ],
   "type": "farmersrespite:brewing",
   "base": {
-    "count": 1000,
+    "count": 250,
     "fluid": "minecraft:water"
   },
   "cookingtime": 300,
@@ -20,7 +15,7 @@
     }
   ],
   "result": {
-    "count": 1000,
+    "count": 250,
     "fluid": "farmersrespite:melon_juice"
   }
 }

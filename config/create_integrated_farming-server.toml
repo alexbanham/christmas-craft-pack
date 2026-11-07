@@ -42,7 +42,7 @@
 	#.
 	#If Fishing Net should capture small creature and automatically process them.
 	#"Process" means captured entity will be discard and all drops will be collected.
-	fishingNetCaptureCreatureInWater = false
+	fishingNetCaptureCreatureInWater = true
 	#.
 	#The maximum size (width and height) of creatures that can be caught by the Fishing Net.
 	# Default: 0.699999988079071

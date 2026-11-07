@@ -50,19 +50,19 @@ hash = "b25cd9f3666ab8d5f1440bfd79f4df3862bbae82467c17c6c6ecd9827f484a4b"
 
 [[files]]
 file = "config/create_enchantment_industry-server.toml"
-hash = "5a728b2d37bc90bec9d64034f4fa90fcc16bf390d6ee340525faab71bd5d9ee2"
+hash = "2eb998443ccc10f9adccaf5fd5b8b42e7a828176862de76fa3a99e01229d13af"
 
 [[files]]
 file = "config/create_hypertube-server.toml"
-hash = "33abf4e728ed1220b0ab2392ac8ad46ecf8b66429ad41c2111517a03062002ac"
+hash = "f050b43daa7a9dd2b5e6271aac0715f5076399ff70acd5619480b97dbf66e5e6"
 
 [[files]]
 file = "config/create_integrated_farming-server.toml"
-hash = "5cf24334e4b8a7f342bcdf2ee06aa086a98edf6683e6fe866f51f980a5d29ded"
+hash = "4633e073bfc114f24e9a2db43720a1c92478246462ae9b3861f5c0bc0ce2791b"
 
 [[files]]
 file = "config/create_mobile_packages-server.toml"
-hash = "ff05a2f391ef7e20d7e35f4eb1922bfe33b5afee0e52f5b51e4658d361ca3732"
+hash = "9d742133008fd378bd186d5b3e50abf00dba9cbc203b899d4bc4f9dd5a74ce0a"
 
 [[files]]
 file = "config/createmetalogistics-server.toml"
@@ -198,7 +198,11 @@ hash = "a419a4cf35c265812ad8afc3dfc94609f5d86ff85f032d034f13968f21c5ec3c"
 
 [[files]]
 file = "defaultconfigs/createdieselgenerators-server.toml"
-hash = "62cf417c50db5af74470e6a0b55f5389002ca136aaa582ed70302bd48e49e823"
+hash = "c9719b926bc38d15053544214255488d0c598738c14e7e770cf0ccc96eb4df26"
+
+[[files]]
+file = "kubejs/assets/alpinewhispers/lang/en_us.json"
+hash = "8348fd1d562e29e5a715337d5424d96aee11ecb6a31c70dcf42980e2db210e84"
 
 [[files]]
 file = "kubejs/assets/christmascraft/blockstates/bottle_of_cranberry_punch.json"
@@ -961,6 +965,10 @@ file = "kubejs/assets/displaydelight/textures/block/bowl.png"
 hash = "871325b36f9995b710aef4a16a5f2e05f71140e4c52eedb44f98e3f1abf05102"
 
 [[files]]
+file = "kubejs/assets/dustydecorations/lang/en_us.json"
+hash = "4a2b49b3874586626f8e6b67f36d09e0ff13af001308e6eed29d65346abca80a"
+
+[[files]]
 file = "kubejs/assets/extra_gauges/lang/en_us.json"
 hash = "e6d59a25a8dce6b72a37dfcab726d2611a1e08ae56ab696acc2aa61a911f727c"
 
@@ -990,7 +998,7 @@ hash = "2d3225735ef1e3f5df8970f234144c6c8c8f81a7e584557f7050d336d0a82dad"
 
 [[files]]
 file = "kubejs/client_scripts/xmas-decor.js"
-hash = "08d511244bfd51d17708c30b218c8504fad053b14fb444e7674c21793d786f5b"
+hash = "f6c0b8955e3d81e7108e03507dad5af70d8467f86a281f036fb4996471f1f933"
 
 [[files]]
 file = "kubejs/data/christmascraft/loot_table/blocks/bottle_of_cranberry_punch.json"
@@ -2144,22 +2152,6 @@ hash = "e839608ebc974e9e7819adc7bf29132ea86fc41b46af540fe0fa39b2007b2439"
 metafile = true
 
 [[files]]
-file = "moonlight-global-datapacks/christmas-craft-fixes/data/alpinewhispers/recipe/candle_wreath.json"
-hash = "847d6b77931978a5235e0da7e6bec0d76448c91dcfa199160fb48d4868a03524"
-
-[[files]]
-file = "moonlight-global-datapacks/christmas-craft-fixes/data/alpinewhispers/recipe/fairy_lights.json"
-hash = "171541fa13918923edd8222beb8e759533d2d0bc049a726c46a40da64785c61a"
-
-[[files]]
-file = "moonlight-global-datapacks/christmas-craft-fixes/data/alpinewhispers/recipe/garland.json"
-hash = "2f55d717f8d4bac8c2fe024bb02155a3a56ddfcfccf0ca0e1ac73cafda876b9b"
-
-[[files]]
-file = "moonlight-global-datapacks/christmas-craft-fixes/data/alpinewhispers/recipe/wall_wreath.json"
-hash = "ea100978f96f37eac951dc322a2f9a7438d20fda868b27c349983d1b3b4f67b5"
-
-[[files]]
 file = "moonlight-global-datapacks/christmas-craft-fixes/data/c/tags/fluid/apple_cider.json"
 hash = "1746fdaf99ee3089623469fcfbc97d3a1a14ccbb980dd7eef96dc4469a88b054"
 
@@ -2313,7 +2305,7 @@ hash = "a666a6b7cf3b03efd5cb5e1468d7f7b7831ad5e82a74cd9afe67177196a4ee5d"
 
 [[files]]
 file = "moonlight-global-datapacks/christmas-craft-fixes/data/c/tags/item/hidden_from_recipe_viewers.json"
-hash = "86e37d8487f716027c6edee6ba9d50361eabd91b58725a16d7d54f6825034fda"
+hash = "a3a4ef45baefec2437f918d316bdc948e9b6efde486a549b24d4d5b3f6fde841"
 
 [[files]]
 file = "moonlight-global-datapacks/christmas-craft-fixes/data/c/tags/item/juices/orange_juice.json"
@@ -3249,7 +3241,7 @@ hash = "a8a17ff2a904a86989f19ef0b0ec5e487c27a582deb48fa3a6b6b24a9a8a66bd"
 
 [[files]]
 file = "moonlight-global-datapacks/christmas-craft-fixes/data/createaddition/recipe/filling/honey_cake.json"
-hash = "c7d4c34fe41a91e079ad87e3c16dd01d41af29eee84195bcd4df4a71e87970bf"
+hash = "a2b89b357209d89dddf6073a55c6e4ff56bf0efd690679636696f1dd480c640a"
 
 [[files]]
 file = "moonlight-global-datapacks/christmas-craft-fixes/data/createaddition/recipe/pressing/zinc_ingot.json"
@@ -3289,19 +3281,11 @@ hash = "3243151aa4af801e285dc30410de0621ea264ecebe741cf1669624ee4e3a34c4"
 
 [[files]]
 file = "moonlight-global-datapacks/christmas-craft-fixes/data/createdieselgenerators/recipe/crushing/wood_chip_casings.json"
-hash = "665d5872dd93f6108c67a56a094826ba46118fe38c35a5ae4f1a09abc18daa1f"
-
-[[files]]
-file = "moonlight-global-datapacks/christmas-craft-fixes/data/createpropulsion/recipe/cutting/copycat_wing.json"
-hash = "f84ffe73c9e5b3c63ae716f0d32906e9e40d613dd8e4cc756d914e4db9fc5666"
-
-[[files]]
-file = "moonlight-global-datapacks/christmas-craft-fixes/data/createpropulsion/recipe/stonecutting/copycat_wing_from_zinc.json"
-hash = "f84ffe73c9e5b3c63ae716f0d32906e9e40d613dd8e4cc756d914e4db9fc5666"
+hash = "8630b7bc83fae1a4dc3039c0d0e40d78b5791dfb9357b623debe6aa9092fc66d"
 
 [[files]]
 file = "moonlight-global-datapacks/christmas-craft-fixes/data/delightfulcreators/recipe/compacting/cake.json"
-hash = "473c2dba20ea43874feb8e8da3f03abe7bb4b6fb611e88db09e7bf80960d2474"
+hash = "b621303f0098c61613fdd7278f9898353c6d95fe25c69a708fabd485c05ef366"
 
 [[files]]
 file = "moonlight-global-datapacks/christmas-craft-fixes/data/delightfulcreators/recipe/emptying/apple_cider.json"
@@ -4352,16 +4336,12 @@ file = "moonlight-global-datapacks/christmas-craft-fixes/data/dustydecorations/r
 hash = "f84ffe73c9e5b3c63ae716f0d32906e9e40d613dd8e4cc756d914e4db9fc5666"
 
 [[files]]
-file = "moonlight-global-datapacks/christmas-craft-fixes/data/dustydecorations/recipe/fairy_lights.json"
-hash = "78740b3b40d7de023cde14124d10a1baada91bc9b826f9e38b79f4bbd80a5e16"
-
-[[files]]
 file = "moonlight-global-datapacks/christmas-craft-fixes/data/farmersrespite/recipe/brewing/apple_cider.json"
-hash = "78d627754c146e66160578b507318063acd622f7d7c3c2b3f302c4bbfa57adea"
+hash = "0b94a326d16cc83410ef59c1e798ca07658a42c9960f5ec244790724edf67909"
 
 [[files]]
 file = "moonlight-global-datapacks/christmas-craft-fixes/data/farmersrespite/recipe/brewing/melon_juice.json"
-hash = "53dea97e10db364c0e2c16abdc8fb0eb109f6645e4f91cfdb56a6fcbe7ee57b6"
+hash = "ede928a23e7c852be0d966ef75c2a83d5be6bb8eac079c7764b826ae5eb2c01e"
 
 [[files]]
 file = "moonlight-global-datapacks/christmas-craft-fixes/data/hearthandharvest/recipe/butter.json"
@@ -4462,10 +4442,6 @@ hash = "12b71008f903c42fa6c5fd9df5ce2e4f627ea12f8b71ccbba7f5bf21b4eb0fbf"
 [[files]]
 file = "moonlight-global-datapacks/christmas-craft-fixes/data/hearthandharvest/recipe/stomping/red_grape_juice.json"
 hash = "bd210fd6c532f3b5f1af1dc625887250d3c4be8996a11749b1cef628520b21cb"
-
-[[files]]
-file = "moonlight-global-datapacks/christmas-craft-fixes/data/lagless_adq/recipe/affordable_docking_connector.json"
-hash = "25cb2cc9b01ef0dfc427b9695e018cf9e32f40b592d6dad8ec2843dc96bfa28b"
 
 [[files]]
 file = "moonlight-global-datapacks/christmas-craft-fixes/data/minecraft/recipe/red_dye.json"

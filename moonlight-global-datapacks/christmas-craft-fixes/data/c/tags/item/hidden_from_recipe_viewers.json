@@ -2,35 +2,7 @@
   "replace": false,
   "values": [
     {
-      "id": "alpinewhispers:fairy_lights",
-      "required": false
-    },
-    {
-      "id": "alpinewhispers:garland",
-      "required": false
-    },
-    {
-      "id": "alpinewhispers:candle_wreath",
-      "required": false
-    },
-    {
-      "id": "alpinewhispers:wall_wreath",
-      "required": false
-    },
-    {
       "id": "create_parachute:air_block",
-      "required": false
-    },
-    {
-      "id": "createpropulsion:copycat_wing",
-      "required": false
-    },
-    {
-      "id": "createpropulsion:copycat_wing_8",
-      "required": false
-    },
-    {
-      "id": "createpropulsion:copycat_wing_12",
       "required": false
     },
     {
