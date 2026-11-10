@@ -2,7 +2,7 @@
 	"id": "07A864A645B84CC0"
 	"filename": "guide"
 	"group": "227D82CAA2C2C613"
-	"order_index": 14
+	"order_index": 15
 	"icon": {
 		"id": "minecraft:book"
 	}
@@ -454,48 +454,6 @@
 			"optional": true
 		}
 		{
-			"id": "293938781A468D28"
-			"dependencies": [
-				"47E3C75BB8E7B4C4"
-			]
-			"icon": {
-				"id": "create_bic_bit:mechanical_fryer"
-			}
-			"x": 0.0d
-			"y": 5.0d
-			"shape": "circle"
-			"size": 1.0d
-			"tasks": [
-				{
-					"id": "2BF88021129CF318"
-					"type": "item"
-					"item": {
-						"id": "create_bic_bit:mechanical_fryer"
-						"count": 1
-					}
-					"count": 1
-				}
-			]
-			"rewards": [
-				{
-					"id": "0BA0107C61C28AAF"
-					"type": "xp"
-					"xp": 100
-				}
-				{
-					"id": "48CFBAB9A3360BC7"
-					"type": "random"
-					"table_id": 3429631832040481656L
-				}
-				{
-					"id": "420F1571E2D6B0CC"
-					"type": "random"
-					"table_id": 3429631832040481656L
-				}
-			]
-			"optional": true
-		}
-		{
 			"id": "038921FFDFD25064"
 			"dependencies": [
 				"06F63AFDD1B0E263"
@@ -503,7 +461,7 @@
 			"icon": {
 				"id": "farmersrespite:green_tea"
 			}
-			"x": 2.5d
+			"x": 0.0d
 			"y": 5.0d
 			"shape": "circle"
 			"size": 1.0d
@@ -531,6 +489,48 @@
 				}
 				{
 					"id": "5517B7DC9165FCE0"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+			]
+			"optional": true
+		}
+		{
+			"id": "3351CA8AC3970DC2"
+			"dependencies": [
+				"7BEE285CCC7460D7"
+			]
+			"icon": {
+				"id": "cccasino:casino_casing"
+			}
+			"x": 2.5d
+			"y": 5.0d
+			"shape": "circle"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "60B0FF22C48A0584"
+					"type": "item"
+					"item": {
+						"id": "cccasino:casino_casing"
+						"count": 1
+					}
+					"count": 1
+				}
+			]
+			"rewards": [
+				{
+					"id": "3B32907A36C70D94"
+					"type": "xp"
+					"xp": 100
+				}
+				{
+					"id": "406573EFF8B97ADC"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+				{
+					"id": "5FFC6B3D3337EE28"
 					"type": "random"
 					"table_id": 3429631832040481656L
 				}

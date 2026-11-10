@@ -11,8 +11,8 @@
 	"images": [
 		{
 			"id": "5CC97906F479B0FF"
-			"x": 4.75d
-			"y": -1.85d
+			"x": 10.0d
+			"y": -6.975d
 			"width": 9.62d
 			"height": 1.7d
 			"rotation": 0.0d
@@ -29,8 +29,8 @@
 			"icon": {
 				"id": "create:track"
 			}
-			"x": 0.5d
-			"y": 6.0d
+			"x": 0.0d
+			"y": -4.0d
 			"shape": "circle"
 			"size": 1.0d
 			"tasks": [
@@ -41,7 +41,7 @@
 						"id": "create:track"
 						"count": 1
 					}
-					"count": 8
+					"count": 64
 				}
 			]
 			"rewards": [
@@ -61,6 +61,11 @@
 					"table_id": 8811780716223278392L
 				}
 				{
+					"id": "614E1A0097BDF51F"
+					"type": "random"
+					"table_id": 8811780716223278392L
+				}
+				{
 					"id": "387E60BB6B0ACD6E"
 					"type": "item"
 					"item": {
@@ -68,61 +73,138 @@
 						"count": 1
 					}
 				}
+				{
+					"id": "02D98F1E774A4EF3"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_25"
+						"count": 1
+					}
+				}
+				{
+					"id": "521A2A3F4817D477"
+					"type": "item"
+					"item": {
+						"id": "create:powdered_obsidian"
+						"count": 1
+					}
+					"count": 4
+				}
+			]
+		}
+		{
+			"id": "5E16FB8B30A23365"
+			"dependencies": [
+				"2AEA10F9FB69206E"
+				"6A8FA7415B3D1311"
+				"06F63AFDD1B0E263"
+			]
+			"icon": {
+				"id": "create:railway_casing"
+			}
+			"x": 0.0d
+			"y": -1.5d
+			"shape": "circle"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "32AF803CCDA09DAD"
+					"type": "advancement"
+					"advancement": "create:train_casing_00"
+					"criterion": ""
+				}
+			]
+			"rewards": [
+				{
+					"id": "5A3D3413EC462B15"
+					"type": "xp"
+					"xp": 100
+				}
+				{
+					"id": "4DD8A81B01F67478"
+					"type": "random"
+					"table_id": 8811780716223278392L
+				}
+				{
+					"id": "4D3B0048BB234E3B"
+					"type": "random"
+					"table_id": 8811780716223278392L
+				}
+				{
+					"id": "4C8B22CBCB759D1F"
+					"type": "random"
+					"table_id": 8811780716223278392L
+				}
+				{
+					"id": "70FCC8A943752769"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_50"
+						"count": 1
+					}
+				}
+				{
+					"id": "4B302CED4783CFE8"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_25"
+						"count": 1
+					}
+				}
+				{
+					"id": "6CCC8B944001F4FB"
+					"type": "item"
+					"item": {
+						"id": "minecraft:compass"
+						"count": 1
+					}
+					"count": 2
+				}
 			]
 		}
 		{
 			"id": "3376332F85C2BC37"
 			"dependencies": [
 				"00754BCDE6C9641E"
-				"2AEA10F9FB69206E"
-				"06F63AFDD1B0E263"
+				"5E16FB8B30A23365"
 			]
 			"icon": {
 				"id": "create:track_station"
 			}
 			"x": 2.5d
-			"y": 6.0d
-			"shape": "hexagon"
-			"size": 1.25d
+			"y": -3.0d
+			"shape": "circle"
+			"size": 1.0d
 			"tasks": [
 				{
-					"id": "20B5CE55460966A5"
-					"type": "item"
-					"item": {
-						"id": "create:track_station"
-						"count": 1
-					}
-					"count": 1
+					"id": "6B8D927AF391D904"
+					"type": "observation"
+					"timer": 20
+					"observe_type": 0
+					"observation_type": "block"
+					"to_observe": "create:track_station"
 				}
 			]
 			"rewards": [
 				{
 					"id": "6745907160FA04A9"
 					"type": "xp"
-					"xp": 250
+					"xp": 100
 				}
 				{
-					"id": "5147303F3073C87F"
+					"id": "7DE3F887A713F158"
 					"type": "random"
-					"table_id": 4055748288478083086L
+					"table_id": 8811780716223278392L
 				}
 				{
-					"id": "6D1B5FA019951782"
+					"id": "3A21978886F8DBED"
 					"type": "random"
-					"table_id": 4055748288478083086L
+					"table_id": 8811780716223278392L
 				}
 				{
-					"id": "59D5D5C13D2A8340"
+					"id": "366D808087327760"
 					"type": "random"
-					"table_id": 4055748288478083086L
-				}
-				{
-					"id": "0D71936C00261A03"
-					"type": "item"
-					"item": {
-						"id": "cccasino:chip_100"
-						"count": 1
-					}
+					"table_id": 8811780716223278392L
 				}
 				{
 					"id": "0132536B8207CA09"
@@ -131,6 +213,23 @@
 						"id": "cccasino:chip_50"
 						"count": 1
 					}
+				}
+				{
+					"id": "362554BD34B5CA23"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_25"
+						"count": 1
+					}
+				}
+				{
+					"id": "0E4F569627F85E9B"
+					"type": "item"
+					"item": {
+						"id": "create:super_glue"
+						"count": 1
+					}
+					"count": 2
 				}
 			]
 		}
@@ -144,25 +243,22 @@
 				"id": "create:controls"
 			}
 			"x": 5.0d
-			"y": 6.0d
+			"y": -3.0d
 			"shape": "hexagon"
 			"size": 1.25d
 			"tasks": [
 				{
-					"id": "30E6862AB30FD875"
-					"type": "item"
-					"item": {
-						"id": "create:controls"
-						"count": 1
-					}
-					"count": 1
+					"id": "76F68D793D47C772"
+					"type": "advancement"
+					"advancement": "create:train"
+					"criterion": ""
 				}
 			]
 			"rewards": [
 				{
 					"id": "29DF05FA1F403240"
 					"type": "xp"
-					"xp": 250
+					"xp": 350
 				}
 				{
 					"id": "17A78C32A5ABC042"
@@ -180,10 +276,15 @@
 					"table_id": 4055748288478083086L
 				}
 				{
-					"id": "721738F11AA9CA31"
+					"id": "67B84B973C489691"
+					"type": "random"
+					"table_id": 4055748288478083086L
+				}
+				{
+					"id": "1BB92EE30EDAB7AD"
 					"type": "item"
 					"item": {
-						"id": "cccasino:chip_100"
+						"id": "cccasino:chip_250"
 						"count": 1
 					}
 				}
@@ -198,26 +299,69 @@
 			]
 		}
 		{
-			"id": "27F2220CE80B6661"
+			"id": "7CAB89688766184B"
 			"dependencies": [
 				"09CBD509258B299C"
 			]
 			"icon": {
-				"id": "create:schedule"
+				"id": "create:steam_whistle"
 			}
-			"x": 7.0d
-			"y": 6.0d
+			"x": 7.5d
+			"y": -3.0d
 			"shape": "circle"
 			"size": 1.0d
 			"tasks": [
 				{
-					"id": "4A6AB0A284744E02"
+					"id": "2BDCF762D4A36E49"
+					"type": "advancement"
+					"advancement": "create:train_whistle"
+					"criterion": ""
+				}
+			]
+			"rewards": [
+				{
+					"id": "04DE4E9E2FCB99CD"
+					"type": "xp"
+					"xp": 50
+				}
+				{
+					"id": "293D23BD970E77CD"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+				{
+					"id": "1CA5CD966D412A11"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+				{
+					"id": "3A965036735104C1"
 					"type": "item"
 					"item": {
-						"id": "create:schedule"
+						"id": "cccasino:chip_25"
 						"count": 1
 					}
-					"count": 1
+				}
+			]
+		}
+		{
+			"id": "27F2220CE80B6661"
+			"dependencies": [
+				"7CAB89688766184B"
+			]
+			"icon": {
+				"id": "create:schedule"
+			}
+			"x": 10.0d
+			"y": -3.0d
+			"shape": "circle"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "76BDF76FC0469B57"
+					"type": "advancement"
+					"advancement": "create:conductor"
+					"criterion": ""
 				}
 			]
 			"rewards": [
@@ -237,12 +381,34 @@
 					"table_id": 8811780716223278392L
 				}
 				{
+					"id": "0FF924364C03B95F"
+					"type": "random"
+					"table_id": 8811780716223278392L
+				}
+				{
 					"id": "153619C9C9E8C0EC"
 					"type": "item"
 					"item": {
 						"id": "cccasino:chip_50"
 						"count": 1
 					}
+				}
+				{
+					"id": "56AC088F5966FD5F"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_25"
+						"count": 1
+					}
+				}
+				{
+					"id": "46204A3806F29A7D"
+					"type": "item"
+					"item": {
+						"id": "create:track_signal"
+						"count": 1
+					}
+					"count": 4
 				}
 			]
 		}
@@ -254,36 +420,46 @@
 			"icon": {
 				"id": "create:track_signal"
 			}
-			"x": 9.0d
-			"y": 6.0d
+			"x": 12.5d
+			"y": -4.5d
 			"shape": "circle"
 			"size": 1.0d
 			"tasks": [
 				{
-					"id": "020466A0270EF744"
-					"type": "item"
-					"item": {
-						"id": "create:track_signal"
-						"count": 1
-					}
-					"count": 2
+					"id": "085A0E7311B96BA2"
+					"type": "advancement"
+					"advancement": "create:track_signal"
+					"criterion": ""
 				}
 			]
 			"rewards": [
 				{
 					"id": "7EBF4AABAF9B69FB"
 					"type": "xp"
-					"xp": 50
+					"xp": 100
 				}
 				{
-					"id": "57153034E5D839D2"
+					"id": "75464E5D828F063B"
 					"type": "random"
-					"table_id": 3429631832040481656L
+					"table_id": 8811780716223278392L
 				}
 				{
-					"id": "15AC32EEAC480E03"
+					"id": "1D4049ED9EC5539B"
 					"type": "random"
-					"table_id": 3429631832040481656L
+					"table_id": 8811780716223278392L
+				}
+				{
+					"id": "005562DEA701D5E1"
+					"type": "random"
+					"table_id": 8811780716223278392L
+				}
+				{
+					"id": "6979A6DF2C820499"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_50"
+						"count": 1
+					}
 				}
 				{
 					"id": "621F3E235F567641"
@@ -296,14 +472,208 @@
 			]
 		}
 		{
+			"id": "2BB2356F641BC5C3"
+			"dependencies": [
+				"51693280A4AAD4C3"
+				"6522A69D9B414E81"
+			]
+			"icon": {
+				"id": "create:display_board"
+			}
+			"x": 15.0d
+			"y": -4.5d
+			"shape": "hexagon"
+			"size": 1.25d
+			"tasks": [
+				{
+					"id": "1E1848A0DA7ADA1D"
+					"type": "advancement"
+					"advancement": "create:display_board_0"
+					"criterion": ""
+				}
+			]
+			"rewards": [
+				{
+					"id": "6FB26BE2894AACC1"
+					"type": "xp"
+					"xp": 350
+				}
+				{
+					"id": "3A620A97760EE2F1"
+					"type": "random"
+					"table_id": 4055748288478083086L
+				}
+				{
+					"id": "38EBD23A1AF9A18F"
+					"type": "random"
+					"table_id": 4055748288478083086L
+				}
+				{
+					"id": "4A107B64A46130B0"
+					"type": "random"
+					"table_id": 4055748288478083086L
+				}
+				{
+					"id": "504985FDF7B1BE92"
+					"type": "random"
+					"table_id": 4055748288478083086L
+				}
+				{
+					"id": "3DFB44A960880408"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_250"
+						"count": 1
+					}
+				}
+				{
+					"id": "19C0CCE83A1DEF64"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_50"
+						"count": 1
+					}
+				}
+			]
+		}
+		{
+			"id": "20C155A32104971C"
+			"dependencies": [
+				"27F2220CE80B6661"
+			]
+			"icon": {
+				"id": "create:portable_storage_interface"
+			}
+			"x": 12.5d
+			"y": -1.5d
+			"shape": "hexagon"
+			"size": 1.25d
+			"tasks": [
+				{
+					"id": "45C4EF9770CDAFBA"
+					"type": "advancement"
+					"advancement": "create:portable_storage_interface"
+					"criterion": ""
+				}
+			]
+			"rewards": [
+				{
+					"id": "3B3F0423676D5065"
+					"type": "xp"
+					"xp": 350
+				}
+				{
+					"id": "2D7F5C49CC403E67"
+					"type": "random"
+					"table_id": 4055748288478083086L
+				}
+				{
+					"id": "5C21A43EFC5CEC7A"
+					"type": "random"
+					"table_id": 4055748288478083086L
+				}
+				{
+					"id": "22963C3106C7F6EA"
+					"type": "random"
+					"table_id": 4055748288478083086L
+				}
+				{
+					"id": "2383C3644744C010"
+					"type": "random"
+					"table_id": 4055748288478083086L
+				}
+				{
+					"id": "705CC10912BF0173"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_250"
+						"count": 1
+					}
+				}
+				{
+					"id": "723535B0FA550FAE"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_50"
+						"count": 1
+					}
+				}
+			]
+		}
+		{
+			"id": "34F91E880290E840"
+			"dependencies": [
+				"20C155A32104971C"
+				"2BB2356F641BC5C3"
+			]
+			"icon": {
+				"id": "create:railway_casing"
+			}
+			"x": 17.5d
+			"y": -3.0d
+			"shape": "hexagon"
+			"size": 1.25d
+			"tasks": [
+				{
+					"id": "44F553DE01075976"
+					"type": "advancement"
+					"advancement": "create:long_train"
+					"criterion": ""
+				}
+			]
+			"rewards": [
+				{
+					"id": "4F795BCF74D68C8E"
+					"type": "xp"
+					"xp": 350
+				}
+				{
+					"id": "50A5894A1F1EB226"
+					"type": "random"
+					"table_id": 4055748288478083086L
+				}
+				{
+					"id": "73A0718E10880144"
+					"type": "random"
+					"table_id": 4055748288478083086L
+				}
+				{
+					"id": "761A88A7890F6A1D"
+					"type": "random"
+					"table_id": 4055748288478083086L
+				}
+				{
+					"id": "023238B04306F01A"
+					"type": "random"
+					"table_id": 4055748288478083086L
+				}
+				{
+					"id": "40DE14CAC61EC6EF"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_250"
+						"count": 1
+					}
+				}
+				{
+					"id": "41C776BEB18217C7"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_50"
+						"count": 1
+					}
+				}
+			]
+		}
+		{
 			"id": "34E2BE43E500DA5A"
 			"dependencies": [
-				"162CE88B477B267E"
+				"6BB02375EE1FFF0B"
 			]
 			"icon": {
 				"id": "aeronautics:adjustable_burner"
 			}
-			"x": 0.5d
+			"x": 0.0d
 			"y": 2.5d
 			"shape": "circle"
 			"size": 1.0d
@@ -332,12 +702,34 @@
 					"table_id": 8811780716223278392L
 				}
 				{
+					"id": "47E39664A90AA980"
+					"type": "random"
+					"table_id": 8811780716223278392L
+				}
+				{
 					"id": "2E816D0849522CF8"
 					"type": "item"
 					"item": {
 						"id": "cccasino:chip_50"
 						"count": 1
 					}
+				}
+				{
+					"id": "0D32A9D7F6AFEBB2"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_25"
+						"count": 1
+					}
+				}
+				{
+					"id": "575B2BA27F9CB214"
+					"type": "item"
+					"item": {
+						"id": "aeronautics:white_envelope"
+						"count": 1
+					}
+					"count": 32
 				}
 			]
 		}
@@ -350,10 +742,19 @@
 				"id": "minecraft:coal_block"
 			}
 			"x": 2.5d
-			"y": 3.5d
+			"y": 2.5d
 			"shape": "circle"
 			"size": 1.0d
 			"tasks": [
+				{
+					"id": "4A6F672DA6F2A406"
+					"type": "item"
+					"item": {
+						"id": "aeronautics:adjustable_burner"
+						"count": 1
+					}
+					"count": 2
+				}
 				{
 					"id": "1748F54BB3F31033"
 					"type": "item"
@@ -362,15 +763,6 @@
 						"count": 1
 					}
 					"count": 16
-				}
-				{
-					"id": "4A6F672DA6F2A406"
-					"type": "item"
-					"item": {
-						"id": "aeronautics:adjustable_burner"
-						"count": 1
-					}
-					"count": 1
 				}
 			]
 			"rewards": [
@@ -400,56 +792,61 @@
 			]
 		}
 		{
-			"id": "5008B58514B83369"
+			"id": "766A984F934C89CC"
 			"dependencies": [
-				"34E2BE43E500DA5A"
+				"4CF76919E2642343"
 			]
 			"icon": {
-				"id": "aeronautics:propeller_bearing"
+				"id": "simulated:physics_assembler"
 			}
-			"x": 2.5d
-			"y": 1.5d
+			"x": 7.5d
+			"y": 2.5d
 			"shape": "hexagon"
 			"size": 1.25d
 			"tasks": [
 				{
-					"id": "55528E36493FAA45"
+					"id": "7CD390C0E7FD730A"
 					"type": "advancement"
-					"advancement": "aeronautics:in_thrust_we_trust"
+					"advancement": "simulated:i_declare_thee"
 					"criterion": ""
 				}
 			]
 			"rewards": [
 				{
-					"id": "1B5685AAC549A0CF"
+					"id": "63E640DCD476D295"
 					"type": "xp"
-					"xp": 250
+					"xp": 350
 				}
 				{
-					"id": "76BC733C0AACD6F6"
+					"id": "622613BC242818BC"
 					"type": "random"
 					"table_id": 4055748288478083086L
 				}
 				{
-					"id": "0C3BFFE127E1EC65"
+					"id": "325AA4E52D0C2F49"
 					"type": "random"
 					"table_id": 4055748288478083086L
 				}
 				{
-					"id": "6316AD661EB0925A"
+					"id": "1ABB45F607995D2C"
 					"type": "random"
 					"table_id": 4055748288478083086L
 				}
 				{
-					"id": "30B2350DA8923CFB"
+					"id": "7B261A62AB49D38F"
+					"type": "random"
+					"table_id": 4055748288478083086L
+				}
+				{
+					"id": "03AA9319F591FFD0"
 					"type": "item"
 					"item": {
-						"id": "cccasino:chip_100"
+						"id": "cccasino:chip_250"
 						"count": 1
 					}
 				}
 				{
-					"id": "75F8146BAFE4AE20"
+					"id": "7FB40564BC7EC92B"
 					"type": "item"
 					"item": {
 						"id": "cccasino:chip_50"
@@ -461,12 +858,12 @@
 		{
 			"id": "1B2AFDBFD5032C34"
 			"dependencies": [
-				"5008B58514B83369"
+				"766A984F934C89CC"
 			]
 			"icon": {
-				"id": "simulated:altitude_sensor"
+				"id": "simulated:contraption_diagram"
 			}
-			"x": 4.5d
+			"x": 10.0d
 			"y": 0.5d
 			"shape": "circle"
 			"size": 1.0d
@@ -476,15 +873,6 @@
 					"type": "advancement"
 					"advancement": "simulated:measure_once_build_twice"
 					"criterion": ""
-				}
-				{
-					"id": "4D5420B7F6CA0893"
-					"type": "item"
-					"item": {
-						"id": "simulated:altitude_sensor"
-						"count": 1
-					}
-					"count": 1
 				}
 			]
 			"rewards": [
@@ -504,6 +892,11 @@
 					"table_id": 8811780716223278392L
 				}
 				{
+					"id": "266872F0EECE4161"
+					"type": "random"
+					"table_id": 8811780716223278392L
+				}
+				{
 					"id": "64E3509F24BB8D28"
 					"type": "item"
 					"item": {
@@ -511,62 +904,334 @@
 						"count": 1
 					}
 				}
+				{
+					"id": "6CD49433980C39B2"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_25"
+						"count": 1
+					}
+				}
 			]
 		}
 		{
-			"id": "6168CEC945B4D9AB"
+			"id": "4CF76919E2642343"
 			"dependencies": [
-				"5008B58514B83369"
+				"036D6D24A1A53AFB"
 			]
 			"icon": {
-				"id": "createdieselgenerators:diesel_engine"
+				"id": "simulated:throttle_lever"
 			}
-			"x": 4.5d
+			"x": 5.0d
 			"y": 2.5d
 			"shape": "circle"
 			"size": 1.0d
 			"tasks": [
 				{
-					"id": "4999AF258F99B099"
+					"id": "3F4719E77738E0CA"
 					"type": "item"
 					"item": {
-						"id": "createdieselgenerators:diesel_engine"
+						"id": "simulated:throttle_lever"
 						"count": 1
 					}
 					"count": 1
 				}
+				{
+					"id": "5DA9A2877CCBB6EB"
+					"type": "advancement"
+					"advancement": "simulated:no_pressure"
+					"criterion": ""
+				}
 			]
 			"rewards": [
 				{
-					"id": "0DE8FF4B306DD0C3"
+					"id": "25D60335DC67D47F"
 					"type": "xp"
-					"xp": 250
+					"xp": 100
 				}
 				{
-					"id": "797164E8EC1B39A5"
+					"id": "2540C2E4057A544D"
 					"type": "random"
-					"table_id": 4055748288478083086L
+					"table_id": 8811780716223278392L
 				}
 				{
-					"id": "45E99A0771349DEA"
+					"id": "0C4EDBFB8EA9AA87"
 					"type": "random"
-					"table_id": 4055748288478083086L
+					"table_id": 8811780716223278392L
 				}
 				{
-					"id": "64A86A68DD28CD97"
+					"id": "15841502CDD58E64"
 					"type": "random"
-					"table_id": 4055748288478083086L
+					"table_id": 8811780716223278392L
 				}
 				{
-					"id": "1B19163DC4B45B7C"
+					"id": "25DFBCCCF4E71012"
 					"type": "item"
 					"item": {
-						"id": "cccasino:chip_100"
+						"id": "cccasino:chip_50"
 						"count": 1
 					}
 				}
 				{
-					"id": "5B892A6A90D2CBD0"
+					"id": "48F1CB6B215D70C4"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_25"
+						"count": 1
+					}
+				}
+			]
+		}
+		{
+			"id": "517EE7AE88BA56A3"
+			"dependencies": [
+				"766A984F934C89CC"
+				"5EF48C56802EEDC6"
+			]
+			"icon": {
+				"id": "simulated:red_portable_engine"
+			}
+			"x": 7.5d
+			"y": 5.5d
+			"shape": "circle"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "7BACF4D5A57C949A"
+					"type": "advancement"
+					"advancement": "simulated:steamless_engine"
+					"criterion": ""
+				}
+			]
+			"rewards": [
+				{
+					"id": "583D2EB815AE04E7"
+					"type": "xp"
+					"xp": 100
+				}
+				{
+					"id": "12AE16AEB1CB74F8"
+					"type": "random"
+					"table_id": 8811780716223278392L
+				}
+				{
+					"id": "01DA4B21DA17F9F1"
+					"type": "random"
+					"table_id": 8811780716223278392L
+				}
+				{
+					"id": "451ECBBD145B5A62"
+					"type": "random"
+					"table_id": 8811780716223278392L
+				}
+				{
+					"id": "7447B9F351EDB858"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_50"
+						"count": 1
+					}
+				}
+				{
+					"id": "33D5EF145BA43F0D"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_25"
+						"count": 1
+					}
+				}
+			]
+		}
+		{
+			"id": "5008B58514B83369"
+			"dependencies": [
+				"517EE7AE88BA56A3"
+				"04BEBADB469586F0"
+			]
+			"icon": {
+				"id": "aeronautics:propeller_bearing"
+			}
+			"x": 10.0d
+			"y": 5.5d
+			"shape": "hexagon"
+			"size": 1.25d
+			"tasks": [
+				{
+					"id": "55528E36493FAA45"
+					"type": "advancement"
+					"advancement": "aeronautics:in_thrust_we_trust"
+					"criterion": ""
+				}
+			]
+			"rewards": [
+				{
+					"id": "1B5685AAC549A0CF"
+					"type": "xp"
+					"xp": 350
+				}
+				{
+					"id": "76BC733C0AACD6F6"
+					"type": "random"
+					"table_id": 4055748288478083086L
+				}
+				{
+					"id": "0C3BFFE127E1EC65"
+					"type": "random"
+					"table_id": 4055748288478083086L
+				}
+				{
+					"id": "6316AD661EB0925A"
+					"type": "random"
+					"table_id": 4055748288478083086L
+				}
+				{
+					"id": "0413FC4C9B5A101C"
+					"type": "random"
+					"table_id": 4055748288478083086L
+				}
+				{
+					"id": "7986021BAC42607A"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_250"
+						"count": 1
+					}
+				}
+				{
+					"id": "75F8146BAFE4AE20"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_50"
+						"count": 1
+					}
+				}
+				{
+					"id": "630D6182C16D3CF4"
+					"type": "item"
+					"item": {
+						"id": "create:white_sail"
+						"count": 1
+					}
+					"count": 8
+				}
+			]
+		}
+		{
+			"id": "55C23A2FFCCB8247"
+			"dependencies": [
+				"5008B58514B83369"
+			]
+			"icon": {
+				"id": "simulated:steering_wheel"
+			}
+			"x": 12.5d
+			"y": 5.5d
+			"shape": "circle"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "17A3CDB3944AC8B2"
+					"type": "advancement"
+					"advancement": "simulated:unpowered_steering"
+					"criterion": ""
+				}
+			]
+			"rewards": [
+				{
+					"id": "73CEFD621A61D33E"
+					"type": "xp"
+					"xp": 100
+				}
+				{
+					"id": "50DB034E9A7944A9"
+					"type": "random"
+					"table_id": 8811780716223278392L
+				}
+				{
+					"id": "3F139860E7A3E8C0"
+					"type": "random"
+					"table_id": 8811780716223278392L
+				}
+				{
+					"id": "49253C9720E7F0F9"
+					"type": "random"
+					"table_id": 8811780716223278392L
+				}
+				{
+					"id": "7F60E1FDA7CA084B"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_50"
+						"count": 1
+					}
+				}
+				{
+					"id": "4832D3499607A79D"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_25"
+						"count": 1
+					}
+				}
+			]
+		}
+		{
+			"id": "4DFB46FEF1CE83BE"
+			"dependencies": [
+				"55C23A2FFCCB8247"
+				"1B2AFDBFD5032C34"
+			]
+			"icon": {
+				"id": "simulated:navigation_table"
+			}
+			"x": 15.0d
+			"y": 2.5d
+			"shape": "hexagon"
+			"size": 1.25d
+			"tasks": [
+				{
+					"id": "1D9251EA22F0182A"
+					"type": "advancement"
+					"advancement": "simulated:thataway"
+					"criterion": ""
+				}
+			]
+			"rewards": [
+				{
+					"id": "04BFFBB2174351F5"
+					"type": "xp"
+					"xp": 350
+				}
+				{
+					"id": "67C46BE17CD06E76"
+					"type": "random"
+					"table_id": 4055748288478083086L
+				}
+				{
+					"id": "4857312B5137AFDF"
+					"type": "random"
+					"table_id": 4055748288478083086L
+				}
+				{
+					"id": "18B497E0CEE37C2A"
+					"type": "random"
+					"table_id": 4055748288478083086L
+				}
+				{
+					"id": "0E810CA2B2DF6BCE"
+					"type": "random"
+					"table_id": 4055748288478083086L
+				}
+				{
+					"id": "0835E62CA24D64F9"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_250"
+						"count": 1
+					}
+				}
+				{
+					"id": "6C374DAD0826789E"
 					"type": "item"
 					"item": {
 						"id": "cccasino:chip_50"
@@ -578,12 +1243,12 @@
 		{
 			"id": "45802F5A539BECDE"
 			"dependencies": [
-				"6168CEC945B4D9AB"
+				"4DFB46FEF1CE83BE"
 			]
 			"icon": {
 				"id": "simulated:docking_connector"
 			}
-			"x": 6.5d
+			"x": 17.5d
 			"y": 2.5d
 			"shape": "circle"
 			"size": 1.0d
@@ -612,7 +1277,87 @@
 					"table_id": 8811780716223278392L
 				}
 				{
+					"id": "1E961566ABF40DDB"
+					"type": "random"
+					"table_id": 8811780716223278392L
+				}
+				{
 					"id": "6ECBDF734144E56C"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_50"
+						"count": 1
+					}
+				}
+				{
+					"id": "3D93AF3377C00A7C"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_25"
+						"count": 1
+					}
+				}
+			]
+		}
+		{
+			"id": "6168CEC945B4D9AB"
+			"dependencies": [
+				"5008B58514B83369"
+			]
+			"icon": {
+				"id": "createdieselgenerators:diesel_engine"
+			}
+			"x": 12.5d
+			"y": 7.5d
+			"shape": "circle"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "4999AF258F99B099"
+					"type": "item"
+					"item": {
+						"id": "createdieselgenerators:diesel_engine"
+						"count": 1
+					}
+					"count": 1
+				}
+			]
+			"rewards": [
+				{
+					"id": "0DE8FF4B306DD0C3"
+					"type": "xp"
+					"xp": 350
+				}
+				{
+					"id": "797164E8EC1B39A5"
+					"type": "random"
+					"table_id": 4055748288478083086L
+				}
+				{
+					"id": "45E99A0771349DEA"
+					"type": "random"
+					"table_id": 4055748288478083086L
+				}
+				{
+					"id": "64A86A68DD28CD97"
+					"type": "random"
+					"table_id": 4055748288478083086L
+				}
+				{
+					"id": "5869299D4DB911D5"
+					"type": "random"
+					"table_id": 4055748288478083086L
+				}
+				{
+					"id": "681E36AEA7BA5E90"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_250"
+						"count": 1
+					}
+				}
+				{
+					"id": "5B892A6A90D2CBD0"
 					"type": "item"
 					"item": {
 						"id": "cccasino:chip_50"
@@ -630,7 +1375,7 @@
 			"icon": {
 				"id": "aeronautics_delivery_quests:delivery_quests_table"
 			}
-			"x": 8.5d
+			"x": 20.0d
 			"y": 2.5d
 			"shape": "circle"
 			"size": 1.0d
@@ -649,7 +1394,7 @@
 				{
 					"id": "34162C533426DE5B"
 					"type": "xp"
-					"xp": 250
+					"xp": 350
 				}
 				{
 					"id": "2990F95D8529459A"
@@ -667,10 +1412,15 @@
 					"table_id": 4055748288478083086L
 				}
 				{
-					"id": "42E0B48DA5EB4B39"
+					"id": "39C398A6A23FE0BC"
+					"type": "random"
+					"table_id": 4055748288478083086L
+				}
+				{
+					"id": "76CD77262F1F8F0D"
 					"type": "item"
 					"item": {
-						"id": "cccasino:chip_100"
+						"id": "cccasino:chip_250"
 						"count": 1
 					}
 				}

@@ -2,7 +2,7 @@
 	"id": "080155EC6799C4F9"
 	"filename": "advent"
 	"group": "6E6872417BE99080"
-	"order_index": 13
+	"order_index": 14
 	"icon": {
 		"id": "mcwholidays:big_red_present"
 	}
@@ -59,6 +59,11 @@
 					"table_id": 6294854655677401913L
 				}
 				{
+					"id": "65D83551E7A9812A"
+					"type": "random"
+					"table_id": 6294854655677401913L
+				}
+				{
 					"id": "629B8A9AE8855C8D"
 					"type": "item"
 					"item": {
@@ -102,6 +107,11 @@
 				}
 				{
 					"id": "4FE1054AE5231CE0"
+					"type": "random"
+					"table_id": 6294854655677401913L
+				}
+				{
+					"id": "3814E42788881CAB"
 					"type": "random"
 					"table_id": 6294854655677401913L
 				}
@@ -153,6 +163,11 @@
 					"table_id": 6294854655677401913L
 				}
 				{
+					"id": "4DDC4E5D63106A8B"
+					"type": "random"
+					"table_id": 6294854655677401913L
+				}
+				{
 					"id": "5CECC96BC7AABC92"
 					"type": "item"
 					"item": {
@@ -196,6 +211,11 @@
 				}
 				{
 					"id": "614CD73E4719A259"
+					"type": "random"
+					"table_id": 6294854655677401913L
+				}
+				{
+					"id": "6484C763A8F50EF0"
 					"type": "random"
 					"table_id": 6294854655677401913L
 				}
@@ -247,6 +267,11 @@
 					"table_id": 6294854655677401913L
 				}
 				{
+					"id": "3D0BE69A68FEA56E"
+					"type": "random"
+					"table_id": 6294854655677401913L
+				}
+				{
 					"id": "56646045FAD8A4D7"
 					"type": "item"
 					"item": {
@@ -294,10 +319,23 @@
 					"table_id": 6294854655677401913L
 				}
 				{
+					"id": "37B653277CF2E90B"
+					"type": "random"
+					"table_id": 6294854655677401913L
+				}
+				{
 					"id": "2305DEB3492EE0AA"
 					"type": "item"
 					"item": {
 						"id": "cccasino:chip_50"
+						"count": 1
+					}
+				}
+				{
+					"id": "6F3D9DE0C6B02B1E"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_25"
 						"count": 1
 					}
 				}
@@ -337,6 +375,11 @@
 				}
 				{
 					"id": "0A6150CE44B4782C"
+					"type": "random"
+					"table_id": 6294854655677401913L
+				}
+				{
+					"id": "7A1E2B94F31D01F9"
 					"type": "random"
 					"table_id": 6294854655677401913L
 				}
@@ -388,6 +431,11 @@
 					"table_id": 6294854655677401913L
 				}
 				{
+					"id": "78448A5193453D2C"
+					"type": "random"
+					"table_id": 6294854655677401913L
+				}
+				{
 					"id": "5740F6CD81E97F3E"
 					"type": "item"
 					"item": {
@@ -431,6 +479,11 @@
 				}
 				{
 					"id": "59CB515E42A42D00"
+					"type": "random"
+					"table_id": 6294854655677401913L
+				}
+				{
+					"id": "031A49B64C09906D"
 					"type": "random"
 					"table_id": 6294854655677401913L
 				}
@@ -482,6 +535,11 @@
 					"table_id": 6294854655677401913L
 				}
 				{
+					"id": "4A9A181CD20CAC35"
+					"type": "random"
+					"table_id": 6294854655677401913L
+				}
+				{
 					"id": "47D711A058C1C13C"
 					"type": "item"
 					"item": {
@@ -525,6 +583,11 @@
 				}
 				{
 					"id": "2086B0BA3CF4D01B"
+					"type": "random"
+					"table_id": 6294854655677401913L
+				}
+				{
+					"id": "03C2A15B57C854B2"
 					"type": "random"
 					"table_id": 6294854655677401913L
 				}
@@ -576,6 +639,11 @@
 					"table_id": 6294854655677401913L
 				}
 				{
+					"id": "2006FEC4CD24C475"
+					"type": "random"
+					"table_id": 6294854655677401913L
+				}
+				{
 					"id": "457A2A0D63BB53B3"
 					"type": "item"
 					"item": {
@@ -623,10 +691,23 @@
 					"table_id": 6294854655677401913L
 				}
 				{
+					"id": "1B639A3D812279C2"
+					"type": "random"
+					"table_id": 6294854655677401913L
+				}
+				{
 					"id": "47C77D44E7AF1BDC"
 					"type": "item"
 					"item": {
 						"id": "cccasino:chip_50"
+						"count": 1
+					}
+				}
+				{
+					"id": "01BC3ADBF1687EC4"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_25"
 						"count": 1
 					}
 				}
@@ -666,6 +747,11 @@
 				}
 				{
 					"id": "5F894954E9677EF8"
+					"type": "random"
+					"table_id": 6294854655677401913L
+				}
+				{
+					"id": "414645286401A1BB"
 					"type": "random"
 					"table_id": 6294854655677401913L
 				}
@@ -717,6 +803,11 @@
 					"table_id": 6294854655677401913L
 				}
 				{
+					"id": "17A37002B450C715"
+					"type": "random"
+					"table_id": 6294854655677401913L
+				}
+				{
 					"id": "161BE409056EEC51"
 					"type": "item"
 					"item": {
@@ -760,6 +851,11 @@
 				}
 				{
 					"id": "0C9BD93AB9B4A61C"
+					"type": "random"
+					"table_id": 6294854655677401913L
+				}
+				{
+					"id": "125FBF931587120D"
 					"type": "random"
 					"table_id": 6294854655677401913L
 				}
@@ -811,6 +907,11 @@
 					"table_id": 6294854655677401913L
 				}
 				{
+					"id": "1F3316CB3F401ED8"
+					"type": "random"
+					"table_id": 6294854655677401913L
+				}
+				{
 					"id": "519DDF3DB9D50999"
 					"type": "item"
 					"item": {
@@ -854,6 +955,11 @@
 				}
 				{
 					"id": "2E62D7631CAA90CF"
+					"type": "random"
+					"table_id": 6294854655677401913L
+				}
+				{
+					"id": "58ED24C1D594EB6A"
 					"type": "random"
 					"table_id": 6294854655677401913L
 				}
@@ -905,6 +1011,11 @@
 					"table_id": 6294854655677401913L
 				}
 				{
+					"id": "3D826A3AD8E0F944"
+					"type": "random"
+					"table_id": 6294854655677401913L
+				}
+				{
 					"id": "5D904DF7FFB4B3CE"
 					"type": "item"
 					"item": {
@@ -952,10 +1063,23 @@
 					"table_id": 6294854655677401913L
 				}
 				{
+					"id": "425661727C8324C8"
+					"type": "random"
+					"table_id": 6294854655677401913L
+				}
+				{
 					"id": "57E48B0D91C492B9"
 					"type": "item"
 					"item": {
 						"id": "cccasino:chip_50"
+						"count": 1
+					}
+				}
+				{
+					"id": "4129847CCC866224"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_25"
 						"count": 1
 					}
 				}
@@ -995,6 +1119,11 @@
 				}
 				{
 					"id": "4661BB7B90EAF96B"
+					"type": "random"
+					"table_id": 6294854655677401913L
+				}
+				{
+					"id": "6ED0065F5278CA37"
 					"type": "random"
 					"table_id": 6294854655677401913L
 				}
@@ -1046,6 +1175,11 @@
 					"table_id": 6294854655677401913L
 				}
 				{
+					"id": "1F600E842BF8A525"
+					"type": "random"
+					"table_id": 6294854655677401913L
+				}
+				{
 					"id": "38E06D3BC8BFDC7B"
 					"type": "item"
 					"item": {
@@ -1089,6 +1223,11 @@
 				}
 				{
 					"id": "704BF77365E60E78"
+					"type": "random"
+					"table_id": 6294854655677401913L
+				}
+				{
+					"id": "0636F3ADBD421FCF"
 					"type": "random"
 					"table_id": 6294854655677401913L
 				}
@@ -1140,6 +1279,11 @@
 					"table_id": 6294854655677401913L
 				}
 				{
+					"id": "7C89ABE9DBA8EB08"
+					"type": "random"
+					"table_id": 6294854655677401913L
+				}
+				{
 					"id": "3A80BA43F9E83D20"
 					"type": "item"
 					"item": {
@@ -1174,7 +1318,7 @@
 				{
 					"id": "5083A9596D34FB39"
 					"type": "xp"
-					"xp": 250
+					"xp": 350
 				}
 				{
 					"id": "2F1F6117965421B5"
@@ -1192,10 +1336,15 @@
 					"table_id": 4073629130927994432L
 				}
 				{
-					"id": "0EAB562B8BE0E8C0"
+					"id": "0B48EDC887720D3A"
+					"type": "random"
+					"table_id": 4073629130927994432L
+				}
+				{
+					"id": "29A73E4211F65DC6"
 					"type": "item"
 					"item": {
-						"id": "cccasino:chip_100"
+						"id": "cccasino:chip_250"
 						"count": 1
 					}
 				}

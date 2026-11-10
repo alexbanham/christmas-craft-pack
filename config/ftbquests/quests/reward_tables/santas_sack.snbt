@@ -1,7 +1,7 @@
 {
 	"id": "3888701C8FA57640"
 	"order_index": 3
-	"loot_size": 3
+	"loot_size": 4
 	"use_title": true
 	"rewards": [
 		{
@@ -96,6 +96,7 @@
 				"count": 1
 			}
 			"weight": 5.0d
+			"count": 2
 			"random_bonus": 2
 		}
 		{
@@ -110,7 +111,7 @@
 					]
 				}
 			}
-			"weight": 0.1d
+			"weight": 0.2d
 		}
 	]
 	"loot_crate": {

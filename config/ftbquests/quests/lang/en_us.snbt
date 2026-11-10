@@ -373,36 +373,65 @@
 	"chapter.3FB53030CEF3907D.chapter_subtitle": [
 		"Honest chips for honest work."
 	]
-	"task.19524C16937147D1.title": "Show me the ways"
 	"quest.1E574C74D0CF56CB.title": "How the North Pole Pays"
-	"quest.1E574C74D0CF56CB.quest_subtitle": "Chips come from honest work."
+	"quest.1E574C74D0CF56CB.quest_subtitle": "Nothing crafts a chip."
 	"quest.1E574C74D0CF56CB.quest_desc": [
-		"Chips are the only money here. You earn them by making things other people want: sell to your neighbours from a shop, fly deliveries, or, if you are lucky, win them at the tables. The quests below show the ways. Pick one and make it your trade."
+		"No recipe makes a chip. Every one is paid for work somebody wanted: an elf's shift, goods sold at the Exchange, a Notice Board order, a delivery flown, a shop of your own. Start at the Cashier's Cage in the village, the bank: use it with a chip to break it into smaller ones (sneak for the whole stack). It never takes a cut."
 	]
-	"quest.4912A2FF86EE33F2.title": "Open for Business"
-	"quest.4912A2FF86EE33F2.quest_subtitle": "Your stall, your prices, their chips."
-	"quest.4912A2FF86EE33F2.quest_desc": [
-		"Lay table cloths, link your stock to a stock ticker behind them and seat a shopkeeper, and you have a shop: neighbours buy straight from your stock, priced in chips. Sell what you make in bulk and they will keep coming back."
+	"quest.18FDF9691693E472.title": "Elf Shifts"
+	"quest.18FDF9691693E472.quest_subtitle": "Sort the post, get paid."
+	"quest.18FDF9691693E472.quest_desc": [
+		"Use the Elf Mail desk to start a shift of ten letters and file each in the pigeonhole whose plate matches its stamp. Ten filed pays real chips; three mix-ups and the shift is unpaid. A small wage, a few shifts a day, always open. Nearly broke? Santa's Mercy leaves you Gift Chips once a day: they bet at any game, and wins pay real chips."
+	]
+	"quest.4DF28181384AE73C.title": "The North Pole Exchange"
+	"quest.4DF28181384AE73C.quest_subtitle": "Sell what you make."
+	"quest.4DF28181384AE73C.quest_desc": [
+		"The Exchange buys made things: dishes, Create and airship parts, crops packed into bales and crates; never raw ore, logs or loose crops. Use the counter holding a stack to sell it. Each sale pulls that price down for everyone until it recovers, so make several goods, not a mountain of one. No daily limit: prices are the brake."
+	]
+	"quest.35D0AD821D56CDD4.title": "Wanted by Sunday"
+	"quest.35D0AD821D56CDD4.quest_subtitle": "The Notice Board."
+	"quest.35D0AD821D56CDD4.quest_desc": [
+		"The Notice Board pins up the week: three North Pole Wants that pay half again at the Exchange, and three orders for bigger lots. Use the board holding an order's goods to hand them in; part loads count, and a filled order pays one lump sum, once each, however far prices have sagged. Both change on Monday: plan your week: sell a Want, fill an order."
+	]
+	"quest.4B8CE993D9A0F9A1.title": "Spend It at Santa's"
+	"quest.4B8CE993D9A0F9A1.quest_subtitle": "Where spent chips go."
+	"quest.4B8CE993D9A0F9A1.quest_desc": [
+		"Santa's Shop sells decorations, treats and toy blueprints; chips spent there are gone for good, and it takes real chips only. What it does not sell you make: a Notice Board of your own is a Create clipboard on brass sheets and spruce posts, on Mechanical Crafters. Hang one in your factory and hand orders in there."
+	]
+	"quest.068C2800EC9D4851.title": "A Counter of Your Own"
+	"quest.068C2800EC9D4851.quest_subtitle": "Sell by the beltful."
+	"quest.068C2800EC9D4851.quest_desc": [
+		"Build an Exchange counter on Mechanical Crafters: a split-flap bank from your Workshop, nixie tubes, a brass funnel and brass casings. It takes goods from belts, funnels and arms through its hatch and sells every unit for whoever placed it. The chips wait in its till (watch the nixie tubes); an empty hand collects them."
+	]
+	"quest.0EFC2DA5F4BEF5FC.title": "Your First Thousand"
+	"quest.0EFC2DA5F4BEF5FC.quest_subtitle": "Colour up."
+	"quest.0EFC2DA5F4BEF5FC.quest_desc": [
+		"Quests never pay a thousand chip. Carry a thousand chips' worth to the Cashier's Cage and use it with an empty hand: everything in your pockets colours up into the fewest chips there can be, and nothing is lost. However you earned it, a thousand chip means you have found your feet. Keep it as a trophy, or put it to work."
+	]
+	"quest.1F68120875F5D236.title": "Delivered"
+	"quest.1F68120875F5D236.quest_subtitle": "A hundred chips a sack."
+	"quest.1F68120875F5D236.quest_desc": [
+		"Every sealed sack that lands in Santa's Sleigh pays 100 chips to whoever placed the hoist that tied it, however it got there: by hand, belt, train or airship, and however many you send. If you are away, the house keeps your pay till you are back. Sell a toy at the Exchange and it fetches far less than its share of a sack."
 	]
 	"quest.01E302E4BEC06E1C.title": "Mail Order"
 	"quest.01E302E4BEC06E1C.quest_subtitle": "Ship it by frog."
 	"quest.01E302E4BEC06E1C.quest_desc": [
-		"Packagers box up items and frogports throw the boxes across your network. Once one runs, a single order can pull goods from every corner of your base and post them wherever they need to go."
+		"Packagers box up items and frogports throw the boxes across your network. Once one runs, a single order can pull goods from every corner of your base and post them wherever they need to go. It is also the back room of a shop."
+	]
+	"quest.4912A2FF86EE33F2.title": "Open for Business"
+	"quest.4912A2FF86EE33F2.quest_subtitle": "Your stall, your prices, their chips."
+	"quest.4912A2FF86EE33F2.quest_desc": [
+		"Link your stock to a stock ticker, seat a shopkeeper behind it and lay table cloths with a price in chips on each: neighbours buy straight from your stock, and their chips go to you, not the market. You set the price, so sell what the Exchange does not buy, to friends who would rather buy it than build the line."
 	]
 	"quest.10BE983EC70E1433.title": "Made to Order"
 	"quest.10BE983EC70E1433.quest_subtitle": "The factory that runs itself."
 	"quest.10BE983EC70E1433.quest_desc": [
-		"A factory gauge watches your stock and orders the ingredients it needs, then sends the product on. Chain a few together and a whole product line keeps itself full while you are away. That is how fortunes start."
-	]
-	"quest.0EFC2DA5F4BEF5FC.title": "Your First Thousand"
-	"quest.0EFC2DA5F4BEF5FC.quest_subtitle": "Proof you made it here."
-	"quest.0EFC2DA5F4BEF5FC.quest_desc": [
-		"Hold a thousand chip. However you got there, whether from a shop, a delivery run or one very lucky hand, it means you have found your feet. Keep it as a trophy, or put it to work. The chip is the prize."
+		"A factory gauge watches your stock and orders the ingredients it needs, then sends the product on. Chain a few together and your shop shelves, your Notice Board orders and your counter's belt keep themselves full while you are away. That is how fortunes start."
 	]
 	"quest.1B7B5521AF591BB6.title": "The North Pole Tally"
-	"quest.1B7B5521AF591BB6.quest_subtitle": "Count what you make."
+	"quest.1B7B5521AF591BB6.quest_subtitle": "Know what your line makes."
 	"quest.1B7B5521AF591BB6.quest_desc": [
-		"Build a North Pole Tally. Whatever you feed it is sent to Santa, and its dial shows how many arrive each minute. The quests after it ask for a steady rate, held for minutes on end: proof that a factory really works."
+		"Before you count on a line to earn, find out what it really makes. A North Pole Tally counts what you feed it, a minute at a time. It is a test bench: what goes in is sent to Santa, not sold, so measure, then turn the belt to your counter. The quests after it ask for a rate held for minutes: proof a factory really works."
 	]
 	"task.18482E36E891AD24.title": "Deliver 30 andesite alloy a minute for 10 minutes"
 	"quest.3958B466FD1AD867.title": "Alloy Foundry"
@@ -417,37 +446,11 @@
 	"quest.764395C6373B64A1.quest_desc": [
 		"Four precision mechanisms a minute for five minutes means several sequenced lines running side by side, fed gold sheets and cogs without a gap. The market always wants mechanisms; this is how you supply it."
 	]
-	"task.0B1A3A16EC633B9D.title": "Deliver 12 iced cookies a minute for 3 minutes"
-	"quest.4C3748FE877AF109.title": "Cookie Conveyor"
-	"quest.4C3748FE877AF109.quest_subtitle": "Twelve iced cookies a minute."
-	"quest.4C3748FE877AF109.quest_desc": [
-		"Mixer, press, fan, spout: twelve iced Christmas cookies a minute for three minutes. Every stage has to keep up with the next, so you will learn exactly where your line is slow."
-	]
 	"task.63DEF59CC0A0B293.title": "Deliver 6 boxes of fries a minute for 5 minutes"
 	"quest.6A4E0F47C1E08D99.title": "Fry Shop Rush"
 	"quest.6A4E0F47C1E08D99.quest_subtitle": "Six boxes a minute, five minutes straight."
 	"quest.6A4E0F47C1E08D99.quest_desc": [
 		"The lunch rush: six boxes of fries a minute for five minutes. Potatoes, oil and cardboard all have to arrive on time, and the fryer must never run dry. Keep the oil tank topped up."
-	]
-	"task.368D2898142E32B2.title": "Deliver 10 mugs of mulled cider a minute for 5 minutes"
-	"quest.68CCC2EE1225F811.title": "Cider on Tap"
-	"quest.68CCC2EE1225F811.quest_subtitle": "Ten mugs a minute."
-	"quest.68CCC2EE1225F811.quest_desc": [
-		"Ten mugs of mulled cider a minute for five minutes. Cider in, spice in, heat on, and a spout filling mugs as fast as the belt brings them. The whole square can drink at once."
-	]
-	"task.352C2B699A63B026.title": "Deliver 6 mince pies a minute for 5 minutes"
-	"reward.1687821E0D2ADDA0.title": "Fireworks!"
-	"quest.0E9A764474DA694C.title": "Mince Pie Production"
-	"quest.0E9A764474DA694C.quest_subtitle": "Six pies a minute."
-	"quest.0E9A764474DA694C.quest_desc": [
-		"Six mince pies a minute for five minutes: mincemeat, pastry, a sequenced line, an oven and a dusting of sugar, all in time. This is a real Christmas factory, and Santa will notice."
-	]
-	"task.50AE6DDFDE6A58CB.title": "Deliver 2 Christmas party buckets a minute for 5 minutes"
-	"reward.53D5A60443D5C9B1.title": "Fireworks!"
-	"quest.1D62A151B43D1961.title": "The Christmas Rush"
-	"quest.1D62A151B43D1961.quest_subtitle": "Two party buckets a minute."
-	"quest.1D62A151B43D1961.quest_desc": [
-		"Two Christmas party buckets a minute for five minutes. Fried chicken, wrapping, fries and cake, all at once. Build this and you are running the busiest kitchen at the North Pole."
 	]
 	"chapter.11D71CA7090F9551.title": "The Casino"
 	"chapter.11D71CA7090F9551.chapter_subtitle": [
@@ -458,20 +461,42 @@
 	"quest.17B3295222734544.quest_desc": [
 		"Walk the floor: blackjack, where the dealer stands on seventeen; Hold'em, where you play your friends and the house only rakes; and roulette, a single zero and a ball that never lies. Every bet is a real chip on the felt."
 	]
-	"quest.299AAAEF4829DB19.title": "The Workshop"
+	"quest.25E6B1D27ECC0874.title": "The Wheel of Gifts"
+	"quest.25E6B1D27ECC0874.quest_subtitle": "Fifty-four segments and a clapper."
+	"quest.25E6B1D27ECC0874.quest_desc": [
+		"Put a chip on a symbol's spot on the felt, then anyone uses the wheel: it spins eight seconds and the clapper picks the segment. Snowflakes pay even money, holly two to one, up to forty to one on Santa or the single lump of Coal. A Gift Chip bets as a 1. In Advent, an empty hand on a symbol takes a free spin once a day, paid in Gift Chips. Win a spin."
+	]
+	"quest.4FD3128EC2BDE93E.title": "Behind the Silver"
+	"quest.4FD3128EC2BDE93E.quest_subtitle": "One card a day, all through Advent."
+	"quest.4FD3128EC2BDE93E.quest_desc": [
+		"From 1 December, click the calendar on an Advent Kiosk for the day's scratch card: 10 chips, one a day until the 24th. Use it and rub off the nine silver panels; three alike win that symbol's prize, up to 2,500 for three Santas. Buy your first card."
+	]
+	"quest.3244EFB48B457838.title": "The Christmas Eve Draw"
+	"quest.3244EFB48B457838.quest_subtitle": "Three winning tickets, drawn live."
+	"quest.3244EFB48B457838.quest_desc": [
+		"Click the kiosk's counter or drum for a draw ticket, 50 chips each, as many as you like. Most of the takings go in the pot, and on 24 December at 20:00 the drum spins live for three winners: half the pot, then three tenths, then a fifth. Buy a ticket."
+	]
+	"quest.299AAAEF4829DB19.title": "The Casino Workshop"
 	"quest.299AAAEF4829DB19.quest_subtitle": "Loom, Press and Lathe, under one roof."
 	"quest.299AAAEF4829DB19.quest_desc": [
-		"Build the Casino Workshop: Site Casing walls, a Loom, a Press and a Lathe on their Line, ports, and the controller, all on one Create drive. When it forms, its stations wake up and the whole casino can be made by machine."
+		"Seven wide, nine deep, six high: an andesite-casing floor over its gearboxes, walls and roof of Site Casing (brick on andesite casing) or Window Casing, the controller mid-front, ports for items, fluid and drive, and a Loom, Press and Lathe on a two-lane Line. Drive it at 16 RPM or more. JEI's Casino Workshop page shows every block."
+		""
+		"{image:cccasino:textures/gui/quest/mb_workshop.png width:200 height:78 align:center}"
+	]
+	"quest.0F03E2ABFFB16E4D.title": "Brass Fittings"
+	"quest.0F03E2ABFFB16E4D.quest_subtitle": "Rolled, turned, polished."
+	"quest.0F03E2ABFFB16E4D.quest_desc": [
+		"A Crafts & Additions Rolling Mill rolls brass ingots into rods, and the Workshop Lathe turns each rod into two rough brass fittings. Polish them with sandpaper, by hand or with a Deployer. Rails, trays, stools and table trim all take fittings, so set the line up once."
 	]
 	"quest.539B89CF91B6A862.title": "Green Baize"
 	"quest.539B89CF91B6A862.quest_subtitle": "Woven, fulled and dyed."
 	"quest.539B89CF91B6A862.quest_desc": [
-		"Mill wool into yarn, then let the Workshop Loom weave it, full it in water and dye it tournament green. Casino felt goes on every table, under every printed layout. It is the first thing your Workshop makes."
+		"Feed the Workshop three string, a green dye and a bucket's worth of water through its ports: the Loom weaves it, fulls it in the water and dyes it tournament green, two felts at a time. Casino felt goes on every table, under every printed layout. It is the first thing your Workshop makes."
 	]
 	"quest.367F247FAC4883D3.title": "A Fresh Deck"
 	"quest.367F247FAC4883D3.quest_subtitle": "Printed, varnished, cut."
 	"quest.367F247FAC4883D3.quest_desc": [
-		"Crush charcoal for carbon black, press a black-core board, print it with red and black ink, varnish it under a Spout and let the Press die-cut a deck. Card varnish is oil and honey, mixed hot."
+		"Smoke charcoal for carbon black, then the Press makes a black-core board from it with paper and water. Print it with red and black ink (dye and seed oil in a mixer), varnish it under a Spout and the Press cuts a deck from two sheets. Card varnish is seed oil and honey in a heated mixer."
 	]
 	"quest.49AF6C93F1CE98F3.title": "The Padded Rail"
 	"quest.49AF6C93F1CE98F3.quest_subtitle": "Spruce, velvet and brass."
@@ -501,7 +526,7 @@
 	"quest.5BD417BE5DE016AD.title": "Deal for Your Friends"
 	"quest.5BD417BE5DE016AD.quest_subtitle": "The small blackjack table."
 	"quest.5BD417BE5DE016AD.quest_desc": [
-		"Make the pieces at the Workshop: a Dealer's Station, a Card Shoe and two Padded Rail Sections. Set them in their two-by-two frame and lay a printed blackjack layout on the felt: the table forms. Put the shoe on Create power, and your friends can play wherever the felt is laid."
+		"Make a Dealer's Station, a Card Shoe and two Padded Rail Sections, set them in their two-by-two frame and lay a printed blackjack layout on the felt: the table forms. Put the shoe on Create power. A mechanical crafter makes two Casino Stools from velvet, a brass fitting and a shaft: seat your friends."
 		""
 		"{image:cccasino:textures/gui/quest/mb_blackjack_table_small.png width:200 height:78 align:center}"
 	]
@@ -636,271 +661,524 @@
 	"chapter.185CCFBD33A4DEFF.chapter_subtitle": [
 		"Let the machines do the cooking."
 	]
+	"quest.104CDB77A0213D10.title": "Egg Yolk on Tap"
+	"quest.104CDB77A0213D10.quest_subtitle": "A roost, a drain, and no more cracking."
+	"quest.104CDB77A0213D10.quest_desc": [
+		"Catch a chicken with an empty roost (or lead it in) and it lays without wandering off; feed it seeds by belt or arm and it lays faster. Roll the eggs over an item drain: each gives 250 mB of yolk and a shell. Yolk goes into cake batter, salty dough, fish fillets and fried rice."
+	]
+	"quest.4BFBB952CD9B7A3A.title": "The Dairy"
+	"quest.4BFBB952CD9B7A3A.quest_subtitle": "Milk in the pipes, butter in the basin."
+	"quest.4BFBB952CD9B7A3A.quest_desc": [
+		"Half the kitchen runs on milk. Pen some cows (a deployer holding a bucket can milk them for you) and drain the buckets into a tank with an item drain. Then churn: a heated mixer turns 500 mB of milk into a block of butter. Cake batter, krokets, cheese and the hotcake stack all drink from this tank."
+	]
+	"quest.561494267C89033E.title": "Autonomous Bee-Keeping"
+	"quest.561494267C89033E.quest_subtitle": "Let the bees fill the tank."
+	"quest.561494267C89033E.quest_desc": [
+		"Run a pipe into a beehive and pump: when the hive is full, the honey flows out as a fluid. A few hives by a flower bed keep a tank topped up with no bottles and no stings. Honey glazes apples, sweetens stroopwafel dough and crowns the hotcake stack."
+	]
+	"quest.0C91B1F3D7CA477C.title": "Balanced Diet"
+	"quest.0C91B1F3D7CA477C.quest_subtitle": "One spout, three fluids, three treats."
+	"quest.0C91B1F3D7CA477C.quest_desc": [
+		"Make chocolate in a heated mixer from sugar, cocoa beans and 250 mB of milk. Then feed one spout from your milk, honey and chocolate tanks in turn: milk on bread for a sweet roll, honey on an apple, chocolate on sweet berries. The advancement only counts if all three come from the same spout."
+	]
+	"quest.752B3FBA592B0F14.title": "Eggnog on Tap"
+	"quest.752B3FBA592B0F14.quest_subtitle": "Milk, eggs, sugar, no heat."
+	"quest.752B3FBA592B0F14.quest_desc": [
+		"Mix 500 mB of milk, two eggs and a spoon of sugar in an unheated basin: out comes 500 mB of eggnog. Pipe it to a tank and let a spout fill glass bottles as they ride past, 250 mB a bottle. The Food Drive will want it by the crate, so build it to run."
+	]
 	"quest.0AF1029F15061223.title": "Flour Power"
 	"quest.0AF1029F15061223.quest_subtitle": "Every bakery starts at the millstone."
 	"quest.0AF1029F15061223.quest_desc": [
-		"Wheat through a millstone makes flour, the start of dough, batter, breadcrumbs and pie crust. A thresher can split the wheat into kernels first, and kernels mill into flour too. A wheat field feeding a millstone is the first thing any good kitchen builds."
+		"Wheat through a millstone makes flour, the start of dough, batter, breadcrumbs and pie crust. A thresher can split wheat into kernels first, which mill into flour too. A wheat field feeding a millstone is the first thing any good kitchen builds."
 	]
 	"quest.1965E573A01EE776.title": "Knead It"
 	"quest.1965E573A01EE776.quest_subtitle": "The mixer does the kneading."
 	"quest.1965E573A01EE776.quest_desc": [
-		"Flour and a bucket's worth of water in a mixer make dough, with no crafting at all. Smoke it for bread, cut it for pasta, or sweeten it for waffles. Pipe a water supply to the basin and the dough keeps coming."
+		"Flour and 1000 mB of water in a mixer make dough, with no crafting at all. A fan blowing through fire bakes it into bread; honey from a spout turns it into stroopwafel dough. Pipe water to the basin and the dough keeps coming."
 	]
 	"quest.093AA491ABBCBEC2.title": "Into the Oven"
 	"quest.093AA491ABBCBEC2.quest_subtitle": "Heat from below, air from the sides."
 	"quest.093AA491ABBCBEC2.quest_desc": [
-		"Stack oven blocks into one oven, set a blaze burner beneath it and oven fans on its walls. Heat and airflow together set its level, and goggles show it. It runs every smoker recipe in bulk: bread, baked moulds, sausages. One oven feeds a village."
+		"Stack oven blocks into one oven, set a blaze burner beneath it and powered oven fans on its walls. Heat and airflow together set its level, and goggles show it. It runs every smoker recipe in bulk: bread, baked moulds, sausages, cocoa beans. Build one; the cake quest proves it bakes."
 	]
-	"quest.104CDB77A0213D10.title": "Egg Yolk on Tap"
-	"quest.104CDB77A0213D10.quest_subtitle": "A roost, a drain, and no more cracking."
-	"quest.104CDB77A0213D10.quest_desc": [
-		"Lead a chicken into a roost and it lays without wandering off; feed it by belt or arm and it lays faster. Roll the eggs over an item drain: each one gives 250 mB of yolk and a shell. Yolk goes into batter, salty dough, fish fillets and fried rice."
+	"quest.6FE8EBBC7B4F346D.title": "Let Them Eat Cake"
+	"quest.6FE8EBBC7B4F346D.quest_subtitle": "Batter, mould, oven, demolder."
+	"quest.6FE8EBBC7B4F346D.quest_desc": [
+		"Press three iron sheets into a cake mould. Mix two flour, sugar, 250 mB of egg yolk and 250 mB of milk into a bucket of batter, spout 500 mB into the mould and bake it in the oven. A mechanical demolder turns out the cake base and sends the mould back round to be filled again."
 	]
-	"quest.1872715D300C1F81.title": "The Basin Is a Pot"
-	"quest.1872715D300C1F81.quest_subtitle": "A hundred and fifty recipes, no stirring."
-	"quest.1872715D300C1F81.quest_desc": [
-		"Most cooking-pot recipes also work in a basin over a blaze burner: the ingredients and the bowl go in together and the mixer cooks. Make fried rice that way, from rice, a carrot, an onion, a bowl and 250 mB of egg yolk."
+	"quest.43A7DF1AD52C0CAD.title": "Stroopwafel Stand"
+	"quest.43A7DF1AD52C0CAD.quest_subtitle": "Honey dough, pressed, glazed, wrapped."
+	"quest.43A7DF1AD52C0CAD.quest_desc": [
+		"Spout 125 mB of honey onto dough for sweet dough and press it flat. Bake it in a fan's smoke, spout 250 mB of chocolate over the top, and let a deployer wrap it in paper. Six stations on one belt, and the first line here that runs from dough to wrapper."
 	]
-	"quest.6E6A527CAA03C0A2.title": "Harvest Day"
-	"quest.6E6A527CAA03C0A2.quest_subtitle": "Every ripe crop, all at once."
-	"quest.6E6A527CAA03C0A2.quest_desc": [
-		"A vacuum harvester charges up on rotation, then pulls in every mature crop around it in one go and keeps them inside for a funnel to take. Build it from a mechanical harvester, a fan, brass casing and a chute, and the fields feed the kitchen on their own."
-	]
-	"quest.3258FD8B6F67A9D6.title": "The Cellar"
-	"quest.3258FD8B6F67A9D6.quest_subtitle": "Some things cannot be hurried."
-	"quest.3258FD8B6F67A9D6.quest_desc": [
-		"A keg ferments drinks from a base fluid and a few ingredients: wheat, seeds and a mushroom on water make beer. Pipes can fill a keg and empty it, and a spout pours it into tankards. Ferment your first drink and start a cellar."
+	"reward.26C62C4DDE2CB078.title": "Fireworks!"
+	"quest.751CBF16A31DFFF7.title": "The Hotcake Stack"
+	"quest.751CBF16A31DFFF7.quest_subtitle": "Ten machines for one breakfast."
+	"quest.751CBF16A31DFFF7.quest_desc": [
+		"Saw a cake mould into a burger-bun mould, then into a pancake mould. Spout batter into it, bake it and demould a pancake. Then a sequenced line deploys two more pancakes and a block of butter onto it and spouts 100 mB of honey on top. This is the bakery at full steam."
 	]
 	"quest.397326F2B72A0AAB.title": "The Thresher"
 	"quest.397326F2B72A0AAB.quest_subtitle": "Separate the good from the chaff."
 	"quest.397326F2B72A0AAB.quest_desc": [
 		"A thresher on a belt strips what passes through it: wheat into kernels, sunflowers into seeds, dried cocoa beans into nibs, and any stone into boil stone for salt. Half the kitchen's ingredients start here. Thresh some stone."
 	]
-	"quest.0C4D9B0740374914.title": "Worth Its Salt"
-	"quest.0C4D9B0740374914.quest_subtitle": "Every recipe needs a pinch."
-	"quest.0C4D9B0740374914.quest_desc": [
-		"Boil stone in a heated mixer with 250 mB of water leaves salt behind, and the stone comes back to use again. Salt goes into mince meat, cheese, salty dough, fish fillets and the secret seasoning. Make a steady supply."
-	]
 	"quest.19AA7CB7279E702E.title": "Bean to Butter"
 	"quest.19AA7CB7279E702E.quest_subtitle": "The chocolatier's secret."
 	"quest.19AA7CB7279E702E.quest_desc": [
-		"Dry cocoa beans in the smoke of a fan or an oven, then thresh them into nibs. A heated mixer melts the nibs into cocoa liquor, and an unheated mix splits the liquor into solids and, usually, cocoa butter. Real chocolate starts here."
+		"Dry cocoa beans in a fan's smoke or the oven, then thresh them into nibs. A heated mixer melts the nibs into cocoa liquor, and an unheated mix splits the liquor into cocoa solids and, three times in four, cocoa butter. A millstone grinds the solids into cocoa powder. Real chocolate starts here."
 	]
 	"quest.3DFFD8787102662E.title": "Bean to Bar"
 	"quest.3DFFD8787102662E.quest_subtitle": "Moulded, frozen, turned out."
 	"quest.3DFFD8787102662E.quest_desc": [
-		"Mix cocoa solids, cocoa butter and sugar in a heated mixer for chocolate. Press two iron sheets into a chocolate mould, spout 250 mB into it and freeze it on a frozen block. A mechanical demolder turns out the bar and sends the mould back round."
+		"Mix cocoa solids, cocoa butter and sugar in a heated mixer for chocolate. Press two iron sheets into a chocolate mould, spout 250 mB into it and drop it on a frozen block to set. A mechanical demolder turns out the bar and sends the mould back round."
 	]
-	"quest.47E3C75BB8E7B4C4.title": "The Continuous Fryer"
+	"quest.36624FA4AD153B0A.title": "Death by Chocolate"
+	"quest.36624FA4AD153B0A.quest_subtitle": "Bean to cake."
+	"quest.36624FA4AD153B0A.quest_desc": [
+		"Spout 500 mB of chocolate over a cake base. It sounds simple, but the chocolate came from beans you dried, threshed and mixed, and the base from a mould you pressed, filled, baked and demoulded. Two whole lines, one cake. Honey instead of chocolate makes a honey cake."
+	]
+	"quest.0C4D9B0740374914.title": "Worth Its Salt"
+	"quest.0C4D9B0740374914.quest_subtitle": "Every recipe needs a pinch."
+	"quest.0C4D9B0740374914.quest_desc": [
+		"Boil stone in a heated mixer with 250 mB of water leaves salt behind, and the stone comes back to use again. Salt goes into mince meat, cheese, salty dough, fish fillets and the secret seasoning. Loop the boil stone back to the basin and it never runs out."
+	]
+	"quest.47E3C75BB8E7B4C4.title": "The Fry Shop"
 	"quest.47E3C75BB8E7B4C4.quest_subtitle": "Hot oil, all day long."
 	"quest.47E3C75BB8E7B4C4.quest_desc": [
-		"Press thresher-stripped sunflower seeds in a basin: each one gives 100 mB of oil. Pipe it to a continuous fryer over a blaze burner and everything that rides through comes out fried, at 125 mB of oil a piece. Run dry and the whole line stops."
+		"Thresh sunflowers for seeds and press them in a basin: 100 mB of oil each. Peel potatoes in a drum processor with sand, saw them into sticks, and ride them through a continuous fryer over a blaze burner at 125 mB of oil a portion. Any cooking oil works; run dry and the line stops."
 	]
 	"quest.15303E2461DFE49D.title": "Golden and Crispy"
 	"quest.15303E2461DFE49D.quest_subtitle": "The first fried drumstick."
 	"quest.15303E2461DFE49D.quest_desc": [
-		"Craft the secret seasoning: flour, beetroot, kelp, salt and onion. A mixer seasons a chicken into a battered drumstick and keel. Mill bread into breadcrumbs, let a drum processor coat the pieces, then fry them golden. One drumstick proves the line works."
+		"Craft the secret seasoning (flour, beetroot, dried kelp, salt and onion; a mechanical crafter can do it). A mixer seasons a raw chicken into a battered drumstick and keel. Mill bread into breadcrumbs, let a drum processor coat the pieces, then fry them golden."
 	]
 	"quest.14B33F2E980204B3.title": "Christmas Fried Chicken"
 	"quest.14B33F2E980204B3.quest_subtitle": "In Japan, this is Christmas dinner."
 	"quest.14B33F2E980204B3.quest_desc": [
-		"Press pulp into cardboard and send it down a sequenced line: deployers add a drumstick, then a keel, twice round. In Japan a bucket of fried chicken is the Christmas meal. It is also the base of the Christmas Party Bucket."
+		"Press pulp into cardboard and send it down a sequenced line: deployers add a drumstick, then a keel, twice round. In Japan a bucket of fried chicken is the Christmas meal, and the Feast wraps this one into the Christmas Party Bucket."
 	]
 	"quest.4F244DA1C9B323B2.title": "Fillet-o-Fish"
 	"quest.4F244DA1C9B323B2.quest_subtitle": "From the net to the fryer."
 	"quest.4F244DA1C9B323B2.quest_desc": [
 		"Put a fishing net on a contraption that moves through water. Mix the catch with salt and 250 mB of egg yolk into a raw fillet, coat it in breadcrumbs in the drum processor and fry it. Net, mixer, drain, millstone, drum and fryer, all in one sandwich."
 	]
+	"quest.42862071A78ABF3C.title": "Doughnut Run"
+	"quest.42862071A78ABF3C.quest_subtitle": "Tumbled, fried, dipped."
+	"quest.42862071A78ABF3C.quest_desc": [
+		"Mix flour, salt and 100 mB of egg yolk into salty dough. The drum processor tumbles it with butter into a ring, the fryer turns the ring into a doughnut, and a spout dips it in 250 mB of chocolate. Three machines you already own, one new sweet."
+	]
+	"quest.308AB79126E02A54.title": "The Snack Bar"
+	"quest.308AB79126E02A54.quest_subtitle": "Deep-fried, on bread, with both sauces."
+	"quest.308AB79126E02A54.quest_desc": [
+		"Mix beef, two flour and 250 mB of milk into a raw kroket and deep-fry it in a mechanical fryer: a head over a basin of oil, heated by a blaze burner. A deployer lays it on bread. Mix ketchup hot (sugar, milled nether wart, tomatoes, water) and mayonnaise cold (three eggs, milk), then spout both on."
+	]
 	"quest.5D169C350172042A.title": "The Sausage Line"
 	"quest.5D169C350172042A.quest_subtitle": "Mince, case, squeeze, smoke."
 	"quest.5D169C350172042A.quest_desc": [
-		"Mix raw meat and salt into mince. Saw slime balls into casings, and fill each casing with 250 mB of mince in a squeeze basin. Smoke the raw sausage, then a deployer lays it in bread. Make a hot dog from start to finish."
+		"Mix raw meat and salt into mince. Saw slime balls into casings, and fill each casing with 250 mB of mince in a squeeze basin. Smoke the raw sausage, then a deployer lays it in bread. Compost kelp, salt and water into slime and the casings never run out."
 	]
-	"quest.6FE8EBBC7B4F346D.title": "Let Them Eat Cake"
-	"quest.6FE8EBBC7B4F346D.quest_subtitle": "Batter, mould, oven, demolder."
-	"quest.6FE8EBBC7B4F346D.quest_desc": [
-		"Press three iron sheets into a cake mould. Mix two flour, sugar, 250 mB of yolk and 250 mB of milk into a bucket of batter, spout 500 mB into the mould and bake it. A mechanical demolder turns out the cake base and sends the mould back round."
+	"quest.1872715D300C1F81.title": "The Basin Is a Pot"
+	"quest.1872715D300C1F81.quest_subtitle": "A hundred and fifty recipes, no stirring."
+	"quest.1872715D300C1F81.quest_desc": [
+		"Most cooking-pot recipes also work in a basin over a blaze burner: ingredients and bowl go in together and the mixer cooks. Make fried rice from rice, a carrot, an onion, a bowl and 250 mB of egg yolk. A pot on a burner, fed by a mechanical arm, works too."
 	]
-	"quest.36624FA4AD153B0A.title": "Death by Chocolate"
-	"quest.36624FA4AD153B0A.quest_subtitle": "Bean to cake."
-	"quest.36624FA4AD153B0A.quest_desc": [
-		"Spout 500 mB of chocolate over a cake base. It sounds simple, but the chocolate came from beans you dried, threshed and mixed, and the base from a mould you pressed, filled, baked and demoulded. Two whole lines, one cake."
+	"quest.6FF29D5D06B3C901.title": "Soup by the Tank"
+	"quest.6FF29D5D06B3C901.quest_subtitle": "Ladle it out with a spout."
+	"quest.6FF29D5D06B3C901.quest_desc": [
+		"A heated basin turns raw beef, a carrot and a potato into 333 mB of beef stew, or carrot, potato, beetroot and cabbage into vegetable soup. Pipe it to a tank; a spout fills a bowl from every 333 mB. Fill a bucket from the tank to prove the soup flows. The soup kitchen runs on this."
 	]
-	"reward.26C62C4DDE2CB078.title": "Fireworks!"
-	"quest.751CBF16A31DFFF7.title": "The Hotcake Stack"
-	"quest.751CBF16A31DFFF7.quest_subtitle": "Ten machines for one breakfast."
-	"quest.751CBF16A31DFFF7.quest_desc": [
-		"Saw a cake mould twice into a pancake mould, fill it with batter, bake it and demould a pancake. Churn milk into butter in a heated mixer. Then a sequenced line stacks two more pancakes, the butter and a spout of honey. This is the kitchen at full steam."
+	"quest.78524E3605A2C3CD.title": "Dinner on a Belt"
+	"quest.78524E3605A2C3CD.quest_subtitle": "Six stations, one shepherd's pie."
+	"quest.78524E3605A2C3CD.quest_desc": [
+		"A bowl rides a sequenced line: deployers add two cooked mutton, a baked potato and an onion, then a spout pours on 250 mB of milk. Out comes a whole shepherd's pie. Roast chicken, apple pie and twenty more dinners assemble the same way; JEI lists them."
+	]
+	"quest.41DAAB6F39C06A5A.title": "The Cider Press"
+	"quest.41DAAB6F39C06A5A.quest_subtitle": "Four apples, one press."
+	"quest.41DAAB6F39C06A5A.quest_desc": [
+		"Press four apples in a basin for 500 mB of apple cider, or heat two apples, sugar and water in a mixer. Pipe the cider to a tank and spout it into bottles, 250 mB each. The Feast spices it into mulled cider, so keep the press running."
+	]
+	"quest.3258FD8B6F67A9D6.title": "The Cellar"
+	"quest.3258FD8B6F67A9D6.quest_subtitle": "Some things cannot be hurried."
+	"quest.3258FD8B6F67A9D6.quest_desc": [
+		"A keg ferments drinks from a base fluid and a few ingredients: wheat, seeds and a brown mushroom on 1000 mB of water make beer. Pipes can fill a keg and empty it, and a spout pours it into tankards. Ferment your first drink and start a cellar."
+	]
+	"quest.6365D13CA1516F04.title": "Say Cheese"
+	"quest.6365D13CA1516F04.quest_subtitle": "Ferment it, then wait."
+	"quest.6365D13CA1516F04.quest_desc": [
+		"Pipe 1000 mB of milk into a keg with a pinch of salt and keep it warm, with a heat source beside it, for an unripe cheese wheel. Age it in a cask for a minute or so. Arms and packagers can load the cask, and a wheel left in longer becomes Aged, Fine, then Reserve."
+	]
+	"quest.6E6A527CAA03C0A2.title": "Harvest Day"
+	"quest.6E6A527CAA03C0A2.quest_subtitle": "Every ripe crop, all at once."
+	"quest.6E6A527CAA03C0A2.quest_desc": [
+		"A vacuum harvester charges up on rotation, then pulls in every mature crop around it in one go and keeps them inside for a funnel to take. Build it from a mechanical harvester, a fan, brass casing and a chute, and the fields feed the kitchen on their own."
 	]
 	"chapter.7F369D70FE74A142.title": "A Christmas Feast"
 	"chapter.7F369D70FE74A142.chapter_subtitle": [
 		"Sweets, drinks and the big dinner."
 	]
+	"quest.36281AD7B202F696.title": "The Christmas Pantry"
+	"quest.36281AD7B202F696.quest_subtitle": "Icing sugar, peppermint, holly."
+	"quest.36281AD7B202F696.quest_desc": [
+		"Three things every Christmas recipe here starts from. Mill sugar into icing sugar and candy canes into crushed peppermint, and craft holly sprigs from sweet berries and leaves. Keep a millstone on each and the whole menu opens up."
+	]
 	"quest.218B55EFD010CFEC.title": "Christmas Cookies"
 	"quest.218B55EFD010CFEC.quest_subtitle": "Stars, iced, by the tray."
 	"quest.218B55EFD010CFEC.quest_desc": [
-		"Mill sugar into icing sugar, mix cookie dough, press it into stars, bake them in a fan's smoke and ice them under a spout. One iced cookie proves the line works. Santa expects a plate on every mantelpiece."
+		"Mix two flour, sugar, butter and an egg into four cookie dough, and press each dough into two stars. Bake them in a fan's smoke or an oven. Mix two icing sugar with 100 mB of milk for icing, and a spout ices each cookie with 50 mB. Sneak to set one down: a plate holds four."
+	]
+	"quest.4A21F4609A9463F1.title": "Gingerbread Men"
+	"quest.4A21F4609A9463F1.quest_subtitle": "Pressed, not cut."
+	"quest.4A21F4609A9463F1.quest_desc": [
+		"Gingerdough is sugar, cinder flour, wheat flour and 250 mB of honey, mixed. Cinder flour comes from crushing netherrack between crushing wheels. A press over a belt stamps each dough into a gingerbread man; an oven or a fan's smoke bakes plain gingerbread instead."
+	]
+	"quest.1D97EFF2528F8063.title": "A Gingerbread House"
+	"quest.1D97EFF2528F8063.quest_subtitle": "Every village needs one."
+	"quest.1D97EFF2528F8063.quest_desc": [
+		"Four gingerdough make a gingerbread block; four blocks make bricks, and a stonecutter turns them into stairs and slabs. Candy canes make candy cane blocks for the corners, and a press compacts sugar with dye fluid into gumdrops for the roof. Build a real house, with a lit window."
 	]
 	"quest.4D56E6D890C10155.title": "Peppermint Bark"
-	"quest.4D56E6D890C10155.quest_subtitle": "Chocolate, white chocolate, peppermint, saw."
+	"quest.4D56E6D890C10155.quest_subtitle": "Two chocolates, peppermint, a saw."
 	"quest.4D56E6D890C10155.quest_desc": [
-		"Mill candy canes into crushed peppermint. A chocolate bar gets white chocolate from the spout, a scattering of peppermint from a deployer and a firm press, then a saw cuts the slab into pieces for the Christmas tin."
+		"Heat sugar, cocoa butter and 250 mB of milk for white chocolate. On a sequenced line a chocolate bar takes 250 mB of white chocolate from a spout, crushed peppermint from a deployer and a firm press. A saw cuts each slab into four pieces for the Christmas tin."
 	]
 	"quest.273FFFA1BD6ED44E.title": "Mince Pies"
 	"quest.273FFFA1BD6ED44E.quest_subtitle": "One for Santa's plate."
 	"quest.273FFFA1BD6ED44E.quest_desc": [
-		"Heated mixing turns apples, raisins, ginger and butter into mincemeat. Press puff pastry into cases, fill and lid them on a sequenced line, bake them, and dust them with icing sugar. Leave one out for Santa."
+		"Heat two apples, two raisins, sugar, ginger and butter into 500 mB of mincemeat. Mix flour, sugar and butter into puff pastry and press it into cases. A sequenced line spouts 100 mB of mincemeat, lids it with pastry and crimps it. Bake, then a deployer dusts on icing sugar."
 	]
 	"quest.0381E588199B1136.title": "The Yule Log"
 	"quest.0381E588199B1136.quest_subtitle": "Rolled, barked, crowned with holly."
 	"quest.0381E588199B1136.quest_desc": [
-		"A sponge from the cake mould, filled with chocolate, rolled in the press, bark-coated with cocoa powder and topped with a holly sprig. It takes the bakery, the chocolatier and a sequenced line to make one."
+		"A cake base from the kitchen's mould rides a sequenced line: 250 mB of chocolate from a spout, rolled under a press, barked with cocoa powder (milled cocoa solids) and crowned with holly. It sets down as a feast of four slices. Sneak with an empty hand to pick it up whole."
 	]
 	"quest.7FD24F3D2D6988BB.title": "Christmas Pudding, Alight"
 	"quest.7FD24F3D2D6988BB.quest_subtitle": "Steamed, crowned, set on fire."
 	"quest.7FD24F3D2D6988BB.quest_desc": [
-		"Mix the batter hot, spout it into a bowl, steam it in front of a fan blowing through water and let a deployer crown it with holly. Then a fan blowing over lava sets it alight, so it arrives at the table flaming."
+		"Heat two flour, two raisins, sugar, an egg, butter and 100 mB of honey into pudding batter, and spout 250 mB into a bowl. Steam it in a fan blowing through water, crown it with holly, then a fan blowing through lava sets it alight. It arrives at the table flaming."
 	]
 	"quest.6EC26317596FD2F4.title": "Mulled Cider"
 	"quest.6EC26317596FD2F4.quest_subtitle": "The carollers' favourite."
 	"quest.6EC26317596FD2F4.quest_desc": [
-		"Heat apple cider in a basin with ginger and sugar, pipe the mulled cider into a tank, and let a spout fill mugs as they roll past. Any mod's cider works. The carollers will be back after every song."
+		"Craft Christmas mugs from two bricks and red dye. Heat two apples, sugar and 250 mB of water for cider (any mod's cider works), then heat 500 mB with ginger and sugar into mulled cider. Pipe it to a tank, and a spout fills a mug with 250 mB as each one rolls past."
+	]
+	"quest.0525945AE95A8C79.title": "Wassail"
+	"quest.0525945AE95A8C79.quest_subtitle": "Wassail! Wassail! All over the town."
+	"quest.0525945AE95A8C79.quest_desc": [
+		"Mix sugar, two oranges and 250 mB of water for orange juice. Then heat 250 mB of mulled cider, 250 mB of orange juice, a cranberry and a honey bottle into wassail, and fill mugs from the same spout. It is the strongest drink on the menu: regeneration and resistance."
+	]
+	"quest.41E65FB3CFA71618.title": "Gingerbread Latte"
+	"quest.41E65FB3CFA71618.quest_subtitle": "For the night shift."
+	"quest.41E65FB3CFA71618.quest_desc": [
+		"Heat two coffee beans with 250 mB of water for coffee. Heat that with 250 mB of milk, ginger and sugar for the latte base, and spout it into a mug. Two minutes of haste per cup, so keep a tank of it beside the workshop."
+	]
+	"quest.1D3F0EA276A1FF03.title": "Peppermint Hot Chocolate"
+	"quest.1D3F0EA276A1FF03.quest_subtitle": "Cocoa, made properly."
+	"quest.1D3F0EA276A1FF03.quest_desc": [
+		"Mill cocoa solids into cocoa powder, and heat sugar, two powder and 250 mB of milk for hot chocolate; any mod's hot cocoa fluid also works. Heat 250 mB with crushed peppermint for peppermint cocoa, and spout it into a mug."
 	]
 	"quest.625FF1E0791A1A67.title": "The Deluxe"
 	"quest.625FF1E0791A1A67.quest_subtitle": "Marshmallows. A candy cane. Perfection."
 	"quest.625FF1E0791A1A67.quest_desc": [
-		"A spout fills a Christmas mug with hot chocolate, then deployers top it with a marshmallow and a candy cane, all on one sequenced line. The North Pole's finest drink, and worth every second of the build."
+		"Heat two sugar, a slime ball and 250 mB of water for eight marshmallows; with a mundane potion instead of water you get four candy canes. On a sequenced line a mug takes 250 mB of hot chocolate, a marshmallow and a candy cane. The North Pole's finest drink."
+	]
+	"quest.3A6B51BCBD69EBCD.title": "Punch and Milkshakes"
+	"quest.3A6B51BCBD69EBCD.quest_subtitle": "Something cold for the children's table."
+	"quest.3A6B51BCBD69EBCD.quest_desc": [
+		"Heat a lemon slice, sugar and four cranberries for cranberry jam, then mix 250 mB of it cold with 250 mB of orange juice, ice and sugar for punch. Saw ice into cubes, mix two with sugar and 500 mB of milk for ice cream base, then add milk and peppermint and pour it into a tall cup."
 	]
 	"quest.165F13210E83C72D.title": "Roast Potatoes"
 	"quest.165F13210E83C72D.quest_subtitle": "Crispy outside, fluffy inside."
 	"quest.165F13210E83C72D.quest_desc": [
-		"Baked potatoes finished in the fryer in any cooking oil. Golden, crunchy, and gone in seconds. A Christmas dinner without them is not a Christmas dinner."
+		"Baked potatoes ride through the fryer in 125 mB of any cooking oil and come out as two portions of roast potatoes. Bake the potatoes in an oven or a fan's smoke on the way in, and the whole line runs from the potato farm."
 	]
 	"quest.5713C778265B627E.title": "Pigs in Blankets"
 	"quest.5713C778265B627E.quest_subtitle": "Sausages, wrapped in bacon."
 	"quest.5713C778265B627E.quest_desc": [
-		"A deployer wraps bacon round each sausage, then a fan's smoke cooks them through. Everyone takes one more than their share, so once the line runs, keep it running for the late arrivals."
+		"Any raw meat crafts into a raw sausage, and a knife or a Slice and Dice slicer cuts porkchops into bacon. A deployer wraps the bacon round each sausage, then a fan's smoke cooks them through. Everyone takes one more than their share."
 	]
-	"quest.06A2643E279627EC.title": "Proper Gravy"
-	"quest.06A2643E279627EC.quest_subtitle": "Thick enough to stand a spoon in."
-	"quest.06A2643E279627EC.quest_desc": [
-		"Flour, beef and water, heated in a basin until it thickens. Pipe it into a tank. The platter takes it by spout, and so does anyone who walks past with a plate. Stuffing mixes hot in the same basin."
+	"quest.16B3C5D39B428563.title": "Stuffing and Gravy"
+	"quest.16B3C5D39B428563.quest_subtitle": "The trimmings make the dinner."
+	"quest.16B3C5D39B428563.quest_desc": [
+		"Mill bread into breadcrumbs, and heat two breadcrumbs with an onion and an egg for two stuffing. In a second basin heat flour, raw beef and 500 mB of water into gravy, and pipe it into a tank beside the platter line. The platter takes 250 mB."
+	]
+	"quest.2DED4D36DD880F59.title": "The Christmas Ham"
+	"quest.2DED4D36DD880F59.quest_subtitle": "Honey-glazed, on a bed of rice."
+	"quest.2DED4D36DD880F59.quest_desc": [
+		"Smoke a ham from a pig. On a sequenced line, cooked rice takes the smoked ham, sweet berries and 250 mB of honey from a spout, and comes off as a whole honey-glazed ham to carve at the table. The same kind of line roasts a chicken: a bowl, then six deployers."
 	]
 	"reward.172441F3FDBB073A.title": "Fireworks!"
 	"quest.47CA656304C804DD.title": "Christmas Dinner"
 	"quest.47CA656304C804DD.quest_subtitle": "The whole table, on one platter."
 	"quest.47CA656304C804DD.quest_desc": [
-		"A roast, then roast potatoes, pigs in blankets and stuffing, gravy and cranberry, all on a sequenced line. This is the centrepiece of the Christmas Day feast, and the best dish the Food Drive will ever see."
+		"Start from a roast chicken off a sequenced line, then deploy roast potatoes, pigs in blankets and stuffing, and spout 250 mB of gravy and 100 mB of cranberry jam (heated lemon, sugar and cranberries). Five stations, three supply lines, one four-serving feast."
 	]
-	"reward.6F9EC56D5F3A8FFF.title": "Fireworks!"
 	"quest.11F5DC58C84D39B9.title": "The Christmas Party Bucket"
 	"quest.11F5DC58C84D39B9.quest_subtitle": "Wrapped, with fries and cake."
 	"quest.11F5DC58C84D39B9.quest_desc": [
-		"Take a bucket of fried chicken, wrap it in Christmas paper, and add fries and a slice of cake on a deployer line. It is the whole Christmas party in one bucket, and it feeds a whole team after a long build."
+		"Take a bucket of fried chicken from the kitchen and send it down a sequenced line: deployers wrap it in red wrapping paper, add fries and add a slice of cake. Cut a cake into slices with a knife or a Slice and Dice slicer. It feeds a whole team after a long build."
+	]
+	"quest.584718B49E37049D.title": "Set the Table"
+	"quest.584718B49E37049D.quest_subtitle": "Plates, mugs and somewhere to sit."
+	"quest.584718B49E37049D.quest_desc": [
+		"Sneak to set a dish down. Cookies and mince pies stack four to a plate, a mug stands on the table until someone drinks it, and a feast serves four before the plate is empty. Many other mods' dishes can be set down too, and food plates from wooden slabs hold the plated ones. Lay four places."
+	]
+	"reward.45C9B17D9D040E53.title": "Fireworks!"
+	"quest.3E893C6D585F9DD2.title": "The Christmas Table"
+	"quest.3E893C6D585F9DD2.quest_subtitle": "Everything on the table at once."
+	"quest.3E893C6D585F9DD2.quest_desc": [
+		"A Christmas dinner platter, a flaming pudding and a Yule log, all on the table at once: three feasts, twelve servings, with cookies, mince pies and mugs between them. Set it all down, then call everyone in for dinner. Merry Christmas."
+	]
+	"task.723DF24FCA28DA84.title": "Deliver 12 iced cookies a minute for 3 minutes"
+	"quest.6FDD05866923EE81.title": "Cookie Conveyor"
+	"quest.6FDD05866923EE81.quest_subtitle": "Twelve iced cookies a minute."
+	"quest.6FDD05866923EE81.quest_desc": [
+		"Mixer, press, fan, spout: twelve iced cookies a minute for three minutes, into a North Pole Tally. Every stage has to keep up with the next, so you find out exactly where your line is slow. Two presses on one belt usually fix it."
+	]
+	"task.3EA739BD0E899744.title": "Deliver 10 mugs of mulled cider a minute for 5 minutes"
+	"quest.3F2DFDA4FFC01484.title": "Cider on Tap"
+	"quest.3F2DFDA4FFC01484.quest_subtitle": "Ten mugs a minute."
+	"quest.3F2DFDA4FFC01484.quest_desc": [
+		"Ten mugs of mulled cider a minute for five minutes. Cider in, spice in, heat on, and a spout filling mugs as fast as the belt brings them. A tank between the basin and the spout keeps the line running while the mixer works."
+	]
+	"task.2AE0FAB217F0ACB3.title": "Deliver 6 mince pies a minute for 5 minutes"
+	"reward.78C76BD11691E75E.title": "Fireworks!"
+	"quest.0A7B6AF59AD4B18A.title": "Mince Pie Production"
+	"quest.0A7B6AF59AD4B18A.quest_subtitle": "Six pies a minute."
+	"quest.0A7B6AF59AD4B18A.quest_desc": [
+		"Six mince pies a minute for five minutes: mincemeat, pastry, a sequenced line, an oven and a dusting of sugar, all in time. Run two sequenced lines side by side off one mincemeat tank. Santa will notice."
+	]
+	"task.7B75F1F1A7C6478B.title": "Deliver 2 Christmas party buckets a minute for 5 minutes"
+	"reward.4E5E22832A2F17B7.title": "Fireworks!"
+	"quest.26C1493987D0BABB.title": "The Christmas Rush"
+	"quest.26C1493987D0BABB.quest_subtitle": "Two party buckets a minute."
+	"quest.26C1493987D0BABB.quest_desc": [
+		"Two Christmas party buckets a minute for five minutes. Fried chicken, wrapping paper, fries and cake, all arriving on time. Build this and you are running the busiest kitchen at the North Pole."
 	]
 	"chapter.39D6EA83EC71F3F6.title": "The Food Drive"
 	"chapter.39D6EA83EC71F3F6.chapter_subtitle": [
 		"Nobody goes hungry at Christmas."
 	]
-	"quest.51B302B3A7D0FB85.title": "Bread for Everyone"
-	"quest.51B302B3A7D0FB85.quest_subtitle": "The first donation is the easiest."
+	"quest.09D4946D3A53AAD9.title": "The Food Drive"
+	"quest.09D4946D3A53AAD9.quest_subtitle": "Nobody goes hungry at Christmas."
+	"quest.09D4946D3A53AAD9.quest_desc": [
+		"The North Pole has a pantry to fill before Christmas. Put down a cooking pot and the Food Drive opens. Its stalls take food every day and open again the next: bring what your farms and kitchens make, and the better the food, the better the thanks."
+	]
+	"quest.426BD395781589F0.title": "Packed for Winter"
+	"quest.426BD395781589F0.quest_subtitle": "Nine in, one crate out."
+	"quest.426BD395781589F0.quest_desc": [
+		"A mechanical press over a basin packs nine of anything into one: wheat into hay bales, potatoes and carrots into crates. Packed food stacks tight, rides a belt in a ninth of the space and is how the Drive's pantry likes it. Pack your first harvest."
+	]
+	"quest.2717ECAC505E7892.title": "The Pantry Restocks Itself"
+	"quest.2717ECAC505E7892.quest_subtitle": "A supply line, not a shopping trip."
+	"quest.2717ECAC505E7892.quest_desc": [
+		"Point a factory gauge at your packed food and let it order its own top-ups: when the crates run low, packages leave the farm, ride the chain and land in the pantry. Set it up once and the Drive's stalls never wait on you again."
+	]
+	"quest.19C3F2C1A2E9B511.title": "A Glorious Feast"
+	"quest.19C3F2C1A2E9B511.quest_subtitle": "Big enough to share."
+	"quest.19C3F2C1A2E9B511.quest_desc": [
+		"Some meals are placed on the table and served by the bowl. A sequenced line of deployers builds a roast chicken: chicken, baked potato, carrot, onion, egg and bread on a bowl. Put one down, and the Drive's feast and Christmas stalls open."
+	]
+	"reward.10C053D2A39A6F47.title": "Fireworks!"
+	"quest.6456CD14975F13E0.title": "Every Dish on the Menu"
+	"quest.6456CD14975F13E0.quest_subtitle": "Somebody has to taste it all."
+	"quest.6456CD14975F13E0.quest_desc": [
+		"Before anything goes out to the village, the Drive's cook tastes it. Eat one of each of Farmer's Delight's 27 meals: every stew, soup, pasta, salad and feast. A kitchen that can make all of them can feed anyone who knocks at the door."
+	]
+	"quest.5F312240B70F2CB0.title": "Fill the Granary"
+	"quest.5F312240B70F2CB0.quest_subtitle": "Sixteen bales a day."
+	"quest.5F312240B70F2CB0.quest_desc": [
+		"Sixteen hay bales for the granary, every day. A wheat farm, a harvester and a press over a basin can do the lot without you. The bales are taken when you hand them in, and the stall opens again tomorrow."
+	]
+	"quest.13DF9A6DB4562743.title": "The Root Cellar"
+	"quest.13DF9A6DB4562743.quest_subtitle": "Crates that keep all winter."
+	"quest.13DF9A6DB4562743.quest_desc": [
+		"Eight crates each of potatoes, carrots and onions for the root cellar. Three crops, one press: a filtered funnel sorts each crop to its own basin. The crates are taken on hand-in, and the cellar wants more tomorrow."
+	]
+	"quest.51B302B3A7D0FB85.title": "The Bread Line"
+	"quest.51B302B3A7D0FB85.quest_subtitle": "Forty-eight loaves a day."
 	"quest.51B302B3A7D0FB85.quest_desc": [
-		"The Food Drive feeds the North Pole through the winter. Donate eight loaves: a wheat farm and an early mixer make short work of it. The loaves are taken when you hand them in, for the Food Drive."
+		"Forty-eight loaves for the bread line, every day. Mill wheat, mix dough with water and blow it through a fan's smoke: bread comes off the belt with nobody touching it. The loaves are taken, and the line forms again tomorrow."
 	]
-	"quest.7D89233F09399E37.title": "Soup Kitchen"
-	"quest.7D89233F09399E37.quest_subtitle": "Ladle it out, one bowl at a time."
+	"quest.7D89233F09399E37.title": "The Soup Kitchen"
+	"quest.7D89233F09399E37.quest_subtitle": "Soup by the tank."
 	"quest.7D89233F09399E37.quest_desc": [
-		"Vegetable soup is the soup kitchen's backbone: cheap, warm and filling. Donate four bowls. A cooking pot and a small vegetable garden is all it takes, and every bowl goes to someone who needs it."
+		"Sixteen bowls of vegetable soup a day. A heated mixer turns carrots, potatoes, beetroot and cabbage into soup by the tank, and a spout fills a bowl from every 333 mB. Pipe it, bowl it, belt it to the stall."
 	]
-	"quest.5DA38DD6354A78CA.title": "Something Hearty"
-	"quest.5DA38DD6354A78CA.quest_subtitle": "A stew feeds a family."
-	"quest.5DA38DD6354A78CA.quest_desc": [
-		"Raw crops feed a few. A pot of stew feeds a family. Donate four bowls of beef stew. A cooking pot on a heater with an arm feeding it can make them while you do something more interesting."
+	"quest.44D34E07BF8EDB9F.title": "Warm Drinks for the Carollers"
+	"quest.44D34E07BF8EDB9F.quest_subtitle": "Cocoa and eggnog, by the crate."
+	"quest.44D34E07BF8EDB9F.quest_desc": [
+		"Eight hot cocoas and eight eggnogs a day for the carollers and the Workshop's night shift. Both mix in a basin with 250 mB of milk and a bottle: cocoa beans and sugar over heat, egg and ginger cold. Pipe the milk in and they never stop."
 	]
 	"quest.0D7A3F7C9482CF16.title": "Pies in the Window"
-	"quest.0D7A3F7C9482CF16.quest_subtitle": "The bakery smells like Christmas."
+	"quest.0D7A3F7C9482CF16.quest_subtitle": "Eight a day for the bakery."
 	"quest.0D7A3F7C9482CF16.quest_desc": [
-		"Two whole apple pies for the bakery window. Orchards, wheat and sugar all have to come together for this one. It is a good reason to automate a farm or two before the snow gets deep."
+		"Eight apple pies for the bakery window, every day. A sequenced line lays apple, flour and sugar into a pie crust, twice round. An orchard, a wheat field and a sugar farm all have to feed it, so automate them before the snow gets deep."
 	]
-	"quest.6FD3F2ACD55DFA04.title": "Cocoa for the Carollers"
-	"quest.6FD3F2ACD55DFA04.quest_subtitle": "Nothing warms a choir faster."
-	"quest.6FD3F2ACD55DFA04.quest_desc": [
-		"The carollers sing every night in the square, and their throats need warming. Donate four hot cocoas. Cocoa beans grow in the jungle, so this one needs a proper expedition or a trade."
+	"quest.26E4DEAAB2E16637.title": "Fried Chicken Friday"
+	"quest.26E4DEAAB2E16637.quest_subtitle": "Every day is Friday at the Drive."
+	"quest.26E4DEAAB2E16637.quest_desc": [
+		"Four buckets of fried chicken a day. The seasoning, the batter, the breadcrumbs, the fryer and the bucket line all have to run together. A bucket feeds a whole team after a long shift, which is why the Drive pays well for it."
 	]
-	"quest.477C79F006FA86CD.title": "Eggnog for the Elves"
-	"quest.477C79F006FA86CD.quest_subtitle": "Heavy on the nutmeg."
-	"quest.477C79F006FA86CD.quest_desc": [
-		"Four glasses of eggnog for the Workshop's night shift. Eggs, milk and sugar, and a little ginger from the snowy hills. The elves wrap twice as fast after a glass, or so they claim."
+	"quest.6A82BD2BA3F04AEB.title": "Hot Dogs at the Rink"
+	"quest.6A82BD2BA3F04AEB.quest_subtitle": "Sixteen a day for the skaters."
+	"quest.6A82BD2BA3F04AEB.quest_desc": [
+		"The lake has frozen and the skaters are hungry. Sixteen hot dogs a day: mince, casing, squeeze, smoke, and a deployer lays each sausage in its bread. Keep the salt and the slime coming and the line never stalls."
 	]
-	"reward.1B26A28DBE4C9720.title": "Fireworks!"
-	"quest.3DEB7AAEEF0D4597.title": "A Proper Feast"
-	"quest.3DEB7AAEEF0D4597.quest_subtitle": "Set the long table."
-	"quest.3DEB7AAEEF0D4597.quest_desc": [
-		"A roast chicken from the pot and a yule log from your Create kitchen: the kind of food a whole village sits down to. This is the Food Drive at its best, with machine-made dishes, for people you have never met."
+	"quest.2CBCFE0DD3F441A9.title": "Sunday Roasts"
+	"quest.2CBCFE0DD3F441A9.quest_subtitle": "Feasts that feed four."
+	"quest.2CBCFE0DD3F441A9.quest_desc": [
+		"Two roast chickens and two shepherd's pies a day, each one a feast that serves four. Deployers lay the mutton, potato and onion, and a spout pours the milk. Two sequenced lines side by side make the whole order."
+	]
+	"quest.7AEE8E7F184871C2.title": "A Tin for Every Mantel"
+	"quest.7AEE8E7F184871C2.quest_subtitle": "Sixteen iced cookies a day."
+	"quest.7AEE8E7F184871C2.quest_desc": [
+		"Every house in the village wants a plate out for Santa. Sixteen iced Christmas cookies a day, from now until Christmas Eve. Your cookie line already works; now it needs to run all evening."
+	]
+	"quest.5DB2C8BB0E34083D.title": "Mince Pies for the Carol Service"
+	"quest.5DB2C8BB0E34083D.quest_subtitle": "Sixteen a day through Advent."
+	"quest.5DB2C8BB0E34083D.quest_desc": [
+		"The carol service runs every night in December, and every singer gets a mince pie. Sixteen a day: mincemeat, pastry, the sequenced line and a dusting of sugar, all running while you are out."
+	]
+	"quest.1DEBF1E02B20CBDA.title": "Mulled Cider in the Square"
+	"quest.1DEBF1E02B20CBDA.quest_subtitle": "Sixteen mugs a day."
+	"quest.1DEBF1E02B20CBDA.quest_desc": [
+		"The square fills up every evening in December, and the cider has to keep pace. Sixteen mugs a day. Keep the tank hot and the mugs coming back from the wash, and the spout will do the rest."
+	]
+	"quest.43AF7E149A55796D.title": "Christmas Dinners for the Village"
+	"quest.43AF7E149A55796D.quest_subtitle": "The best the Drive will see."
+	"quest.43AF7E149A55796D.quest_desc": [
+		"Two Christmas dinner platters and two Christmas party buckets a day: the biggest dishes in the North Pole, for the families who cannot make their own. It takes every line you have, so the Drive pays more for it than for anything else."
 	]
 	"chapter.4B4184B5EF1E544A.title": "Rails and Skies"
 	"chapter.4B4184B5EF1E544A.chapter_subtitle": [
 		"The North Pole is a long way from everywhere."
 	]
 	"quest.00754BCDE6C9641E.title": "Lay the First Mile"
-	"quest.00754BCDE6C9641E.quest_subtitle": "Every rail network starts with a single line."
+	"quest.00754BCDE6C9641E.quest_subtitle": "Sleepers, nuggets and a press."
 	"quest.00754BCDE6C9641E.quest_desc": [
-		"Track comes off a sequenced line: sleepers, then rails by deployer and press. Make eight pieces to start a line between your base and the village. Trains carry more than any belt, and the people who own the rails decide where the North Pole grows."
+		"Track is made on a sequenced line: a stone, smooth stone or andesite slab gets two iron or zinc nuggets from deployers, then a press. Make a stack. To lay it, click one track, then the spot where the line should end. Hold sprint for the widest curve; blocks in your off hand pave underneath."
 	]
-	"quest.3376332F85C2BC37.title": "All Aboard"
-	"quest.3376332F85C2BC37.quest_subtitle": "A train needs somewhere to stop."
+	"task.32AF803CCDA09DAD.title": "Make railway casing"
+	"quest.5E16FB8B30A23365.title": "The Locomotive Age"
+	"quest.5E16FB8B30A23365.quest_subtitle": "Sturdy sheets on brass."
+	"quest.5E16FB8B30A23365.quest_desc": [
+		"Crush obsidian between crushing wheels for powdered obsidian. On a sequenced line, spout 500 mB of lava onto the powder and press it twice: a sturdy sheet. Use a sturdy sheet on brass casing for railway casing. Stations, signals, bogeys and train controls are all built from it."
+	]
+	"quest.3376332F85C2BC37.title": "A Place to Stop"
+	"quest.3376332F85C2BC37.quest_subtitle": "The waypoints of your network."
 	"quest.3376332F85C2BC37.quest_desc": [
-		"A station needs railway casing: sturdy sheets from a lava-filled sequenced line, applied to brass casing. It is where trains are built, named and sent on their way. Put one at each end of your line."
+		"Railway casing and a compass make two stations. Hold one, click the track, then place it beside the line: the arrow shows the way trains pull in. Open it and give it a name. Put one at your base and one at the far end of your line. Everything after this runs between them."
 	]
-	"quest.09CBD509258B299C.title": "Driver's Seat"
-	"quest.09CBD509258B299C.quest_subtitle": "Your first train."
+	"task.76F68D793D47C772.title": "Assemble a train at your station"
+	"quest.09CBD509258B299C.title": "Your First Train"
+	"quest.09CBD509258B299C.quest_subtitle": "Bogeys, glue and controls."
 	"quest.09CBD509258B299C.quest_desc": [
-		"Glue a carriage onto bogeys, add train controls, and assemble it at the station. Drive it yourself the first time: you will learn more about your line in one trip than in an hour of planning."
+		"Open the station and switch to Assembly Mode. Use railway casing on the first track past the station for a bogey. Build a carriage on it and super glue it all. Add train controls (casing, precision mechanism, lever) facing the way you will drive, and a seat. Then press Assemble."
 	]
+	"task.2BDCF762D4A36E49.title": "Blow a whistle while you drive"
+	"quest.7CAB89688766184B.title": "Choo Choo!"
+	"quest.7CAB89688766184B.quest_subtitle": "Take her out on the line."
+	"quest.7CAB89688766184B.quest_desc": [
+		"Right-click the controls to drive: W and S for speed, A and D choose the way at junctions, the mouse wheel sets top speed, and holding Space stops at the next station. A steam whistle on a fluid tank on board blows with sprint. Coal in a chest on board speeds the train up. Drive to your other station."
+	]
+	"task.76BDF76FC0469B57.title": "Give a train driver a schedule"
 	"quest.27F2220CE80B6661.title": "Running on Time"
 	"quest.27F2220CE80B6661.quest_subtitle": "Trains that drive themselves."
 	"quest.27F2220CE80B6661.quest_desc": [
-		"A schedule tells a train where to go, what to wait for and when to leave. A train that loads at the farm and unloads at the kitchen, all night, is worth more than ten players."
+		"Paper and a sturdy sheet make four schedules. Write one: travel to your base, wait, travel to the far station, wait, and it repeats. A train needs a driver: any mob seated facing the controls, or a lit blaze burner in front of them. Hand the driver the schedule and step off."
 	]
+	"task.085A0E7311B96BA2.title": "Place a train signal"
 	"quest.51693280A4AAD4C3.title": "Keep Them Apart"
 	"quest.51693280A4AAD4C3.quest_subtitle": "Two trains, one track, no crashes."
 	"quest.51693280A4AAD4C3.quest_desc": [
-		"Signals split the line into blocks and stop trains from meeting head on. Once more than one train runs, signals are not optional. Somebody always learns that the hard way."
+		"Railway casing and an electron tube make four signals; place them like a station. Signals cut the line into sections and let one train into each. A scheduled train never passes a signal from behind, so two-way track needs a pair facing both ways. Add a passing loop and two trains can share one line."
 	]
+	"task.1E1848A0DA7ADA1D.title": "Show a train arriving on a display board"
+	"quest.2BB2356F641BC5C3.title": "Next Train Due"
+	"quest.2BB2356F641BC5C3.quest_subtitle": "A departure board on the platform."
+	"quest.2BB2356F641BC5C3.quest_desc": [
+		"Run two scheduled trains on your line, kept apart by signals. Then let the platform tell you: a display link on the station, set to Train Station Summary, pointed at a display board on a turning shaft. When the board counts down to the next train, the network runs without you."
+	]
+	"task.45C4EF9770CDAFBA.title": "Load or unload a train through an interface"
+	"quest.20C155A32104971C.title": "The Cargo Run"
+	"quest.20C155A32104971C.quest_subtitle": "Freight without lifting a finger."
+	"quest.20C155A32104971C.quest_desc": [
+		"Put a portable storage interface on a wagon with chests behind it, and another on the platform one or two blocks away. When the train stops they connect, and funnels load or empty the whole wagon. Set the schedule to wait for Cargo Inactivity, and it leaves the moment the job is done."
+	]
+	"task.44F553DE01075976.title": "Assemble a train of six carriages"
+	"quest.34F91E880290E840.title": "The North Pole Express"
+	"quest.34F91E880290E840.quest_subtitle": "Six carriages long."
+	"quest.34F91E880290E840.quest_desc": [
+		"A carriage is whatever is glued onto its bogeys. Build several on the station track, each glued on its own with a gap between, and Assemble couples them into one train. Make it six carriages: an engine, coaches with seats for your friends, and wagons for the freight."
+	]
+	"task.7EBCAD45A1F2A7D9.title": "Fill an envelope with hot air"
 	"quest.34E2BE43E500DA5A.title": "Lighter than Air"
 	"quest.34E2BE43E500DA5A.quest_subtitle": "Hot air rises."
 	"quest.34E2BE43E500DA5A.quest_desc": [
-		"Build a bag of envelope blocks, sealed on top and sides and open underneath, and light a Hot Air Burner beneath it. Every cubic metre of hot air lifts a block and a half, and less the higher you climb."
+		"Wool and sticks make envelope; plain wool works too. Build an upside-down bowl at least 5 by 5, sealed on top and sides, open underneath. Set a hot air burner below the opening with clear air up to the roof, give it coal (no fuel, no lift) and power it with redstone. Goggles show the bag filling."
 	]
 	"quest.036D6D24A1A53AFB.title": "Keep the Fire Lit"
 	"quest.036D6D24A1A53AFB.quest_subtitle": "A burner without fuel is a cold stove."
 	"quest.036D6D24A1A53AFB.quest_desc": [
-		"Our burners eat coal, charcoal or blaze rods, and a ship hovering in the sky burns fuel the whole time. Lay in sixteen blocks of coal and a spare burner before you go far."
+		"A burner burns fuel the whole time it is lit, hovering included. At full output a coal lasts 80 seconds, a coal block 13 minutes, a blaze rod 2. Feed it from a chest on board with a hopper, funnel or arm, never lava buckets. Two burners under one bag is a good first ship: make a second and lay in coal."
 	]
-	"quest.5008B58514B83369.title": "Forward!"
-	"quest.5008B58514B83369.quest_subtitle": "Lift is nothing without thrust."
-	"quest.5008B58514B83369.quest_desc": [
-		"A Propeller Bearing turns sails into thrust: more sails push harder, faster shafts push longer. Mount it facing aft, and steer with two propellers and a throttle for each."
+	"task.7CD390C0E7FD730A.title": "Name your assembled airship with a nameplate"
+	"quest.766A984F934C89CC.title": "Lift-Off"
+	"quest.766A984F934C89CC.quest_subtitle": "Fill it first, then let go."
+	"quest.766A984F934C89CC.quest_desc": [
+		"Build a raft: a plank deck under your bag, the burners and a Physics Assembler on it. Glue it all. Fuel the burners, set the throttle low and wait about 30 seconds for the bag to fill, then hold right-click on the assembler and pull its lever. Ride up a few blocks and throttle back down. Name her with a nameplate on board."
 	]
+	"task.65463DB92074CD97.title": "Inspect a Contraption Diagram"
 	"quest.1B2AFDBFD5032C34.title": "Measure Once, Fly Twice"
 	"quest.1B2AFDBFD5032C34.quest_subtitle": "Weight under the balloon."
 	"quest.1B2AFDBFD5032C34.quest_desc": [
-		"Open the Contraption Diagram and find your centre of mass: it must hang under the middle of your balloon or the ship flies tilted. An Altitude Sensor at the helm tells you how thin the air is getting."
+		"Paper and a Physics Assembler make a Contraption Diagram. Use it on your ship and calculate its mass: the centre of mass must hang under the middle of the bag, or the ship flies tilted. Build light. Envelope and wool weigh a quarter, planks a half, stone 2, storage blocks 4: tooltips show each weight."
+	]
+	"task.5DA9A2877CCBB6EB.title": "Place an altitude sensor"
+	"quest.4CF76919E2642343.title": "Up and Down"
+	"quest.4CF76919E2642343.quest_subtitle": "The throttle is your altitude."
+	"quest.4CF76919E2642343.quest_desc": [
+		"A ship rises until lift equals weight, and air thins as you climb: one full burner lifts 750 at sea level, 600 at y 120. Wire a throttle lever to the burners before you fly. More signal climbs, less sinks, about ten seconds behind. An altitude sensor reads the air. Land on the throttle, never by running dry."
+	]
+	"task.7BACF4D5A57C949A.title": "Place and power a portable engine"
+	"quest.517EE7AE88BA56A3.title": "Engine Room"
+	"quest.517EE7AE88BA56A3.quest_subtitle": "Power that flies with you."
+	"quest.517EE7AE88BA56A3.quest_desc": [
+		"Saw and press an iron sheet into an engine assembly, then craft it between an iron sheet and a blast furnace: a portable engine. It burns furnace fuel for 32 RPM and 2,048 stress, and a blaze cake superheats it to 64. Feed it like a burner. This is what turns your propellers in the sky."
+	]
+	"task.55528E36493FAA45.title": "Assemble a propeller bearing"
+	"quest.5008B58514B83369.title": "Forward!"
+	"quest.5008B58514B83369.quest_subtitle": "Lift is nothing without thrust."
+	"quest.5008B58514B83369.quest_desc": [
+		"A propeller bearing (wooden slab, iron sheet, brass casing) spins the sails on its face: two at least, eight is better. Point it aft and drive it from your engine, with a clutch to hold it still while you assemble the ship. Faster shafts push longer: eight sails at 32 RPM top out near 4.5 m/s."
+	]
+	"task.17A3CDB3944AC8B2.title": "Grab and turn a steering wheel"
+	"quest.55C23A2FFCCB8247.title": "Hard to Port"
+	"quest.55C23A2FFCCB8247.quest_subtitle": "Two propellers, one wheel."
+	"quest.55C23A2FFCCB8247.quest_desc": [
+		"Put a propeller on each side, each with its own clutch at the helm: cut one and the ship turns. Or swing a rudder: a steering wheel (andesite casing, large cogwheel, shaft) turns a swivel bearing to an exact angle; set the bearing to stay assembled. Without thrust the wind pushes a ship along at walking pace."
+	]
+	"task.1D9251EA22F0182A.title": "Place a navigation table"
+	"quest.4DFB46FEF1CE83BE.title": "Maiden Voyage"
+	"quest.4DFB46FEF1CE83BE.quest_subtitle": "There and back again."
+	"quest.4DFB46FEF1CE83BE.quest_desc": [
+		"Fly your ship from your base to town and home again. A navigation table (brass sheet, precision mechanism, brass casing) at the helm gives a redstone signal towards its target, and the flight HUD shows speed, height and heading. Land with the keel flat: a ship only comes apart landed and level."
+	]
+	"task.1B890E3AD1AFDF79.title": "Lock two docking connectors together"
+	"quest.45802F5A539BECDE.title": "Fill Her Up"
+	"quest.45802F5A539BECDE.quest_subtitle": "A pier with a pump."
+	"quest.45802F5A539BECDE.quest_desc": [
+		"Docking connectors work in pairs: one in your ship's nose, one on a pier. Extend both and they line up and lock. While locked, items and fluids pass both ways, so funnels and pumps on the pier refuel the burners and load the hold. Never let the dock carry the ship: keep the keel down."
 	]
 	"quest.6168CEC945B4D9AB.title": "Diesel Power"
 	"quest.6168CEC945B4D9AB.quest_subtitle": "Ninety-six revs and a lot of smoke."
 	"quest.6168CEC945B4D9AB.quest_desc": [
-		"A diesel engine spins a propeller far faster than a portable engine, and a fast propeller is a fast ship. Plant oil and ethanol mix into biodiesel; crude oil from the plains refines into the real thing."
-	]
-	"quest.45802F5A539BECDE.title": "Fill Her Up"
-	"quest.45802F5A539BECDE.quest_subtitle": "A pier with a pump."
-	"quest.45802F5A539BECDE.quest_desc": [
-		"Put a Docking Connector under your ship and another on a pier: when they lock, pumps and funnels pass fuel and coal straight across. No more hand-filling burners at two hundred metres."
+		"A diesel engine (engine pistons, a brass block, a fluid tank, blackstone slabs, flint and steel) gives 96 RPM and 6,144 stress: three times a portable engine, and props that push to 13 m/s. Mix seed oil and ethanol into biodiesel, or pump crude oil and distil it. An analog lever throttles it."
 	]
 	"quest.25FA1B6FC0D10A9A.title": "Air Mail"
 	"quest.25FA1B6FC0D10A9A.quest_subtitle": "The fastest roads are in the sky."
 	"quest.25FA1B6FC0D10A9A.quest_desc": [
-		"A delivery board lists jobs for pilots: carry the cargo, land it on time, collect the fee. They pay best for distant drops, so a steady airship turns into a steady income."
+		"A ship with a hold is a business: chests on board carry the cargo and the dock loads them. Set down a delivery quests table (contraption diagram, compass, wooden slab) and take a job: fly the cargo to the drop, land it on time, collect the fee. The far drops pay best."
 	]
 	"chapter.6EFBA7C7F19E4A02.title": "Santa's Workshop"
 	"chapter.6EFBA7C7F19E4A02.chapter_subtitle": [
@@ -909,12 +1187,14 @@
 	"quest.50F37896395DFCB1.title": "Santa's Toy Works"
 	"quest.50F37896395DFCB1.quest_subtitle": "The Carousel turns, and toys come out."
 	"quest.50F37896395DFCB1.quest_desc": [
-		"Build the Toy Works: toy works casing round a turning dial, four deployers at its stops, the controller and a Toy Chute, all on one Create drive. Every team already knows three toys. Make a Wooden Train from start to finish."
+		"Craft the controller (brass casing, paper, a cogwheel, a precision mechanism and a deployer) and ring a turning dial with Toy Works Casing: four Workshop Deployers on pedestals at its stops, an input port under the controller, a Drive Port and the Toy Chute at the back. Every team knows three toys. Make a Wooden Train."
+		""
+		"{image:cccasino:textures/gui/quest/mb_toy_works.png width:200 height:78 align:center}"
 	]
 	"quest.41023DBBCE14EC9D.title": "A New Design"
 	"quest.41023DBBCE14EC9D.quest_subtitle": "Learn a toy nobody taught you."
 	"quest.41023DBBCE14EC9D.quest_desc": [
-		"Every other toy needs its blueprint. Santa's Shop sells them, and Advent doors give them away in December. Use one on your controller and your whole team learns that toy for good. Harder toys pay more in a sack."
+		"The works knows the Wooden Train, the Spinning Top and the Rocking Horse. Every other toy needs its blueprint, and Santa's Shop sells each one once a season. Use a blueprint on your controller and your whole team learns that toy for good. JEI shows every toy's steps on the Toy Works page."
 	]
 	"quest.3C332E5EB1726584.title": "Eight Hands"
 	"quest.3C332E5EB1726584.quest_subtitle": "Every face of the toy."
@@ -924,7 +1204,7 @@
 	"quest.7F19373A1F5858BC.title": "Fired in the Kiln"
 	"quest.7F19373A1F5858BC.quest_subtitle": "Paint that sets hard."
 	"quest.7F19373A1F5858BC.quest_desc": [
-		"Some tier II toys are fired in the paint kiln on their way out: a blaze burner under the kiln heats it, and the toy rides through on its chain-driven rollers. Learn the Toy Telescope and fire one."
+		"Seven tier II toys are fired in the paint kiln on their way out. The kiln is a lit blaze burner in a pit one block under the floor, beneath the back of the ring by the outlet. Without heat those toys stop half painted. Learn the Toy Telescope and fire one."
 	]
 	"reward.4A1954435A3DD9B6.title": "Fireworks!"
 	"quest.70E21DF1177F2B61.title": "Master Toymaker"
@@ -946,16 +1226,76 @@
 	"quest.072E0AC2B3CCAE09.quest_subtitle": "Thirty-two presents, one sealed sack."
 	"quest.072E0AC2B3CCAE09.quest_desc": [
 		"Feed presents to the Sack Hoist and give it an empty sack. At 32 presents the winch seals the sack and sets it down. A sack counts toward the server's Toy Quota once it is delivered to Santa's Sleigh in the North Pole village, and the delivery is credited to whoever placed the hoist. Fill your first sack."
+		""
+		"{image:cccasino:textures/gui/quest/mb_sack_hoist.png width:200 height:78 align:center}"
 	]
 	"quest.11CE1B69A84314E4.title": "Bottled Christmas Spirit"
 	"quest.11CE1B69A84314E4.quest_subtitle": "What rises from a full sack."
 	"quest.11CE1B69A84314E4.quest_desc": [
 		"Each sealed sack gives off Spirit Wisps. Mix a wisp with eggnog and glowstone dust in a heated basin and the Spirit is bottled. The Yuletide Forge runs on it, so every sack you fill also fuels your own gear."
 	]
-	"quest.37DFA7AC580C4A8C.title": "The Yuletide Forge"
-	"quest.37DFA7AC580C4A8C.quest_subtitle": "Armour fit for the season."
-	"quest.37DFA7AC580C4A8C.quest_desc": [
-		"Build the Yuletide Forge and cast your first piece of the Yuletide set: the crucible, hammer and quench on one drive, with Bottled Spirit in every job. Start with the helmet; there are nine pieces in three colourways."
+	"quest.34852C3F2E93CB6F.title": "Load Santa's Sleigh"
+	"quest.34852C3F2E93CB6F.quest_subtitle": "Every sack counts toward the quota."
+	"quest.34852C3F2E93CB6F.quest_desc": [
+		"Santa's Sleigh waits in the North Pole village. Land a sealed sack in its bed by hand, belt, funnel, chute or Mechanical Arm: each one adds 32 presents to the Toy Quota, credited to whoever placed its hoist. A Display Link on the sleigh reads the quota. Its tail, behind the loading hatch, is where a belt hands in."
+	]
+	"chapter.174BDD9E16EB501B.title": "The Yuletide Forge"
+	"chapter.174BDD9E16EB501B.chapter_subtitle": [
+		"Netherite, blaze cake and Christmas Spirit."
+	]
+	"quest.6C3C3D57A6C68162.title": "The Forge Hall"
+	"quest.6C3C3D57A6C68162.quest_subtitle": "Ten by eight, seven courses high."
+	"quest.6C3C3D57A6C68162.quest_desc": [
+		"The forge is a fixed build: a ring ten by eight on Forge Plinth, walls of Forge Glazing and Casing, a roof and a chimney, with a blaze burner, the hammer and twelve forge blocks inside. The controller and hammer take netherite; the Spirit Quench takes a bottle. JEI's \"Yuletide Forge: Structure\" page shows every block."
+		""
+		"{image:cccasino:textures/gui/quest/mb_forge.png width:200 height:78 align:center}"
+	]
+	"quest.47402B7D7EF3FBC7.title": "Forged in Spirit"
+	"quest.47402B7D7EF3FBC7.quest_subtitle": "A Yuletide Sword."
+	"quest.47402B7D7EF3FBC7.quest_desc": [
+		"A job takes the ladder (wooden, stone, iron, gold and diamond swords), a netherite sword, two festive foods, a glaze and three Bottled Spirit. The burner melts while lit and strikes only superheated on blaze cake. Sweet berries glaze it Crimson, blue ice Frost, a spruce sapling Evergreen."
+	]
+	"quest.55C1D1C3A3B18513.title": "Hat and Boots"
+	"quest.55C1D1C3A3B18513.quest_subtitle": "Three bottles each."
+	"quest.55C1D1C3A3B18513.quest_desc": [
+		"Armour takes leather, iron, gold and diamond in its ladder, then the netherite piece, food, a glaze and Bottled Spirit: three for the helmet, three for the boots. Any colourway will do, and they need not match. Forge a Yuletide Helmet and Yuletide Boots."
+	]
+	"reward.41675B840DA204CB.title": "Fireworks!"
+	"quest.5A4EACBF22DA2BA2.title": "Dressed for the Season"
+	"quest.5A4EACBF22DA2BA2.quest_subtitle": "The whole Yuletide set."
+	"quest.5A4EACBF22DA2BA2.quest_desc": [
+		"The chestplate and leggings take four bottles each and the most food. With the helmet, boots and sword that is the full Yuletide set. The early spirits will be balanced around it and a Yuletide blade: in netherite you would barely scrape through."
+	]
+	"quest.25122BFA1F675A1F.title": "Tools of the Trade"
+	"quest.25122BFA1F675A1F.quest_subtitle": "Pickaxe, axe and shovel."
+	"quest.25122BFA1F675A1F.quest_desc": [
+		"The forge makes the tools the same way as the sword: the five vanilla tiers in the ladder, the netherite tool, food, a glaze and Bottled Spirit (three for the pickaxe and axe, two for the shovel and the hoe). Optional, but they last."
+	]
+	"quest.3A98AD37449E571A.title": "The Star of Saint Nicholas"
+	"quest.3A98AD37449E571A.quest_subtitle": "Two turns round the line."
+	"quest.3A98AD37449E571A.quest_desc": [
+		"A golden sheet rides a sequenced-assembly line twice: Deployers add a Bottled Spirit, a diamond and glowstone dust, then a Press sets them. Two bottles a Star. Every Saint Nick piece takes a Star in its netherite slot, so build the line to keep running."
+	]
+	"quest.49B4631A81F12ED1.title": "The North Star"
+	"quest.49B4631A81F12ED1.quest_subtitle": "One sword from three."
+	"quest.49B4631A81F12ED1.quest_desc": [
+		"A Saint Nick piece takes the same Yuletide piece in all three colourways (Crimson, Frost and Evergreen) and a Star, with one more food and two more bottles than the Yuletide job, and no glaze. Forge a Saint Nick Sword."
+	]
+	"quest.1D626E22795A9E7F.title": "Mitre and Runners"
+	"quest.1D626E22795A9E7F.quest_subtitle": "Six Yuletide pieces, two Stars."
+	"quest.1D626E22795A9E7F.quest_desc": [
+		"The Mitre of Saint Nicholas takes a Yuletide Helmet in each colourway and a Star; the Sleigh-Runner Boots take three Yuletide Boots and a Star. Forge Crimson, Frost and Evergreen of each first, so plan the glazes. Forge both."
+	]
+	"reward.774D3D3425727363.title": "Fireworks!"
+	"quest.3204CFABB0699CF7.title": "Saint Nick"
+	"quest.3204CFABB0699CF7.quest_subtitle": "The whole set, and the bells."
+	"quest.3204CFABB0699CF7.quest_desc": [
+		"Add the Sleigh Harness and the Coat Skirt. Wear all four for sleigh bells (a little speed), presents from hostile mobs, a frost aura that slows them, and regeneration near a fire or candle. The late spirits will be balanced around this set and a Saint Nick blade."
+	]
+	"quest.3165110C41E45804.title": "Saint Nick's Tools"
+	"quest.3165110C41E45804.quest_subtitle": "Three tools from nine."
+	"quest.3165110C41E45804.quest_desc": [
+		"Each Saint Nick tool takes its Yuletide tool in all three colourways and a Star: Rudolph the pickaxe, the Sleigh Runner axe, the Tree and Gift shovel (and the Crozier, a hoe). Optional, and very much a showpiece."
 	]
 	"chapter.4F4482EF7FA6359B.title": "Free the Spirits"
 	"chapter.4F4482EF7FA6359B.chapter_subtitle": [
@@ -1225,15 +1565,15 @@
 	"quest.22C6FD4AB848F277.quest_desc": [
 		"Curdle milk, press the curds into a wheel and let it age: young, then aged, and the older it is the more it is worth. Check the wheel in JEI before you wax it. The best cheese on the server will be the oldest."
 	]
-	"quest.293938781A468D28.title": "Snackbar"
-	"quest.293938781A468D28.quest_subtitle": "The Dutch do fries properly."
-	"quest.293938781A468D28.quest_desc": [
-		"The mechanical fryer from BIC Bit makes Dutch snack-bar food: krokets, frikandel and proper fries. It is a second fry line that does things the first one cannot."
-	]
 	"quest.038921FFDFD25064.title": "The Tea Room"
 	"quest.038921FFDFD25064.quest_subtitle": "Green and black, by the pot."
 	"quest.038921FFDFD25064.quest_desc": [
 		"Brew tea leaves into green and black tea and bottle them, or roast coffee beans. A quiet tea room is the best place in the North Pole to sit down and plan your next factory over a warm cup."
+	]
+	"quest.3351CA8AC3970DC2.title": "Dress the Casino"
+	"quest.3351CA8AC3970DC2.quest_subtitle": "Casings for a proper casino floor."
+	"quest.3351CA8AC3970DC2.quest_desc": [
+		"Andesite casing and red dye make Casino Casing. Add green dye for Holly Casing, a brass sheet for Gilded Casing, red and white dye for a Candy-Stripe Pillar, or a glass pane for Window Casing. They connect like Create's own casings: dress the walls round your tables."
 	]
 	"reward_table.2F987FFAF3252378.title": "Christmas Stocking"
 	"reward_table.7A49BBDFE5202D38.title": "Wrapped Gift"

@@ -359,6 +359,11 @@
 					"table_id": 8811780716223278392L
 				}
 				{
+					"id": "59F77BCD80739884"
+					"type": "random"
+					"table_id": 8811780716223278392L
+				}
+				{
 					"id": "39D722DC9FC9F7D8"
 					"type": "item"
 					"item": {
@@ -409,6 +414,11 @@
 					"table_id": 8811780716223278392L
 				}
 				{
+					"id": "345DDAAFE6F59453"
+					"type": "random"
+					"table_id": 8811780716223278392L
+				}
+				{
 					"id": "6651EF7334D33C72"
 					"type": "item"
 					"item": {
@@ -454,6 +464,11 @@
 				}
 				{
 					"id": "7CD10204ECB1DA90"
+					"type": "random"
+					"table_id": 8811780716223278392L
+				}
+				{
+					"id": "03E404C2C0C80A27"
 					"type": "random"
 					"table_id": 8811780716223278392L
 				}
@@ -513,10 +528,23 @@
 					"table_id": 4055748288478083086L
 				}
 				{
+					"id": "4E7AD1639CD457E5"
+					"type": "random"
+					"table_id": 4055748288478083086L
+				}
+				{
 					"id": "144DD870CEC170A1"
 					"type": "item"
 					"item": {
 						"id": "cccasino:chip_50"
+						"count": 1
+					}
+				}
+				{
+					"id": "1B22D6DB8C29159B"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_25"
 						"count": 1
 					}
 				}
@@ -559,6 +587,11 @@
 				}
 				{
 					"id": "727B3CAC9E65C9F1"
+					"type": "random"
+					"table_id": 8811780716223278392L
+				}
+				{
+					"id": "35A3CA296E561A5E"
 					"type": "random"
 					"table_id": 8811780716223278392L
 				}
@@ -612,6 +645,11 @@
 					"table_id": 8811780716223278392L
 				}
 				{
+					"id": "4BD62D44E95C9106"
+					"type": "random"
+					"table_id": 8811780716223278392L
+				}
+				{
 					"id": "0814D16275B5E3D1"
 					"type": "item"
 					"item": {
@@ -657,6 +695,11 @@
 				}
 				{
 					"id": "6941571D68994174"
+					"type": "random"
+					"table_id": 8811780716223278392L
+				}
+				{
+					"id": "181F54980CACBF36"
 					"type": "random"
 					"table_id": 8811780716223278392L
 				}
@@ -711,6 +754,11 @@
 					"table_id": 8811780716223278392L
 				}
 				{
+					"id": "776B3E233C086179"
+					"type": "random"
+					"table_id": 8811780716223278392L
+				}
+				{
 					"id": "7D38601147C8CD2C"
 					"type": "item"
 					"item": {
@@ -756,6 +804,11 @@
 				}
 				{
 					"id": "4E55A53A28190A37"
+					"type": "random"
+					"table_id": 8811780716223278392L
+				}
+				{
+					"id": "103813E22F49F11B"
 					"type": "random"
 					"table_id": 8811780716223278392L
 				}
@@ -809,6 +862,11 @@
 					"table_id": 8811780716223278392L
 				}
 				{
+					"id": "3B7B5A54FA02FB6E"
+					"type": "random"
+					"table_id": 8811780716223278392L
+				}
+				{
 					"id": "606AD0B750A2DC55"
 					"type": "item"
 					"item": {
@@ -854,6 +912,11 @@
 				}
 				{
 					"id": "4E2300506D38BDCA"
+					"type": "random"
+					"table_id": 8811780716223278392L
+				}
+				{
+					"id": "6FB45A96E24BC39B"
 					"type": "random"
 					"table_id": 8811780716223278392L
 				}
@@ -908,6 +971,11 @@
 					"table_id": 8811780716223278392L
 				}
 				{
+					"id": "23F450A5E6013EC7"
+					"type": "random"
+					"table_id": 8811780716223278392L
+				}
+				{
 					"id": "45DF4DF91D3A5879"
 					"type": "item"
 					"item": {
@@ -954,6 +1022,11 @@
 				}
 				{
 					"id": "193B0B7C5645CC1F"
+					"type": "random"
+					"table_id": 8811780716223278392L
+				}
+				{
+					"id": "27DC5F2B77A4A4BA"
 					"type": "random"
 					"table_id": 8811780716223278392L
 				}
@@ -1008,10 +1081,23 @@
 					"table_id": 8811780716223278392L
 				}
 				{
+					"id": "6804B85064AF7AD5"
+					"type": "random"
+					"table_id": 8811780716223278392L
+				}
+				{
 					"id": "42A3A64ACCAC3876"
 					"type": "item"
 					"item": {
 						"id": "cccasino:chip_50"
+						"count": 1
+					}
+				}
+				{
+					"id": "0835C4E8EFF6ACDF"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_25"
 						"count": 1
 					}
 				}
@@ -1054,6 +1140,11 @@
 				}
 				{
 					"id": "5F8530BF31669D9A"
+					"type": "random"
+					"table_id": 8811780716223278392L
+				}
+				{
+					"id": "67A1D929C35C6956"
 					"type": "random"
 					"table_id": 8811780716223278392L
 				}
@@ -1108,10 +1199,23 @@
 					"table_id": 8811780716223278392L
 				}
 				{
+					"id": "5CF5D1F594D9BC42"
+					"type": "random"
+					"table_id": 8811780716223278392L
+				}
+				{
 					"id": "41191DA22D77C731"
 					"type": "item"
 					"item": {
 						"id": "cccasino:chip_50"
+						"count": 1
+					}
+				}
+				{
+					"id": "1673BC53B90C45C6"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_25"
 						"count": 1
 					}
 				}
@@ -1154,6 +1258,11 @@
 				}
 				{
 					"id": "0764E41F286B0958"
+					"type": "random"
+					"table_id": 8811780716223278392L
+				}
+				{
+					"id": "0341FA9B46C5940A"
 					"type": "random"
 					"table_id": 8811780716223278392L
 				}
@@ -1212,10 +1321,23 @@
 					"table_id": 4055748288478083086L
 				}
 				{
+					"id": "1D8861A529295B59"
+					"type": "random"
+					"table_id": 4055748288478083086L
+				}
+				{
 					"id": "6C927D9E87AAE1C1"
 					"type": "item"
 					"item": {
 						"id": "cccasino:chip_50"
+						"count": 1
+					}
+				}
+				{
+					"id": "42C8176B466D5B2E"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_25"
 						"count": 1
 					}
 				}
@@ -1258,6 +1380,11 @@
 				}
 				{
 					"id": "56A3B54E5344FABA"
+					"type": "random"
+					"table_id": 8811780716223278392L
+				}
+				{
+					"id": "47746647224E6E61"
 					"type": "random"
 					"table_id": 8811780716223278392L
 				}
