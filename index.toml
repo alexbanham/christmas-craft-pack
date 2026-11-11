@@ -5,11 +5,6 @@ file = "CREDITS.md"
 hash = "53cd4eb2ccbbee2e37b97577a8a3fb756d1e2866236453f3f97965e44f4b886f"
 
 [[files]]
-file = "config/DistantHorizons.toml"
-hash = "de89f4cacca59fbaa625046837cd5ebfafcec553d8337a09533ac390065090bd"
-preserve = true
-
-[[files]]
 file = "config/adq_tweaks-common.toml"
 hash = "1a1aaf39bd1f35ec04fd16aa58ff577c13b48c5ef5392b348617fb35f6043c71"
 
@@ -1625,11 +1620,6 @@ hash = "063634f47239896738fe3c27d33e3449f6f69cdef4400e2852240b2acf5fdfab"
 metafile = true
 
 [[files]]
-file = "mods/distanthorizons.pw.toml"
-hash = "0c20fea3407ed0db85b4b171f1820a24987f2659946fadd30bae044205041b09"
-metafile = true
-
-[[files]]
 file = "mods/dragonlib.pw.toml"
 hash = "7c811f8e9168cabfadc3a37cd995a5faf25962032d86f85e49a30b635da76b76"
 metafile = true
@@ -2187,11 +2177,6 @@ metafile = true
 [[files]]
 file = "mods/spotlights-or-something.pw.toml"
 hash = "3cd14ed2c90f9b648f532eeb27b818e0fd99eb5f72b9771a289803b3191cc0a0"
-metafile = true
-
-[[files]]
-file = "mods/ssrd.pw.toml"
-hash = "902b9f7cae33327dfb12e7a2dd454b20625644ce3c760d21b985e75e18a57e7c"
 metafile = true
 
 [[files]]
