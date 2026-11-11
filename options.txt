@@ -5,3 +5,4 @@ key_key.kubejs.kubedex:key.keyboard.unknown
 key_key.cccasino.tray:key.keyboard.k
 renderDistance:12
 simulationDistance:8
+onboardAccessibility:false
