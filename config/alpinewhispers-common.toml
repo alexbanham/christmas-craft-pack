@@ -8,11 +8,11 @@
 	#Where the fog starts, in % of the render distance
 	# Default: 0
 	# Range: 0 ~ 100
-	startPercent = 0
+	startPercent = 60
 	#How far you can see in the light haze that always hangs over snowy biomes, in % of the render distance
 	# Default: 70
 	# Range: 1 ~ 100
-	hazeEndPercent = 70
+	hazeEndPercent = 100
 	#Mist from late night until shortly after sunrise
 	morning = true
 	#How far you can see in morning mist, in % of the render distance

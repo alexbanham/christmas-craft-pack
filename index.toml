@@ -5,6 +5,11 @@ file = "CREDITS.md"
 hash = "53cd4eb2ccbbee2e37b97577a8a3fb756d1e2866236453f3f97965e44f4b886f"
 
 [[files]]
+file = "config/DistantHorizons.toml"
+hash = "de89f4cacca59fbaa625046837cd5ebfafcec553d8337a09533ac390065090bd"
+preserve = true
+
+[[files]]
 file = "config/adq_tweaks-common.toml"
 hash = "1a1aaf39bd1f35ec04fd16aa58ff577c13b48c5ef5392b348617fb35f6043c71"
 
@@ -30,7 +35,7 @@ hash = "acecbad0b4b0480972ea721be501a9d87d8a78c36c180e3d155555b4167341cb"
 
 [[files]]
 file = "config/alpinewhispers-common.toml"
-hash = "5cf3392948ff0dc2bd9d916abf9e9f070d653e313fb1ea45ef8511bc9be9aa0d"
+hash = "a9f22cc7e36e8316685fca19cf92715c5c0a5a05d16fa766add5790b85265dd7"
 
 [[files]]
 file = "config/bits_n_bobs-common.toml"
