@@ -12,7 +12,3 @@ hash = "235137566db5f245b27f6db73153d1dac3f40286dc353e2dc7541c5c080ba08e6bb2b94c
 mod-id = "BzHgFoGz"
 version = "lV874ox8"
 
-[option]
-optional = true
-default = false
-description = "SHADERS (2 of 3): keeps Create machines fast and correct under shaders. Needs the Iris item ticked too."

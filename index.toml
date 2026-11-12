@@ -181,6 +181,11 @@ file = "config/gravestone-server.toml"
 hash = "988716181a7da42501e3a2cb300914062658d0b62744b631c852bb0cd9509429"
 
 [[files]]
+file = "config/iris.properties"
+hash = "efe0c30620affee4a63c94309643da1b5a10d9b411d292f1394bd233489a7334"
+preserve = true
+
+[[files]]
 file = "config/minimotd/main.conf"
 hash = "5a3308ff90beaf7a434a704f46a245dd2a02b7698c356cddb69240fc6757bc8d"
 
@@ -1256,7 +1261,7 @@ metafile = true
 
 [[files]]
 file = "mods/colorwheel.pw.toml"
-hash = "fa3f55d0c9a22021ba2dc2e3b3b0b207c2b34997a93c13b5fe5dfa9ad101cdec"
+hash = "a424524d50d4aaf6fd6993a04e384baf5a82b6412909c14ed20f1a4b34758fd8"
 metafile = true
 
 [[files]]
@@ -1781,12 +1786,12 @@ metafile = true
 
 [[files]]
 file = "mods/iris-veil-compat.pw.toml"
-hash = "b6fb2f238ea6cf36292d13fe353c1111a350d645de01091fd0977c60b26c9b7a"
+hash = "7063003ce7dc6cfc8efa3dfe0d31f17270b2c6e817d0c82415da3306463d70e1"
 metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "05fdf34cdb8dd89ed97d3c6fbd3c5ba2aa7f6a14eb404adbb75182e8407267df"
+hash = "70bd4cf259932c3db4394f170be4bfb3eba151d85a7f3028b2b49d5ced899e29"
 metafile = true
 
 [[files]]

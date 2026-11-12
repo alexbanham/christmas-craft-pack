@@ -12,7 +12,3 @@ hash = "33fddb430e16222902eac75b8b3d57c381b0f3cc729f3b56c4628df12ca108f23a0b11e2
 mod-id = "YL57xq9U"
 version = "KduFYu4t"
 
-[option]
-optional = true
-default = false
-description = "SHADERS (1 of 3): tick all three Shaders items to turn shaders on. Unsupported: airships can render behind far-away terrain while a shaderpack is on, so turn Distant Horizons' range down. Complementary Reimagined and MakeUp Ultra Fast are included; pick one in Options > Video > Shader Packs."
