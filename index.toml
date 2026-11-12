@@ -2949,6 +2949,10 @@ file = "moonlight-global-datapacks/christmas-craft-fixes/data/christmascraft/rec
 hash = "c4bc41d21c4e89d9eea201a9a8b3da6bf0efc22692916131ade8e9a80ea96dc2"
 
 [[files]]
+file = "moonlight-global-datapacks/christmas-craft-fixes/data/christmascraft/recipe/stonecutting/twigs_cracked_bricks.json"
+hash = "1c2b923ed2ca284eb7613ebbc451014d92ec2c66777acde07918af3d0ba29c41"
+
+[[files]]
 file = "moonlight-global-datapacks/christmas-craft-fixes/data/christmascraft/tags/item/oil_seeds.json"
 hash = "6cbe84b9990ad17bc33de60474e9b784d7e9d70d69da0f9055f51886dc8bdebd"
 
@@ -6111,6 +6115,10 @@ hash = "a2e6dbed7f4c31bc53d15a41a0a9f802a5b688078e91dcad9c852a46ffe5719a"
 [[files]]
 file = "moonlight-global-datapacks/christmas-craft-fixes/data/sootychimneys/recipe/iron_chimney.json"
 hash = "97228449a90c73017d87248df22431c6942096b5c048dbecc97f453815b6de0d"
+
+[[files]]
+file = "moonlight-global-datapacks/christmas-craft-fixes/data/twigs/recipe/cracked_bricks.json"
+hash = "21b11674b18c3fb0d8292095cf7c12bca82ef4054ec3f1cd8d1e0222d1655629"
 
 [[files]]
 file = "moonlight-global-datapacks/christmas-craft-fixes/pack.mcmeta"
