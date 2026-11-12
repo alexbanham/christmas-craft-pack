@@ -3234,7 +3234,7 @@ hash = "a2871a32db146fb3f4a0bda3e5f68ffe9d4519bc56559011ceafa5925bcdf03b"
 
 [[files]]
 file = "moonlight-global-datapacks/christmas-craft-fixes/data/create/recipe/mixing/melon_juice.json"
-hash = "3cff950563fd8b45326d1fca89a7153c3273f1215b9643385f57892e54183538"
+hash = "21b11674b18c3fb0d8292095cf7c12bca82ef4054ec3f1cd8d1e0222d1655629"
 
 [[files]]
 file = "moonlight-global-datapacks/christmas-craft-fixes/data/create_bic_bit/recipe/campfire_cooking/roasted_seeds.json"
