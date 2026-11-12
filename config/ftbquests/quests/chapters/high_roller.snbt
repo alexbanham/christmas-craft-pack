@@ -515,12 +515,13 @@
 			"size": 1.0d
 			"tasks": [
 				{
-					"id": "34A2D18C4985D22D"
-					"type": "observation"
-					"timer": 20
-					"observe_type": 0
-					"observation_type": "block"
-					"to_observe": "cccasino:prize_counter"
+					"id": "11DF351145BC6421"
+					"type": "advancement"
+					"advancement": "cccasino:visit/prize_counter"
+					"criterion": ""
+					"icon": {
+						"id": "cccasino:prize_counter"
+					}
 				}
 			]
 			"rewards": [

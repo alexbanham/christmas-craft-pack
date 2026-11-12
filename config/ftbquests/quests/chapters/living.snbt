@@ -35,12 +35,13 @@
 			"size": 1.0d
 			"tasks": [
 				{
-					"id": "4449893D7B39F6E4"
-					"type": "observation"
-					"timer": 20
-					"observe_type": 0
-					"observation_type": "block"
-					"to_observe": "cccasino:cashier_cage"
+					"id": "5ED15360000B3634"
+					"type": "advancement"
+					"advancement": "cccasino:visit/cashier_cage"
+					"criterion": ""
+					"icon": {
+						"id": "cccasino:cashier_cage"
+					}
 				}
 			]
 			"rewards": [
@@ -248,12 +249,13 @@
 			"size": 1.0d
 			"tasks": [
 				{
-					"id": "0D6E2DD8241A4ED2"
-					"type": "observation"
-					"timer": 20
-					"observe_type": 0
-					"observation_type": "block"
-					"to_observe": "cccasino:santa_shop"
+					"id": "702D39CD3AF817B7"
+					"type": "advancement"
+					"advancement": "cccasino:visit/santa_shop"
+					"criterion": ""
+					"icon": {
+						"id": "cccasino:santa_shop"
+					}
 				}
 				{
 					"id": "04E1566A3BBCEC2C"

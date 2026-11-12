@@ -373,6 +373,7 @@
 	"chapter.3FB53030CEF3907D.chapter_subtitle": [
 		"Honest chips for honest work."
 	]
+	"task.5ED15360000B3634.title": "Use the Cashier's Cage"
 	"quest.1E574C74D0CF56CB.title": "How the North Pole Pays"
 	"quest.1E574C74D0CF56CB.quest_subtitle": "Nothing crafts a chip."
 	"quest.1E574C74D0CF56CB.quest_desc": [
@@ -393,6 +394,7 @@
 	"quest.35D0AD821D56CDD4.quest_desc": [
 		"The Notice Board pins up the week: three North Pole Wants that pay half again at the Exchange, and three orders for bigger lots. Use the board holding an order's goods to hand them in; part loads count, and a filled order pays one lump sum, once each, however far prices have sagged. Both change on Monday: plan your week: sell a Want, fill an order."
 	]
+	"task.702D39CD3AF817B7.title": "Open Santa's Shop"
 	"quest.4B8CE993D9A0F9A1.title": "Spend It at Santa's"
 	"quest.4B8CE993D9A0F9A1.quest_subtitle": "Where spent chips go."
 	"quest.4B8CE993D9A0F9A1.quest_desc": [
@@ -456,6 +458,9 @@
 	"chapter.11D71CA7090F9551.chapter_subtitle": [
 		"The house always wins. Eventually."
 	]
+	"task.20C469859629CC5D.title": "Sit at a blackjack table"
+	"task.584B3F9D6AC3DC67.title": "Sit at Texas Hold'em"
+	"task.2CB42BB1AD5D27DB.title": "Sit at Snowball Roulette"
 	"quest.17B3295222734544.title": "The Casino Floor"
 	"quest.17B3295222734544.quest_subtitle": "Blackjack, Texas Hold'em and the wheel."
 	"quest.17B3295222734544.quest_desc": [
@@ -744,6 +749,7 @@
 	"quest.499A79D9EFD8A90F.quest_desc": [
 		"Win at least once at every house game: blackjack, baccarat, Snowball Roulette, Ultimate Texas Hold'em, Jingle Reels, Video Poker, the Wheel of Gifts and the Reindeer Derby. The Full Card ribbon puts gold trim on your casino panel and a jingle collar within Mischief's reach."
 	]
+	"task.11DF351145BC6421.title": "Open the Prize Counter"
 	"quest.380176687E1624B6.title": "The Prize Counter"
 	"quest.380176687E1624B6.quest_subtitle": "Prizes under glass."
 	"quest.380176687E1624B6.quest_desc": [

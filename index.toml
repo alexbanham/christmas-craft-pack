@@ -94,7 +94,7 @@ hash = "d37bb02ae96928816dfbef5655b0d6512ec4ecfa0998174cb3e9c0cc06f77417"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/casino.snbt"
-hash = "89fac5a688e29fe6d4de1a91c4973cfbf6d9b7c8342e2e33218e351bf2c6a184"
+hash = "6a583cac8a9d0bd1f4e7ae15bd4becdf867ea727d7b5f767e9aa83e22c8da801"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/create.snbt"
@@ -122,7 +122,7 @@ hash = "dcce16902eacbee49004fbdd17103242948dd5f9ccb3b092166252373167a155"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/high_roller.snbt"
-hash = "56e83ba5f20497dfa26a54c43b5211fb1612a0cb1d47e2fa65552f6f9f4cace2"
+hash = "01fe5b42c02e16920dc34489c45f59e67c70be04489f9740645d92dd4fc5f2ff"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/kitchen.snbt"
@@ -130,7 +130,7 @@ hash = "8e575220d4d94cbc92c174a0e4618c39a4e00c96b7609627f6ffbcfaa0586f8b"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/living.snbt"
-hash = "0073d0771a4a9db25c169035a6f570ba0c6ba46b68a116430349756b90d74342"
+hash = "dd34096b446aa7193283793027664242a3ae720b9290aa067530b44d4c020dd6"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/quarry.snbt"
@@ -138,7 +138,7 @@ hash = "c586e17da89e1b03507b586347cf83bfb78429c1c52442448c79b1b9cc2fd2d4"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/skies.snbt"
-hash = "3604842827c2d07cd5d909f3889d073469d8c55141c3c5876ea5f0a5a30d0c48"
+hash = "1eb96fa5ccaa256bac620fc490e526b4b013e45740dcd2631233822bd039d9e4"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/spirits.snbt"
@@ -162,7 +162,7 @@ hash = "1968b1172f4184e36962ea8442accf213b5f8b69b998a18c8d4b045026441741"
 
 [[files]]
 file = "config/ftbquests/quests/lang/en_us.snbt"
-hash = "8926ab7411b71c9af6bb89c3d478ca10eb9be4a87d1fd46ad5ef2b09c00f17ff"
+hash = "d4d7ef849a60788e805e8521e8ccb035ed22f7e506c923ea99ed816d7cf22439"
 
 [[files]]
 file = "config/ftbquests/quests/reward_tables/advent.snbt"

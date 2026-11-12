@@ -159,12 +159,13 @@
 			"size": 1.0d
 			"tasks": [
 				{
-					"id": "6B8D927AF391D904"
-					"type": "observation"
-					"timer": 20
-					"observe_type": 0
-					"observation_type": "block"
-					"to_observe": "create:track_station"
+					"id": "20B5CE55460966A5"
+					"type": "item"
+					"item": {
+						"id": "create:track_station"
+						"count": 1
+					}
+					"count": 1
 				}
 			]
 			"rewards": [
