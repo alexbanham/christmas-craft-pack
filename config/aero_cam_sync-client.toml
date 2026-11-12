@@ -1,5 +1,3 @@
-# Christmas Craft: Aeronautics Camera Sync ships OFF (enabled = false); each player can opt in from the config screen.
-# configSchemaVersion = 5 stops the reset prompt. Every key is listed so NeoForge does not "correct" the file each launch.
 #Turn off the mod's own camera tilt.
 #This is not a full off switch: the mixins stay loaded, and a tilt
 #another mod drives through the API keeps running. Use suppressAll

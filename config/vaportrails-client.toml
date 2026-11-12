@@ -1,5 +1,3 @@
-# Christmas Craft: Vapor Trails frame-time headroom (integration spec 4.11): targetFps 50, maxParticles 1500.
-# Every key is listed (as the mod writes it) so NeoForge does not "correct" the file and log a warning each launch.
 [general]
 	#Automatically thin out effects when the frame rate drops below
 	#targetFps, and restore them once there is headroom again.

@@ -1,6 +1,3 @@
-# Christmas Craft: the mod's defaults, with "Combustibles blow up" = true (Alex, 2026-11-07, "Do all 13": burning fuel
-# containers explode, as the mod intends). The key lives under ["Server Configs"]; the old file had it at the top level,
-# where the mod never read it. Every key is listed so NeoForge does not "correct" the file and log 14 warnings.
 ["Server Configs"]
 	#Maximum width of Oil Barrels
 	"Max Oil Barrel Width" = 3
