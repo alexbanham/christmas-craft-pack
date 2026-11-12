@@ -974,6 +974,82 @@ file = "kubejs/assets/christmascraft/tips/qol_xaero_maps.json"
 hash = "cf7ee579b3671bd7ebe27ca0a19e3d5189bc021cf3e2d5a9ce2ef18435a252bc"
 
 [[files]]
+file = "kubejs/assets/delightfulcreators/blockstates/apple_cider_block.json"
+hash = "590e1d52b50db0647a36c74bc9ab03b608f80f2e06b7ce0795d6939da0384611"
+
+[[files]]
+file = "kubejs/assets/delightfulcreators/blockstates/baked_cod_stew_block.json"
+hash = "590e1d52b50db0647a36c74bc9ab03b608f80f2e06b7ce0795d6939da0384611"
+
+[[files]]
+file = "kubejs/assets/delightfulcreators/blockstates/beef_stew_block.json"
+hash = "590e1d52b50db0647a36c74bc9ab03b608f80f2e06b7ce0795d6939da0384611"
+
+[[files]]
+file = "kubejs/assets/delightfulcreators/blockstates/beetroot_soup_block.json"
+hash = "590e1d52b50db0647a36c74bc9ab03b608f80f2e06b7ce0795d6939da0384611"
+
+[[files]]
+file = "kubejs/assets/delightfulcreators/blockstates/bone_broth_block.json"
+hash = "590e1d52b50db0647a36c74bc9ab03b608f80f2e06b7ce0795d6939da0384611"
+
+[[files]]
+file = "kubejs/assets/delightfulcreators/blockstates/chicken_soup_block.json"
+hash = "590e1d52b50db0647a36c74bc9ab03b608f80f2e06b7ce0795d6939da0384611"
+
+[[files]]
+file = "kubejs/assets/delightfulcreators/blockstates/cooked_rice_block.json"
+hash = "590e1d52b50db0647a36c74bc9ab03b608f80f2e06b7ce0795d6939da0384611"
+
+[[files]]
+file = "kubejs/assets/delightfulcreators/blockstates/dog_food_block.json"
+hash = "590e1d52b50db0647a36c74bc9ab03b608f80f2e06b7ce0795d6939da0384611"
+
+[[files]]
+file = "kubejs/assets/delightfulcreators/blockstates/fish_stew_block.json"
+hash = "590e1d52b50db0647a36c74bc9ab03b608f80f2e06b7ce0795d6939da0384611"
+
+[[files]]
+file = "kubejs/assets/delightfulcreators/blockstates/glow_berry_custard_block.json"
+hash = "590e1d52b50db0647a36c74bc9ab03b608f80f2e06b7ce0795d6939da0384611"
+
+[[files]]
+file = "kubejs/assets/delightfulcreators/blockstates/hot_cocoa_block.json"
+hash = "590e1d52b50db0647a36c74bc9ab03b608f80f2e06b7ce0795d6939da0384611"
+
+[[files]]
+file = "kubejs/assets/delightfulcreators/blockstates/melon_juice_block.json"
+hash = "590e1d52b50db0647a36c74bc9ab03b608f80f2e06b7ce0795d6939da0384611"
+
+[[files]]
+file = "kubejs/assets/delightfulcreators/blockstates/mushroom_stew_block.json"
+hash = "590e1d52b50db0647a36c74bc9ab03b608f80f2e06b7ce0795d6939da0384611"
+
+[[files]]
+file = "kubejs/assets/delightfulcreators/blockstates/noodle_soup_block.json"
+hash = "590e1d52b50db0647a36c74bc9ab03b608f80f2e06b7ce0795d6939da0384611"
+
+[[files]]
+file = "kubejs/assets/delightfulcreators/blockstates/pumpkin_soup_block.json"
+hash = "590e1d52b50db0647a36c74bc9ab03b608f80f2e06b7ce0795d6939da0384611"
+
+[[files]]
+file = "kubejs/assets/delightfulcreators/blockstates/rabbit_stew_block.json"
+hash = "590e1d52b50db0647a36c74bc9ab03b608f80f2e06b7ce0795d6939da0384611"
+
+[[files]]
+file = "kubejs/assets/delightfulcreators/blockstates/ratatouille_block.json"
+hash = "590e1d52b50db0647a36c74bc9ab03b608f80f2e06b7ce0795d6939da0384611"
+
+[[files]]
+file = "kubejs/assets/delightfulcreators/blockstates/tomato_sauce_block.json"
+hash = "590e1d52b50db0647a36c74bc9ab03b608f80f2e06b7ce0795d6939da0384611"
+
+[[files]]
+file = "kubejs/assets/delightfulcreators/blockstates/vegetable_soup_block.json"
+hash = "590e1d52b50db0647a36c74bc9ab03b608f80f2e06b7ce0795d6939da0384611"
+
+[[files]]
 file = "kubejs/assets/displaydelight/textures/block/bowl.png"
 hash = "871325b36f9995b710aef4a16a5f2e05f71140e4c52eedb44f98e3f1abf05102"
 
@@ -1706,7 +1782,7 @@ metafile = true
 
 [[files]]
 file = "mods/fast-ip-ping.pw.toml"
-hash = "80ab2fe154b9e697240ee2e7aaab1098003f7c241e56918e74338c855c9ce3ce"
+hash = "c8b56988ab4123ad30fd9565fdf49d510c3e6e91371391b7cb95c21b941a5904"
 metafile = true
 
 [[files]]
@@ -1976,7 +2052,7 @@ metafile = true
 
 [[files]]
 file = "mods/music-notification.pw.toml"
-hash = "0e1fabeb4f7d50c5bc9bc3c1ce1af9b96c5da5a189f4fc78222b39214c533730"
+hash = "1fcf425b70ec4083ca0799e53ec5c5a1f37baecf45521e5c07860e7d9fecc2db"
 metafile = true
 
 [[files]]
@@ -2285,6 +2361,10 @@ hash = "e839608ebc974e9e7819adc7bf29132ea86fc41b46af540fe0fa39b2007b2439"
 metafile = true
 
 [[files]]
+file = "moonlight-global-datapacks/christmas-craft-fixes/data/brewinandchewin/recipe/fermenting/strongroot_ale_from_beer.json"
+hash = "334eacef08ae1b7607f183e071f00157bfc32c6363f22c8b7704a4d693ae8532"
+
+[[files]]
 file = "moonlight-global-datapacks/christmas-craft-fixes/data/c/tags/fluid/apple_cider.json"
 hash = "1746fdaf99ee3089623469fcfbc97d3a1a14ccbb980dd7eef96dc4469a88b054"
 
@@ -2321,8 +2401,24 @@ file = "moonlight-global-datapacks/christmas-craft-fixes/data/c/tags/fluid/orang
 hash = "77aed1c8f2ef1c4c53828b3b0f700e573460e8680e8e40eca09643fcc1d744c1"
 
 [[files]]
+file = "moonlight-global-datapacks/christmas-craft-fixes/data/c/tags/item/bale.json"
+hash = "ead62427c6a474d488a7f71770947743ca3c10780f837b829184fdccb45864c4"
+
+[[files]]
 file = "moonlight-global-datapacks/christmas-craft-fixes/data/c/tags/item/beers.json"
 hash = "fe9fdc24267d78d3128beddd615559c67a772984d81c678fcd8644b7a15264cb"
+
+[[files]]
+file = "moonlight-global-datapacks/christmas-craft-fixes/data/c/tags/item/black_dyes.json"
+hash = "f69a5f757f6287d219fa0cd3c8cb3d49e3af20e05461efe6a70273d3a4810373"
+
+[[files]]
+file = "moonlight-global-datapacks/christmas-craft-fixes/data/c/tags/item/blue_dyes.json"
+hash = "ff76859d78de49fd705721221929039066d3647d2fb3170fa3f46030c5a2d9f4"
+
+[[files]]
+file = "moonlight-global-datapacks/christmas-craft-fixes/data/c/tags/item/brown_dyes.json"
+hash = "92270056b145aaf58e67c9c35405340a07b865ffd40d7b2a0ae95f74d4866bd6"
 
 [[files]]
 file = "moonlight-global-datapacks/christmas-craft-fixes/data/c/tags/item/butter.json"
@@ -2331,6 +2427,10 @@ hash = "412e525de66c1cc1fe8900dbbbf27177b5acb7c0a6570240d4acd6bf3158b5dc"
 [[files]]
 file = "moonlight-global-datapacks/christmas-craft-fixes/data/c/tags/item/cheese.json"
 hash = "a2dc967e50e8f59a9a297632f95251b567009f683d2ed73324da1f6fda0d7a84"
+
+[[files]]
+file = "moonlight-global-datapacks/christmas-craft-fixes/data/c/tags/item/cyan_dyes.json"
+hash = "c7212efc5892b7a0212b840a672c363f1f6584e3bfd44f209c907aac8ba28c09"
 
 [[files]]
 file = "moonlight-global-datapacks/christmas-craft-fixes/data/c/tags/item/drinks/apple_cider.json"
@@ -2437,6 +2537,18 @@ file = "moonlight-global-datapacks/christmas-craft-fixes/data/c/tags/item/fruits
 hash = "a666a6b7cf3b03efd5cb5e1468d7f7b7831ad5e82a74cd9afe67177196a4ee5d"
 
 [[files]]
+file = "moonlight-global-datapacks/christmas-craft-fixes/data/c/tags/item/glass.json"
+hash = "9bd889baa63c2208cb4490d5ad5b4c64b842a414d1f082665947f104e2aa8fc0"
+
+[[files]]
+file = "moonlight-global-datapacks/christmas-craft-fixes/data/c/tags/item/gray_dyes.json"
+hash = "12e3d6062184ca40e96e5db38f2442e30107f3ddf996cf96ecdddea5b28be360"
+
+[[files]]
+file = "moonlight-global-datapacks/christmas-craft-fixes/data/c/tags/item/green_dyes.json"
+hash = "09cf6fbe15135a5d4d0e74bfbae9fc33238561d3e770e5ea3163e87ebf3b369f"
+
+[[files]]
 file = "moonlight-global-datapacks/christmas-craft-fixes/data/c/tags/item/hidden_from_recipe_viewers.json"
 hash = "a3a4ef45baefec2437f918d316bdc948e9b6efde486a549b24d4d5b3f6fde841"
 
@@ -2445,8 +2557,40 @@ file = "moonlight-global-datapacks/christmas-craft-fixes/data/c/tags/item/juices
 hash = "77aed1c8f2ef1c4c53828b3b0f700e573460e8680e8e40eca09643fcc1d744c1"
 
 [[files]]
+file = "moonlight-global-datapacks/christmas-craft-fixes/data/c/tags/item/light_blue_dyes.json"
+hash = "2d514866034ebcadb5b83ee91acb7238407184032461f92c1f9da4191b582161"
+
+[[files]]
+file = "moonlight-global-datapacks/christmas-craft-fixes/data/c/tags/item/light_gray_dyes.json"
+hash = "7e5e534c235b28519d0edbb716236539dfa19a577a6031516845e65a48585dd4"
+
+[[files]]
+file = "moonlight-global-datapacks/christmas-craft-fixes/data/c/tags/item/lime_dyes.json"
+hash = "b90b1fea9ce362f632933735e931bcfc08f67ed1be4461599b644d34e5fa6fdf"
+
+[[files]]
+file = "moonlight-global-datapacks/christmas-craft-fixes/data/c/tags/item/magenta_dyes.json"
+hash = "72c9088b62ebb0639f7f9f21506cf4e8231372adc7d0f9bb55d4a133c7f25fac"
+
+[[files]]
 file = "moonlight-global-datapacks/christmas-craft-fixes/data/c/tags/item/oils/cooking.json"
 hash = "128c3c006f0a4f808ac435beea854dd5fad1e6b628fb13086b01117cc5d36a97"
+
+[[files]]
+file = "moonlight-global-datapacks/christmas-craft-fixes/data/c/tags/item/orange_dyes.json"
+hash = "28a2b31ed6b8c1039ef3f3b2b51a6b09faebde70eb0c84f518eb175ea77b6ea1"
+
+[[files]]
+file = "moonlight-global-datapacks/christmas-craft-fixes/data/c/tags/item/pink_dyes.json"
+hash = "b22cd10641636d3f2599288ffe60b9dccc2b6d19626cbab49980325c9d16c28d"
+
+[[files]]
+file = "moonlight-global-datapacks/christmas-craft-fixes/data/c/tags/item/purple_dyes.json"
+hash = "62a0f4a7cda6053d21e712dd8ce1b09a148e9892a747d88424269d4a4d2f22c3"
+
+[[files]]
+file = "moonlight-global-datapacks/christmas-craft-fixes/data/c/tags/item/red_dyes.json"
+hash = "ad162e12f9ed793acdb5e335c6fb1520b9253b2ed78401facf145f238708759a"
 
 [[files]]
 file = "moonlight-global-datapacks/christmas-craft-fixes/data/c/tags/item/salt.json"
@@ -2459,6 +2603,14 @@ hash = "c381f0141e141b5b0112c97e71889a9c17090f49e3613d8612e595b03047c123"
 [[files]]
 file = "moonlight-global-datapacks/christmas-craft-fixes/data/c/tags/item/seeds/sunflower.json"
 hash = "f2d591d7b2474ce667049040c94df1ac0c3c0e3f92bace3eea8598fe01811a73"
+
+[[files]]
+file = "moonlight-global-datapacks/christmas-craft-fixes/data/c/tags/item/white_dyes.json"
+hash = "054f56bb119d4fa998c24911b70bbf9bae3b2feb1348d8b19bcb48bce4b20973"
+
+[[files]]
+file = "moonlight-global-datapacks/christmas-craft-fixes/data/c/tags/item/yellow_dyes.json"
+hash = "b3d08b9d55a5343b13a8ee57642d2330dd10026fb625b922527209d328b05ec9"
 
 [[files]]
 file = "moonlight-global-datapacks/christmas-craft-fixes/data/chimes/recipe/copper_chimes.json"
@@ -2601,10 +2753,6 @@ file = "moonlight-global-datapacks/christmas-craft-fixes/data/christmascraft/rec
 hash = "3238a95865a16acf1bf3f2ccb4cd34affd6b5e06ccadd129f2b09cbcc2efef19"
 
 [[files]]
-file = "moonlight-global-datapacks/christmas-craft-fixes/data/christmascraft/recipe/food_drink/mixing/caramel.json"
-hash = "25a5205c1759b1a8f49f3a4c78c3cd0ba974cebe6de652e6d4bfab997c5050f0"
-
-[[files]]
 file = "moonlight-global-datapacks/christmas-craft-fixes/data/christmascraft/recipe/food_drink/mixing/cotton_candy.json"
 hash = "23a2a17e9043511d1e4ea2d59ac255d540eb5d7950ba66fa9a45f7dbe8535c06"
 
@@ -2638,7 +2786,7 @@ hash = "068c4102ea69b0b124b599eb38f40827ba05daf4c6c77223797fbc498fdc1d1e"
 
 [[files]]
 file = "moonlight-global-datapacks/christmas-craft-fixes/data/christmascraft/recipe/kitchen/christmas_cookie_dough.json"
-hash = "9c459d90e02cb39f836ea509b9f77380cf17c05703538ed74d7d899d3389e7fd"
+hash = "6726e36011be7cf02d69ccd45cc211e269458352f74b1d38bb619c89043364a2"
 
 [[files]]
 file = "moonlight-global-datapacks/christmas-craft-fixes/data/christmascraft/recipe/kitchen/christmas_dinner_platter.json"
@@ -2690,7 +2838,7 @@ hash = "0b36a3d40c2b706c5949b89e44b2840f86ef35892a005fa03ffb6267ce82b572"
 
 [[files]]
 file = "moonlight-global-datapacks/christmas-craft-fixes/data/christmascraft/recipe/kitchen/gravy.json"
-hash = "d3040689e72a35877eb452f11fe1520f6dd503baa0788460334adb7f240a751a"
+hash = "bfb6aec98995fd74a91ce6d710691c5da547c716dc08c81acd03c418e33cf0d8"
 
 [[files]]
 file = "moonlight-global-datapacks/christmas-craft-fixes/data/christmascraft/recipe/kitchen/holly_sprig.json"
@@ -2714,7 +2862,7 @@ hash = "a273894e463659324ac329881b8e6b5ec413b5e4e1ea043faa514ec7f73a3660"
 
 [[files]]
 file = "moonlight-global-datapacks/christmas-craft-fixes/data/christmascraft/recipe/kitchen/mincemeat.json"
-hash = "612835899a224892a4fc4e9701efc216c6aff4d240ad4aceb2931bc845d5abc3"
+hash = "ebadfb6eaba908de6acb191afda806ac495ff2299d481eb98d7ff3cccbae31a8"
 
 [[files]]
 file = "moonlight-global-datapacks/christmas-craft-fixes/data/christmascraft/recipe/kitchen/mug_of_mulled_cider.json"
@@ -2754,7 +2902,7 @@ hash = "12445fa2d610e9edec098e770b0789517456d59978ecb698b98611c974fd079a"
 
 [[files]]
 file = "moonlight-global-datapacks/christmas-craft-fixes/data/christmascraft/recipe/kitchen/pudding_batter.json"
-hash = "f055d843cc2b199c4922a66a52c4a656189a79fe912b01fd5a762366285f1533"
+hash = "6d1e1a186355eae2e91ee284281823058ae299d2199fe6f8b905ac9eaaeaf590"
 
 [[files]]
 file = "moonlight-global-datapacks/christmas-craft-fixes/data/christmascraft/recipe/kitchen/raw_christmas_cookie.json"
@@ -2807,6 +2955,10 @@ hash = "6cbe84b9990ad17bc33de60474e9b784d7e9d70d69da0f9055f51886dc8bdebd"
 [[files]]
 file = "moonlight-global-datapacks/christmas-craft-fixes/data/cocktailsdelight/loot_table/blocks/hops_upper.json"
 hash = "13a1cd14bb298a340f662c910411b64c515f1d9d33285e4ed91bd0c96a728d12"
+
+[[files]]
+file = "moonlight-global-datapacks/christmas-craft-fixes/data/cocktailsdelight/recipe/boilermaker.json"
+hash = "053ea86f7c77ed6b40dbbdc461c5dcfe3b55f3d27866b183432469c36383b11b"
 
 [[files]]
 file = "moonlight-global-datapacks/christmas-craft-fixes/data/cocktailsdelight/recipe/emptying/blue_curacao.json"
@@ -3061,6 +3213,14 @@ file = "moonlight-global-datapacks/christmas-craft-fixes/data/create/recipe/crus
 hash = "991552572332552f5a9bb584611972dd4fc9e03ad4f92f1c9d11751ab95fb029"
 
 [[files]]
+file = "moonlight-global-datapacks/christmas-craft-fixes/data/create/recipe/crushing/platinum_ore.json"
+hash = "21b11674b18c3fb0d8292095cf7c12bca82ef4054ec3f1cd8d1e0222d1655629"
+
+[[files]]
+file = "moonlight-global-datapacks/christmas-craft-fixes/data/create/recipe/crushing/raw_platinum_block.json"
+hash = "21b11674b18c3fb0d8292095cf7c12bca82ef4054ec3f1cd8d1e0222d1655629"
+
+[[files]]
 file = "moonlight-global-datapacks/christmas-craft-fixes/data/create/recipe/crushing/veridium.json"
 hash = "152ff7a5a70634d7e14280d74969ce6ae5e397d8d9c0a74b6957e07e65fe6347"
 
@@ -3201,8 +3361,28 @@ file = "moonlight-global-datapacks/christmas-craft-fixes/data/create_bic_bit/rec
 hash = "8e4b0d29ff7f6f8d637e187e384f20cb79e060e6cab47e55f6ea7ee50a6fcf19"
 
 [[files]]
+file = "moonlight-global-datapacks/christmas-craft-fixes/data/create_bic_bit/recipe/mixing/raw_bitterballen.json"
+hash = "35f56b176f1eba017515fe8d0f16010ffa76008bbaa738e5afd94ce242f33876"
+
+[[files]]
+file = "moonlight-global-datapacks/christmas-craft-fixes/data/create_bic_bit/recipe/mixing/raw_cheese_souffle.json"
+hash = "658c7f02ff53c3ad557eb485db8f9c7090fb67d49e0bc079ff458cecba32e361"
+
+[[files]]
+file = "moonlight-global-datapacks/christmas-craft-fixes/data/create_bic_bit/recipe/mixing/raw_eggball.json"
+hash = "c6a22383fc7bbf65a32ebecddc13d6e96da956ad2211794899c441887fde1be1"
+
+[[files]]
 file = "moonlight-global-datapacks/christmas-craft-fixes/data/create_bic_bit/recipe/mixing/raw_fries.json"
 hash = "21b11674b18c3fb0d8292095cf7c12bca82ef4054ec3f1cd8d1e0222d1655629"
+
+[[files]]
+file = "moonlight-global-datapacks/christmas-craft-fixes/data/create_bic_bit/recipe/mixing/raw_frikandel.json"
+hash = "994180481b55ecd734b38d46f264001eb57484d095b66d8cb2c540ecf6aaa005"
+
+[[files]]
+file = "moonlight-global-datapacks/christmas-craft-fixes/data/create_bic_bit/recipe/mixing/raw_kroket.json"
+hash = "256764e6dbf2a93ab1e0d0c596861eca1f9715a0f8143e8c49e38fbaeb394ce8"
 
 [[files]]
 file = "moonlight-global-datapacks/christmas-craft-fixes/data/create_bic_bit/recipe/smelting/roasted_seeds.json"
@@ -3255,6 +3435,14 @@ hash = "21b11674b18c3fb0d8292095cf7c12bca82ef4054ec3f1cd8d1e0222d1655629"
 [[files]]
 file = "moonlight-global-datapacks/christmas-craft-fixes/data/create_confectionery/recipe/crushed_cocoa_recipe.json"
 hash = "21b11674b18c3fb0d8292095cf7c12bca82ef4054ec3f1cd8d1e0222d1655629"
+
+[[files]]
+file = "moonlight-global-datapacks/christmas-craft-fixes/data/create_confectionery/recipe/gingerdough_recipe.json"
+hash = "cdde90db6eb3e15a81606bf54c6e05bc1059d92d4cc2d03f26d27c3fb946b1ae"
+
+[[files]]
+file = "moonlight-global-datapacks/christmas-craft-fixes/data/create_confectionery/recipe/honey_candy_recipe.json"
+hash = "445cc16daf0750a4fa5c842f0a8962246fab9505c0c1b41091d040abeb277908"
 
 [[files]]
 file = "moonlight-global-datapacks/christmas-craft-fixes/data/create_confectionery/recipe/hot_chocolate_recipe.json"
@@ -3357,6 +3545,10 @@ file = "moonlight-global-datapacks/christmas-craft-fixes/data/create_wrapped/rec
 hash = "21b11674b18c3fb0d8292095cf7c12bca82ef4054ec3f1cd8d1e0222d1655629"
 
 [[files]]
+file = "moonlight-global-datapacks/christmas-craft-fixes/data/create_wrapped/recipe/gingerbread_create.json"
+hash = "21b11674b18c3fb0d8292095cf7c12bca82ef4054ec3f1cd8d1e0222d1655629"
+
+[[files]]
 file = "moonlight-global-datapacks/christmas-craft-fixes/data/createaddition/recipe/compacting/cake_base.json"
 hash = "ca4b0ae6e177eef42e6236990a0b13faa00ebb59b441645518504ed577c53895"
 
@@ -3409,8 +3601,16 @@ file = "moonlight-global-datapacks/christmas-craft-fixes/data/createdeco/recipe/
 hash = "ddc3d0dd56b604d914bedbf2f985a2f0b5f7374eac79aad668a8a2cfd7cc154c"
 
 [[files]]
+file = "moonlight-global-datapacks/christmas-craft-fixes/data/createdieselgenerators/recipe/basin_fermenting/dough.json"
+hash = "ede11057a8f0d721693f9b387cfba6125802cf8b1b6cda5690cb1c2236c784e4"
+
+[[files]]
 file = "moonlight-global-datapacks/christmas-craft-fixes/data/createdieselgenerators/recipe/compacting/plant_oil.json"
 hash = "3243151aa4af801e285dc30410de0621ea264ecebe741cf1669624ee4e3a34c4"
+
+[[files]]
+file = "moonlight-global-datapacks/christmas-craft-fixes/data/createdieselgenerators/recipe/compat/createaddition/zinc_sheet.json"
+hash = "ad7663b0abc5bb4b65e9d6ee6dd879a3db8a4c2e1a76c0416eaa50b5f1803919"
 
 [[files]]
 file = "moonlight-global-datapacks/christmas-craft-fixes/data/createdieselgenerators/recipe/crushing/wood_chip_casings.json"
@@ -3418,7 +3618,19 @@ hash = "8630b7bc83fae1a4dc3039c0d0e40d78b5791dfb9357b623debe6aa9092fc66d"
 
 [[files]]
 file = "moonlight-global-datapacks/christmas-craft-fixes/data/delightfulcreators/recipe/compacting/cake.json"
-hash = "b621303f0098c61613fdd7278f9898353c6d95fe25c69a708fabd485c05ef366"
+hash = "b230674c3b86e4e7d26d8708df7a441cb84aa7bdb4e6e779933c7ebd747daff1"
+
+[[files]]
+file = "moonlight-global-datapacks/christmas-craft-fixes/data/delightfulcreators/recipe/compacting/cookie.json"
+hash = "8f0f45325910d86f77b60cd040790dd0a374ab55f093f161405f808b10953fad"
+
+[[files]]
+file = "moonlight-global-datapacks/christmas-craft-fixes/data/delightfulcreators/recipe/compacting/honey_cookie.json"
+hash = "c44e21af0aabcdce71297bb149384dc4ce1bd61b60dffb60c568fa5c1a89a147"
+
+[[files]]
+file = "moonlight-global-datapacks/christmas-craft-fixes/data/delightfulcreators/recipe/compacting/sweet_berry_cookie.json"
+hash = "249f740c036fe0490327853bda34c7313e39bb761cb15e904c859bd5f499dc0c"
 
 [[files]]
 file = "moonlight-global-datapacks/christmas-craft-fixes/data/delightfulcreators/recipe/emptying/apple_cider.json"
@@ -3439,6 +3651,14 @@ hash = "4a66a6050bfdebbe87ef4525ffda4453b9f18581c1301842c4b94119d45a9645"
 [[files]]
 file = "moonlight-global-datapacks/christmas-craft-fixes/data/delightfulcreators/recipe/filling/melon_juice.json"
 hash = "841959ac1bbfab362b7354db95fda2fbc2020425083c1fd301c24c373b535b12"
+
+[[files]]
+file = "moonlight-global-datapacks/christmas-craft-fixes/data/delightfulcreators/recipe/mixing/melon_juice.json"
+hash = "21b11674b18c3fb0d8292095cf7c12bca82ef4054ec3f1cd8d1e0222d1655629"
+
+[[files]]
+file = "moonlight-global-datapacks/christmas-craft-fixes/data/delightfulcreators/recipe/sequenced_assembly/apple_pie.json"
+hash = "10540423b4a3a6c964fffa65bdf4f866799027578a4523526b660f9712fd4b30"
 
 [[files]]
 file = "moonlight-global-datapacks/christmas-craft-fixes/data/dndecor/loot_table/blocks/amber_cogwheel.json"
@@ -4469,12 +4689,20 @@ file = "moonlight-global-datapacks/christmas-craft-fixes/data/dustydecorations/r
 hash = "f84ffe73c9e5b3c63ae716f0d32906e9e40d613dd8e4cc756d914e4db9fc5666"
 
 [[files]]
+file = "moonlight-global-datapacks/christmas-craft-fixes/data/farmersdelight/recipe/integration/create/mixing/pie_crust_from_mixing.json"
+hash = "a0c5fb0178f7922beb2c19b820abf051d6dd85466a6e6754e7ed3fa988ad1598"
+
+[[files]]
 file = "moonlight-global-datapacks/christmas-craft-fixes/data/farmersrespite/recipe/brewing/apple_cider.json"
 hash = "0b94a326d16cc83410ef59c1e798ca07658a42c9960f5ec244790724edf67909"
 
 [[files]]
 file = "moonlight-global-datapacks/christmas-craft-fixes/data/farmersrespite/recipe/brewing/melon_juice.json"
 hash = "ede928a23e7c852be0d966ef75c2a83d5be6bb8eac079c7764b826ae5eb2c01e"
+
+[[files]]
+file = "moonlight-global-datapacks/christmas-craft-fixes/data/forge/tags/item/tools/knives.json"
+hash = "bf112f6ba2ddd022f78dd87913329ac3a04e566bd01f081c24e64c676196ddd1"
 
 [[files]]
 file = "moonlight-global-datapacks/christmas-craft-fixes/data/hearthandharvest/recipe/butter.json"
@@ -4503,6 +4731,18 @@ hash = "3421fbe3846a5ffe9bd219e44e514b99d64e2911f7c7ac7217ca2555b4047c0b"
 [[files]]
 file = "moonlight-global-datapacks/christmas-craft-fixes/data/hearthandharvest/recipe/cooking/popcorn.json"
 hash = "fbb245eda557e19914dc52792b3a78860b8b6f7bb7571df9bc4a43805e535b43"
+
+[[files]]
+file = "moonlight-global-datapacks/christmas-craft-fixes/data/hearthandharvest/recipe/flour_dough_from_egg.json"
+hash = "63a446c3825287a4d811c8dbb0a0883cca28d398632d98a4955782a092947e8c"
+
+[[files]]
+file = "moonlight-global-datapacks/christmas-craft-fixes/data/hearthandharvest/recipe/flour_dough_from_water_bottle.json"
+hash = "106dcb792568b997590dd9346b5e5e339c9ad27840adc4eeffe5daf789ca26cd"
+
+[[files]]
+file = "moonlight-global-datapacks/christmas-craft-fixes/data/hearthandharvest/recipe/flour_dough_from_water_bucket.json"
+hash = "657883260388a687d454a4b280768cde4fc57d44b4d1f57b137d919689e581bd"
 
 [[files]]
 file = "moonlight-global-datapacks/christmas-craft-fixes/data/hearthandharvest/recipe/hops_salad.json"
@@ -4541,6 +4781,10 @@ file = "moonlight-global-datapacks/christmas-craft-fixes/data/hearthandharvest/r
 hash = "90f77e0cd363781252752c1b820716230a21339c8dfd2f6a78a064e4dea4bf11"
 
 [[files]]
+file = "moonlight-global-datapacks/christmas-craft-fixes/data/hearthandharvest/recipe/pie_crust_from_flour.json"
+hash = "89dce112677f5fc3dbb84de17db3796c06eb733a7a3c77384249350270b1d534"
+
+[[files]]
 file = "moonlight-global-datapacks/christmas-craft-fixes/data/hearthandharvest/recipe/raisins_from_green_grapes_from_campfire_cooking.json"
 hash = "1bb87ca0faf16604b6f9900ef6a7f5672146488f36214ca2f380ef08619f4d94"
 
@@ -4565,6 +4809,10 @@ file = "moonlight-global-datapacks/christmas-craft-fixes/data/hearthandharvest/r
 hash = "08731c07a8bd90a0fb818aa09a43ca39519ce2a97d0da82069258ec240cc5195"
 
 [[files]]
+file = "moonlight-global-datapacks/christmas-craft-fixes/data/hearthandharvest/recipe/raspberry_scone.json"
+hash = "73819f8ee6e5732a2d4816b911fdffa31c08e97d71ac0ddcaa3027dd02d28dac"
+
+[[files]]
 file = "moonlight-global-datapacks/christmas-craft-fixes/data/hearthandharvest/recipe/stomping/cooking_oil_from_corn.json"
 hash = "4278da8f6e3ce9fdc2af68a3e77162f7bc9281f5a5ba31881eb27dbc548028a1"
 
@@ -4575,6 +4823,10 @@ hash = "12b71008f903c42fa6c5fd9df5ce2e4f627ea12f8b71ccbba7f5bf21b4eb0fbf"
 [[files]]
 file = "moonlight-global-datapacks/christmas-craft-fixes/data/hearthandharvest/recipe/stomping/red_grape_juice.json"
 hash = "bd210fd6c532f3b5f1af1dc625887250d3c4be8996a11749b1cef628520b21cb"
+
+[[files]]
+file = "moonlight-global-datapacks/christmas-craft-fixes/data/hearthandharvest/recipe/uncooked_corn_on_the_cob.json"
+hash = "d0eae005518fb4665df6cbb706c82b6c1d06be1e2145f2254ae2ced9393c3a5c"
 
 [[files]]
 file = "moonlight-global-datapacks/christmas-craft-fixes/data/minecraft/recipe/red_dye.json"
@@ -4595,6 +4847,26 @@ hash = "99b969132018e9da1071065a8593ba9564928b1ed0aa5ae3ab45f9dac071f7d5"
 [[files]]
 file = "moonlight-global-datapacks/christmas-craft-fixes/data/naturalist/neoforge/biome_modifier/remove_forest_pigs.json"
 hash = "99b969132018e9da1071065a8593ba9564928b1ed0aa5ae3ab45f9dac071f7d5"
+
+[[files]]
+file = "moonlight-global-datapacks/christmas-craft-fixes/data/naturalist/recipe/cooked_egg.json"
+hash = "15ccfac028da9c38c3d3bbd29e002a6c800cf943d86d98c69e41c7ac687962cb"
+
+[[files]]
+file = "moonlight-global-datapacks/christmas-craft-fixes/data/naturalist/recipe/cooked_egg_from_campfire_cooking.json"
+hash = "8a59c76d77adfe68f3a89d29c9dc5d653d66e9d2502c3f711350c5fc26c5dc05"
+
+[[files]]
+file = "moonlight-global-datapacks/christmas-craft-fixes/data/naturalist/recipe/cooked_egg_from_smoking.json"
+hash = "34c14bfe966838ead85328fa8eff2deb9958aabc340376570d2586cb99a209b8"
+
+[[files]]
+file = "moonlight-global-datapacks/christmas-craft-fixes/data/pipeorgans/recipe/cutting/brass_reed.json"
+hash = "4116a58bdd7131eb15cd6452b866f8d08275323bbf55ca4cfc1c64ef356e9e5e"
+
+[[files]]
+file = "moonlight-global-datapacks/christmas-craft-fixes/data/pipeorgans/recipe/pressing/brass_reed.json"
+hash = "21b11674b18c3fb0d8292095cf7c12bca82ef4054ec3f1cd8d1e0222d1655629"
 
 [[files]]
 file = "moonlight-global-datapacks/christmas-craft-fixes/data/portable_engine_liquid_fuel/data_maps/fluid/engine_fuel.json"
@@ -5709,12 +5981,24 @@ file = "moonlight-global-datapacks/christmas-craft-fixes/data/railways/loot_tabl
 hash = "13a1cd14bb298a340f662c910411b64c515f1d9d33285e4ed91bd0c96a728d12"
 
 [[files]]
+file = "moonlight-global-datapacks/christmas-craft-fixes/data/ratatouille/recipe/composting/more_dough.json"
+hash = "4d329e568b27eee2d249a2f5111e2adb7ddd1b17fe6549b72652a9cea8312fdd"
+
+[[files]]
 file = "moonlight-global-datapacks/christmas-craft-fixes/data/ratatouille/recipe/filling/melon_popsicle_mold_filled.json"
 hash = "b93b824c9685bc551f074faeafc97638b2784c93908a3eb7792993523b406555"
 
 [[files]]
 file = "moonlight-global-datapacks/christmas-craft-fixes/data/ratatouille/recipe/milling/wheat_flour.json"
 hash = "31174d6771e31a7897888dabd64290c3b9c42a449a92b66ed1dc2dcd3decf0cd"
+
+[[files]]
+file = "moonlight-global-datapacks/christmas-craft-fixes/data/ratatouille/recipe/mixing/cake_batter.json"
+hash = "acea9ba8146014c4c869ff2776bd3ff9b3038b81aa363611efffcfc9bcef5de2"
+
+[[files]]
+file = "moonlight-global-datapacks/christmas-craft-fixes/data/ratatouille/recipe/mixing/salty_dough.json"
+hash = "fffff5e6a5bc8418ec8f4c2c7978d0d5f1fad0744748ab26223642b34a01951a"
 
 [[files]]
 file = "moonlight-global-datapacks/christmas-craft-fixes/data/ratatouille_fried_delights/recipe/burger_saucing/ketchup_sauce.json"
@@ -5727,6 +6011,10 @@ hash = "24f1eccc29b067bdc9d0ba5b8f15dad9b63cc4bc3ad7d1dd19bd8e2705b4fab8"
 [[files]]
 file = "moonlight-global-datapacks/christmas-craft-fixes/data/ratatouille_fried_delights/recipe/compacting/sunflower_oil.json"
 hash = "b17b3714edd148624741aa46ffdf6b721113bfa259b31bbb18ec2e0b7688c02b"
+
+[[files]]
+file = "moonlight-global-datapacks/christmas-craft-fixes/data/ratatouille_fried_delights/recipe/crafting/secret_seasoning_powder.json"
+hash = "b506100ac4ae21601601faa87fabea1458b6379763b2ee442a733197887a3664"
 
 [[files]]
 file = "moonlight-global-datapacks/christmas-craft-fixes/data/ratatouille_fried_delights/recipe/filling/ketchup_dip_cup.json"
@@ -5770,7 +6058,7 @@ hash = "56fff6f33ceb4f036140353f1ea90d4a517d15a35aa83a8c7882dee2a43b4f3c"
 
 [[files]]
 file = "moonlight-global-datapacks/christmas-craft-fixes/data/ratatouille_fried_delights/recipe/mixing/burger_bun_mold_unbaked.json"
-hash = "c1376ddb0451b6eab1f2e1f68ca9d529d55ca6afb5a133d7aefd8a253c57669d"
+hash = "a7af1966911ef249b6d7bd315f21836c97fabf84cda349887dc85368f1c8137a"
 
 [[files]]
 file = "moonlight-global-datapacks/christmas-craft-fixes/data/ratatouille_fried_delights/recipe/mixing/ketchup.json"
@@ -5782,7 +6070,7 @@ hash = "cb84b7486a3afe7b806338a91ce6c721ed7c06ea14e201251c78c3d650213e79"
 
 [[files]]
 file = "moonlight-global-datapacks/christmas-craft-fixes/data/ratatouille_fried_delights/recipe/mixing/puff_pastry.json"
-hash = "c290d272db2ca10d50c30cdc2821c30f33d9b305ce058ca8451bc8c6fc48faee"
+hash = "9198a6dd00c78d60649a23c34370dc6d1d7e0a1bab45ce85eee1aa969608105a"
 
 [[files]]
 file = "moonlight-global-datapacks/christmas-craft-fixes/data/ratatouille_fried_delights/recipe/mixing/raw_cheese.json"
@@ -5790,7 +6078,7 @@ hash = "637b19c635ca48227414c455e4e60f8b3b84fc2b8b7ca59fe2a73b2a001c82b5"
 
 [[files]]
 file = "moonlight-global-datapacks/christmas-craft-fixes/data/ratatouille_fried_delights/recipe/mixing/raw_chicken_nuggets.json"
-hash = "25a38982ac2e709ba6100f7ad0b29e3bf4b8ed2f3619859976b46dae4d3aa222"
+hash = "dc6750f359af3c6e64566bff052b6ba4725fc6e4ae9221945cd0635ce0084394"
 
 [[files]]
 file = "moonlight-global-datapacks/christmas-craft-fixes/data/ratatouille_fried_delights/recipe/mixing/raw_fish_fillet.json"
