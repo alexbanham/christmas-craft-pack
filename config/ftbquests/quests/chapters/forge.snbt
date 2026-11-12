@@ -2,7 +2,7 @@
 	"id": "174BDD9E16EB501B"
 	"filename": "forge"
 	"group": "6E6872417BE99080"
-	"order_index": 12
+	"order_index": 14
 	"icon": {
 		"id": "cccasino:forge_controller"
 	}
@@ -268,6 +268,12 @@
 						"count": 1
 					}
 					"count": 1
+				}
+				{
+					"id": "6938667110AF8F5E"
+					"type": "advancement"
+					"advancement": "cccasino:forge/yuletide_set"
+					"criterion": ""
 				}
 			]
 			"rewards": [
@@ -819,6 +825,12 @@
 						"count": 1
 					}
 					"count": 1
+				}
+				{
+					"id": "6249EB974235E363"
+					"type": "advancement"
+					"advancement": "cccasino:forge/saint_nick_set"
+					"criterion": ""
 				}
 			]
 			"rewards": [

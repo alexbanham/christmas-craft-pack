@@ -116,7 +116,7 @@
 	]
 	"loot_crate": {
 		"string_id": "santas_sack"
-		"item_name": "Santa's Sack"
+		"item_name": "Santa's Hamper"
 		"color": 15251747
 		"glow": true
 		"drops": {

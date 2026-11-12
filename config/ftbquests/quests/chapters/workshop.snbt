@@ -2,7 +2,7 @@
 	"id": "6EFBA7C7F19E4A02"
 	"filename": "workshop"
 	"group": "6E6872417BE99080"
-	"order_index": 11
+	"order_index": 12
 	"icon": {
 		"id": "create_wrapped:wrapping_station"
 	}
@@ -34,6 +34,12 @@
 			"shape": "hexagon"
 			"size": 1.25d
 			"tasks": [
+				{
+					"id": "41B696A8EFAC24F9"
+					"type": "advancement"
+					"advancement": "cccasino:toyworks/formed"
+					"criterion": ""
+				}
 				{
 					"id": "7CFC817CD92C9E0B"
 					"type": "item"
@@ -163,6 +169,12 @@
 			"shape": "hexagon"
 			"size": 1.25d
 			"tasks": [
+				{
+					"id": "3B7380CBD2D24487"
+					"type": "advancement"
+					"advancement": "cccasino:toyworks/tier_2"
+					"criterion": ""
+				}
 				{
 					"id": "2A2D6C7AE483978A"
 					"type": "item"

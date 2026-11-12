@@ -381,12 +381,12 @@
 	"quest.18FDF9691693E472.title": "Elf Shifts"
 	"quest.18FDF9691693E472.quest_subtitle": "Sort the post, get paid."
 	"quest.18FDF9691693E472.quest_desc": [
-		"Use the Elf Mail desk to start a shift of ten letters and file each in the pigeonhole whose plate matches its stamp. Ten filed pays real chips; three mix-ups and the shift is unpaid. A small wage, a few shifts a day, always open. Nearly broke? Santa's Mercy leaves you Gift Chips once a day: they bet at any game, and wins pay real chips."
+		"Use the Elf Mail desk to start a shift of ten letters and file each in the pigeonhole whose plate matches its stamp. Ten filed pays real chips; three mix-ups and the shift is unpaid. A small wage, always open. Nearly broke? Santa's Mercy leaves you Gift Chips once a day: they bet at Jingle Reels, Video Poker and the Wheel of Gifts, and wins pay real chips."
 	]
 	"quest.4DF28181384AE73C.title": "The North Pole Exchange"
 	"quest.4DF28181384AE73C.quest_subtitle": "Sell what you make."
 	"quest.4DF28181384AE73C.quest_desc": [
-		"The Exchange buys made things: dishes, Create and airship parts, crops packed into bales and crates; never raw ore, logs or loose crops. Use the counter holding a stack to sell it. Each sale pulls that price down for everyone until it recovers, so make several goods, not a mountain of one. No daily limit: prices are the brake."
+		"The Exchange buys made things: dishes, Create and airship parts, crops packed into bales and crates; never raw ore, logs or loose crops. Use the Exchange holding a stack to sell it. Each sale pulls that price down for everyone until it recovers, so make several goods, not a mountain of one. No daily limit: prices are the brake."
 	]
 	"quest.35D0AD821D56CDD4.title": "Wanted by Sunday"
 	"quest.35D0AD821D56CDD4.quest_subtitle": "The Notice Board."
@@ -398,10 +398,10 @@
 	"quest.4B8CE993D9A0F9A1.quest_desc": [
 		"Santa's Shop sells decorations, treats and toy blueprints; chips spent there are gone for good, and it takes real chips only. What it does not sell you make: a Notice Board of your own is a Create clipboard on brass sheets and spruce posts, on Mechanical Crafters. Hang one in your factory and hand orders in there."
 	]
-	"quest.068C2800EC9D4851.title": "A Counter of Your Own"
+	"quest.068C2800EC9D4851.title": "An Exchange of Your Own"
 	"quest.068C2800EC9D4851.quest_subtitle": "Sell by the beltful."
 	"quest.068C2800EC9D4851.quest_desc": [
-		"Build an Exchange counter on Mechanical Crafters: a split-flap bank from your Workshop, nixie tubes, a brass funnel and brass casings. It takes goods from belts, funnels and arms through its hatch and sells every unit for whoever placed it. The chips wait in its till (watch the nixie tubes); an empty hand collects them."
+		"Build a North Pole Exchange on Mechanical Crafters: a split-flap bank from your Workshop, nixie tubes, a brass funnel and brass casings. It takes goods from belts, funnels and arms through its hatch and sells every unit for whoever placed it. The chips wait in its till (watch the nixie tubes); an empty hand collects them."
 	]
 	"quest.0EFC2DA5F4BEF5FC.title": "Your First Thousand"
 	"quest.0EFC2DA5F4BEF5FC.quest_subtitle": "Colour up."
@@ -421,12 +421,12 @@
 	"quest.4912A2FF86EE33F2.title": "Open for Business"
 	"quest.4912A2FF86EE33F2.quest_subtitle": "Your stall, your prices, their chips."
 	"quest.4912A2FF86EE33F2.quest_desc": [
-		"Link your stock to a stock ticker, seat a shopkeeper behind it and lay table cloths with a price in chips on each: neighbours buy straight from your stock, and their chips go to you, not the market. You set the price, so sell what the Exchange does not buy, to friends who would rather buy it than build the line."
+		"Link your stock to a stock ticker, seat a shopkeeper behind it and lay table cloths with a price in chips on each: neighbours buy straight from your stock, and their chips go straight to you. You set the price, so sell what the Exchange does not buy, to friends who would rather buy it than build the line."
 	]
 	"quest.10BE983EC70E1433.title": "Made to Order"
 	"quest.10BE983EC70E1433.quest_subtitle": "The factory that runs itself."
 	"quest.10BE983EC70E1433.quest_desc": [
-		"A factory gauge watches your stock and orders the ingredients it needs, then sends the product on. Chain a few together and your shop shelves, your Notice Board orders and your counter's belt keep themselves full while you are away. That is how fortunes start."
+		"A factory gauge watches your stock and orders the ingredients it needs, then sends the product on. Chain a few together and your shop shelves, your Notice Board orders and your Exchange's belt keep themselves full while you are away. That is how fortunes start."
 	]
 	"quest.1B7B5521AF591BB6.title": "The North Pole Tally"
 	"quest.1B7B5521AF591BB6.quest_subtitle": "Know what your line makes."
@@ -444,7 +444,7 @@
 	"quest.764395C6373B64A1.title": "Mechanism Works"
 	"quest.764395C6373B64A1.quest_subtitle": "Four a minute, for five."
 	"quest.764395C6373B64A1.quest_desc": [
-		"Four precision mechanisms a minute for five minutes means several sequenced lines running side by side, fed gold sheets and cogs without a gap. The market always wants mechanisms; this is how you supply it."
+		"Four precision mechanisms a minute for five minutes means several sequenced lines running side by side, fed gold sheets and cogs without a gap. The Exchange always wants mechanisms; this is how you supply it."
 	]
 	"task.63DEF59CC0A0B293.title": "Deliver 6 boxes of fries a minute for 5 minutes"
 	"quest.6A4E0F47C1E08D99.title": "Fry Shop Rush"
@@ -457,24 +457,24 @@
 		"The house always wins. Eventually."
 	]
 	"quest.17B3295222734544.title": "The Casino Floor"
-	"quest.17B3295222734544.quest_subtitle": "Blackjack, Hold'em and the wheel."
+	"quest.17B3295222734544.quest_subtitle": "Blackjack, Texas Hold'em and the wheel."
 	"quest.17B3295222734544.quest_desc": [
-		"Walk the floor: blackjack, where the dealer stands on seventeen; Hold'em, where you play your friends and the house only rakes; and roulette, a single zero and a ball that never lies. Every bet is a real chip on the felt."
+		"Walk the floor: blackjack, where the dealer stands on seventeen; Texas Hold'em, where you play your friends and the house only rakes; and Snowball Roulette, a single zero and a ball that never lies. Every bet is a real chip on the felt."
 	]
 	"quest.25E6B1D27ECC0874.title": "The Wheel of Gifts"
 	"quest.25E6B1D27ECC0874.quest_subtitle": "Fifty-four segments and a clapper."
 	"quest.25E6B1D27ECC0874.quest_desc": [
-		"Put a chip on a symbol's spot on the felt, then anyone uses the wheel: it spins eight seconds and the clapper picks the segment. Snowflakes pay even money, holly two to one, up to forty to one on Santa or the single lump of Coal. A Gift Chip bets as a 1. In Advent, an empty hand on a symbol takes a free spin once a day, paid in Gift Chips. Win a spin."
+		"Put a chip on a symbol's spot on the felt, then anyone uses the wheel: it spins eight seconds and the clapper picks the segment. Snowflakes pay 1:1, holly 2:1, up to 40:1 on Santa or the single lump of Coal. A Gift Chip bets as a 1. In Advent, an empty hand on a symbol takes a free spin once a day, paid in Gift Chips. Win a spin."
 	]
 	"quest.4FD3128EC2BDE93E.title": "Behind the Silver"
 	"quest.4FD3128EC2BDE93E.quest_subtitle": "One card a day, all through Advent."
 	"quest.4FD3128EC2BDE93E.quest_desc": [
-		"From 1 December, click the calendar on an Advent Kiosk for the day's scratch card: 10 chips, one a day until the 24th. Use it and rub off the nine silver panels; three alike win that symbol's prize, up to 2,500 for three Santas. Buy your first card."
+		"From 1 December, use the calendar on an Advent Kiosk for the day's scratch card: 10 chips, one a day until the 24th. Use it and rub off the nine silver panels; three alike win that symbol's prize, up to 2,500 for three Santas. Buy your first card."
 	]
 	"quest.3244EFB48B457838.title": "The Christmas Eve Draw"
 	"quest.3244EFB48B457838.quest_subtitle": "Three winning tickets, drawn live."
 	"quest.3244EFB48B457838.quest_desc": [
-		"Click the kiosk's counter or drum for a draw ticket, 50 chips each, as many as you like. Most of the takings go in the pot, and on 24 December at 20:00 the drum spins live for three winners: half the pot, then three tenths, then a fifth. Buy a ticket."
+		"Use the kiosk's counter or drum for a draw ticket, 50 chips each, as many as you like. Most of the takings go in the pot, and on 24 December at 20:00 the drum spins live for three winners: half the pot, then three tenths, then a fifth. Buy a ticket."
 	]
 	"quest.299AAAEF4829DB19.title": "The Casino Workshop"
 	"quest.299AAAEF4829DB19.quest_subtitle": "Loom, Press and Lathe, under one roof."
@@ -511,7 +511,7 @@
 	"quest.39B0D878CD31828F.title": "Casino Pieces"
 	"quest.39B0D878CD31828F.quest_subtitle": "Every game is built, not crafted."
 	"quest.39B0D878CD31828F.quest_desc": [
-		"Every casino game goes together from pieces the Workshop makes. A small blackjack table takes a Dealer's Station, a Card Shoe and two Padded Rail Sections. In JEI, U on a piece shows every game it goes into (the casino tab); R on a game shows its layout."
+		"Every casino game goes together from pieces the Workshop makes. A Small Blackjack Table takes a Dealer's Station, a Card Shoe and two Padded Rail Sections. In JEI, U on a piece shows every game it goes into (the casino tab); R on a game shows its layout."
 		""
 		"{image:cccasino:textures/gui/quest/mb_kit.png width:200 height:78 align:center}"
 	]
@@ -526,7 +526,7 @@
 	"quest.5BD417BE5DE016AD.title": "Deal for Your Friends"
 	"quest.5BD417BE5DE016AD.quest_subtitle": "The small blackjack table."
 	"quest.5BD417BE5DE016AD.quest_desc": [
-		"Make a Dealer's Station, a Card Shoe and two Padded Rail Sections, set them in their two-by-two frame and lay a printed blackjack layout on the felt: the table forms. Put the shoe on Create power. A mechanical crafter makes two Casino Stools from velvet, a brass fitting and a shaft: seat your friends."
+		"Make a Dealer's Station, a Card Shoe and two Padded Rail Sections, set them in their two-by-two frame and lay a printed Blackjack Layout on the felt: the table forms. Put the shoe on Create power. A mechanical crafter makes two Casino Stools from velvet, a brass fitting and a shaft: seat your friends."
 		""
 		"{image:cccasino:textures/gui/quest/mb_blackjack_table_small.png width:200 height:78 align:center}"
 	]
@@ -540,21 +540,21 @@
 	"quest.07247796C5F51FB3.title": "High Stakes"
 	"quest.07247796C5F51FB3.quest_subtitle": "The large blackjack table."
 	"quest.07247796C5F51FB3.quest_desc": [
-		"Five wide and three deep: two Dealer's Aprons, four Felt Beds and seven Rail Sections round the station and the shoe. Lay the blackjack layout on the big frame: it is the biggest blackjack table there is, for the biggest games of the season."
+		"Five wide and three deep: two Dealer's Aprons, four Felt Beds and seven Rail Sections round the station and the shoe. Lay the Blackjack Layout on the big frame: it is the biggest blackjack table there is, for the biggest games of the season."
 		""
 		"{image:cccasino:textures/gui/quest/mb_blackjack_table_large.png width:200 height:78 align:center}"
 	]
-	"quest.0540CCBE9A343034.title": "Hold'em at Home"
+	"quest.0540CCBE9A343034.title": "Texas Hold'em at Home"
 	"quest.0540CCBE9A343034.quest_subtitle": "A shuffler of your own."
 	"quest.0540CCBE9A343034.quest_desc": [
-		"The poker table needs a card shuffler, made on a sequenced-assembly line: a precision mechanism takes cogwheels, rubber rollers and an electron tube, twice round. The Workshop houses it in a Card Shuffler; ring the oval with rail sections and lay the poker layout."
+		"A Poker Table needs a Card Shuffler, made on a sequenced-assembly line: a precision mechanism takes cogwheels, rubber rollers and an electron tube, twice round. The Workshop builds it into the table's shuffler piece; ring the oval with rail sections and lay the Poker Layout."
 		""
 		"{image:cccasino:textures/gui/quest/mb_poker_table.png width:200 height:78 align:center}"
 	]
 	"quest.58AF8CB9EC71E889.title": "Spin the Wheel"
 	"quest.58AF8CB9EC71E889.quest_subtitle": "Bowl, frets, ring and bearing."
 	"quest.58AF8CB9EC71E889.quest_desc": [
-		"Turn a dark-oak bowl on the Lathe and send it down a sequenced line: a Spout varnishes it, Deployers fit brass frets, a spun number ring and a mechanical bearing. The Workshop sets it in a Wheel Bowl; lay the roulette layout on its frame."
+		"Turn a dark-oak bowl on the Lathe and send it down a sequenced line: a Spout varnishes it, Deployers fit brass frets, a spun number ring and a mechanical bearing. The Workshop sets it in a Wheel Bowl; lay the Roulette Layout on its frame: a Snowball Roulette Table."
 		""
 		"{image:cccasino:textures/gui/quest/mb_roulette_table.png width:200 height:78 align:center}"
 	]
@@ -569,12 +569,12 @@
 	"quest.11C16135B26F8B1F.title": "Grand Opening"
 	"quest.11C16135B26F8B1F.quest_subtitle": "Every table, made by you."
 	"quest.11C16135B26F8B1F.quest_desc": [
-		"A poker table, a roulette table and a slot cabinet, every piece made in your own Workshop and put together on your own floor. Throw the doors open: the North Pole has a casino of its own making."
+		"A Poker Table, a Snowball Roulette Table and a Jingle Reels Slot Machine, every piece made in your own Workshop and put together on your own floor. Throw the doors open: the North Pole has a casino of its own making."
 	]
 	"quest.26329079A83DBAA0.title": "Punto Banco"
 	"quest.26329079A83DBAA0.quest_subtitle": "Player, Banker or Tie."
 	"quest.26329079A83DBAA0.quest_desc": [
-		"Sit at a baccarat table and put chips in your seat's boxes: PLAYER, BANKER or TIE. There is nothing to decide once the cards come out: the dealer draws by the tableau, closest to nine wins. The Banker wins a little more often, so a Banker win on a three-card 7 only pushes."
+		"Sit at a Baccarat Table and put chips in your seat's boxes: PLAYER, BANKER or TIE. There is nothing to decide once the cards come out: the dealer draws by the tableau, closest to nine wins. The Banker wins a little more often, so a Banker win on a three-card 7 only pushes."
 	]
 	"quest.687565AB514EEF81.title": "A Natural"
 	"quest.687565AB514EEF81.quest_subtitle": "Eight or nine on two cards."
@@ -584,7 +584,7 @@
 	"quest.67F72F29FA3BC607.title": "Krampus and the Polar Bear"
 	"quest.67F72F29FA3BC607.quest_subtitle": "The side bets."
 	"quest.67F72F29FA3BC607.quest_desc": [
-		"The red 7 wins forty to one when the Banker wins on three cards to 7; the white 8 wins twenty-five to one when the Player wins on three cards to 8. Win either. They come up about once in forty coups."
+		"The red 7 wins 40:1 when the Banker wins on three cards to 7; the white 8 wins 25:1 when the Player wins on three cards to 8. Win either. One or the other comes up about once in eighteen coups."
 	]
 	"quest.45A920982B16572E.title": "Jacks or Better"
 	"quest.45A920982B16572E.quest_subtitle": "Hold, then draw."
@@ -614,9 +614,29 @@
 		"Put chips on a runner's roundel at the Reindeer Derby, then press START or wait for the gate. The odds are on the tote, the order is drawn at the gate, and the chains under the track carry it home. Win a race."
 	]
 	"quest.54C7CF4D81CE9164.title": "The Long Shot"
-	"quest.54C7CF4D81CE9164.quest_subtitle": "Twelve to one or longer."
+	"quest.54C7CF4D81CE9164.quest_subtitle": "12:1 or longer."
 	"quest.54C7CF4D81CE9164.quest_desc": [
-		"Win backing a runner at 12-1 or longer. The long shots win less often than the favourites, but every bet on the card returns the same in the long run: the difference is the story."
+		"Win backing a runner at 12:1 or longer. The long shots win less often than the favourites, but every bet on the card returns the same in the long run: the difference is the story."
+	]
+	"quest.63B56B75131D58BF.title": "Twenty-One"
+	"quest.63B56B75131D58BF.quest_subtitle": "Beat the dealer."
+	"quest.63B56B75131D58BF.quest_desc": [
+		"Take a seat at a Blackjack Table, put chips in your circle and play the hand from the console in front of you: hit, stand, double or split. The dealer stands on soft 17 and a blackjack pays 3:2. Win a hand that pays more than you staked; a push does not count."
+	]
+	"quest.413578C19C63379D.title": "Take the Pot"
+	"quest.413578C19C63379D.quest_subtitle": "Texas Hold'em."
+	"quest.413578C19C63379D.quest_desc": [
+		"Sit down at a Poker Table with friends and play Texas Hold'em from your own stack. The house deals and takes a small rake, but the chips you win are other players'. Win a pot, by holding the best hand at the showdown or by making everyone else fold."
+	]
+	"quest.51B3770383EDC517.title": "Ultimate Texas Hold'em"
+	"quest.51B3770383EDC517.quest_subtitle": "You against the house."
+	"quest.51B3770383EDC517.quest_desc": [
+		"Alone at a Poker Table, put down an ante instead of sitting in: you play Ultimate Texas Hold'em against the dealer. Bet four or three times your ante before the flop, twice after it, or once on the river, and keep six antes in your stack. Beat the dealer's hand."
+	]
+	"quest.0AF2EF50A84C0947.title": "Red or Green"
+	"quest.0AF2EF50A84C0947.quest_subtitle": "Any winning bet."
+	"quest.0AF2EF50A84C0947.quest_desc": [
+		"Put chips on a Snowball Roulette Table (a number, red or green, odd or even, a dozen or a column) and let the wheel spin. It has a single snow-white zero, so the house edge is small. Win any bet. One number on its own, straight up, pays 35:1."
 	]
 	"quest.233AAF32706D7F1B.title": "The Baccarat Table"
 	"quest.233AAF32706D7F1B.quest_subtitle": "Five seats, eight decks."
@@ -650,12 +670,99 @@
 	"quest.22F01DA66DD51A33.title": "The Full Floor"
 	"quest.22F01DA66DD51A33.quest_subtitle": "Every game in the house."
 	"quest.22F01DA66DD51A33.quest_desc": [
-		"A baccarat table, a Video Poker cabinet under a jackpot meter, and the Reindeer Derby, all of your own making. The North Pole has a casino floor to rival anywhere."
+		"A Baccarat Table, a Video Poker cabinet under a North Pole Jackpot Meter, and the Reindeer Derby, all of your own making. The North Pole has a casino floor to rival anywhere."
 	]
-	"quest.50C1DFAAE00DF7F8.title": "High Roller"
+	"quest.50C1DFAAE00DF7F8.title": "Big Chip"
 	"quest.50C1DFAAE00DF7F8.quest_subtitle": "Ten thousand. In one chip."
 	"quest.50C1DFAAE00DF7F8.quest_desc": [
 		"Hold a ten thousand chip. Very few people on the server ever will. Whether you built it up slowly or won it in a night, you are now the person everyone watches at the table."
+	]
+	"chapter.511C154DE343C9D2.title": "The High Roller"
+	"chapter.511C154DE343C9D2.chapter_subtitle": [
+		"Climb the ladder: status, never chips."
+	]
+	"quest.38391200E39FA1C3.title": "The Elf Card"
+	"quest.38391200E39FA1C3.quest_subtitle": "Ten thousand, wagered."
+	"quest.38391200E39FA1C3.quest_desc": [
+		"The High Roller's Ladder counts every chip you wager at the house games once the round settles. Texas Hold'em between players, Gift Chips and refunds never count. Wager 10,000 in all for the Elf Card: the Prize Counter's first shelf, a title over your seat, and a top hat. Use the card to change the title you show."
+	]
+	"quest.1AE01F2D33612C8C.title": "The Reindeer Card"
+	"quest.1AE01F2D33612C8C.quest_subtitle": "A hundred thousand."
+	"quest.1AE01F2D33612C8C.quest_desc": [
+		"Wager 100,000 at the house games, all told. The Reindeer Card opens the Prize Counter's second shelf: Lucky the Snow Fox, earmuffs and the Win Burst trail. Velvet ropes set to Reindeer let you walk through, and recipes that ask for the card give it back."
+	]
+	"quest.467B241331255569.title": "The Sleigh Card"
+	"quest.467B241331255569.quest_subtitle": "A million on the felt."
+	"quest.467B241331255569.quest_desc": [
+		"A million chips wagered. The Sleigh Card opens the Prize Counter's third shelf: Pemberton the Penguin Butler, tray and all, and the High Roller Statue, a gold likeness of you on a plinth. The velvet ropes part for you a little more often now."
+	]
+	"reward.445699731B95F4AD.title": "Fireworks!"
+	"quest.0F67369CA332F014.title": "The North Star Card"
+	"quest.0F67369CA332F014.quest_subtitle": "Ten million."
+	"quest.0F67369CA332F014.quest_desc": [
+		"Ten million wagered, and the floor knows your name. The North Star Card opens the Prize Counter's fourth shelf, where Mischief the Mini Krampus waits for a player who also holds the Krampus 7 ribbon. Only the very top rope stays closed to you."
+	]
+	"reward.05395D6F77C2322D.title": "Fireworks!"
+	"quest.3FD5A71B2ABEE6A9.title": "Santa's Circle"
+	"quest.3FD5A71B2ABEE6A9.quest_subtitle": "Fifty million. The top."
+	"quest.3FD5A71B2ABEE6A9.quest_desc": [
+		"Fifty million chips wagered at the house. Santa's Circle is the top of the ladder: every velvet rope opens, and the last shelf sells Star Dust, the only way to the gilded looks. The card shimmers. So will you."
+	]
+	"quest.206611988DEB447A.title": "Natural Born"
+	"quest.206611988DEB447A.quest_subtitle": "Blackjack, with a big chip down."
+	"quest.206611988DEB447A.quest_desc": [
+		"Be dealt a blackjack natural, an ace and a ten-card, with a 25,000 chip or bigger in the bet. The Natural Born ribbon is a title to show, and the dealer visor and a coat for Pemberton both ask for it."
+	]
+	"quest.3853324A3E69880D.title": "Straight Up"
+	"quest.3853324A3E69880D.quest_subtitle": "One number, and the ball finds it."
+	"quest.3853324A3E69880D.quest_desc": [
+		"Put chips on a single number at Snowball Roulette and watch the ball drop into it: 35:1, straight up. The ribbon is a title to show, and the holly wreath hat and a coat for Mischief both ask for it."
+	]
+	"quest.1FA3F823835B78BA.title": "Royal"
+	"quest.1FA3F823835B78BA.quest_subtitle": "Ten to ace, one suit."
+	"quest.1FA3F823835B78BA.quest_desc": [
+		"Make a royal flush at Video Poker or Ultimate Texas Hold'em. It comes about once in thirty or forty thousand hands, so when it lands, the casino hears about it. The Royal ribbon is a title, and it goes into Lucky's holly crown and the gold glitter trail."
+	]
+	"quest.334EEFC57AC94423.title": "Krampus 7"
+	"quest.334EEFC57AC94423.quest_subtitle": "The red seven, on the side."
+	"quest.334EEFC57AC94423.quest_desc": [
+		"Win baccarat's Krampus 7 side bet: the Banker wins on three cards to 7, 40:1. The Polar Bear does not count. The ribbon is a title, and with the North Star Card it lets you buy Mischief the Mini Krampus."
+	]
+	"quest.69349EF4E0C532E9.title": "Longshot"
+	"quest.69349EF4E0C532E9.quest_subtitle": "12:1, and home first."
+	"quest.69349EF4E0C532E9.quest_desc": [
+		"Back a runner at the Reindeer Derby at 12:1 or longer and see it come home first. The Longshot ribbon is a title to show, and the snowflake trail and a cream coat for Lucky the Snow Fox both ask for it."
+	]
+	"quest.63A8F73034799D95.title": "North Pole Drop"
+	"quest.63A8F73034799D95.quest_subtitle": "The jackpot falls on you."
+	"quest.63A8F73034799D95.quest_desc": [
+		"Be the spin or the hand that drops the North Pole Jackpot, the pot the whole server feeds. The North Pole Drop ribbon is a title to show, and it goes into the aurora trail and Pemberton's earmuffs and scarf."
+	]
+	"reward.61216641B683C9BF.title": "Fireworks!"
+	"quest.499A79D9EFD8A90F.title": "Full Card"
+	"quest.499A79D9EFD8A90F.quest_subtitle": "A win at every house game."
+	"quest.499A79D9EFD8A90F.quest_desc": [
+		"Win at least once at every house game: blackjack, baccarat, Snowball Roulette, Ultimate Texas Hold'em, Jingle Reels, Video Poker, the Wheel of Gifts and the Reindeer Derby. The Full Card ribbon puts gold trim on your casino panel and a jingle collar within Mischief's reach."
+	]
+	"quest.380176687E1624B6.title": "The Prize Counter"
+	"quest.380176687E1624B6.quest_subtitle": "Prizes under glass."
+	"quest.380176687E1624B6.quest_desc": [
+		"Walnut and brass under glass, the prizes turning on their pedestals. Use it for the catalogue: a shelf above your rank shows the rank instead of a price. Chips spent here are gone for good, and Prize Silk, sold only here, goes into every cosmetic recipe."
+	]
+	"quest.50DE7041F0C1E2A3.title": "The Wardrobe"
+	"quest.50DE7041F0C1E2A3.quest_subtitle": "A hat for the tables."
+	"quest.50DE7041F0C1E2A3.quest_desc": [
+		"Buy an Elf Cap from the Elf shelf and use it: it sits in your casino hat slot, drawn over any helmet. Use it again to take it off. Every hat from the Prize Counter or a Prize Silk recipe goes on the same way, one at a time."
+	]
+	"quest.3A9DBB9E5AEAA938.title": "Lucky"
+	"quest.3A9DBB9E5AEAA938.quest_subtitle": "A snow fox in a bauble."
+	"quest.3A9DBB9E5AEAA938.quest_desc": [
+		"Lucky the Snow Fox comes in a glass bauble from the Reindeer shelf. Use it to call Lucky out, and again to send Lucky home. Lucky follows you, curls up by the fire and back-flips when you win, and can never be hurt or lost."
+	]
+	"quest.771CE23EE96A2FF8.title": "Cast in Gold"
+	"quest.771CE23EE96A2FF8.quest_subtitle": "The High Roller Statue."
+	"quest.771CE23EE96A2FF8.quest_desc": [
+		"The Sleigh shelf sells a gold statue of you, in your own skin, on a plinth with a brass plaque: name, rank and best feat. A wrench changes the pose. Break it and it keeps its owner, so it stays a statue of you wherever it goes."
 	]
 	"chapter.185CCFBD33A4DEFF.title": "The Create Kitchen"
 	"chapter.185CCFBD33A4DEFF.chapter_subtitle": [
@@ -1007,7 +1114,7 @@
 	"quest.44D34E07BF8EDB9F.title": "Warm Drinks for the Carollers"
 	"quest.44D34E07BF8EDB9F.quest_subtitle": "Cocoa and eggnog, by the crate."
 	"quest.44D34E07BF8EDB9F.quest_desc": [
-		"Eight hot cocoas and eight eggnogs a day for the carollers and the Workshop's night shift. Both mix in a basin with 250 mB of milk and a bottle: cocoa beans and sugar over heat, egg and ginger cold. Pipe the milk in and they never stop."
+		"Eight hot cocoas and eight eggnogs a day for the carollers and the Toy Works' night shift. Both mix in a basin with 250 mB of milk and a bottle: cocoa beans and sugar over heat, egg and ginger cold. Pipe the milk in and they never stop."
 	]
 	"quest.0D7A3F7C9482CF16.title": "Pies in the Window"
 	"quest.0D7A3F7C9482CF16.quest_subtitle": "Eight a day for the bakery."
@@ -1056,7 +1163,7 @@
 	"quest.00754BCDE6C9641E.title": "Lay the First Mile"
 	"quest.00754BCDE6C9641E.quest_subtitle": "Sleepers, nuggets and a press."
 	"quest.00754BCDE6C9641E.quest_desc": [
-		"Track is made on a sequenced line: a stone, smooth stone or andesite slab gets two iron or zinc nuggets from deployers, then a press. Make a stack. To lay it, click one track, then the spot where the line should end. Hold sprint for the widest curve; blocks in your off hand pave underneath."
+		"Track is made on a sequenced line: a stone, smooth stone or andesite slab gets two iron or zinc nuggets from deployers, then a press. Make a stack. To lay it, use one track, then the spot where the line should end. Hold sprint for the widest curve; blocks in your off hand pave underneath."
 	]
 	"task.32AF803CCDA09DAD.title": "Make railway casing"
 	"quest.5E16FB8B30A23365.title": "The Locomotive Age"
@@ -1067,7 +1174,7 @@
 	"quest.3376332F85C2BC37.title": "A Place to Stop"
 	"quest.3376332F85C2BC37.quest_subtitle": "The waypoints of your network."
 	"quest.3376332F85C2BC37.quest_desc": [
-		"Railway casing and a compass make two stations. Hold one, click the track, then place it beside the line: the arrow shows the way trains pull in. Open it and give it a name. Put one at your base and one at the far end of your line. Everything after this runs between them."
+		"Railway casing and a compass make two stations. Hold one, use it on the track, then place it beside the line: the arrow shows the way trains pull in. Open it and give it a name. Put one at your base and one at the far end of your line. Everything after this runs between them."
 	]
 	"task.76F68D793D47C772.title": "Assemble a train at your station"
 	"quest.09CBD509258B299C.title": "Your First Train"
@@ -1079,7 +1186,7 @@
 	"quest.7CAB89688766184B.title": "Choo Choo!"
 	"quest.7CAB89688766184B.quest_subtitle": "Take her out on the line."
 	"quest.7CAB89688766184B.quest_desc": [
-		"Right-click the controls to drive: W and S for speed, A and D choose the way at junctions, the mouse wheel sets top speed, and holding Space stops at the next station. A steam whistle on a fluid tank on board blows with sprint. Coal in a chest on board speeds the train up. Drive to your other station."
+		"Use the controls to drive: W and S for speed, A and D choose the way at junctions, the mouse wheel sets top speed, and holding Space stops at the next station. A steam whistle on a fluid tank on board blows with sprint. Coal in a chest on board speeds the train up. Drive to your other station."
 	]
 	"task.76BDF76FC0469B57.title": "Give a train driver a schedule"
 	"quest.27F2220CE80B6661.title": "Running on Time"
@@ -1126,7 +1233,7 @@
 	"quest.766A984F934C89CC.title": "Lift-Off"
 	"quest.766A984F934C89CC.quest_subtitle": "Fill it first, then let go."
 	"quest.766A984F934C89CC.quest_desc": [
-		"Build a raft: a plank deck under your bag, the burners and a Physics Assembler on it. Glue it all. Fuel the burners, set the throttle low and wait about 30 seconds for the bag to fill, then hold right-click on the assembler and pull its lever. Ride up a few blocks and throttle back down. Name her with a nameplate on board."
+		"Build a raft: a plank deck under your bag, the burners and a Physics Assembler on it. Glue it all. Fuel the burners, set the throttle low and wait about 30 seconds for the bag to fill, then hold use on the assembler and pull its lever. Ride up a few blocks and throttle back down. Name her with a nameplate on board."
 	]
 	"task.65463DB92074CD97.title": "Inspect a Contraption Diagram"
 	"quest.1B2AFDBFD5032C34.title": "Measure Once, Fly Twice"
@@ -1187,19 +1294,19 @@
 	"quest.50F37896395DFCB1.title": "Santa's Toy Works"
 	"quest.50F37896395DFCB1.quest_subtitle": "The Carousel turns, and toys come out."
 	"quest.50F37896395DFCB1.quest_desc": [
-		"Craft the controller (brass casing, paper, a cogwheel, a precision mechanism and a deployer) and ring a turning dial with Toy Works Casing: four Workshop Deployers on pedestals at its stops, an input port under the controller, a Drive Port and the Toy Chute at the back. Every team knows three toys. Make a Wooden Train."
+		"Craft the controller (brass casing, paper, a cogwheel, a precision mechanism and a deployer) and ring a turning dial with Toy Works Casing: four Workshop Deployers on pedestals at its stops, an input port under the controller, a Drive Port and the Toy Chute at the back. Stand by it as it forms. Every team knows three toys: make a Wooden Train."
 		""
 		"{image:cccasino:textures/gui/quest/mb_toy_works.png width:200 height:78 align:center}"
 	]
 	"quest.41023DBBCE14EC9D.title": "A New Design"
 	"quest.41023DBBCE14EC9D.quest_subtitle": "Learn a toy nobody taught you."
 	"quest.41023DBBCE14EC9D.quest_desc": [
-		"The works knows the Wooden Train, the Spinning Top and the Rocking Horse. Every other toy needs its blueprint, and Santa's Shop sells each one once a season. Use a blueprint on your controller and your whole team learns that toy for good. JEI shows every toy's steps on the Toy Works page."
+		"The Toy Works knows the Wooden Train, the Spinning Top and the Rocking Horse. Every other toy needs its blueprint, and Santa's Shop sells each one once a season. Use a blueprint on your controller and your whole team learns that toy for good. JEI shows every toy's steps on the Toy Works page."
 	]
 	"quest.3C332E5EB1726584.title": "Eight Hands"
 	"quest.3C332E5EB1726584.quest_subtitle": "Every face of the toy."
 	"quest.3C332E5EB1726584.quest_desc": [
-		"Add a second deployer at each stop and the works reaches tier II: eight deployers, and a toy's steps can reach all four faces and the top. Learn the Clockwork Mouse and make one. Tier II toys are the ones worth sacking."
+		"Add a second deployer at each stop and the Toy Works reaches tier II: eight deployers, and a toy's steps can reach all four faces and the top. Learn the Clockwork Mouse and make one. Tier II toys are the ones worth sacking."
 	]
 	"quest.7F19373A1F5858BC.title": "Fired in the Kiln"
 	"quest.7F19373A1F5858BC.quest_subtitle": "Paint that sets hard."
@@ -1210,7 +1317,7 @@
 	"quest.70E21DF1177F2B61.title": "Master Toymaker"
 	"quest.70E21DF1177F2B61.quest_subtitle": "Superheated, eight hands, one snow globe."
 	"quest.70E21DF1177F2B61.quest_desc": [
-		"The snow globe is the hardest toy in the works: every tier II deployer, and a kiln kept superheated on blaze cake. Learn it, make it, and wrap it for someone who has been very good this year."
+		"The snow globe is the hardest toy in the Toy Works: every tier II deployer, and a kiln kept superheated on blaze cake. Learn it, make it, and wrap it for someone who has been very good this year."
 	]
 	"quest.6E5B88DF0CAA50F1.title": "The Gift Wrapper"
 	"quest.6E5B88DF0CAA50F1.quest_subtitle": "One stroke, one present."
@@ -1264,6 +1371,30 @@
 	"quest.34852C3F2E93CB6F.quest_desc": [
 		"Santa's Sleigh waits in the North Pole village. Land a sealed sack in its bed by hand, belt, funnel, chute or Mechanical Arm: each one adds 32 presents to the Toy Quota, credited to whoever placed its hoist. A Display Link on the sleigh reads the quota. Its tail, behind the loading hatch, is where a belt hands in."
 	]
+	"chapter.6AF8A468B75CF4A4.title": "The Yule Tree"
+	"chapter.6AF8A468B75CF4A4.chapter_subtitle": [
+		"Plant it, feed it, watch it grow."
+	]
+	"quest.20EA1B203C3ED0AE.title": "Good Soil"
+	"quest.20EA1B203C3ED0AE.quest_subtitle": "Loam and feed, from the mixer."
+	"quest.20EA1B203C3ED0AE.quest_desc": [
+		"A Yule Tree grows in Potting Loam and eats Pine Feed, and a Create mixer makes both with a splash of water: coarse dirt, podzol and bone meal give two loam; two bone meal, dried kelp and spruce leaves give four Pine Feed. Make some of each."
+	]
+	"quest.2EDBE26438D39774.title": "A Yule Sprig"
+	"quest.2EDBE26438D39774.quest_subtitle": "A sapling, dressed on a belt."
+	"quest.2EDBE26438D39774.quest_desc": [
+		"Send a spruce sapling down a sequenced-assembly belt: Deployers add a snowball, glow berries and a gift tag (paper and string make four). What comes off is a Yule Sprig, a tree that will grow all season if you look after it."
+	]
+	"quest.59E6A086C810D86F.title": "The Brass-banded Pot"
+	"quest.59E6A086C810D86F.quest_subtitle": "Plant it."
+	"quest.59E6A086C810D86F.quest_desc": [
+		"Craft the pot from spruce slabs, brass sheets and loam, set it in the ground and use the sprig on it. Each step of growth has its own bill of water and Pine Feed: use a water bucket and the feed on the pot (sneak for a whole stack), and open it with an empty hand to see the bill."
+	]
+	"quest.65D03F526D0AC26E.title": "The Spruce Tub"
+	"quest.65D03F526D0AC26E.quest_subtitle": "Room for twelve."
+	"quest.65D03F526D0AC26E.quest_desc": [
+		"A mechanical crafter makes the tub from stripped spruce logs, brass, iron and copper sheets and two loam. Use it on the potted tree to repot it, tree and all. From step 7 the tree wants frost as well: a snow block counts 1, ice 2, packed ice 9 and blue ice 81."
+	]
 	"chapter.174BDD9E16EB501B.title": "The Yuletide Forge"
 	"chapter.174BDD9E16EB501B.chapter_subtitle": [
 		"Netherite, blaze cake and Christmas Spirit."
@@ -1289,7 +1420,7 @@
 	"quest.5A4EACBF22DA2BA2.title": "Dressed for the Season"
 	"quest.5A4EACBF22DA2BA2.quest_subtitle": "The whole Yuletide set."
 	"quest.5A4EACBF22DA2BA2.quest_desc": [
-		"The chestplate and leggings take a full bucket of Spirit each and the most food. With the helmet, boots and sword that is the full Yuletide set. The early spirits will be balanced around it and a Yuletide blade: in netherite you would barely scrape through."
+		"The chestplate and leggings take a full bucket of Spirit each and the most food. Wear all four pieces with a Yuletide Sword in hand: the full set. The early spirits will be balanced around it: in netherite you would barely scrape through."
 	]
 	"quest.25122BFA1F675A1F.title": "Tools of the Trade"
 	"quest.25122BFA1F675A1F.quest_subtitle": "Pickaxe, axe and shovel."
@@ -1325,7 +1456,7 @@
 	"quest.3204CFABB0699CF7.title": "Saint Nick"
 	"quest.3204CFABB0699CF7.quest_subtitle": "The whole set, and the bells."
 	"quest.3204CFABB0699CF7.quest_desc": [
-		"Add the Sleigh Harness and the Coat Skirt. Wear all four for sleigh bells (a little speed), presents from hostile mobs, a frost aura that slows them, and regeneration near a fire or candle. The late spirits will be balanced around this set and a Saint Nick blade."
+		"Add the Sleigh Harness and the Coat Skirt, then wear all four with a Saint Nick Sword in hand. The set brings sleigh bells (a little speed), presents from hostile mobs, a frost aura that slows them and regeneration near a fire or candle. The late spirits will be balanced around it."
 	]
 	"quest.3165110C41E45804.title": "Saint Nick's Tools"
 	"quest.3165110C41E45804.quest_subtitle": "Three tools from nine."
@@ -1460,7 +1591,7 @@
 	"quest.1351273906BC99C5.title": "Door 11: Market Day"
 	"quest.1351273906BC99C5.quest_subtitle": "Opens on 11 December."
 	"quest.1351273906BC99C5.quest_desc": [
-		"The stalls are out and the prices are chalked up. Bring what you made and sell it for chips, or spend them on something you have had your eye on. Door eleven opens with the market."
+		"The stalls are out and the prices are chalked up. Bring what you made and sell it for chips, or spend them on something you have had your eye on. Door eleven opens on market day."
 	]
 	"task.0B04A616930EAB44.title": "Open on 12 December"
 	"quest.5E21CC1EC1F94F0C.title": "Door 12: Halfway There"
@@ -1613,6 +1744,6 @@
 	"reward_table.2F987FFAF3252378.title": "Christmas Stocking"
 	"reward_table.7A49BBDFE5202D38.title": "Wrapped Gift"
 	"reward_table.3848E9948122780E.title": "Big Present"
-	"reward_table.3888701C8FA57640.title": "Santa's Sack"
+	"reward_table.3888701C8FA57640.title": "Santa's Hamper"
 	"reward_table.575BD0F5305D8B39.title": "Advent Box"
 }

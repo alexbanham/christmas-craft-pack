@@ -85,7 +85,7 @@
 				"components": {
 					"minecraft:custom_name": "{\"text\": \"Gift Chip\", \"italic\": false}"
 					"minecraft:lore": [
-						"{\"text\": \"Plays the slot machines. Winnings are real chips.\", \"color\": \"gray\"}"
+						"{\"text\": \"Bets at Jingle Reels, Video Poker and the Wheel of Gifts. Wins pay real chips.\", \"color\": \"gray\"}"
 					]
 				}
 			}

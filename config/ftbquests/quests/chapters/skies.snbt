@@ -2,7 +2,7 @@
 	"id": "4B4184B5EF1E544A"
 	"filename": "skies"
 	"group": "6E6872417BE99080"
-	"order_index": 10
+	"order_index": 11
 	"icon": {
 		"id": "aeronautics:propeller_bearing"
 	}
@@ -81,15 +81,6 @@
 						"count": 1
 					}
 				}
-				{
-					"id": "521A2A3F4817D477"
-					"type": "item"
-					"item": {
-						"id": "create:powdered_obsidian"
-						"count": 1
-					}
-					"count": 4
-				}
 			]
 		}
 		{
@@ -150,15 +141,6 @@
 						"id": "cccasino:chip_25"
 						"count": 1
 					}
-				}
-				{
-					"id": "6CCC8B944001F4FB"
-					"type": "item"
-					"item": {
-						"id": "minecraft:compass"
-						"count": 1
-					}
-					"count": 2
 				}
 			]
 		}
@@ -221,15 +203,6 @@
 						"id": "cccasino:chip_25"
 						"count": 1
 					}
-				}
-				{
-					"id": "0E4F569627F85E9B"
-					"type": "item"
-					"item": {
-						"id": "create:super_glue"
-						"count": 1
-					}
-					"count": 2
 				}
 			]
 		}
@@ -400,15 +373,6 @@
 						"id": "cccasino:chip_25"
 						"count": 1
 					}
-				}
-				{
-					"id": "46204A3806F29A7D"
-					"type": "item"
-					"item": {
-						"id": "create:track_signal"
-						"count": 1
-					}
-					"count": 4
 				}
 			]
 		}
@@ -721,15 +685,6 @@
 						"id": "cccasino:chip_25"
 						"count": 1
 					}
-				}
-				{
-					"id": "575B2BA27F9CB214"
-					"type": "item"
-					"item": {
-						"id": "aeronautics:white_envelope"
-						"count": 1
-					}
-					"count": 32
 				}
 			]
 		}
@@ -1104,15 +1059,6 @@
 						"id": "cccasino:chip_50"
 						"count": 1
 					}
-				}
-				{
-					"id": "630D6182C16D3CF4"
-					"type": "item"
-					"item": {
-						"id": "create:white_sail"
-						"count": 1
-					}
-					"count": 8
 				}
 			]
 		}

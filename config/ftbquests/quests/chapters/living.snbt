@@ -392,6 +392,12 @@
 			"size": 1.25d
 			"tasks": [
 				{
+					"id": "50E16895DBF48B9D"
+					"type": "advancement"
+					"advancement": "cccasino:economy/colour_up"
+					"criterion": ""
+				}
+				{
 					"id": "660C5A8C2C4DF592"
 					"type": "item"
 					"item": {
