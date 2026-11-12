@@ -10,7 +10,7 @@ hash = "1a1aaf39bd1f35ec04fd16aa58ff577c13b48c5ef5392b348617fb35f6043c71"
 
 [[files]]
 file = "config/aero_cam_sync-client.toml"
-hash = "cd22d057b9ac7c10fb88980d9d0174e6ff8c8b789003bf31487be04b90b5610a"
+hash = "a42c3e939f28fb777066f0a2debcc965601101e06a2dc176bf871f22741ed025"
 
 [[files]]
 file = "config/aeronautics_delivery_quests.toml"
@@ -207,11 +207,11 @@ hash = "1bd9fb4ba60c8343e7718f4f01a95abf04597814554adf98abdd98a3bdceb967"
 
 [[files]]
 file = "config/vaportrails-client.toml"
-hash = "a419a4cf35c265812ad8afc3dfc94609f5d86ff85f032d034f13968f21c5ec3c"
+hash = "601667163812855b25d5a4028f971b6a79c329eeac6c86fdc214a986809bc572"
 
 [[files]]
 file = "defaultconfigs/createdieselgenerators-server.toml"
-hash = "c9719b926bc38d15053544214255488d0c598738c14e7e770cf0ccc96eb4df26"
+hash = "91dd9006e3099d3a542504039b51460fef824bbbea1e5f534ddd3e267c7b2bc9"
 
 [[files]]
 file = "kubejs/assets/alpinewhispers/lang/en_us.json"
