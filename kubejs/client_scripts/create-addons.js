@@ -15,4 +15,9 @@ RecipeViewerEvents.removeEntries('item', event => {
   // Patch 2: Ratatouille owns "Cake Base"; the C&A base chain is disabled in christmas-craft-fixes.
   event.remove('createaddition:cake_base')
   event.remove('createaddition:cake_base_baked')
+
+  // Create Encased parts made of shadow steel or refined radiance (138 items, vertical gearboxes included): Create
+  // makes those two materials creative-only, so none of these can be had in survival (Alex, 2026-11-12: per the
+  // pack-reconcile recommendation, A4). The creative_* family stays: chorium ingots make the creative casing.
+  event.remove(/^createcasing:(vertical_)?(shadow_steel|refined_radiance)_/)
 })

@@ -1071,7 +1071,7 @@ hash = "d96400565f72e7270eeb9daaab2b1cf2a450e9491bbd488d217ed5f7e49c4bc3"
 
 [[files]]
 file = "kubejs/client_scripts/create-addons.js"
-hash = "4a5839700ecc816c85d4d4b1276a5bd466740ba36b567a6c976de5df73f0a699"
+hash = "7ea46071a58878750eecb4e8fe4a4259964454123ffe31a60be20b87749cb4b5"
 
 [[files]]
 file = "kubejs/client_scripts/food-drink.js"
