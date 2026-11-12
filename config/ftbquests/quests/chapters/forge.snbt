@@ -11,7 +11,7 @@
 	"images": [
 		{
 			"id": "2C922EB42D6F90A6"
-			"x": 6.25d
+			"x": 7.5d
 			"y": -5.1d
 			"width": 10.895d
 			"height": 1.7d
@@ -86,13 +86,12 @@
 					}
 				}
 				{
-					"id": "58E6C0BB6DF4EB4C"
+					"id": "580D70BA619B84F8"
 					"type": "item"
 					"item": {
-						"id": "cccasino:bottled_spirit"
+						"id": "cccasino:christmas_spirit_bucket"
 						"count": 1
 					}
-					"count": 2
 				}
 			]
 		}
@@ -161,14 +160,6 @@
 						"count": 1
 					}
 				}
-				{
-					"id": "60B8E834750343DD"
-					"type": "item"
-					"item": {
-						"id": "cccasino:bottled_spirit"
-						"count": 1
-					}
-				}
 			]
 		}
 		{
@@ -179,7 +170,7 @@
 			"icon": {
 				"id": "cccasino:yuletide_helmet"
 			}
-			"x": 5.0d
+			"x": 7.5d
 			"y": -2.5d
 			"shape": "circle"
 			"size": 1.0d
@@ -255,7 +246,7 @@
 			"icon": {
 				"id": "cccasino:yuletide_chestplate"
 			}
-			"x": 7.5d
+			"x": 10.0d
 			"y": -2.5d
 			"shape": "gear"
 			"size": 1.5d
@@ -336,7 +327,7 @@
 				"id": "cccasino:yuletide_pickaxe"
 			}
 			"x": 5.0d
-			"y": 2.5d
+			"y": 5.0d
 			"shape": "circle"
 			"size": 1.0d
 			"tasks": [
@@ -475,13 +466,180 @@
 					}
 				}
 				{
-					"id": "1E58DD6DF4327CCD"
+					"id": "410742B4F308B136"
 					"type": "item"
 					"item": {
-						"id": "cccasino:bottled_spirit"
+						"id": "cccasino:christmas_spirit_bucket"
 						"count": 1
 					}
-					"count": 2
+				}
+			]
+		}
+		{
+			"id": "14A9E0EFBED3AA0F"
+			"dependencies": [
+				"47402B7D7EF3FBC7"
+				"70221A959234FE1A"
+			]
+			"icon": {
+				"id": "cccasino:forge_hearth"
+			}
+			"x": 5.0d
+			"y": 2.5d
+			"shape": "circle"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "293AD71548D39979"
+					"type": "item"
+					"item": {
+						"id": "cccasino:forge_hearth"
+						"count": 1
+					}
+					"count": 1
+				}
+				{
+					"id": "7E05A68353FE7E95"
+					"type": "item"
+					"item": {
+						"id": "cccasino:forge_mantel"
+						"count": 1
+					}
+					"count": 1
+				}
+				{
+					"id": "60EC3D6EBA9DC261"
+					"type": "item"
+					"item": {
+						"id": "cccasino:forge_pedestal"
+						"count": 1
+					}
+					"count": 1
+				}
+			]
+			"rewards": [
+				{
+					"id": "3763041E8D05B63E"
+					"type": "xp"
+					"xp": 100
+				}
+				{
+					"id": "1ED92DB3CD537628"
+					"type": "random"
+					"table_id": 4055748288478083086L
+				}
+				{
+					"id": "33C84BEAC5B36BFE"
+					"type": "random"
+					"table_id": 4055748288478083086L
+				}
+				{
+					"id": "4A9D3ECEDD84C334"
+					"type": "random"
+					"table_id": 4055748288478083086L
+				}
+				{
+					"id": "4EA20E39D3B725FF"
+					"type": "random"
+					"table_id": 4055748288478083086L
+				}
+				{
+					"id": "22992FF3BC3ECEF8"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_50"
+						"count": 1
+					}
+				}
+				{
+					"id": "57804A25F349EEB1"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_25"
+						"count": 1
+					}
+				}
+			]
+		}
+		{
+			"id": "6DB79AD649883567"
+			"dependencies": [
+				"14A9E0EFBED3AA0F"
+			]
+			"icon": {
+				"id": "cccasino:forge_crown"
+			}
+			"x": 7.5d
+			"y": 2.5d
+			"shape": "hexagon"
+			"size": 1.25d
+			"tasks": [
+				{
+					"id": "746DAF736C4A1D70"
+					"type": "item"
+					"item": {
+						"id": "cccasino:forge_flue"
+						"count": 1
+					}
+					"count": 1
+				}
+				{
+					"id": "288387562596C3A1"
+					"type": "item"
+					"item": {
+						"id": "cccasino:forge_crown"
+						"count": 1
+					}
+					"count": 1
+				}
+				{
+					"id": "7FDF14E7470E0149"
+					"type": "advancement"
+					"advancement": "cccasino:forge/tier_2"
+					"criterion": ""
+				}
+			]
+			"rewards": [
+				{
+					"id": "3697BA709678B4E0"
+					"type": "xp"
+					"xp": 350
+				}
+				{
+					"id": "56424F82C01BFE0E"
+					"type": "random"
+					"table_id": 4055748288478083086L
+				}
+				{
+					"id": "1A02E9E78EBC500E"
+					"type": "random"
+					"table_id": 4055748288478083086L
+				}
+				{
+					"id": "639AF9062928306B"
+					"type": "random"
+					"table_id": 4055748288478083086L
+				}
+				{
+					"id": "78A7B1DD30C83658"
+					"type": "random"
+					"table_id": 4055748288478083086L
+				}
+				{
+					"id": "6E253C956D0037EC"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_250"
+						"count": 1
+					}
+				}
+				{
+					"id": "10FF6F19B769ACFC"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_50"
+						"count": 1
+					}
 				}
 			]
 		}
@@ -489,11 +647,12 @@
 			"id": "49B4631A81F12ED1"
 			"dependencies": [
 				"3A98AD37449E571A"
+				"6DB79AD649883567"
 			]
 			"icon": {
 				"id": "cccasino:saint_nick_sword"
 			}
-			"x": 7.5d
+			"x": 10.0d
 			"y": 0.0d
 			"shape": "hexagon"
 			"size": 1.25d
@@ -561,7 +720,7 @@
 			"icon": {
 				"id": "cccasino:saint_nick_helmet"
 			}
-			"x": 10.0d
+			"x": 12.5d
 			"y": 0.0d
 			"shape": "circle"
 			"size": 1.0d
@@ -638,7 +797,7 @@
 			"icon": {
 				"id": "cccasino:saint_nick_chestplate"
 			}
-			"x": 12.5d
+			"x": 15.0d
 			"y": -1.25d
 			"shape": "gear"
 			"size": 1.5d
@@ -719,8 +878,8 @@
 			"icon": {
 				"id": "cccasino:saint_nick_pickaxe"
 			}
-			"x": 10.0d
-			"y": 2.5d
+			"x": 12.5d
+			"y": 5.0d
 			"shape": "circle"
 			"size": 1.0d
 			"tasks": [

@@ -1229,10 +1229,35 @@
 		""
 		"{image:cccasino:textures/gui/quest/mb_sack_hoist.png width:200 height:78 align:center}"
 	]
-	"quest.11CE1B69A84314E4.title": "Bottled Christmas Spirit"
+	"quest.11CE1B69A84314E4.title": "Christmas Spirit"
 	"quest.11CE1B69A84314E4.quest_subtitle": "What rises from a full sack."
 	"quest.11CE1B69A84314E4.quest_desc": [
-		"Each sealed sack gives off Spirit Wisps. Mix a wisp with eggnog and glowstone dust in a heated basin and the Spirit is bottled. The Yuletide Forge runs on it, so every sack you fill also fuels your own gear."
+		"Each sealed sack gives off eight Spirit Wisps. A heated mixer turns a wisp, an eggnog and a glowstone dust into 250 mB of Christmas Spirit, a glowing fluid. Pipe it to a Spout and fill an empty bucket: four batches a bucket. The Yuletide Forge drinks it by pipe or by the bucket."
+	]
+	"quest.4530F11F5D045B0C.title": "A Little Luck"
+	"quest.4530F11F5D045B0C.quest_subtitle": "Lucky Tonic."
+	"quest.4530F11F5D045B0C.quest_desc": [
+		"Spirit has a second use. A heated mixer turns 250 mB of it, a rabbit's foot, a golden carrot, a sprig of mistletoe and two sugar into Lucky Tonic, and a spout bottles it. Drink it at the casino: for five minutes your cards and reels come out better more often. About one bottle in ten comes out Fine."
+	]
+	"quest.5AECE8411290B83C.title": "A Bowl for the Table"
+	"quest.5AECE8411290B83C.quest_subtitle": "The Lucky Punch Bowl."
+	"quest.5AECE8411290B83C.quest_desc": [
+		"Brass sheets, glass and a brass casing on Mechanical Crafters make a punch bowl. Set it on the casino floor and run a spout over it: it holds four cups of Lucky Tonic, and anyone takes a cup with an empty hand. A round of luck for the whole table, as long as the bowl lasts."
+	]
+	"quest.0239AA5C1C21389A.title": "A Finer Vintage"
+	"quest.0239AA5C1C21389A.quest_subtitle": "Ten minutes instead of five."
+	"quest.0239AA5C1C21389A.quest_desc": [
+		"Any brew can be made Fine: deploy a leaf of gold (a saw cuts a gold sheet into four) and spout a second 250 mB of Spirit into it. A Fine bottle lasts ten minutes. Brews never stack: a stronger one replaces a weaker, and the same brew only starts its timer again."
+	]
+	"quest.380B0EB54C77A0AA.title": "Mistletoe Elixir"
+	"quest.380B0EB54C77A0AA.quest_subtitle": "Luck II."
+	"quest.380B0EB54C77A0AA.quest_desc": [
+		"Twice the luck takes a superheated mixer: 500 mB of Lucky Tonic, 250 mB of Spirit, an emerald, a glistering melon slice and a phantom membrane. On a bottle, a spout fills it, a deployer seals it with a gold sheet and a press closes it. Villagers, a melon line and a sleepless night or two."
+	]
+	"quest.06E9B8A86768F020.title": "The Star Draught"
+	"quest.06E9B8A86768F020.quest_subtitle": "Luck III."
+	"quest.06E9B8A86768F020.quest_desc": [
+		"The strongest luck there is: 500 mB of Elixir, 500 mB of Spirit, an echo shard and a totem of undying in a superheated mixer make Starlight. Bottle it, then set it in a vial of gold sheets, glowstone and a precision mechanism on Mechanical Crafters. An Ancient City and a raid stand between you and it."
 	]
 	"quest.34852C3F2E93CB6F.title": "Load Santa's Sleigh"
 	"quest.34852C3F2E93CB6F.quest_subtitle": "Every sack counts toward the quota."
@@ -1246,40 +1271,50 @@
 	"quest.6C3C3D57A6C68162.title": "The Forge Hall"
 	"quest.6C3C3D57A6C68162.quest_subtitle": "Ten by eight, seven courses high."
 	"quest.6C3C3D57A6C68162.quest_desc": [
-		"The forge is a fixed build: a ring ten by eight on Forge Plinth, walls of Forge Glazing and Casing, a roof and a chimney, with a blaze burner, the hammer and twelve forge blocks inside. The controller and hammer take netherite; the Spirit Quench takes a bottle. JEI's \"Yuletide Forge: Structure\" page shows every block."
+		"The forge is a fixed build: a ring ten by eight on Forge Plinth, walls of Forge Glazing and Casing, a roof and a chimney, a blaze burner, the hammer and twelve forge blocks inside. The controller and hammer take netherite; the Spirit Quench a bucket of Spirit. A Spirit Inlet in a wall pipes it in; JEI's \"Yuletide Forge: Structure\" page shows every block."
 		""
 		"{image:cccasino:textures/gui/quest/mb_forge.png width:200 height:78 align:center}"
 	]
 	"quest.47402B7D7EF3FBC7.title": "Forged in Spirit"
 	"quest.47402B7D7EF3FBC7.quest_subtitle": "A Yuletide Sword."
 	"quest.47402B7D7EF3FBC7.quest_desc": [
-		"A job takes the ladder (wooden, stone, iron, gold and diamond swords), a netherite sword, two festive foods, a glaze and three Bottled Spirit. The burner melts while lit and strikes only superheated on blaze cake. Sweet berries glaze it Crimson, blue ice Frost, a spruce sapling Evergreen."
+		"A job takes the ladder (wooden, stone, iron, gold and diamond swords), a netherite sword, two festive foods, a glaze and 750 mB of Spirit. The burner melts while lit and strikes only superheated on blaze cake. Sweet berries glaze it Crimson, blue ice Frost, a spruce sapling Evergreen."
 	]
 	"quest.55C1D1C3A3B18513.title": "Hat and Boots"
-	"quest.55C1D1C3A3B18513.quest_subtitle": "Three bottles each."
+	"quest.55C1D1C3A3B18513.quest_subtitle": "750 mB of Spirit each."
 	"quest.55C1D1C3A3B18513.quest_desc": [
-		"Armour takes leather, iron, gold and diamond in its ladder, then the netherite piece, food, a glaze and Bottled Spirit: three for the helmet, three for the boots. Any colourway will do, and they need not match. Forge a Yuletide Helmet and Yuletide Boots."
+		"Armour takes leather, iron, gold and diamond in its ladder, then the netherite piece, food, a glaze and 750 mB of Christmas Spirit apiece. Any colourway will do, and they need not match. Forge a Yuletide Helmet and Yuletide Boots."
 	]
 	"reward.41675B840DA204CB.title": "Fireworks!"
 	"quest.5A4EACBF22DA2BA2.title": "Dressed for the Season"
 	"quest.5A4EACBF22DA2BA2.quest_subtitle": "The whole Yuletide set."
 	"quest.5A4EACBF22DA2BA2.quest_desc": [
-		"The chestplate and leggings take four bottles each and the most food. With the helmet, boots and sword that is the full Yuletide set. The early spirits will be balanced around it and a Yuletide blade: in netherite you would barely scrape through."
+		"The chestplate and leggings take a full bucket of Spirit each and the most food. With the helmet, boots and sword that is the full Yuletide set. The early spirits will be balanced around it and a Yuletide blade: in netherite you would barely scrape through."
 	]
 	"quest.25122BFA1F675A1F.title": "Tools of the Trade"
 	"quest.25122BFA1F675A1F.quest_subtitle": "Pickaxe, axe and shovel."
 	"quest.25122BFA1F675A1F.quest_desc": [
-		"The forge makes the tools the same way as the sword: the five vanilla tiers in the ladder, the netherite tool, food, a glaze and Bottled Spirit (three for the pickaxe and axe, two for the shovel and the hoe). Optional, but they last."
+		"The forge makes the tools the same way as the sword: the five vanilla tiers in the ladder, the netherite tool, food, a glaze and Spirit (750 mB for the pickaxe and axe, 500 mB for the shovel and the hoe). Optional, but they last."
 	]
 	"quest.3A98AD37449E571A.title": "The Star of Saint Nicholas"
 	"quest.3A98AD37449E571A.quest_subtitle": "Two turns round the line."
 	"quest.3A98AD37449E571A.quest_desc": [
-		"A golden sheet rides a sequenced-assembly line twice: Deployers add a Bottled Spirit, a diamond and glowstone dust, then a Press sets them. Two bottles a Star. Every Saint Nick piece takes a Star in its netherite slot, so build the line to keep running."
+		"A golden sheet rides a sequenced-assembly line twice: a Spout fills 250 mB of Spirit, Deployers add a diamond and glowstone dust, then a Press sets them. Half a bucket a Star. Every Saint Nick piece takes a Star in its netherite slot, so build the line to keep running."
+	]
+	"quest.14A9E0EFBED3AA0F.title": "Hung with Care"
+	"quest.14A9E0EFBED3AA0F.quest_subtitle": "Hearth, mantel and pedestal."
+	"quest.14A9E0EFBED3AA0F.quest_desc": [
+		"Saint Nick pieces are forged at a fireplace, not under the hammer. Make its three inside parts: the Forge Hearth (precision mechanisms, a blaze burner, gold, bricks and a sturdy sheet), the Stocking Mantel (brass sheets, a bell and red, green and light blue wool) and the Display Pedestal (red wool, gold and a depot)."
+	]
+	"quest.6DB79AD649883567.title": "The Chimney Bay"
+	"quest.6DB79AD649883567.quest_subtitle": "Tier II, and a stack with a star."
+	"quest.6DB79AD649883567.quest_desc": [
+		"Add the Flue Damper (copper casing, an electron tube, a fluid valve, a precision mechanism) and the Chimney Crown (copper sheets, gold), then build the bay three blocks wide on the hall's right in the same plinth, glazing and roofing. JEI's \"Tier II: Chimney bay\" page shows each block. Stand by the forge once it reaches tier II."
 	]
 	"quest.49B4631A81F12ED1.title": "The North Star"
 	"quest.49B4631A81F12ED1.quest_subtitle": "One sword from three."
 	"quest.49B4631A81F12ED1.quest_desc": [
-		"A Saint Nick piece takes the same Yuletide piece in all three colourways (Crimson, Frost and Evergreen) and a Star, with one more food and two more bottles than the Yuletide job, and no glaze. Forge a Saint Nick Sword."
+		"A Saint Nick piece is forged at the Chimney bay's hearth. It takes the same Yuletide piece in all three colourways (Crimson, Frost and Evergreen) and a Star, with one more food and 500 mB more Spirit than the Yuletide job, and no glaze. Forge a Saint Nick Sword."
 	]
 	"quest.1D626E22795A9E7F.title": "Mitre and Runners"
 	"quest.1D626E22795A9E7F.quest_subtitle": "Six Yuletide pieces, two Stars."

@@ -339,6 +339,14 @@
 						"count": 1
 					}
 				}
+				{
+					"id": "344367D613F2E4DC"
+					"type": "item"
+					"item": {
+						"id": "cccasino:fine_lucky_tonic"
+						"count": 1
+					}
+				}
 			]
 		}
 		{
@@ -648,6 +656,14 @@
 					"type": "item"
 					"item": {
 						"id": "cccasino:chip_25"
+						"count": 1
+					}
+				}
+				{
+					"id": "580B6230DFCA62B9"
+					"type": "item"
+					"item": {
+						"id": "cccasino:fine_lucky_tonic"
 						"count": 1
 					}
 				}
@@ -971,6 +987,14 @@
 						"count": 1
 					}
 				}
+				{
+					"id": "695DAE0B9AB96C18"
+					"type": "item"
+					"item": {
+						"id": "cccasino:fine_lucky_tonic"
+						"count": 1
+					}
+				}
 			]
 		}
 		{
@@ -1080,6 +1104,14 @@
 					"type": "item"
 					"item": {
 						"id": "cccasino:chip_25"
+						"count": 1
+					}
+				}
+				{
+					"id": "4C96969633CA7BB2"
+					"type": "item"
+					"item": {
+						"id": "cccasino:fine_mistletoe_elixir"
 						"count": 1
 					}
 				}
@@ -1288,6 +1320,14 @@
 					"type": "item"
 					"item": {
 						"id": "cccasino:chip_25"
+						"count": 1
+					}
+				}
+				{
+					"id": "5B1DE1B666EC897C"
+					"type": "item"
+					"item": {
+						"id": "cccasino:star_draught"
 						"count": 1
 					}
 				}

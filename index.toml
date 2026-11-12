@@ -86,7 +86,7 @@ hash = "d5b8cb9e22b573850a5491e2ba05a825aa31f2b97392989c987c5ca44506b1d4"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/advent.snbt"
-hash = "7703c660e91611f0bf8ff2547b651eadb9e5a77c9c94f469530744cb71a021b2"
+hash = "f34f2d31900ea9ab36d19d9758398fdd301932535b4774c49224e3f680f7b0a3"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/brass.snbt"
@@ -114,7 +114,7 @@ hash = "38122b79ab4c1072f483a3b81f05d1f666e418f91e12099cb3b1edf2c1d75fab"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/forge.snbt"
-hash = "ac86245155164c6bdf9f65e6c673cc897a992bd7bae1e4b68acd8fa6c59855a9"
+hash = "903065b9872caa222015189c587b4bf14c291c7b56bba101614f749e86fc9c6c"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/guide.snbt"
@@ -146,7 +146,7 @@ hash = "b88776e67d73c01d4632aec6fa1b355467064987c39c5ff99cc042545b6dcd12"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/workshop.snbt"
-hash = "791c0658eeb59d770e7338dda2358ad6f7726d8af37a36d6af496db8909c3390"
+hash = "89a0a698f36967b79a6b37ac989038fd9526069a0bf62d17b5dd77b07c24f5f4"
 
 [[files]]
 file = "config/ftbquests/quests/data.snbt"
@@ -154,7 +154,7 @@ hash = "1968b1172f4184e36962ea8442accf213b5f8b69b998a18c8d4b045026441741"
 
 [[files]]
 file = "config/ftbquests/quests/lang/en_us.snbt"
-hash = "ab1330432ce62fee66a4111e0767e62b83da84f136611972aeabfe637380c45e"
+hash = "d82b71db1c024f25aad39d3e9192f6567fa60a7399796dc44a92e415a15fdfc9"
 
 [[files]]
 file = "config/ftbquests/quests/reward_tables/advent.snbt"
@@ -1226,7 +1226,7 @@ metafile = true
 
 [[files]]
 file = "mods/cccasino.pw.toml"
-hash = "afdbe17eeaabe146a614631911a4f47c61fb79e5cd76c6f4b94c503f7e2792f1"
+hash = "7380ec53c1835bf8060bbbe675027c74303511741a37c30f87d03f738eafec14"
 metafile = true
 
 [[files]]
