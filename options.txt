@@ -18,3 +18,4 @@ key_supplementaries.keybind.quiver:key.keyboard.x
 tutorialStep:none
 key_key.saveToolbarActivator:key.keyboard.unknown
 key_key.loadToolbarActivator:key.keyboard.unknown
+key_key.ftbquests.quests:key.keyboard.grave.accent
