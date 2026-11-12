@@ -11,13 +11,13 @@
       "item": "minecraft:sugar"
     },
     {
-      "item": "create:wheat_flour"
+      "tag": "c:flours/wheat"
     },
     {
-      "item": "create:wheat_flour"
+      "tag": "c:flours/wheat"
     },
     {
-      "item": "create:wheat_flour"
+      "tag": "c:flours/wheat"
     },
     {
       "type": "neoforge:tag",

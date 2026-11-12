@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "B": {
+      "tag": "c:foods/butter"
+    },
+    "R": {
+      "tag": "c:fruits/raspberry"
+    },
+    "S": {
+      "item": "minecraft:sugar"
+    },
+    "W": {
+      "item": "hearthandharvest:batter"
+    }
+  },
+  "pattern": [
+    " B ",
+    "RSR",
+    " W "
+  ],
+  "result": {
+    "count": 1,
+    "id": "hearthandharvest:raspberry_scone"
+  }
+}

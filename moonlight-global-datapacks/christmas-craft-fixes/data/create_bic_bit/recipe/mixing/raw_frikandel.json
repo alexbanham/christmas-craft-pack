@@ -1,0 +1,19 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "tag": "create_bic_bit:raw_meat_delight"
+    },
+    {
+      "tag": "c:flours/wheat"
+    },
+    {
+      "item": "minecraft:egg"
+    }
+  ],
+  "results": [
+    {
+      "id": "create_bic_bit:raw_frikandel"
+    }
+  ]
+}
