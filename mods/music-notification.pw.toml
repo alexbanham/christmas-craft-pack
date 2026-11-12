@@ -1,6 +1,6 @@
 name = "Music Notification"
 filename = "musicnotification-neoforge-3.4.0+mc1.21.1.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/A4YQgwzz/versions/2cX6HlBp/musicnotification-neoforge-3.4.0%2Bmc1.21.1.jar"
