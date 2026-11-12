@@ -6,3 +6,13 @@ key_key.cccasino.tray:key.keyboard.k
 renderDistance:12
 simulationDistance:8
 onboardAccessibility:false
+key_iris.keybind.toggleShaders:key.keyboard.unknown
+key_iris.keybind.reload:key.keyboard.unknown
+key_justzoom.keybinds.keybind.zoom:key.keyboard.c
+key_justzoom.keybinds.keybind.open_options:key.keyboard.unknown
+key_key.mute_microphone:key.keyboard.comma
+key_key.voice_chat_group:key.keyboard.unknown
+key_key.hide_icons:key.keyboard.unknown
+key_create_mobile_packages.keyinfo.open_player_networks_screen:key.keyboard.left.bracket
+key_supplementaries.keybind.quiver:key.keyboard.x
+tutorialStep:none
