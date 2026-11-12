@@ -1300,11 +1300,6 @@ hash = "4892513825f87217b6cc3f4d3ec4dcd3965b96dede8cc10d6578c4769102ae8e"
 metafile = true
 
 [[files]]
-file = "mods/crash-assistant.pw.toml"
-hash = "f13994485d9005720181e64c20c8b20204edea6749030877fdcbe0b6fd6de443"
-metafile = true
-
-[[files]]
 file = "mods/create-access-denied.pw.toml"
 hash = "681f6ca6f8189dfc2d802c1852d8b0d5fef63f9f314f299da96be2887301ec91"
 metafile = true
