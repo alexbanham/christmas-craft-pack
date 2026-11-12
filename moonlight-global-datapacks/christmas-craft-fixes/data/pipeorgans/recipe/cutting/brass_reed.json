@@ -1,0 +1,14 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "create:brass_nugget"
+    }
+  ],
+  "results": [
+    {
+      "id": "pipeorgans:brass_reed"
+    }
+  ],
+  "processing_time": 50
+}
