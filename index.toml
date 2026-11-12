@@ -3386,7 +3386,7 @@ hash = "726df29dcbbebf4e024cbad5219eb8f3e5f90d92752c17150c0d508164f2d52a"
 
 [[files]]
 file = "moonlight-global-datapacks/christmas-craft-fixes/data/createadditionallogistics/data_maps/item/currency.json"
-hash = "ea5e7ac1fdf84c355bc75531ebaa65ae5a1825b067d4116787ce1c8285285e01"
+hash = "65d0a37b697ac13e315c68208b39eadbfec9ca668291efd1410eeec17fd2e7a9"
 
 [[files]]
 file = "moonlight-global-datapacks/christmas-craft-fixes/data/createadditionallogistics/recipe/crafting/trains/network_monitor.json"
@@ -5826,7 +5826,7 @@ hash = "97228449a90c73017d87248df22431c6942096b5c048dbecc97f453815b6de0d"
 
 [[files]]
 file = "moonlight-global-datapacks/christmas-craft-fixes/pack.mcmeta"
-hash = "9c4bed72a56a4930d38a25a62603224f33c6ae992158563d3170bb85a62f2f37"
+hash = "206cfcf4e99f96ca122c4b547b28f3c77cb0ec9007c2b6e0ae5bd66ecb86f1dd"
 
 [[files]]
 file = "options.txt"

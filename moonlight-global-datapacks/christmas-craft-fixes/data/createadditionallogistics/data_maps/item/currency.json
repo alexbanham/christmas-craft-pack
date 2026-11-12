@@ -53,6 +53,30 @@
     "cccasino:chip_10000": {
       "id": "cccasino:chips",
       "value": 10000
+    },
+    "cccasino:chip_25000": {
+      "id": "cccasino:chips",
+      "value": 25000
+    },
+    "cccasino:chip_50000": {
+      "id": "cccasino:chips",
+      "value": 50000
+    },
+    "cccasino:chip_100000": {
+      "id": "cccasino:chips",
+      "value": 100000
+    },
+    "cccasino:chip_250000": {
+      "id": "cccasino:chips",
+      "value": 250000
+    },
+    "cccasino:chip_500000": {
+      "id": "cccasino:chips",
+      "value": 500000
+    },
+    "cccasino:chip_1000000": {
+      "id": "cccasino:chips",
+      "value": 1000000
     }
   }
 }
