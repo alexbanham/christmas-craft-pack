@@ -6182,6 +6182,14 @@ hash = "5b75bda74da7c0340f431f93a339c887b2ca384b85c1f3a0934e1ed79bb7b87d"
 preserve = true
 
 [[files]]
+file = "resourcepacks/Christmas Craft HUD/assets/appleskin/textures/gui/sprites/tooltip_hunger_outline.png"
+hash = "f18f8c98a7bb886e44e30d95a05ccc83858c5f58684ca79248ad91d5d51e8543"
+
+[[files]]
+file = "resourcepacks/Christmas Craft HUD/assets/appleskin/textures/icons.png"
+hash = "0171e1252ec5daeb902c91c18a6365abdd6817c702f9cd5892fe72652608de25"
+
+[[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/minecraft/textures/gui/container/blast_furnace.png"
 hash = "3ab2eedfd520ac9eccf5de268c6619f8a81f9a77d9d633e8b7f67b63012ab100"
 
