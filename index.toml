@@ -1178,6 +1178,21 @@ file = "kubejs/startup_scripts/stone-formations.js"
 hash = "8892e94cbb6cd3fec2c69a0e15354f18fdf4d124119cc4e3e838ed15fe5c3695"
 
 [[files]]
+file = "mods/0-ftb-library.pw.toml"
+hash = "51938c69e0fdba5ef1e68a3f47c3a9849cb420725b09c762625f3ab0d6548bf4"
+metafile = true
+
+[[files]]
+file = "mods/0-ftb-quests.pw.toml"
+hash = "9d2d037d20b76f56323172589f70768d119a109fe2997fe0cb76390c97a34fad"
+metafile = true
+
+[[files]]
+file = "mods/0-ftb-teams.pw.toml"
+hash = "a3884721f16388ccd25e6239e6548cd6174be574b35595272bf737fb9c20b1bd"
+metafile = true
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "2dc498bd8a43a8e02fc9d08fe5846ac17f6eabbecbf38ae39aa7b1f23fe100b0"
 metafile = true
@@ -1820,21 +1835,6 @@ metafile = true
 [[files]]
 file = "mods/fruits-delight.pw.toml"
 hash = "bd54b25ed6127a176979f89d56ebee73856ff5023c575232ee707571fcdb2c1c"
-metafile = true
-
-[[files]]
-file = "mods/ftb-library.pw.toml"
-hash = "51938c69e0fdba5ef1e68a3f47c3a9849cb420725b09c762625f3ab0d6548bf4"
-metafile = true
-
-[[files]]
-file = "mods/ftb-quests.pw.toml"
-hash = "9d2d037d20b76f56323172589f70768d119a109fe2997fe0cb76390c97a34fad"
-metafile = true
-
-[[files]]
-file = "mods/ftb-teams.pw.toml"
-hash = "a3884721f16388ccd25e6239e6548cd6174be574b35595272bf737fb9c20b1bd"
 metafile = true
 
 [[files]]
