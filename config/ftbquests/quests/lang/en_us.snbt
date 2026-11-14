@@ -411,9 +411,9 @@
 		"Quests never pay a thousand chip. Carry a thousand chips' worth to the Cashier's Cage and use it with an empty hand: everything in your pockets colours up into the fewest chips there can be, and nothing is lost. However you earned it, a thousand chip means you have found your feet. Keep it as a trophy, or put it to work."
 	]
 	"quest.1F68120875F5D236.title": "Delivered"
-	"quest.1F68120875F5D236.quest_subtitle": "A hundred chips a sack."
+	"quest.1F68120875F5D236.quest_subtitle": "A sack of toys, delivered."
 	"quest.1F68120875F5D236.quest_desc": [
-		"Every sealed sack that lands in Santa's Sleigh pays 100 chips to whoever placed the hoist that tied it, however it got there: by hand, belt, train or airship, and however many you send. If you are away, the house keeps your pay till you are back."
+		"Every sealed sack that lands in Santa's Sleigh pays its hoist owner 1.25 times its toys' Exchange base value, however it got there: by hand, belt, train or airship, and however many you send. If you are away, the house keeps your pay till you are back. Sacks tied before the change still pay 100 chips."
 	]
 	"quest.01E302E4BEC06E1C.title": "Mail Order"
 	"quest.01E302E4BEC06E1C.quest_subtitle": "Ship it by frog."

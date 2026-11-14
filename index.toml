@@ -162,7 +162,7 @@ hash = "1968b1172f4184e36962ea8442accf213b5f8b69b998a18c8d4b045026441741"
 
 [[files]]
 file = "config/ftbquests/quests/lang/en_us.snbt"
-hash = "802b7f5d240df39169fb3a6d5ae53f629a72f222381b49e0ce9ad4184aae36f5"
+hash = "b36b0a80dca4b06ab560e0d0c3616dee7b36e7cbc5914ce418843f7aef548b06"
 
 [[files]]
 file = "config/ftbquests/quests/reward_tables/advent.snbt"
