@@ -413,7 +413,7 @@
 	"quest.1F68120875F5D236.title": "Delivered"
 	"quest.1F68120875F5D236.quest_subtitle": "A hundred chips a sack."
 	"quest.1F68120875F5D236.quest_desc": [
-		"Every sealed sack that lands in Santa's Sleigh pays 100 chips to whoever placed the hoist that tied it, however it got there: by hand, belt, train or airship, and however many you send. If you are away, the house keeps your pay till you are back. Sell a toy at the Exchange and it fetches far less than its share of a sack."
+		"Every sealed sack that lands in Santa's Sleigh pays 100 chips to whoever placed the hoist that tied it, however it got there: by hand, belt, train or airship, and however many you send. If you are away, the house keeps your pay till you are back."
 	]
 	"quest.01E302E4BEC06E1C.title": "Mail Order"
 	"quest.01E302E4BEC06E1C.quest_subtitle": "Ship it by frog."
@@ -464,7 +464,7 @@
 	"quest.17B3295222734544.title": "The Casino Floor"
 	"quest.17B3295222734544.quest_subtitle": "Blackjack, Texas Hold'em and the wheel."
 	"quest.17B3295222734544.quest_desc": [
-		"Walk the floor: blackjack, where the dealer stands on seventeen; Texas Hold'em, where you play your friends and there is no rake; and Snowball Roulette, a single zero and a ball that never lies. Every bet is a real chip on the felt."
+		"Walk the floor: blackjack, where the dealer stands on seventeen; Texas Hold'em, where you play your friends and there is no rake; and Snowball Roulette, a single zero and a ball that never lies. Every bet is a real chip on the felt. Sneak-use the Cashier's Cage with an empty hand to deposit or withdraw chips."
 	]
 	"quest.25E6B1D27ECC0874.title": "The Wheel of Gifts"
 	"quest.25E6B1D27ECC0874.quest_subtitle": "Fifty-four segments and a clapper."
@@ -631,7 +631,7 @@
 	"quest.413578C19C63379D.title": "Take the Pot"
 	"quest.413578C19C63379D.quest_subtitle": "Texas Hold'em."
 	"quest.413578C19C63379D.quest_desc": [
-		"Sit down at a Poker Table with friends and play Texas Hold'em from your own stack. There is no rake: every chip in the pot goes to the players, and the chips you win are other players'. Win a pot, by holding the best hand at the showdown or by making everyone else fold."
+		"Sit down at a Poker Table with friends and play Texas Hold'em from your own stack. There is no rake: every chip in the pot goes to the players, and the chips you win are other players'. Use your face-down cards to pick them up and look. Win a pot at showdown or by making everyone else fold."
 	]
 	"quest.51B3770383EDC517.title": "Ultimate Texas Hold'em"
 	"quest.51B3770383EDC517.quest_subtitle": "You against the house."
@@ -1312,7 +1312,7 @@
 	"quest.3C332E5EB1726584.title": "Eight Hands"
 	"quest.3C332E5EB1726584.quest_subtitle": "Every face of the toy."
 	"quest.3C332E5EB1726584.quest_desc": [
-		"Add a second deployer at each stop and the Toy Works reaches tier II: eight deployers, and a toy's steps can reach all four faces and the top. Learn the Clockwork Mouse and make one. Tier II toys are the ones worth sacking."
+		"Add a second deployer at each stop and the Toy Works reaches tier II: eight deployers, and a toy's steps can reach all four faces and the top. Learn the Clockwork Mouse and make one."
 	]
 	"quest.7F19373A1F5858BC.title": "Fired in the Kiln"
 	"quest.7F19373A1F5858BC.quest_subtitle": "Paint that sets hard."
