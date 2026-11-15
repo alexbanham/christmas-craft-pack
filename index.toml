@@ -6183,11 +6183,11 @@ preserve = true
 
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/appleskin/textures/gui/sprites/tooltip_hunger_outline.png"
-hash = "f18f8c98a7bb886e44e30d95a05ccc83858c5f58684ca79248ad91d5d51e8543"
+hash = "7b18763a33086cf4cd576cf4fb02a8e1a97f58906e1bfa9cc77e463140096d7c"
 
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/appleskin/textures/icons.png"
-hash = "0171e1252ec5daeb902c91c18a6365abdd6817c702f9cd5892fe72652608de25"
+hash = "2e496508ba15551470225d718a0d2c6cdf25258c8e25af2a0db8c48c1a3244cc"
 
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/minecraft/textures/gui/container/blast_furnace.png"
@@ -6403,27 +6403,27 @@ hash = "2adb295726c0ba46d9e31829254715ba6473135a1cce6b6eca36cb876f5dbe57"
 
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/minecraft/textures/gui/sprites/hud/food_empty.png"
-hash = "44d79c019c0b6015a5beb1968852b3c0725f0b26b49481cd4d9d71e895b70e40"
+hash = "fef7cced2f87bde338de7ac0c5b424818abb1ee4d523d0b4d6b6ee5706fa0a83"
 
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/minecraft/textures/gui/sprites/hud/food_empty_hunger.png"
-hash = "44d79c019c0b6015a5beb1968852b3c0725f0b26b49481cd4d9d71e895b70e40"
+hash = "fef7cced2f87bde338de7ac0c5b424818abb1ee4d523d0b4d6b6ee5706fa0a83"
 
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/minecraft/textures/gui/sprites/hud/food_full.png"
-hash = "1ce396bdb67d070ec878fd9418f604af1206c35693153a565fbe338fbab3f531"
+hash = "2074597e90fcbaaec8f3fe02cbb3c422bf86d6b8dc8e5b8eff22edd575d067ed"
 
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/minecraft/textures/gui/sprites/hud/food_full_hunger.png"
-hash = "063eb384d8dde47c76438593c326ae9318b9aa1e2b203ef8fcc4b8b6d374b174"
+hash = "33b2a68d87f52c1aa0090a12d18f78123593ce937ea32cdf95b88af9a60cd5c9"
 
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/minecraft/textures/gui/sprites/hud/food_half.png"
-hash = "f7885111fea582bbaa15e22e2b71d1171a1f1e24ffad4eaa8a52b00a045111fe"
+hash = "0ef966284f6344b7e32d10fcb07678d4d5661aea7e9b874ce27cbe8693d1bf4c"
 
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/minecraft/textures/gui/sprites/hud/food_half_hunger.png"
-hash = "fec0437eaf92c9a589166d2196689374df22d47d65a3aa4e41bfcffd9f43ab32"
+hash = "f93d352c7587eff447e6cde3c89404e6d44af688907e34a33fb556f3485ed1a3"
 
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/minecraft/textures/gui/sprites/hud/heart/absorbing_full.png"
