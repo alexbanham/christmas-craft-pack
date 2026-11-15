@@ -2463,6 +2463,10 @@ file = "moonlight-global-datapacks/christmas-craft-fixes/data/alexsmobs/loot_tab
 hash = "a4a47c9b743d84960d8583337a828bab5d0d1a238ec8baa9ec1c4e64e98ea646"
 
 [[files]]
+file = "moonlight-global-datapacks/christmas-craft-fixes/data/alexsmobs/tags/block/cachalot_whale_breakables.json"
+hash = "bef4d172fc1bfb34d342e79090726c4a0c272dd404783c3ea022b992e0e0415e"
+
+[[files]]
 file = "moonlight-global-datapacks/christmas-craft-fixes/data/brewinandchewin/recipe/fermenting/strongroot_ale_from_beer.json"
 hash = "334eacef08ae1b7607f183e071f00157bfc32c6363f22c8b7704a4d693ae8532"
 
