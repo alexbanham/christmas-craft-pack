@@ -4,8 +4,8 @@
 	[disable_mobs.aquatic_mobs]
 		anglerfish_removed = false
 		bass_removed = false
-		blobfish_removed = false
-		catfish_removed = false
+		blobfish_removed = true
+		catfish_removed = true
 		clam_removed = false
 		giant_isopod_removed = false
 		great_white_shark_removed = false
@@ -17,7 +17,7 @@
 
 	[disable_mobs.land_mobs]
 		alligator_removed = false
-		bear_removed = false
+		bear_removed = true
 		bird_removed = false
 		black_bear_removed = false
 		boar_removed = false
@@ -25,22 +25,22 @@
 		crab_removed = false
 		deer_removed = false
 		duck_removed = false
-		elephant_removed = false
+		elephant_removed = true
 		forest_fox_removed = false
 		forest_rabbit_removed = false
 		giraffe_removed = false
 		hedgehog_removed = false
 		hippo_removed = false
-		komodo_dragon_removed = false
+		komodo_dragon_removed = true
 		lion_removed = false
 		lizard_removed = false
 		mammoth_removed = false
 		mole_removed = false
 		ostrich_removed = false
 		rat_removed = false
-		rhino_removed = false
+		rhino_removed = true
 		snake_removed = false
-		tiger_removed = false
+		tiger_removed = true
 		tortoise_removed = false
 		turkey_removed = false
 		vulture_removed = false
