@@ -210,6 +210,14 @@ file = "config/simplebackups-common.toml"
 hash = "e5ebd6a4eceaaf2fb07560cfb67672a9883cb14319949616f4d1a42857ffb4f3"
 
 [[files]]
+file = "config/sophisticatedbackpacks-common.toml"
+hash = "0558192a2375667743fe0548e9e6f34f36d266a999389c8b5bb93cd8ca5b3740"
+
+[[files]]
+file = "config/sophisticatedbackpacks-server.toml"
+hash = "f23455dee0a265d72c24a1595ba74267568cd044299a2f28d23f9e147fb9e5b5"
+
+[[files]]
 file = "config/sparsestructures.json5"
 hash = "1bd9fb4ba60c8343e7718f4f01a95abf04597814554adf98abdd98a3bdceb967"
 
@@ -6207,6 +6215,10 @@ hash = "a93422a1b2c693cabfdfd073926f9fa59a08688e6e46c18df197ee86909bd836"
 [[files]]
 file = "moonlight-global-datapacks/christmas-craft-fixes/data/sophisticatedbackpacks/recipe/gold_backpack.json"
 hash = "fcfe8fe511a12c5dcb9d7bbb41eff4336e3efca560c18b9045306b27fe1a757d"
+
+[[files]]
+file = "moonlight-global-datapacks/christmas-craft-fixes/data/sophisticatedbackpacks/recipe/inception_upgrade.json"
+hash = "8db3a95a78a8352abe579606ada94f787097406ad7a2fefcf2dc47f40dd077ac"
 
 [[files]]
 file = "moonlight-global-datapacks/christmas-craft-fixes/data/sophisticatedbackpacks/recipe/iron_backpack.json"
