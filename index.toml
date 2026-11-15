@@ -38,7 +38,7 @@ hash = "ef974c139b71fdbc4cc14048f46150ff95e8d9911d32a0f5c5bd0b393742fb80"
 
 [[files]]
 file = "config/carryon-common.toml"
-hash = "b11a63fa7b6369dc99b4093ca90f51570d3b8a7f498cc4001258be8c696ab048"
+hash = "b21d860df10fd29b15b89fb83bcf197936e67d3106c2607f8fd8f35c0d2c1f14"
 
 [[files]]
 file = "config/christmascraft/pack-version.json"
@@ -1588,6 +1588,11 @@ hash = "205ac4987dcaf6aa6a099c9dbcb97f9aea85b2f9b2f5953fc88c83d92afd90b5"
 metafile = true
 
 [[files]]
+file = "mods/create-item-drawers.pw.toml"
+hash = "d3a5b21aceadf845be82f45b32f680d996eb0969bc86ebcc920816a8ed7eb94f"
+metafile = true
+
+[[files]]
 file = "mods/create-mechanical-extruder.pw.toml"
 hash = "6e064a3988937e06dfa307c8c395c73461819f9135197bc30563c6f13d1f1da4"
 metafile = true
@@ -2270,6 +2275,21 @@ metafile = true
 [[files]]
 file = "mods/sooty-chimneys.pw.toml"
 hash = "924b292f54a9a8c7196773b03e1f503a0eb70af4c0aa06a02bfb6c8f4617c660"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-backpacks-create-integration.pw.toml"
+hash = "62763719713397981d04896274e48579e8d425d23bf2f1999184072aea53e193"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-backpacks.pw.toml"
+hash = "882a37f53c24ebad93b2fcd5feb972154f9c6df42d94e4b9282edfdafe595f41"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-core.pw.toml"
+hash = "9586073d1516edeb883ac756ba0379976b890b0faffffec7e45faace40b1ccac"
 metafile = true
 
 [[files]]
@@ -3671,6 +3691,10 @@ hash = "ad7663b0abc5bb4b65e9d6ee6dd879a3db8a4c2e1a76c0416eaa50b5f1803919"
 [[files]]
 file = "moonlight-global-datapacks/christmas-craft-fixes/data/createdieselgenerators/recipe/crushing/wood_chip_casings.json"
 hash = "8630b7bc83fae1a4dc3039c0d0e40d78b5791dfb9357b623debe6aa9092fc66d"
+
+[[files]]
+file = "moonlight-global-datapacks/christmas-craft-fixes/data/curios/curios/slots/back.json"
+hash = "75858673b1a0f59c099d51e8117e7ca4c16b8aee23bb0c18a0651fe3f5d8ffc2"
 
 [[files]]
 file = "moonlight-global-datapacks/christmas-craft-fixes/data/delightfulcreators/recipe/compacting/cake.json"
@@ -6167,6 +6191,34 @@ hash = "a2e6dbed7f4c31bc53d15a41a0a9f802a5b688078e91dcad9c852a46ffe5719a"
 [[files]]
 file = "moonlight-global-datapacks/christmas-craft-fixes/data/sootychimneys/recipe/iron_chimney.json"
 hash = "97228449a90c73017d87248df22431c6942096b5c048dbecc97f453815b6de0d"
+
+[[files]]
+file = "moonlight-global-datapacks/christmas-craft-fixes/data/sophisticatedbackpacks/recipe/backpack.json"
+hash = "f800b24245eb36d2aa98dbb694baf007c96d652698faf60809595bdee9e0f401"
+
+[[files]]
+file = "moonlight-global-datapacks/christmas-craft-fixes/data/sophisticatedbackpacks/recipe/copper_backpack.json"
+hash = "051abbf93ba78b4535afecd576c6ebed61dfae915eea918033d3d90349531e8a"
+
+[[files]]
+file = "moonlight-global-datapacks/christmas-craft-fixes/data/sophisticatedbackpacks/recipe/diamond_backpack.json"
+hash = "a93422a1b2c693cabfdfd073926f9fa59a08688e6e46c18df197ee86909bd836"
+
+[[files]]
+file = "moonlight-global-datapacks/christmas-craft-fixes/data/sophisticatedbackpacks/recipe/gold_backpack.json"
+hash = "fcfe8fe511a12c5dcb9d7bbb41eff4336e3efca560c18b9045306b27fe1a757d"
+
+[[files]]
+file = "moonlight-global-datapacks/christmas-craft-fixes/data/sophisticatedbackpacks/recipe/iron_backpack.json"
+hash = "35fbd30333f6b435ac3831af95cfa82d969f1693c8c57f606b017297cc244114"
+
+[[files]]
+file = "moonlight-global-datapacks/christmas-craft-fixes/data/sophisticatedbackpacks/recipe/iron_backpack_from_copper.json"
+hash = "ee3d36edac801cacb0a844a0d1dcad12c6d0660eec411c495d84e62af87acb88"
+
+[[files]]
+file = "moonlight-global-datapacks/christmas-craft-fixes/data/sophisticatedbackpacks/recipe/upgrade_base.json"
+hash = "2e5c3218ec2696b9585d78388b59b374d0209b6e26e8709da148884d72505ea7"
 
 [[files]]
 file = "moonlight-global-datapacks/christmas-craft-fixes/data/twigs/recipe/cracked_bricks.json"
