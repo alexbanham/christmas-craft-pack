@@ -1,0 +1,26 @@
+{
+	"version": 13
+	"detection_delay": 20
+	"progression_mode": "flexible"
+	"default_quest_shape": "circle"
+	"default_consume_items": false
+	"default_autoclaim_rewards": "disabled"
+	"default_reward_team": false
+	"default_reward_team_by_type": {
+		"ftbquests:xp": false
+		"ftbquests:xp_levels": false
+	}
+	"drop_loot_crates": false
+	"loot_crate_no_drop": {
+		"passive": 0
+		"monster": 0
+		"boss": 0
+	}
+	"default_quest_disable_jei": false
+	"show_lock_icons": true
+	"pause_game": false
+	"disable_gui": false
+	"icon": {
+		"id": "minecraft:book"
+	}
+}

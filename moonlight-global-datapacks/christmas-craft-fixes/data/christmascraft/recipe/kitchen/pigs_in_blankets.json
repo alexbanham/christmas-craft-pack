@@ -1,0 +1,12 @@
+{
+ "type": "minecraft:smoking",
+ "category": "food",
+ "ingredient": {
+  "item": "christmascraft:raw_pigs_in_blankets"
+ },
+ "result": {
+  "id": "christmascraft:pigs_in_blankets"
+ },
+ "experience": 0.35,
+ "cookingtime": 100
+}

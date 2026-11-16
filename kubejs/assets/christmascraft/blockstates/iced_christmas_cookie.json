@@ -1,0 +1,64 @@
+{
+ "variants": {
+  "facing=north,servings=1": {
+   "model": "christmascraft:block/dish/iced_christmas_cookie_1"
+  },
+  "facing=north,servings=2": {
+   "model": "christmascraft:block/dish/iced_christmas_cookie_2"
+  },
+  "facing=north,servings=3": {
+   "model": "christmascraft:block/dish/iced_christmas_cookie_3"
+  },
+  "facing=north,servings=4": {
+   "model": "christmascraft:block/dish/iced_christmas_cookie_4"
+  },
+  "facing=east,servings=1": {
+   "model": "christmascraft:block/dish/iced_christmas_cookie_1",
+   "y": 90
+  },
+  "facing=east,servings=2": {
+   "model": "christmascraft:block/dish/iced_christmas_cookie_2",
+   "y": 90
+  },
+  "facing=east,servings=3": {
+   "model": "christmascraft:block/dish/iced_christmas_cookie_3",
+   "y": 90
+  },
+  "facing=east,servings=4": {
+   "model": "christmascraft:block/dish/iced_christmas_cookie_4",
+   "y": 90
+  },
+  "facing=south,servings=1": {
+   "model": "christmascraft:block/dish/iced_christmas_cookie_1",
+   "y": 180
+  },
+  "facing=south,servings=2": {
+   "model": "christmascraft:block/dish/iced_christmas_cookie_2",
+   "y": 180
+  },
+  "facing=south,servings=3": {
+   "model": "christmascraft:block/dish/iced_christmas_cookie_3",
+   "y": 180
+  },
+  "facing=south,servings=4": {
+   "model": "christmascraft:block/dish/iced_christmas_cookie_4",
+   "y": 180
+  },
+  "facing=west,servings=1": {
+   "model": "christmascraft:block/dish/iced_christmas_cookie_1",
+   "y": 270
+  },
+  "facing=west,servings=2": {
+   "model": "christmascraft:block/dish/iced_christmas_cookie_2",
+   "y": 270
+  },
+  "facing=west,servings=3": {
+   "model": "christmascraft:block/dish/iced_christmas_cookie_3",
+   "y": 270
+  },
+  "facing=west,servings=4": {
+   "model": "christmascraft:block/dish/iced_christmas_cookie_4",
+   "y": 270
+  }
+ }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "tipsmod:simple",
+  "title": {
+    "text": "Christmas Craft tip",
+    "color": "red",
+    "bold": true
+  },
+  "text": {
+    "text": "Keep your airship on the map: /saero mark (Tab completes the ship name) adds a waypoint that follows it even when it is far away. /saero unmark removes it."
+  }
+}

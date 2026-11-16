@@ -1,0 +1,97 @@
+[
+  {
+    "name": "Christmas Dinner Run",
+    "description": "The village kitchen is short of everything for the big dinner. Fly a crate of food in before it goes cold.",
+    "schematicName": "light_food_crate",
+    "weightClass": "Light",
+    "actualWeight": 1200.0,
+    "rewards": [
+      "cccasino:chip_50:1",
+      "cccasino:chip_10:1",
+      "create:sweet_roll:8"
+    ],
+    "pickupPos": "",
+    "dropoffPos": ""
+  },
+  {
+    "name": "Stocking Fillers",
+    "description": "A crate of small gifts for the village stockings. Light, fragile and very much expected.",
+    "schematicName": "light_cargo_crate",
+    "weightClass": "Light",
+    "actualWeight": 1500.0,
+    "rewards": [
+      "cccasino:chip_50:1",
+      "cccasino:chip_10:1",
+      "create:bar_of_chocolate:8"
+    ],
+    "pickupPos": "",
+    "dropoffPos": ""
+  },
+  {
+    "name": "Coal for the Naughty List",
+    "description": "Someone has to deliver it. A heavy crate of ore for the village smithy, and a few lumps of coal for the stockings of the naughty.",
+    "schematicName": "medium_ore_crate",
+    "weightClass": "Medium",
+    "actualWeight": 4000.0,
+    "rewards": [
+      "cccasino:chip_100:1",
+      "cccasino:chip_25:1",
+      "create:zinc_ingot:16"
+    ],
+    "pickupPos": "",
+    "dropoffPos": ""
+  },
+  {
+    "name": "Toy Workshop Parts",
+    "description": "A pallet of gears and mechanisms for a village toymaker who cannot keep up with the orders.",
+    "schematicName": "medium_machinery_pallet",
+    "weightClass": "Medium",
+    "actualWeight": 3500.0,
+    "rewards": [
+      "cccasino:chip_100:1",
+      "cccasino:chip_25:1",
+      "create:precision_mechanism:4"
+    ],
+    "pickupPos": "",
+    "dropoffPos": ""
+  },
+  {
+    "name": "North Pole Bakery Boiler",
+    "description": "The bakery boiler gave out in the cold. Haul a new one in so the gingerbread ovens can run again.",
+    "schematicName": "heavy_industrial_boiler",
+    "weightClass": "Heavy",
+    "actualWeight": 11000.0,
+    "rewards": [
+      "cccasino:chip_250:1",
+      "aeronautics:levitite:16"
+    ],
+    "pickupPos": "",
+    "dropoffPos": ""
+  },
+  {
+    "name": "[special] Santa's Sleigh Manifest",
+    "description": "The locked container holds the whole list: every name, every present. Heavy, precious and only for trusted pilots.",
+    "schematicName": "heavy_secure_container",
+    "weightClass": "Heavy",
+    "actualWeight": 9000.0,
+    "rewards": [
+      "cccasino:chip_500:1",
+      "create:precision_mechanism:8"
+    ],
+    "pickupPos": "",
+    "dropoffPos": ""
+  },
+  {
+    "name": "[special] Midnight Present Drop",
+    "description": "Christmas Eve, after dark. A full pallet of presents has to reach the far village before morning.",
+    "schematicName": "medium_machinery_pallet",
+    "weightClass": "Medium",
+    "actualWeight": 3500.0,
+    "rewards": [
+      "cccasino:chip_500:1",
+      "aeronautics:levitite:16"
+    ],
+    "pickupPos": "",
+    "dropoffPos": ""
+  }
+]

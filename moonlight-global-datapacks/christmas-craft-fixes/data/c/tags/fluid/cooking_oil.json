@@ -1,0 +1,33 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "ratatouille_fried_delights:sunflower_oil",
+      "required": false
+    },
+    {
+      "id": "ratatouille_fried_delights:flowing_sunflower_oil",
+      "required": false
+    },
+    {
+      "id": "create_bic_bit:frying_oil",
+      "required": false
+    },
+    {
+      "id": "create_bic_bit:flowing_frying_oil",
+      "required": false
+    },
+    {
+      "id": "createaddition:seed_oil",
+      "required": false
+    },
+    {
+      "id": "createaddition:flowing_seed_oil",
+      "required": false
+    },
+    {
+      "id": "hearthandharvest:cooking_oil",
+      "required": false
+    }
+  ]
+}

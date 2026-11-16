@@ -1,0 +1,101 @@
+{
+ "type": "create:sequenced_assembly",
+ "ingredient": {
+  "item": "farmersdelight:roast_chicken_block"
+ },
+ "loops": 1,
+ "results": [
+  {
+   "id": "christmascraft:christmas_dinner_platter"
+  }
+ ],
+ "sequence": [
+  {
+   "type": "create:deploying",
+   "ingredients": [
+    {
+     "item": "christmascraft:incomplete_dinner_platter"
+    },
+    {
+     "item": "christmascraft:roast_potatoes"
+    }
+   ],
+   "results": [
+    {
+     "id": "christmascraft:incomplete_dinner_platter"
+    }
+   ]
+  },
+  {
+   "type": "create:deploying",
+   "ingredients": [
+    {
+     "item": "christmascraft:incomplete_dinner_platter"
+    },
+    {
+     "item": "christmascraft:pigs_in_blankets"
+    }
+   ],
+   "results": [
+    {
+     "id": "christmascraft:incomplete_dinner_platter"
+    }
+   ]
+  },
+  {
+   "type": "create:deploying",
+   "ingredients": [
+    {
+     "item": "christmascraft:incomplete_dinner_platter"
+    },
+    {
+     "item": "christmascraft:stuffing"
+    }
+   ],
+   "results": [
+    {
+     "id": "christmascraft:incomplete_dinner_platter"
+    }
+   ]
+  },
+  {
+   "type": "create:filling",
+   "ingredients": [
+    {
+     "item": "christmascraft:incomplete_dinner_platter"
+    },
+    {
+     "type": "neoforge:single",
+     "amount": 250,
+     "fluid": "christmascraft:gravy"
+    }
+   ],
+   "results": [
+    {
+     "id": "christmascraft:incomplete_dinner_platter"
+    }
+   ]
+  },
+  {
+   "type": "create:filling",
+   "ingredients": [
+    {
+     "item": "christmascraft:incomplete_dinner_platter"
+    },
+    {
+     "type": "neoforge:single",
+     "amount": 100,
+     "fluid": "fruitsdelight:cranberry_jam"
+    }
+   ],
+   "results": [
+    {
+     "id": "christmascraft:incomplete_dinner_platter"
+    }
+   ]
+  }
+ ],
+ "transitional_item": {
+  "id": "christmascraft:incomplete_dinner_platter"
+ }
+}

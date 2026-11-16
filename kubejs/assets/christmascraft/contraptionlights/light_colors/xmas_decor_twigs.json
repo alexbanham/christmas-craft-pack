@@ -1,0 +1,11 @@
+{
+  "required_mods": [
+    "twigs"
+  ],
+  "values": [
+    {
+      "block": "twigs:soul_lamp",
+      "color": "#3385FF"
+    }
+  ]
+}

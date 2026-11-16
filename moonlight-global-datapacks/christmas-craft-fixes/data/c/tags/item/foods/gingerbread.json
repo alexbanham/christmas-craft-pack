@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "snowyspirit:gingerbread_cookie",
+      "required": false
+    },
+    {
+      "id": "create_wrapped:gingerbread",
+      "required": false
+    },
+    {
+      "id": "create_confectionery:gingerbread",
+      "required": false
+    }
+  ]
+}

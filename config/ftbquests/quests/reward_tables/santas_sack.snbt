@@ -1,0 +1,136 @@
+{
+	"id": "3888701C8FA57640"
+	"order_index": 3
+	"loot_size": 4
+	"use_title": true
+	"rewards": [
+		{
+			"id": "26672BD9D4AFAA84"
+			"item": {
+				"id": "minecraft:netherite_scrap"
+				"count": 1
+			}
+			"weight": 5.0d
+			"count": 2
+			"random_bonus": 2
+		}
+		{
+			"id": "2E9608DAC1AFB67B"
+			"item": {
+				"id": "minecraft:netherite_ingot"
+				"count": 1
+			}
+			"weight": 2.0d
+		}
+		{
+			"id": "5553FD5B5306E70A"
+			"item": {
+				"id": "minecraft:netherite_upgrade_smithing_template"
+				"count": 1
+			}
+			"weight": 2.0d
+		}
+		{
+			"id": "674B9144CBAFE7E5"
+			"item": {
+				"id": "minecraft:totem_of_undying"
+				"count": 1
+			}
+			"weight": 3.0d
+		}
+		{
+			"id": "6EEFE6E5D70283C8"
+			"item": {
+				"id": "minecraft:diamond"
+				"count": 1
+			}
+			"weight": 6.0d
+			"count": 8
+			"random_bonus": 8
+		}
+		{
+			"id": "1598FE80720D360F"
+			"item": {
+				"id": "minecraft:golden_apple"
+				"count": 1
+			}
+			"weight": 5.0d
+			"count": 4
+		}
+		{
+			"id": "67832114C671AE1E"
+			"item": {
+				"id": "minecraft:enchanted_golden_apple"
+				"count": 1
+			}
+			"weight": 2.0d
+		}
+		{
+			"id": "577D8AAB2AB69338"
+			"item": {
+				"id": "minecraft:elytra"
+				"count": 1
+				"components": {
+					"minecraft:custom_name": "{\"text\": \"Reindeer Wings\", \"italic\": false}"
+					"minecraft:lore": [
+						"{\"text\": \"For when the sleigh is full.\", \"color\": \"gray\"}"
+					]
+				}
+			}
+			"weight": 1.0d
+		}
+		{
+			"id": "5D561DCB2A3E0AB8"
+			"item": {
+				"id": "minecraft:experience_bottle"
+				"count": 1
+			}
+			"weight": 5.0d
+			"count": 16
+			"random_bonus": 16
+		}
+		{
+			"id": "0ED0CBE648C38E6F"
+			"item": {
+				"id": "cccasino:chip_100"
+				"count": 1
+			}
+			"weight": 5.0d
+			"count": 2
+			"random_bonus": 2
+		}
+		{
+			"id": "192A74D012083051"
+			"item": {
+				"id": "cccasino:chip_5000"
+				"count": 1
+				"components": {
+					"minecraft:custom_name": "{\"text\": \"Santa's Own Chip\", \"italic\": false}"
+					"minecraft:lore": [
+						"{\"text\": \"Five thousand. Do not tell the elves.\", \"color\": \"gray\"}"
+					]
+				}
+			}
+			"weight": 0.2d
+		}
+	]
+	"loot_crate": {
+		"string_id": "santas_sack"
+		"item_name": "Santa's Hamper"
+		"color": 15251747
+		"glow": true
+		"drops": {
+			"passive": 0
+			"monster": 0
+			"boss": 0
+		}
+	}
+	"icon": {
+		"id": "ftbquests:lootcrate"
+		"count": 1
+		"components": {
+			"ftbquests:loot_crate": "santas_sack"
+			"minecraft:custom_model_data": 7704
+		}
+	}
+}

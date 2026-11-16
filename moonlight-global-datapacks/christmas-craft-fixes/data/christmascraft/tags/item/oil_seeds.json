@@ -1,0 +1,65 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "#c:seeds/wheat",
+      "required": false
+    },
+    {
+      "id": "#c:seeds/beetroot",
+      "required": false
+    },
+    {
+      "id": "#c:seeds/melon",
+      "required": false
+    },
+    {
+      "id": "#c:seeds/pumpkin",
+      "required": false
+    },
+    {
+      "id": "#c:seeds/torchflower",
+      "required": false
+    },
+    {
+      "id": "#c:seeds/pitcher_pod",
+      "required": false
+    },
+    {
+      "id": "farmersdelight:cabbage_seeds",
+      "required": false
+    },
+    {
+      "id": "farmersdelight:tomato_seeds",
+      "required": false
+    },
+    {
+      "id": "farmersdelight:rice",
+      "required": false
+    },
+    {
+      "id": "farmersrespite:tea_seeds",
+      "required": false
+    },
+    {
+      "id": "hearthandharvest:cotton_seeds",
+      "required": false
+    },
+    {
+      "id": "hearthandharvest:corn_kernels",
+      "required": false
+    },
+    {
+      "id": "hearthandharvest:blueberry_pips",
+      "required": false
+    },
+    {
+      "id": "hearthandharvest:raspberry_pips",
+      "required": false
+    },
+    {
+      "id": "supplementaries:flax_seeds",
+      "required": false
+    }
+  ]
+}

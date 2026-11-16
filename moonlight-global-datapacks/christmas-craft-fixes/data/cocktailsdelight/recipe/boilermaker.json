@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:drinks/beer"
+    },
+    {
+      "item": "cocktailsdelight:whiskey"
+    },
+    {
+      "item": "brewinandchewin:tankard"
+    },
+    {
+      "item": "brewinandchewin:tankard"
+    }
+  ],
+  "result": {
+    "id": "cocktailsdelight:boilermaker",
+    "count": 2
+  }
+}

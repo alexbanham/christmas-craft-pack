@@ -1,0 +1,32 @@
+{
+  "type": "brewinandchewin:fermenting",
+  "base_fluid": {
+    "amount": 1000,
+    "ingredient": {
+      "id": "minecraft:water"
+    },
+    "unit": "millibuckets"
+  },
+  "fermentingtime": 9600,
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "item": "cocktailsdelight:malt"
+    },
+    {
+      "tag": "c:crops/hops"
+    },
+    {
+      "item": "minecraft:red_mushroom"
+    },
+    {
+      "item": "minecraft:moss_block"
+    }
+  ],
+  "result": {
+    "amount": 1000,
+    "id": "cocktailsdelight:red_ale"
+  },
+  "temperature": 4,
+  "unit": "millibuckets"
+}

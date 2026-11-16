@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "hearthandharvest:beer",
+      "required": false
+    },
+    {
+      "id": "brewinandchewin:beer",
+      "required": false
+    }
+  ]
+}

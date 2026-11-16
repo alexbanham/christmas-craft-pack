@@ -1,0 +1,80 @@
+{
+ "type": "create:sequenced_assembly",
+ "ingredient": {
+  "item": "ratatouille:cake_base"
+ },
+ "loops": 1,
+ "results": [
+  {
+   "id": "christmascraft:yule_log"
+  }
+ ],
+ "sequence": [
+  {
+   "type": "create:filling",
+   "ingredients": [
+    {
+     "item": "christmascraft:incomplete_yule_log"
+    },
+    {
+     "type": "neoforge:single",
+     "amount": 250,
+     "fluid": "create:chocolate"
+    }
+   ],
+   "results": [
+    {
+     "id": "christmascraft:incomplete_yule_log"
+    }
+   ]
+  },
+  {
+   "type": "create:pressing",
+   "ingredients": [
+    {
+     "item": "christmascraft:incomplete_yule_log"
+    }
+   ],
+   "results": [
+    {
+     "id": "christmascraft:incomplete_yule_log"
+    }
+   ]
+  },
+  {
+   "type": "create:deploying",
+   "ingredients": [
+    {
+     "item": "christmascraft:incomplete_yule_log"
+    },
+    {
+     "item": "ratatouille:cocoa_powder"
+    }
+   ],
+   "results": [
+    {
+     "id": "christmascraft:incomplete_yule_log"
+    }
+   ]
+  },
+  {
+   "type": "create:deploying",
+   "ingredients": [
+    {
+     "item": "christmascraft:incomplete_yule_log"
+    },
+    {
+     "item": "christmascraft:holly_sprig"
+    }
+   ],
+   "results": [
+    {
+     "id": "christmascraft:incomplete_yule_log"
+    }
+   ]
+  }
+ ],
+ "transitional_item": {
+  "id": "christmascraft:incomplete_yule_log"
+ }
+}

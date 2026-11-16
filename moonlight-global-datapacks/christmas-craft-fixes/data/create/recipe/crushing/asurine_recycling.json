@@ -1,0 +1,6 @@
+{
+  "type": "create:crushing",
+  "ingredients": [{"tag": "create:stone_types/asurine"}],
+  "results": [{"id": "minecraft:gravel"}],
+  "processing_time": 250
+}

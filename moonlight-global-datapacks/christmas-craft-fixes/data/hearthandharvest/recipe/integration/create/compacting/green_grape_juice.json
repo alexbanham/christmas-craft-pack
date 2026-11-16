@@ -1,0 +1,29 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "create"
+    }
+  ],
+  "type": "create:compacting",
+  "ingredients": [
+    {
+      "tag": "c:foods/green_grapes"
+    },
+    {
+      "tag": "c:foods/green_grapes"
+    },
+    {
+      "tag": "c:foods/green_grapes"
+    },
+    {
+      "tag": "c:foods/green_grapes"
+    }
+  ],
+  "results": [
+    {
+      "amount": 500,
+      "id": "hearthandharvest:green_grape_juice"
+    }
+  ]
+}

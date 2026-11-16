@@ -1,0 +1,14 @@
+{
+ "type": "create:pressing",
+ "ingredients": [
+  {
+   "item": "ratatouille_fried_delights:puff_pastry"
+  }
+ ],
+ "results": [
+  {
+   "id": "christmascraft:pastry_case",
+   "count": 2
+  }
+ ]
+}

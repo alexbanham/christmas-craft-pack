@@ -1,0 +1,16 @@
+{
+ "type": "create:deploying",
+ "ingredients": [
+  {
+   "item": "christmascraft:baked_mince_pie"
+  },
+  {
+   "item": "christmascraft:icing_sugar"
+  }
+ ],
+ "results": [
+  {
+   "id": "christmascraft:mince_pie"
+  }
+ ]
+}

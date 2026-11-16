@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "WWW",
+    "SSS",
+    "LCH"
+  ],
+  "key": {
+    "W": {
+      "item": "minecraft:white_wool"
+    },
+    "S": {
+      "item": "minecraft:string"
+    },
+    "L": {
+      "item": "minecraft:leather"
+    },
+    "C": {
+      "item": "create:andesite_casing"
+    },
+    "H": {
+      "item": "create:shaft"
+    }
+  },
+  "result": {
+    "count": 1,
+    "id": "create_parachute:parachute_block"
+  }
+}

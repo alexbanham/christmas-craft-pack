@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "hearthandharvest:red_grapes",
+      "required": false
+    },
+    {
+      "id": "hearthandharvest:green_grapes",
+      "required": false
+    }
+  ]
+}

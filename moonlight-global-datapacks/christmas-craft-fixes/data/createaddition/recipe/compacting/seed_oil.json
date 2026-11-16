@@ -1,0 +1,35 @@
+{
+  "type": "create:compacting",
+  "ingredients": [
+    {
+      "tag": "christmascraft:oil_seeds"
+    },
+    {
+      "tag": "christmascraft:oil_seeds"
+    },
+    {
+      "tag": "christmascraft:oil_seeds"
+    },
+    {
+      "tag": "christmascraft:oil_seeds"
+    },
+    {
+      "tag": "christmascraft:oil_seeds"
+    },
+    {
+      "tag": "christmascraft:oil_seeds"
+    },
+    {
+      "tag": "christmascraft:oil_seeds"
+    },
+    {
+      "tag": "christmascraft:oil_seeds"
+    }
+  ],
+  "results": [
+    {
+      "amount": 125,
+      "id": "createaddition:seed_oil"
+    }
+  ]
+}

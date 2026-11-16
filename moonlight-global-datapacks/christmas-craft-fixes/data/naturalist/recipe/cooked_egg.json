@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": [
+    {
+      "item": "naturalist:duck_egg"
+    },
+    {
+      "item": "naturalist:ostrich_egg"
+    },
+    {
+      "item": "naturalist:tortoise_egg"
+    },
+    {
+      "item": "naturalist:alligator_egg"
+    }
+  ],
+  "result": {
+    "id": "naturalist:cooked_egg"
+  },
+  "experience": 0.35,
+  "cookingtime": 200
+}

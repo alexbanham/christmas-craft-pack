@@ -1,0 +1,21 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "tag": "c:flours/wheat"
+    },
+    {
+      "tag": "c:salts"
+    },
+    {
+      "type": "neoforge:single",
+      "amount": 100,
+      "fluid": "ratatouille:egg_yolk"
+    }
+  ],
+  "results": [
+    {
+      "id": "ratatouille:salty_dough"
+    }
+  ]
+}

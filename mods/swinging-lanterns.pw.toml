@@ -1,0 +1,13 @@
+name = "Swinging Lanterns"
+filename = "swinginglanterns-neoforge-1.21.1-2.0.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/3IOcW74j/versions/SkZnkEns/swinginglanterns-neoforge-1.21.1-2.0.4.jar"
+hash-format = "sha512"
+hash = "87303fb16afb99bfb5037ee6efd2b6d383bd99b27474a346e08744cf684c782d79d004b90d056aa8ae5bb8e460b8ab395fb589ace1d7eef65841684db465efb8"
+
+[update]
+[update.modrinth]
+mod-id = "3IOcW74j"
+version = "SkZnkEns"

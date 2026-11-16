@@ -1,0 +1,13 @@
+name = "Create: Compact Additions"
+filename = "compact_additions-2.2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/B15pZdbw/versions/yKH3U4ut/compact_additions-2.2.0.jar"
+hash-format = "sha512"
+hash = "4c53566323762363e60703ae40a638443f844642891ee27ca22d17b40ef7bd98cd73447ed8a8b59381bec5e5386aedba117e3e8b79738520bc0814a39169e68b"
+
+[update]
+[update.modrinth]
+mod-id = "B15pZdbw"
+version = "yKH3U4ut"

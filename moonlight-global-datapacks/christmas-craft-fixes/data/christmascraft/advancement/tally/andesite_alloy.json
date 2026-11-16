@@ -1,0 +1,13 @@
+{
+ "criteria": {
+  "sustained": {
+   "trigger": "cccasino:sustained_delivery",
+   "conditions": {
+    "item": "create:andesite_alloy",
+    "per_minute": 30,
+    "minutes": 10
+   }
+  }
+ },
+ "sends_telemetry_event": false
+}

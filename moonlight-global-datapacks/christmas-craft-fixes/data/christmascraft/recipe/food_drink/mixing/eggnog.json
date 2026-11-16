@@ -1,0 +1,34 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "snowyspirit"
+    },
+    {
+      "type": "snowyspirit:flag",
+      "flag": "eggnog"
+    }
+  ],
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "snowyspirit:ginger"
+    },
+    {
+      "tag": "c:eggs"
+    },
+    {
+      "item": "minecraft:glass_bottle"
+    },
+    {
+      "type": "neoforge:tag",
+      "amount": 250,
+      "tag": "c:milk"
+    }
+  ],
+  "results": [
+    {
+      "id": "snowyspirit:eggnog"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "type": "tipsmod:simple",
+  "title": {
+    "text": "Christmas Craft tip",
+    "color": "red",
+    "bold": true
+  },
+  "text": {
+    "text": "Create: Sound of Steam adds steam pipe organs. A Windchest Controller feeds the pipes, and songs are punched onto Music Rolls at the Roll Authoring Table."
+  }
+}

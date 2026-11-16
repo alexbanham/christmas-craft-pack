@@ -1,0 +1,41 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "#fruitsdelight:jam",
+      "required": false
+    },
+    {
+      "id": "hearthandharvest:apple_jam",
+      "required": false
+    },
+    {
+      "id": "hearthandharvest:blueberry_jam",
+      "required": false
+    },
+    {
+      "id": "hearthandharvest:cherry_jam",
+      "required": false
+    },
+    {
+      "id": "hearthandharvest:glow_berry_jam",
+      "required": false
+    },
+    {
+      "id": "hearthandharvest:grape_jam",
+      "required": false
+    },
+    {
+      "id": "hearthandharvest:melon_jam",
+      "required": false
+    },
+    {
+      "id": "hearthandharvest:raspberry_jam",
+      "required": false
+    },
+    {
+      "id": "hearthandharvest:sweet_berry_jam",
+      "required": false
+    }
+  ]
+}

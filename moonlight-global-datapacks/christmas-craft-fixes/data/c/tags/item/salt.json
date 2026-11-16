@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "ratatouille:salt",
+      "required": false
+    },
+    {
+      "id": "hearthandharvest:salt",
+      "required": false
+    }
+  ]
+}

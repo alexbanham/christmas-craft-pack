@@ -1,0 +1,22 @@
+{
+ "type": "create:mixing",
+ "ingredients": [
+  {
+   "item": "christmascraft:icing_sugar"
+  },
+  {
+   "item": "christmascraft:icing_sugar"
+  },
+  {
+   "type": "neoforge:tag",
+   "amount": 100,
+   "tag": "c:milk"
+  }
+ ],
+ "results": [
+  {
+   "id": "christmascraft:icing",
+   "amount": 100
+  }
+ ]
+}

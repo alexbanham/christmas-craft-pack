@@ -1,0 +1,27 @@
+{
+ "type": "minecraft:block",
+ "pools": [
+  {
+   "rolls": 1,
+   "entries": [
+    {
+     "type": "minecraft:item",
+     "name": "christmascraft:yule_log"
+    }
+   ],
+   "conditions": [
+    {
+     "condition": "minecraft:survives_explosion"
+    },
+    {
+     "condition": "minecraft:block_state_property",
+     "block": "christmascraft:yule_log",
+     "properties": {
+      "servings": "4"
+     }
+    }
+   ]
+  }
+ ],
+ "random_sequence": "christmascraft:blocks/yule_log"
+}

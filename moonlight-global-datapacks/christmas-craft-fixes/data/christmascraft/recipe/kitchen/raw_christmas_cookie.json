@@ -1,0 +1,14 @@
+{
+ "type": "create:pressing",
+ "ingredients": [
+  {
+   "item": "christmascraft:christmas_cookie_dough"
+  }
+ ],
+ "results": [
+  {
+   "id": "christmascraft:raw_christmas_cookie",
+   "count": 2
+  }
+ ]
+}

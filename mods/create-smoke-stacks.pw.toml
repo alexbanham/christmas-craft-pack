@@ -1,0 +1,13 @@
+name = "Create: Smoke Stacks - Lite"
+filename = "createsmokestacks-1.2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/uOFDP39I/versions/5Pl6ja2E/createsmokestacks-1.2.0.jar"
+hash-format = "sha512"
+hash = "5016e3581292778ceff86a3060b67bf4540a9ba722fb53590a3f356aee0d5d2d9d59d69a1cc3d3043c69b8b90f5fdcb1d21901fb7d0886976005cbbf7530d99b"
+
+[update]
+[update.modrinth]
+mod-id = "uOFDP39I"
+version = "5Pl6ja2E"

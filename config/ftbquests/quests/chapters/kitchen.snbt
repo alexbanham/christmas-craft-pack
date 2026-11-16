@@ -1,0 +1,1887 @@
+{
+	"id": "185CCFBD33A4DEFF"
+	"filename": "kitchen"
+	"group": "6E6872417BE99080"
+	"order_index": 10
+	"icon": {
+		"id": "create:dough"
+	}
+	"default_hide_dependency_lines": false
+	"default_quest_size": 1.0d
+	"images": [
+		{
+			"id": "5217765EE643B624"
+			"x": 5.125d
+			"y": -13.85d
+			"width": 10.895d
+			"height": 1.7d
+			"rotation": 0.0d
+			"image": "christmascraft:textures/gui/quest/banner_kitchen.png"
+			"order": -1
+		}
+	]
+	"quests": [
+		{
+			"id": "104CDB77A0213D10"
+			"dependencies": [
+				"29FFDE4D5A1A6204"
+			]
+			"icon": {
+				"id": "create:item_drain"
+			}
+			"x": 0.0d
+			"y": -9.0d
+			"shape": "diamond"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "38D15E398A114EA1"
+					"type": "item"
+					"item": {
+						"id": "create_integrated_farming:roost"
+						"count": 1
+					}
+					"count": 1
+				}
+				{
+					"id": "2205F4046FEB11A1"
+					"type": "advancement"
+					"advancement": "create:drain"
+					"criterion": ""
+				}
+			]
+			"rewards": [
+				{
+					"id": "77FF7E80C77F983C"
+					"type": "xp"
+					"xp": 100
+				}
+				{
+					"id": "5DE181DC2FB5FFC1"
+					"type": "random"
+					"table_id": 8811780716223278392L
+				}
+				{
+					"id": "3FECCA8700674087"
+					"type": "random"
+					"table_id": 8811780716223278392L
+				}
+				{
+					"id": "5AE7F90C9D1EC1FF"
+					"type": "random"
+					"table_id": 8811780716223278392L
+				}
+				{
+					"id": "5EAE149F30BF9510"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_50"
+						"count": 1
+					}
+				}
+				{
+					"id": "0CD34660E1D53E04"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_25"
+						"count": 1
+					}
+				}
+			]
+		}
+		{
+			"id": "4BFBB952CD9B7A3A"
+			"dependencies": [
+				"104CDB77A0213D10"
+				"0602DD406B2351E9"
+			]
+			"icon": {
+				"id": "ratatouille_fried_delights:butter"
+			}
+			"x": 2.5d
+			"y": -9.0d
+			"shape": "diamond"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "341C11589C59FA95"
+					"type": "item"
+					"item": {
+						"id": "ratatouille_fried_delights:butter"
+						"count": 1
+					}
+					"count": 1
+				}
+			]
+			"rewards": [
+				{
+					"id": "1388F163A886E2C2"
+					"type": "xp"
+					"xp": 100
+				}
+				{
+					"id": "51A0C848AB7DF1A6"
+					"type": "random"
+					"table_id": 8811780716223278392L
+				}
+				{
+					"id": "78A51DFD094FB39B"
+					"type": "random"
+					"table_id": 8811780716223278392L
+				}
+				{
+					"id": "7282F2FF9ACA4F41"
+					"type": "random"
+					"table_id": 8811780716223278392L
+				}
+				{
+					"id": "035A94E51FD652F4"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_50"
+						"count": 1
+					}
+				}
+				{
+					"id": "0C734265D03BAC03"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_25"
+						"count": 1
+					}
+				}
+			]
+		}
+		{
+			"id": "561494267C89033E"
+			"dependencies": [
+				"092D98FB67CF5295"
+			]
+			"icon": {
+				"id": "create:honey_bucket"
+			}
+			"x": 2.5d
+			"y": -11.5d
+			"shape": "diamond"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "018228F3867E0576"
+					"type": "advancement"
+					"advancement": "create:honey_drain"
+					"criterion": ""
+				}
+			]
+			"rewards": [
+				{
+					"id": "42190B384E7359D8"
+					"type": "xp"
+					"xp": 100
+				}
+				{
+					"id": "0D01E5E8D87C90AF"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+				{
+					"id": "78ED00C8AABF4E01"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+				{
+					"id": "2117170EB0B80470"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_50"
+						"count": 1
+					}
+				}
+				{
+					"id": "3AFBE47BDD755364"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_25"
+						"count": 1
+					}
+				}
+			]
+		}
+		{
+			"id": "0C91B1F3D7CA477C"
+			"dependencies": [
+				"4BFBB952CD9B7A3A"
+				"561494267C89033E"
+				"06F63AFDD1B0E263"
+			]
+			"icon": {
+				"id": "create:sweet_roll"
+			}
+			"x": 5.0d
+			"y": -10.5d
+			"shape": "diamond"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "0E4EC6A674302EED"
+					"type": "advancement"
+					"advancement": "create:foods"
+					"criterion": ""
+				}
+			]
+			"rewards": [
+				{
+					"id": "26E65BFDF1A7D9F7"
+					"type": "xp"
+					"xp": 100
+				}
+				{
+					"id": "696B9F485DE34C0F"
+					"type": "random"
+					"table_id": 8811780716223278392L
+				}
+				{
+					"id": "1AC0094F58525CBE"
+					"type": "random"
+					"table_id": 8811780716223278392L
+				}
+				{
+					"id": "791CA081C6AA5DE3"
+					"type": "random"
+					"table_id": 8811780716223278392L
+				}
+				{
+					"id": "42DB009DA5DEA597"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_50"
+						"count": 1
+					}
+				}
+				{
+					"id": "2C1D0FEF5DD3437D"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_25"
+						"count": 1
+					}
+				}
+			]
+		}
+		{
+			"id": "752B3FBA592B0F14"
+			"dependencies": [
+				"4BFBB952CD9B7A3A"
+				"06F63AFDD1B0E263"
+			]
+			"icon": {
+				"id": "snowyspirit:eggnog"
+			}
+			"x": 2.5d
+			"y": -7.0d
+			"shape": "diamond"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "19315BADE6DD4413"
+					"type": "item"
+					"item": {
+						"id": "snowyspirit:eggnog"
+						"count": 1
+					}
+					"count": 1
+				}
+			]
+			"rewards": [
+				{
+					"id": "65B580D457853D1F"
+					"type": "xp"
+					"xp": 50
+				}
+				{
+					"id": "45E6BDDC62DC8EA7"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+				{
+					"id": "3EDA50CA7EF64414"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+				{
+					"id": "7847C167CDC186E2"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_25"
+						"count": 1
+					}
+				}
+			]
+		}
+		{
+			"id": "0AF1029F15061223"
+			"dependencies": [
+				"2D6C48A4632400D4"
+			]
+			"icon": {
+				"id": "create:wheat_flour"
+			}
+			"x": 0.0d
+			"y": -5.5d
+			"shape": "circle"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "1B8D392AA234B6B0"
+					"type": "item"
+					"item": {
+						"id": "create:wheat_flour"
+						"count": 1
+					}
+					"count": 1
+				}
+			]
+			"rewards": [
+				{
+					"id": "5C77031ABEADA1A2"
+					"type": "xp"
+					"xp": 50
+				}
+				{
+					"id": "2831BC460300CA6E"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+				{
+					"id": "44867B1B36B7787C"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+				{
+					"id": "24C6A7C806AFD673"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_25"
+						"count": 1
+					}
+				}
+			]
+		}
+		{
+			"id": "1965E573A01EE776"
+			"dependencies": [
+				"0AF1029F15061223"
+				"7503AC37CF41C36B"
+			]
+			"icon": {
+				"id": "create:dough"
+			}
+			"x": 2.5d
+			"y": -5.5d
+			"shape": "circle"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "2858BFF705D72FD4"
+					"type": "item"
+					"item": {
+						"id": "create:dough"
+						"count": 1
+					}
+					"count": 1
+				}
+			]
+			"rewards": [
+				{
+					"id": "1C247D0B96B99C32"
+					"type": "xp"
+					"xp": 50
+				}
+				{
+					"id": "5B9F538C9A89C06E"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+				{
+					"id": "2E8E2A8781E304D9"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+				{
+					"id": "64FD5835A8051EE0"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_25"
+						"count": 1
+					}
+				}
+			]
+		}
+		{
+			"id": "093AA491ABBCBEC2"
+			"dependencies": [
+				"1965E573A01EE776"
+				"0602DD406B2351E9"
+			]
+			"icon": {
+				"id": "ratatouille:oven"
+			}
+			"x": 5.0d
+			"y": -5.5d
+			"shape": "circle"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "62C465EC4AA32812"
+					"type": "item"
+					"item": {
+						"id": "ratatouille:oven"
+						"count": 1
+					}
+					"count": 1
+				}
+				{
+					"id": "3C604234CA0A9588"
+					"type": "item"
+					"item": {
+						"id": "ratatouille:oven_fan"
+						"count": 1
+					}
+					"count": 1
+				}
+			]
+			"rewards": [
+				{
+					"id": "6EC5209EB5B8B672"
+					"type": "xp"
+					"xp": 100
+				}
+				{
+					"id": "3F6898C2BB303D3E"
+					"type": "random"
+					"table_id": 8811780716223278392L
+				}
+				{
+					"id": "2409E939770A1D7F"
+					"type": "random"
+					"table_id": 8811780716223278392L
+				}
+				{
+					"id": "0DBA26D4AA392E35"
+					"type": "random"
+					"table_id": 8811780716223278392L
+				}
+				{
+					"id": "0DE89FD2DE88D98A"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_50"
+						"count": 1
+					}
+				}
+				{
+					"id": "74798CDC7EB0C671"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_25"
+						"count": 1
+					}
+				}
+			]
+		}
+		{
+			"id": "6FE8EBBC7B4F346D"
+			"dependencies": [
+				"093AA491ABBCBEC2"
+				"4BFBB952CD9B7A3A"
+			]
+			"icon": {
+				"id": "ratatouille:cake_base"
+			}
+			"x": 7.5d
+			"y": -6.5d
+			"shape": "circle"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "674D0275EDA137F3"
+					"type": "item"
+					"item": {
+						"id": "ratatouille:cake_base"
+						"count": 1
+					}
+					"count": 1
+				}
+			]
+			"rewards": [
+				{
+					"id": "62B695F4D192A612"
+					"type": "xp"
+					"xp": 100
+				}
+				{
+					"id": "50F64DA543C7C252"
+					"type": "random"
+					"table_id": 8811780716223278392L
+				}
+				{
+					"id": "1D49896C2B09BFAB"
+					"type": "random"
+					"table_id": 8811780716223278392L
+				}
+				{
+					"id": "3CF82B51BAFA3BD1"
+					"type": "random"
+					"table_id": 8811780716223278392L
+				}
+				{
+					"id": "2541322FC37F949F"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_50"
+						"count": 1
+					}
+				}
+				{
+					"id": "11A84EA3AE74B6CF"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_25"
+						"count": 1
+					}
+				}
+			]
+		}
+		{
+			"id": "43A7DF1AD52C0CAD"
+			"dependencies": [
+				"0C91B1F3D7CA477C"
+				"7D2EA14C7C7A57C2"
+			]
+			"icon": {
+				"id": "create_bic_bit:stroopwafel"
+			}
+			"x": 7.5d
+			"y": -11.5d
+			"shape": "circle"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "5025537331187422"
+					"type": "item"
+					"item": {
+						"id": "create_bic_bit:wrapped_chocolate_glazed_stroopwafel"
+						"count": 1
+					}
+					"count": 1
+				}
+			]
+			"rewards": [
+				{
+					"id": "720A8992ED3AAA7A"
+					"type": "xp"
+					"xp": 100
+				}
+				{
+					"id": "007973B075EDADB5"
+					"type": "random"
+					"table_id": 8811780716223278392L
+				}
+				{
+					"id": "30E5D47C5CFE79D1"
+					"type": "random"
+					"table_id": 8811780716223278392L
+				}
+				{
+					"id": "50BF60BEDFAFCADC"
+					"type": "random"
+					"table_id": 8811780716223278392L
+				}
+				{
+					"id": "446B155165ED5E8F"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_50"
+						"count": 1
+					}
+				}
+				{
+					"id": "3FCE2EF278D3EA60"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_25"
+						"count": 1
+					}
+				}
+			]
+		}
+		{
+			"id": "751CBF16A31DFFF7"
+			"dependencies": [
+				"6FE8EBBC7B4F346D"
+				"0C91B1F3D7CA477C"
+				"497A914F8455C00B"
+			]
+			"icon": {
+				"id": "ratatouille_fried_delights:hotcake_meal"
+			}
+			"x": 12.5d
+			"y": -8.5d
+			"shape": "gear"
+			"size": 1.5d
+			"tasks": [
+				{
+					"id": "19560D63AE9B2C68"
+					"type": "item"
+					"item": {
+						"id": "ratatouille_fried_delights:hotcake_meal"
+						"count": 1
+					}
+					"count": 1
+				}
+			]
+			"rewards": [
+				{
+					"id": "6DD4CB6740A3C369"
+					"type": "xp"
+					"xp": 1000
+				}
+				{
+					"id": "6D9C6891A486AF45"
+					"type": "random"
+					"table_id": 4073629130927994432L
+				}
+				{
+					"id": "38DBD3541255658C"
+					"type": "random"
+					"table_id": 4073629130927994432L
+				}
+				{
+					"id": "50E224ADBF08104C"
+					"type": "random"
+					"table_id": 4073629130927994432L
+				}
+				{
+					"id": "1C9A687F7DB58712"
+					"type": "random"
+					"table_id": 4073629130927994432L
+				}
+				{
+					"id": "2FCB8E92EA3E169C"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_500"
+						"count": 1
+					}
+					"count": 2
+				}
+				{
+					"id": "26C62C4DDE2CB078"
+					"type": "command"
+					"command": "summon minecraft:firework_rocket ~ ~1 ~ {LifeTime:30,FireworksItem:{id:\"minecraft:firework_rocket\",count:1,components:{\"minecraft:fireworks\":{flight_duration:1b,explosions:[{shape:\"star\",has_twinkle:true,has_trail:true,colors:[I;11739178,2067514,15252771],fade_colors:[I;16777215]}]}}}}"
+					"permission_level": 2
+					"silent": true
+					"team_reward": false
+					"icon": {
+						"id": "minecraft:firework_rocket"
+					}
+				}
+			]
+		}
+		{
+			"id": "397326F2B72A0AAB"
+			"dependencies": [
+				"7BEE285CCC7460D7"
+			]
+			"icon": {
+				"id": "ratatouille:thresher"
+			}
+			"x": 0.0d
+			"y": 0.5d
+			"shape": "circle"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "7B2896DA796ACDFD"
+					"type": "item"
+					"item": {
+						"id": "ratatouille:boil_stone"
+						"count": 1
+					}
+					"count": 1
+				}
+			]
+			"rewards": [
+				{
+					"id": "631AE3FF5476D837"
+					"type": "xp"
+					"xp": 100
+				}
+				{
+					"id": "44AB03E6C5C737DB"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+				{
+					"id": "19278C03347289C6"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+				{
+					"id": "29EB0C255AB40531"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_50"
+						"count": 1
+					}
+				}
+				{
+					"id": "73DB2A8F8753DC4F"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_25"
+						"count": 1
+					}
+				}
+			]
+		}
+		{
+			"id": "19AA7CB7279E702E"
+			"dependencies": [
+				"397326F2B72A0AAB"
+				"0602DD406B2351E9"
+			]
+			"icon": {
+				"id": "ratatouille:cocoa_butter"
+			}
+			"x": 2.5d
+			"y": -1.5d
+			"shape": "circle"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "078C1EACE69210E7"
+					"type": "item"
+					"item": {
+						"id": "ratatouille:cocoa_butter"
+						"count": 1
+					}
+					"count": 1
+				}
+			]
+			"rewards": [
+				{
+					"id": "4943C2CFBD6B91D9"
+					"type": "xp"
+					"xp": 100
+				}
+				{
+					"id": "6EE54E92330B7778"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+				{
+					"id": "3F29609370EDEB02"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+				{
+					"id": "06769846DF752E0C"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_50"
+						"count": 1
+					}
+				}
+				{
+					"id": "269572F8A25CC8A1"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_25"
+						"count": 1
+					}
+				}
+			]
+		}
+		{
+			"id": "3DFFD8787102662E"
+			"dependencies": [
+				"19AA7CB7279E702E"
+				"06F63AFDD1B0E263"
+			]
+			"icon": {
+				"id": "create:bar_of_chocolate"
+			}
+			"x": 5.0d
+			"y": -1.5d
+			"shape": "circle"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "0BF6046DA538C2BE"
+					"type": "item"
+					"item": {
+						"id": "ratatouille:chocolate_mold_solid"
+						"count": 1
+					}
+					"count": 1
+				}
+			]
+			"rewards": [
+				{
+					"id": "58894194C08EFB8E"
+					"type": "xp"
+					"xp": 100
+				}
+				{
+					"id": "2F35D86E0B5DC5B8"
+					"type": "random"
+					"table_id": 8811780716223278392L
+				}
+				{
+					"id": "693E35518A1ADD5B"
+					"type": "random"
+					"table_id": 8811780716223278392L
+				}
+				{
+					"id": "3451DAD09F8C08D5"
+					"type": "random"
+					"table_id": 8811780716223278392L
+				}
+				{
+					"id": "10E1E06986A769E3"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_50"
+						"count": 1
+					}
+				}
+				{
+					"id": "44D2BCE0E43CD566"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_25"
+						"count": 1
+					}
+				}
+			]
+		}
+		{
+			"id": "36624FA4AD153B0A"
+			"dependencies": [
+				"6FE8EBBC7B4F346D"
+				"3DFFD8787102662E"
+			]
+			"icon": {
+				"id": "createaddition:chocolate_cake"
+			}
+			"x": 10.0d
+			"y": -4.0d
+			"shape": "hexagon"
+			"size": 1.25d
+			"tasks": [
+				{
+					"id": "2BD7F833BAB0CB02"
+					"type": "item"
+					"item": {
+						"id": "createaddition:chocolate_cake"
+						"count": 1
+					}
+					"count": 1
+				}
+			]
+			"rewards": [
+				{
+					"id": "0BB2FD96ADD7160B"
+					"type": "xp"
+					"xp": 350
+				}
+				{
+					"id": "334D61942F1DB390"
+					"type": "random"
+					"table_id": 4055748288478083086L
+				}
+				{
+					"id": "672343C41187F29F"
+					"type": "random"
+					"table_id": 4055748288478083086L
+				}
+				{
+					"id": "105BCF42AA5CB88F"
+					"type": "random"
+					"table_id": 4055748288478083086L
+				}
+				{
+					"id": "1753C8343234F753"
+					"type": "random"
+					"table_id": 4055748288478083086L
+				}
+				{
+					"id": "03FEFC60F5750477"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_250"
+						"count": 1
+					}
+				}
+				{
+					"id": "41F687E3F97E64BE"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_50"
+						"count": 1
+					}
+				}
+			]
+		}
+		{
+			"id": "0C4D9B0740374914"
+			"dependencies": [
+				"397326F2B72A0AAB"
+				"0602DD406B2351E9"
+			]
+			"icon": {
+				"id": "ratatouille:salt"
+			}
+			"x": 2.5d
+			"y": 0.5d
+			"shape": "circle"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "14F0D335CDB00A42"
+					"type": "item"
+					"item": {
+						"id": "ratatouille:salt"
+						"count": 1
+					}
+					"count": 1
+				}
+			]
+			"rewards": [
+				{
+					"id": "1BD7F72F0976FF82"
+					"type": "xp"
+					"xp": 100
+				}
+				{
+					"id": "72E782223AD3797D"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+				{
+					"id": "18E4197F5B401BB1"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+				{
+					"id": "1075383D6457B7E1"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_50"
+						"count": 1
+					}
+				}
+				{
+					"id": "7255B72F8647586E"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_25"
+						"count": 1
+					}
+				}
+			]
+		}
+		{
+			"id": "47E3C75BB8E7B4C4"
+			"dependencies": [
+				"397326F2B72A0AAB"
+				"5EF48C56802EEDC6"
+				"0602DD406B2351E9"
+			]
+			"icon": {
+				"id": "ratatouille_fried_delights:continuous_fryer"
+			}
+			"x": 2.5d
+			"y": 2.5d
+			"shape": "circle"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "3167E6ECA6E5BCE5"
+					"type": "item"
+					"item": {
+						"id": "ratatouille_fried_delights:french_fries"
+						"count": 1
+					}
+					"count": 1
+				}
+			]
+			"rewards": [
+				{
+					"id": "50D5D03F45CAF8C5"
+					"type": "xp"
+					"xp": 100
+				}
+				{
+					"id": "6D8BF10CC1DF1CD3"
+					"type": "random"
+					"table_id": 8811780716223278392L
+				}
+				{
+					"id": "00DCBCC7B924A9EB"
+					"type": "random"
+					"table_id": 8811780716223278392L
+				}
+				{
+					"id": "4298186AD13EF20F"
+					"type": "random"
+					"table_id": 8811780716223278392L
+				}
+				{
+					"id": "3EA3BB4A95EF8CAA"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_50"
+						"count": 1
+					}
+				}
+				{
+					"id": "50999494BC29FCA1"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_25"
+						"count": 1
+					}
+				}
+			]
+		}
+		{
+			"id": "15303E2461DFE49D"
+			"dependencies": [
+				"47E3C75BB8E7B4C4"
+				"0C4D9B0740374914"
+			]
+			"icon": {
+				"id": "ratatouille_fried_delights:original_chicken_drumstick"
+			}
+			"x": 5.0d
+			"y": 2.25d
+			"shape": "circle"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "688CE2D62D023CFB"
+					"type": "item"
+					"item": {
+						"id": "ratatouille_fried_delights:original_chicken_drumstick"
+						"count": 1
+					}
+					"count": 1
+				}
+			]
+			"rewards": [
+				{
+					"id": "5AA2DABAABDD01AF"
+					"type": "xp"
+					"xp": 100
+				}
+				{
+					"id": "0989EA16A59BFBE4"
+					"type": "random"
+					"table_id": 8811780716223278392L
+				}
+				{
+					"id": "2B0F0C35E7148C62"
+					"type": "random"
+					"table_id": 8811780716223278392L
+				}
+				{
+					"id": "6789F1A2795865D2"
+					"type": "random"
+					"table_id": 8811780716223278392L
+				}
+				{
+					"id": "1B7F69F9DC0B28F5"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_50"
+						"count": 1
+					}
+				}
+				{
+					"id": "121B202A079E032C"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_25"
+						"count": 1
+					}
+				}
+			]
+		}
+		{
+			"id": "14B33F2E980204B3"
+			"dependencies": [
+				"15303E2461DFE49D"
+				"497A914F8455C00B"
+			]
+			"icon": {
+				"id": "ratatouille_fried_delights:duo_chicken_bucket"
+			}
+			"x": 7.5d
+			"y": 1.75d
+			"shape": "hexagon"
+			"size": 1.25d
+			"tasks": [
+				{
+					"id": "0A7447DB09BC5926"
+					"type": "item"
+					"item": {
+						"id": "ratatouille_fried_delights:duo_chicken_bucket"
+						"count": 1
+					}
+					"count": 1
+				}
+			]
+			"rewards": [
+				{
+					"id": "2CB9F3091D74A175"
+					"type": "xp"
+					"xp": 350
+				}
+				{
+					"id": "5366F2AFC38C18F3"
+					"type": "random"
+					"table_id": 4055748288478083086L
+				}
+				{
+					"id": "16A7220ED2BC17AF"
+					"type": "random"
+					"table_id": 4055748288478083086L
+				}
+				{
+					"id": "3E390E8734028ED8"
+					"type": "random"
+					"table_id": 4055748288478083086L
+				}
+				{
+					"id": "114DA8E6BDB314EF"
+					"type": "random"
+					"table_id": 4055748288478083086L
+				}
+				{
+					"id": "712EB89D2C959D02"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_250"
+						"count": 1
+					}
+				}
+				{
+					"id": "7311C8A0B1EA3ED8"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_50"
+						"count": 1
+					}
+				}
+			]
+		}
+		{
+			"id": "4F244DA1C9B323B2"
+			"dependencies": [
+				"15303E2461DFE49D"
+				"375AA80127FAA27D"
+			]
+			"icon": {
+				"id": "ratatouille_fried_delights:fillet_o_fish"
+			}
+			"x": 7.5d
+			"y": 3.75d
+			"shape": "hexagon"
+			"size": 1.25d
+			"tasks": [
+				{
+					"id": "4E23B416AE1A8638"
+					"type": "item"
+					"item": {
+						"id": "ratatouille_fried_delights:fillet_o_fish"
+						"count": 1
+					}
+					"count": 1
+				}
+			]
+			"rewards": [
+				{
+					"id": "5F41204331380D1A"
+					"type": "xp"
+					"xp": 350
+				}
+				{
+					"id": "2CAC435FA6597A2C"
+					"type": "random"
+					"table_id": 4055748288478083086L
+				}
+				{
+					"id": "50DBC10BC3B3070D"
+					"type": "random"
+					"table_id": 4055748288478083086L
+				}
+				{
+					"id": "5D3182E5EFC2423E"
+					"type": "random"
+					"table_id": 4055748288478083086L
+				}
+				{
+					"id": "14A93F2D88D9BC21"
+					"type": "random"
+					"table_id": 4055748288478083086L
+				}
+				{
+					"id": "34D91B3C6C482F7C"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_250"
+						"count": 1
+					}
+				}
+				{
+					"id": "685F5AAED58B9FCA"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_50"
+						"count": 1
+					}
+				}
+			]
+		}
+		{
+			"id": "42862071A78ABF3C"
+			"dependencies": [
+				"47E3C75BB8E7B4C4"
+				"06F63AFDD1B0E263"
+			]
+			"icon": {
+				"id": "ratatouille_fried_delights:chocolate_donut"
+			}
+			"x": 5.0d
+			"y": 4.25d
+			"shape": "circle"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "6003C1D5BF15C926"
+					"type": "item"
+					"item": {
+						"id": "ratatouille_fried_delights:chocolate_donut"
+						"count": 1
+					}
+					"count": 1
+				}
+			]
+			"rewards": [
+				{
+					"id": "112490370CBFA293"
+					"type": "xp"
+					"xp": 100
+				}
+				{
+					"id": "045FD1C142C3F17E"
+					"type": "random"
+					"table_id": 8811780716223278392L
+				}
+				{
+					"id": "0F36081C3D2F618A"
+					"type": "random"
+					"table_id": 8811780716223278392L
+				}
+				{
+					"id": "0607643F7EAAFA5C"
+					"type": "random"
+					"table_id": 8811780716223278392L
+				}
+				{
+					"id": "65E4337D23A45B28"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_50"
+						"count": 1
+					}
+				}
+				{
+					"id": "6A133168D6A2F0DE"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_25"
+						"count": 1
+					}
+				}
+			]
+		}
+		{
+			"id": "308AB79126E02A54"
+			"dependencies": [
+				"47E3C75BB8E7B4C4"
+				"497A914F8455C00B"
+			]
+			"icon": {
+				"id": "create_bic_bit:mayonnaise_ketchup_topped_kroket_sandwich"
+			}
+			"x": 5.0d
+			"y": 6.25d
+			"shape": "hexagon"
+			"size": 1.25d
+			"tasks": [
+				{
+					"id": "09415991964E979E"
+					"type": "item"
+					"item": {
+						"id": "create_bic_bit:mayonnaise_ketchup_topped_kroket_sandwich"
+						"count": 1
+					}
+					"count": 1
+				}
+			]
+			"rewards": [
+				{
+					"id": "623644F4CA8A74A6"
+					"type": "xp"
+					"xp": 350
+				}
+				{
+					"id": "2EFAE3E4BA2DAF0D"
+					"type": "random"
+					"table_id": 4055748288478083086L
+				}
+				{
+					"id": "40A983B91963936C"
+					"type": "random"
+					"table_id": 4055748288478083086L
+				}
+				{
+					"id": "4A8AB4072640FE97"
+					"type": "random"
+					"table_id": 4055748288478083086L
+				}
+				{
+					"id": "7CD2F5E80B425A0C"
+					"type": "random"
+					"table_id": 4055748288478083086L
+				}
+				{
+					"id": "6CB09F2D89B7E0BE"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_250"
+						"count": 1
+					}
+				}
+				{
+					"id": "2AA60BD4B6E23260"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_50"
+						"count": 1
+					}
+				}
+			]
+		}
+		{
+			"id": "5D169C350172042A"
+			"dependencies": [
+				"0C4D9B0740374914"
+				"5EF48C56802EEDC6"
+				"497A914F8455C00B"
+			]
+			"icon": {
+				"id": "ratatouille_fried_delights:hot_dog"
+			}
+			"x": 5.0d
+			"y": 0.25d
+			"shape": "hexagon"
+			"size": 1.25d
+			"tasks": [
+				{
+					"id": "4E51132C4AF2CD40"
+					"type": "item"
+					"item": {
+						"id": "ratatouille_fried_delights:hot_dog"
+						"count": 1
+					}
+					"count": 1
+				}
+			]
+			"rewards": [
+				{
+					"id": "5347C99C687DDA40"
+					"type": "xp"
+					"xp": 350
+				}
+				{
+					"id": "1787B2E4F2970F9E"
+					"type": "random"
+					"table_id": 4055748288478083086L
+				}
+				{
+					"id": "460275881FD924FE"
+					"type": "random"
+					"table_id": 4055748288478083086L
+				}
+				{
+					"id": "1C497CEB4C3BEF4C"
+					"type": "random"
+					"table_id": 4055748288478083086L
+				}
+				{
+					"id": "38656B0C22B63FAB"
+					"type": "random"
+					"table_id": 4055748288478083086L
+				}
+				{
+					"id": "117108E3238F6AEA"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_250"
+						"count": 1
+					}
+				}
+				{
+					"id": "08CB1363948A58EE"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_50"
+						"count": 1
+					}
+				}
+			]
+		}
+		{
+			"id": "1872715D300C1F81"
+			"dependencies": [
+				"0602DD406B2351E9"
+				"7503AC37CF41C36B"
+			]
+			"icon": {
+				"id": "farmersdelight:fried_rice"
+			}
+			"x": 0.0d
+			"y": 8.5d
+			"shape": "circle"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "3842263690435B34"
+					"type": "item"
+					"item": {
+						"id": "farmersdelight:fried_rice"
+						"count": 1
+					}
+					"count": 1
+				}
+			]
+			"rewards": [
+				{
+					"id": "7CB8EEF7D36808F8"
+					"type": "xp"
+					"xp": 100
+				}
+				{
+					"id": "7B7D070C0427663B"
+					"type": "random"
+					"table_id": 8811780716223278392L
+				}
+				{
+					"id": "1582E533273BEE0B"
+					"type": "random"
+					"table_id": 8811780716223278392L
+				}
+				{
+					"id": "4A5418371B4D35D6"
+					"type": "random"
+					"table_id": 8811780716223278392L
+				}
+				{
+					"id": "6412568D3A238805"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_50"
+						"count": 1
+					}
+				}
+				{
+					"id": "0FCC3DA375F3FEA6"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_25"
+						"count": 1
+					}
+				}
+			]
+		}
+		{
+			"id": "6FF29D5D06B3C901"
+			"dependencies": [
+				"1872715D300C1F81"
+				"06F63AFDD1B0E263"
+			]
+			"icon": {
+				"id": "farmersdelight:vegetable_soup"
+			}
+			"x": 2.5d
+			"y": 8.5d
+			"shape": "diamond"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "0F96A252FB64E72E"
+					"type": "advancement"
+					"advancement": "delightfulcreators:fluid_bucket"
+					"criterion": ""
+				}
+			]
+			"rewards": [
+				{
+					"id": "55CAFA683B771813"
+					"type": "xp"
+					"xp": 100
+				}
+				{
+					"id": "538389E13E1D13E8"
+					"type": "random"
+					"table_id": 8811780716223278392L
+				}
+				{
+					"id": "1AE159EF38221252"
+					"type": "random"
+					"table_id": 8811780716223278392L
+				}
+				{
+					"id": "2BD072BE3DC7BE7D"
+					"type": "random"
+					"table_id": 8811780716223278392L
+				}
+				{
+					"id": "6395C85D74A8D028"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_50"
+						"count": 1
+					}
+				}
+				{
+					"id": "731945FA2636A321"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_25"
+						"count": 1
+					}
+				}
+			]
+		}
+		{
+			"id": "78524E3605A2C3CD"
+			"dependencies": [
+				"6FF29D5D06B3C901"
+				"497A914F8455C00B"
+			]
+			"icon": {
+				"id": "farmersdelight:shepherds_pie_block"
+			}
+			"x": 5.0d
+			"y": 8.5d
+			"shape": "circle"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "11BEFDA884D3C47F"
+					"type": "item"
+					"item": {
+						"id": "farmersdelight:shepherds_pie_block"
+						"count": 1
+					}
+					"count": 1
+				}
+			]
+			"rewards": [
+				{
+					"id": "06BB0832B50D2097"
+					"type": "xp"
+					"xp": 100
+				}
+				{
+					"id": "61A8BC1D90B0D4E1"
+					"type": "random"
+					"table_id": 4055748288478083086L
+				}
+				{
+					"id": "03FF679D35252004"
+					"type": "random"
+					"table_id": 4055748288478083086L
+				}
+				{
+					"id": "2E7138F899C1C12B"
+					"type": "random"
+					"table_id": 4055748288478083086L
+				}
+				{
+					"id": "694F769A734952E5"
+					"type": "random"
+					"table_id": 4055748288478083086L
+				}
+				{
+					"id": "6D90404A5CAA827E"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_50"
+						"count": 1
+					}
+				}
+				{
+					"id": "793638545B621658"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_25"
+						"count": 1
+					}
+				}
+			]
+		}
+		{
+			"id": "41DAAB6F39C06A5A"
+			"dependencies": [
+				"6BB02375EE1FFF0B"
+				"06F63AFDD1B0E263"
+			]
+			"icon": {
+				"id": "farmersdelight:apple_cider"
+			}
+			"x": 10.0d
+			"y": 8.5d
+			"shape": "diamond"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "425CBFC4477588EF"
+					"type": "item"
+					"item": {
+						"id": "farmersdelight:apple_cider"
+						"count": 1
+					}
+					"count": 1
+				}
+			]
+			"rewards": [
+				{
+					"id": "000BA2C14C1C68B0"
+					"type": "xp"
+					"xp": 50
+				}
+				{
+					"id": "1DD652B6DD2E4163"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+				{
+					"id": "042420C0C30ECA1E"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+				{
+					"id": "0077F6EE7D1ED610"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_25"
+						"count": 1
+					}
+				}
+			]
+		}
+		{
+			"id": "3258FD8B6F67A9D6"
+			"dependencies": [
+				"092D98FB67CF5295"
+			]
+			"icon": {
+				"id": "brewinandchewin:keg"
+			}
+			"x": 10.0d
+			"y": 6.5d
+			"shape": "diamond"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "4FC20EA514761354"
+					"type": "advancement"
+					"advancement": "brewinandchewin:main/brew_drink"
+					"criterion": ""
+				}
+			]
+			"rewards": [
+				{
+					"id": "13935C0DF0A0ED8B"
+					"type": "xp"
+					"xp": 100
+				}
+				{
+					"id": "48C2FC92323B9AE2"
+					"type": "random"
+					"table_id": 8811780716223278392L
+				}
+				{
+					"id": "22CA3852D418C53D"
+					"type": "random"
+					"table_id": 8811780716223278392L
+				}
+				{
+					"id": "2A25F8FDA1A33782"
+					"type": "random"
+					"table_id": 8811780716223278392L
+				}
+				{
+					"id": "7F57448B33F679CD"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_50"
+						"count": 1
+					}
+				}
+				{
+					"id": "065A33506C0AEC5D"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_25"
+						"count": 1
+					}
+				}
+			]
+		}
+		{
+			"id": "6365D13CA1516F04"
+			"dependencies": [
+				"3258FD8B6F67A9D6"
+			]
+			"icon": {
+				"id": "hearthandharvest:cheese_wheel"
+			}
+			"x": 12.5d
+			"y": 6.5d
+			"shape": "circle"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "753FF9843F5D6ED1"
+					"type": "item"
+					"item": {
+						"id": "hearthandharvest:cheese_wheel"
+						"count": 1
+					}
+					"count": 1
+				}
+			]
+			"rewards": [
+				{
+					"id": "359AF197F0D0A159"
+					"type": "xp"
+					"xp": 100
+				}
+				{
+					"id": "00CD50CCF5E93BA4"
+					"type": "random"
+					"table_id": 8811780716223278392L
+				}
+				{
+					"id": "5CB625B6E0231771"
+					"type": "random"
+					"table_id": 8811780716223278392L
+				}
+				{
+					"id": "7D3CAEC34EE19DEB"
+					"type": "random"
+					"table_id": 8811780716223278392L
+				}
+				{
+					"id": "2B53917ECE0FDCF4"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_50"
+						"count": 1
+					}
+				}
+				{
+					"id": "48D64FDF85FCD12F"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_25"
+						"count": 1
+					}
+				}
+			]
+		}
+		{
+			"id": "6E6A527CAA03C0A2"
+			"dependencies": [
+				"04BEBADB469586F0"
+			]
+			"icon": {
+				"id": "create_integrated_farming:vacuum_harvester"
+			}
+			"x": -2.5d
+			"y": -5.5d
+			"shape": "square"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "4675E4BC3FA98FF8"
+					"type": "item"
+					"item": {
+						"id": "create_integrated_farming:vacuum_harvester"
+						"count": 1
+					}
+					"count": 1
+				}
+			]
+			"rewards": [
+				{
+					"id": "73F9A0E7C06E7D72"
+					"type": "xp"
+					"xp": 100
+				}
+				{
+					"id": "27108F53ED21AC31"
+					"type": "random"
+					"table_id": 4055748288478083086L
+				}
+				{
+					"id": "04A029BA178D663F"
+					"type": "random"
+					"table_id": 4055748288478083086L
+				}
+				{
+					"id": "31EE8A717C104CC0"
+					"type": "random"
+					"table_id": 4055748288478083086L
+				}
+				{
+					"id": "3AB059117AAE59E7"
+					"type": "random"
+					"table_id": 4055748288478083086L
+				}
+				{
+					"id": "38BDB4F549F7A6F6"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_50"
+						"count": 1
+					}
+				}
+				{
+					"id": "21C6637D2B28D185"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_25"
+						"count": 1
+					}
+				}
+			]
+		}
+	]
+}

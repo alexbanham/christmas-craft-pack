@@ -1,0 +1,13 @@
+name = "Saero (Sable + Xaero)"
+filename = "sable_xaero-1.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/the7a8F1/versions/ZRjcS2dR/sable_xaero-1.4.jar"
+hash-format = "sha512"
+hash = "3777fb4860dcf6e744e0957c1404e85b065b0ab2765b33c34740c8422e43376a0e615e9bf9f3d81967ef514fb2cba087e4fd8e706f30691472217670b86fc44f"
+
+[update]
+[update.modrinth]
+mod-id = "the7a8F1"
+version = "ZRjcS2dR"

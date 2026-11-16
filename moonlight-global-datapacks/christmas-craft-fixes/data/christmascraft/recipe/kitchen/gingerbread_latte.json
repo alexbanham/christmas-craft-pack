@@ -1,0 +1,28 @@
+{
+ "type": "create:mixing",
+ "ingredients": [
+  {
+   "type": "neoforge:single",
+   "amount": 250,
+   "fluid": "farmersrespite:coffee"
+  },
+  {
+   "type": "neoforge:tag",
+   "amount": 250,
+   "tag": "c:milk"
+  },
+  {
+   "item": "snowyspirit:ginger"
+  },
+  {
+   "item": "minecraft:sugar"
+  }
+ ],
+ "results": [
+  {
+   "id": "christmascraft:gingerbread_latte_base",
+   "amount": 500
+  }
+ ],
+ "heat_requirement": "heated"
+}

@@ -1,0 +1,6 @@
+{
+  "type": "create:crushing",
+  "ingredients": [{"item": "create:ochrum"}],
+  "results": [{"id": "minecraft:gravel"}],
+  "processing_time": 250
+}

@@ -1,0 +1,19 @@
+{
+ "variants": {
+  "facing=north": {
+   "model": "christmascraft:block/dish/bottle_of_cranberry_punch"
+  },
+  "facing=east": {
+   "model": "christmascraft:block/dish/bottle_of_cranberry_punch",
+   "y": 90
+  },
+  "facing=south": {
+   "model": "christmascraft:block/dish/bottle_of_cranberry_punch",
+   "y": 180
+  },
+  "facing=west": {
+   "model": "christmascraft:block/dish/bottle_of_cranberry_punch",
+   "y": 270
+  }
+ }
+}

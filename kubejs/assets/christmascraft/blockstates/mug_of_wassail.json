@@ -1,0 +1,19 @@
+{
+ "variants": {
+  "facing=north": {
+   "model": "christmascraft:block/dish/mug_of_wassail"
+  },
+  "facing=east": {
+   "model": "christmascraft:block/dish/mug_of_wassail",
+   "y": 90
+  },
+  "facing=south": {
+   "model": "christmascraft:block/dish/mug_of_wassail",
+   "y": 180
+  },
+  "facing=west": {
+   "model": "christmascraft:block/dish/mug_of_wassail",
+   "y": 270
+  }
+ }
+}

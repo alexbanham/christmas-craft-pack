@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "snowyspirit:candy_cane",
+      "required": false
+    },
+    {
+      "id": "create_confectionery:candy_cane",
+      "required": false
+    }
+  ]
+}

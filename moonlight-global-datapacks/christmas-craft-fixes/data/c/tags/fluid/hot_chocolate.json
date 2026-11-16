@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "create_confectionery:hot_chocolate",
+      "required": false
+    },
+    {
+      "id": "create_confectionery:flowing_hot_chocolate",
+      "required": false
+    },
+    {
+      "id": "delightfulcreators:hot_cocoa",
+      "required": false
+    },
+    {
+      "id": "farmersrespite:hot_cocoa",
+      "required": false
+    }
+  ]
+}

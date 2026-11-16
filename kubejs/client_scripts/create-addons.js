@@ -1,0 +1,23 @@
+// Christmas Craft 2026 - create-addons area (client).
+// Source: data/integration-spec-create-addons-2026-10-27.md, "Patches we must write" 1, 2, 4.
+// Hides recipe-viewer (JEI) entries only; items stay registered and craftable. [R] verify in JEI.
+
+RecipeViewerEvents.removeEntries('item', event => {
+  // Patch 4: dev item with no recipe.
+  event.remove('bits_n_bobs:test_rope')
+
+  // Patch 1: one zinc sheet. createdeco:zinc_sheet is the only pressing output
+  // (createaddition/createcasing pressing recipes are disabled in christmas-craft-fixes);
+  // every consumer uses the c:plates/zinc tag, which all three sheets are in.
+  event.remove('createaddition:zinc_sheet')
+  event.remove('createcasing:zinc_sheet')
+
+  // Patch 2: Ratatouille owns "Cake Base"; the C&A base chain is disabled in christmas-craft-fixes.
+  event.remove('createaddition:cake_base')
+  event.remove('createaddition:cake_base_baked')
+
+  // Create Encased parts made of shadow steel or refined radiance (138 items, vertical gearboxes included): Create
+  // makes those two materials creative-only, so none of these can be had in survival (Alex, 2026-11-12: per the
+  // pack-reconcile recommendation, A4). The creative_* family stays: chorium ingots make the creative casing.
+  event.remove(/^createcasing:(vertical_)?(shadow_steel|refined_radiance)_/)
+})

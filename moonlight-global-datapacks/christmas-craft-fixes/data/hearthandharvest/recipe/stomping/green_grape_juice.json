@@ -1,0 +1,21 @@
+{
+  "type": "hearthandharvest:stomping",
+  "ingredients": [
+    {
+      "tag": "c:foods/green_grapes"
+    },
+    {
+      "tag": "c:foods/green_grapes"
+    },
+    {
+      "tag": "c:foods/green_grapes"
+    },
+    {
+      "tag": "c:foods/green_grapes"
+    }
+  ],
+  "result_fluid": {
+    "amount": 500,
+    "id": "hearthandharvest:green_grape_juice"
+  }
+}

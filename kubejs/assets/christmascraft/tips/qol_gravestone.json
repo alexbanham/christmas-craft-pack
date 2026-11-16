@@ -1,0 +1,11 @@
+{
+  "type": "tipsmod:simple",
+  "title": {
+    "text": "Christmas Craft tip",
+    "color": "red",
+    "bold": true
+  },
+  "text": {
+    "text": "Died? Your items wait in a grave where you fell, even aboard a moving airship. Only you (or an admin) can break it to get them back."
+  }
+}

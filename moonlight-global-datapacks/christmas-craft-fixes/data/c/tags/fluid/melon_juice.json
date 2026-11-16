@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "ratatouille:melon_juice_fluid",
+      "required": false
+    },
+    {
+      "id": "delightfulcreators:melon_juice",
+      "required": false
+    },
+    {
+      "id": "farmersrespite:melon_juice",
+      "required": false
+    },
+    {
+      "id": "hearthandharvest:melon_juice",
+      "required": false
+    }
+  ]
+}

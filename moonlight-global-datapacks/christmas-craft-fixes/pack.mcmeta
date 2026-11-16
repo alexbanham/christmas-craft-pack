@@ -1,0 +1,18 @@
+{
+  "pack": {
+    "pack_format": 48,
+    "description": "Christmas Craft: silences upstream data errors (see pack docs)"
+  },
+  "filter": {
+    "block": [
+      {
+        "namespace": "createadditionallogistics",
+        "path": "data_maps/item/currency\\.json"
+      },
+      {
+        "namespace": "portable_engine_liquid_fuel",
+        "path": "data_maps/fluid/super_engine_fuel\\.json"
+      }
+    ]
+  }
+}

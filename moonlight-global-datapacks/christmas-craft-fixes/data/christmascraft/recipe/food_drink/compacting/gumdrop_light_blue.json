@@ -1,0 +1,32 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "snowyspirit"
+    },
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "create_dragons_plus"
+    },
+    {
+      "type": "snowyspirit:flag",
+      "flag": "gumdrops"
+    }
+  ],
+  "type": "create:compacting",
+  "ingredients": [
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "type": "neoforge:single",
+      "amount": 250,
+      "fluid": "create_dragons_plus:light_blue_dye"
+    }
+  ],
+  "results": [
+    {
+      "id": "snowyspirit:gumdrop_light_blue"
+    }
+  ]
+}

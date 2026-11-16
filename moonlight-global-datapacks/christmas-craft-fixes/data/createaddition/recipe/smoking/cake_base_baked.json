@@ -1,0 +1,14 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:false"
+    }
+  ],
+  "type": "minecraft:smoking",
+  "ingredient": {
+    "item": "createaddition:cake_base"
+  },
+  "result": {
+    "id": "createaddition:cake_base_baked"
+  }
+}

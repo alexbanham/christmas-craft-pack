@@ -1,0 +1,19 @@
+{
+ "variants": {
+  "facing=north": {
+   "model": "christmascraft:block/dish/candy_cane_milkshake"
+  },
+  "facing=east": {
+   "model": "christmascraft:block/dish/candy_cane_milkshake",
+   "y": 90
+  },
+  "facing=south": {
+   "model": "christmascraft:block/dish/candy_cane_milkshake",
+   "y": 180
+  },
+  "facing=west": {
+   "model": "christmascraft:block/dish/candy_cane_milkshake",
+   "y": 270
+  }
+ }
+}

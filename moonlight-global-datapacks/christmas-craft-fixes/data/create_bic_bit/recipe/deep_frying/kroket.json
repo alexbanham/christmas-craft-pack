@@ -1,0 +1,19 @@
+{
+  "type": "create_bic_bit:deep_frying",
+  "heat_requirement": "heated",
+  "ingredients": [
+    {
+      "item": "create_bic_bit:raw_kroket"
+    },
+    {
+      "type": "neoforge:tag",
+      "amount": 125,
+      "tag": "c:cooking_oil"
+    }
+  ],
+  "results": [
+    {
+      "id": "create_bic_bit:kroket"
+    }
+  ]
+}

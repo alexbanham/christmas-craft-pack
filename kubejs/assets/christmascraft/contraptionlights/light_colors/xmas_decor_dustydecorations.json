@@ -1,0 +1,47 @@
+{
+  "required_mods": [
+    "dustydecorations"
+  ],
+  "values": [
+    {
+      "block": "dustydecorations:cerulean_seaglass_lamp",
+      "color": "#AAE5FF"
+    },
+    {
+      "block": "dustydecorations:cream_seaglass_lamp",
+      "color": "#FEFFED"
+    },
+    {
+      "block": "dustydecorations:hazel_seaglass_lamp",
+      "color": "#E4FEFF"
+    },
+    {
+      "block": "dustydecorations:honey_seaglass_lamp",
+      "color": "#FFA830"
+    },
+    {
+      "block": "dustydecorations:liquorice_seaglass_lamp",
+      "color": "white"
+    },
+    {
+      "block": "dustydecorations:mint_seaglass_lamp",
+      "color": "#CEFFDC"
+    },
+    {
+      "block": "dustydecorations:mocha_seaglass_lamp",
+      "color": "#FF9C6D"
+    },
+    {
+      "block": "dustydecorations:scarlet_seaglass_lamp",
+      "color": "#FF8854"
+    },
+    {
+      "block": "dustydecorations:taupe_seaglass_lamp",
+      "color": "#FFBDD2"
+    },
+    {
+      "block": "dustydecorations:teal_seaglass_lamp",
+      "color": "#A2FFD7"
+    }
+  ]
+}

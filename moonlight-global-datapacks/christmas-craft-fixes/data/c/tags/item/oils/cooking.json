@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "ratatouille_fried_delights:sunflower_seed_oil_bottle",
+      "required": false
+    },
+    {
+      "id": "create_bic_bit:frying_oil_bottle",
+      "required": false
+    },
+    {
+      "id": "hearthandharvest:cooking_oil",
+      "required": false
+    }
+  ]
+}

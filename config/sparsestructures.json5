@@ -1,0 +1,13 @@
+// ### THE MOD REQUIRES A RESTART OF THE GAME TO APPLY CHANGES ###
+// Christmas Craft 2026 (integration-spec-worldgen-mobs-2026-10-27 section 4.1).
+// spreadFactor 1 = vanilla spacing (mod default 2 would double all spacing, snowy villages included).
+// idBasedSalt false keeps vanilla salts so seed-scan results stay valid; overlap risk accepted.
+{
+  "spreadFactor": 1,
+
+  "idBasedSalt": false,
+
+  "customSpreadFactors": [
+    { "structure": "minecraft:mansion", "factor": 1 }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+ "criteria": {
+  "sustained": {
+   "trigger": "cccasino:sustained_delivery",
+   "conditions": {
+    "item": "christmascraft:iced_christmas_cookie",
+    "per_minute": 12,
+    "minutes": 3
+   }
+  }
+ },
+ "sends_telemetry_event": false
+}

@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "ratatouille_fried_delights:butter",
+      "required": false
+    }
+  ]
+}

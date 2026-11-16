@@ -1,0 +1,13 @@
+{
+ "criteria": {
+  "sustained": {
+   "trigger": "cccasino:sustained_delivery",
+   "conditions": {
+    "item": "ratatouille_fried_delights:chocolate_donut",
+    "per_minute": 5,
+    "minutes": 5
+   }
+  }
+ },
+ "sends_telemetry_event": false
+}

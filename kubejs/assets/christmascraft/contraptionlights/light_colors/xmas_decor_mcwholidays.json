@@ -1,0 +1,203 @@
+{
+  "required_mods": [
+    "mcwholidays"
+  ],
+  "values": [
+    {
+      "block": "mcwholidays:blue_string_lights",
+      "color": "#1A26FF"
+    },
+    {
+      "block": "mcwholidays:blue_tiny_string_lights",
+      "color": "#1A26FF"
+    },
+    {
+      "block": "mcwholidays:blue_cube_string_lights",
+      "color": "#1A26FF"
+    },
+    {
+      "block": "mcwholidays:garland_blue_lights",
+      "color": "#1A26FF"
+    },
+    {
+      "block": "mcwholidays:wavy_garland_blue_lights",
+      "color": "#1A26FF"
+    },
+    {
+      "block": "mcwholidays:white_garland_blue_lights",
+      "color": "#1A26FF"
+    },
+    {
+      "block": "mcwholidays:white_wavy_garland_blue_lights",
+      "color": "#1A26FF"
+    },
+    {
+      "block": "mcwholidays:green_string_lights",
+      "color": "#4CFF4C"
+    },
+    {
+      "block": "mcwholidays:green_tiny_string_lights",
+      "color": "#4CFF4C"
+    },
+    {
+      "block": "mcwholidays:green_cube_string_lights",
+      "color": "#4CFF4C"
+    },
+    {
+      "block": "mcwholidays:garland_green_lights",
+      "color": "#4CFF4C"
+    },
+    {
+      "block": "mcwholidays:wavy_garland_green_lights",
+      "color": "#4CFF4C"
+    },
+    {
+      "block": "mcwholidays:white_garland_green_lights",
+      "color": "#4CFF4C"
+    },
+    {
+      "block": "mcwholidays:white_wavy_garland_green_lights",
+      "color": "#4CFF4C"
+    },
+    {
+      "block": "mcwholidays:orange_string_lights",
+      "color": "#FF801A"
+    },
+    {
+      "block": "mcwholidays:orange_tiny_string_lights",
+      "color": "#FF801A"
+    },
+    {
+      "block": "mcwholidays:orange_cube_string_lights",
+      "color": "#FF801A"
+    },
+    {
+      "block": "mcwholidays:garland_orange_lights",
+      "color": "#FF801A"
+    },
+    {
+      "block": "mcwholidays:wavy_garland_orange_lights",
+      "color": "#FF801A"
+    },
+    {
+      "block": "mcwholidays:white_garland_orange_lights",
+      "color": "#FF801A"
+    },
+    {
+      "block": "mcwholidays:white_wavy_garland_orange_lights",
+      "color": "#FF801A"
+    },
+    {
+      "block": "mcwholidays:purple_string_lights",
+      "color": "#B24CFF"
+    },
+    {
+      "block": "mcwholidays:purple_tiny_string_lights",
+      "color": "#B24CFF"
+    },
+    {
+      "block": "mcwholidays:purple_cube_string_lights",
+      "color": "#B24CFF"
+    },
+    {
+      "block": "mcwholidays:garland_purple_lights",
+      "color": "#B24CFF"
+    },
+    {
+      "block": "mcwholidays:wavy_garland_purple_lights",
+      "color": "#B24CFF"
+    },
+    {
+      "block": "mcwholidays:white_garland_purple_lights",
+      "color": "#B24CFF"
+    },
+    {
+      "block": "mcwholidays:white_wavy_garland_purple_lights",
+      "color": "#B24CFF"
+    },
+    {
+      "block": "mcwholidays:red_string_lights",
+      "color": "#FF1A1A"
+    },
+    {
+      "block": "mcwholidays:red_tiny_string_lights",
+      "color": "#FF1A1A"
+    },
+    {
+      "block": "mcwholidays:red_cube_string_lights",
+      "color": "#FF1A1A"
+    },
+    {
+      "block": "mcwholidays:garland_red_lights",
+      "color": "#FF1A1A"
+    },
+    {
+      "block": "mcwholidays:wavy_garland_red_lights",
+      "color": "#FF1A1A"
+    },
+    {
+      "block": "mcwholidays:white_garland_red_lights",
+      "color": "#FF1A1A"
+    },
+    {
+      "block": "mcwholidays:white_wavy_garland_red_lights",
+      "color": "#FF1A1A"
+    },
+    {
+      "block": "mcwholidays:yellow_string_lights",
+      "color": "#FFFF1A"
+    },
+    {
+      "block": "mcwholidays:yellow_tiny_string_lights",
+      "color": "#FFFF1A"
+    },
+    {
+      "block": "mcwholidays:yellow_cube_string_lights",
+      "color": "#FFFF1A"
+    },
+    {
+      "block": "mcwholidays:garland_yellow_lights",
+      "color": "#FFFF1A"
+    },
+    {
+      "block": "mcwholidays:wavy_garland_yellow_lights",
+      "color": "#FFFF1A"
+    },
+    {
+      "block": "mcwholidays:white_garland_yellow_lights",
+      "color": "#FFFF1A"
+    },
+    {
+      "block": "mcwholidays:white_wavy_garland_yellow_lights",
+      "color": "#FFFF1A"
+    },
+    {
+      "block": "mcwholidays:colorful_string_lights",
+      "color": "rainbow"
+    },
+    {
+      "block": "mcwholidays:colorful_tiny_string_lights",
+      "color": "rainbow"
+    },
+    {
+      "block": "mcwholidays:colorful_cube_string_lights",
+      "color": "rainbow"
+    },
+    {
+      "block": "mcwholidays:garland_colorful_lights",
+      "color": "rainbow"
+    },
+    {
+      "block": "mcwholidays:wavy_garland_colorful_lights",
+      "color": "rainbow"
+    },
+    {
+      "block": "mcwholidays:white_garland_colorful_lights",
+      "color": "rainbow"
+    },
+    {
+      "block": "mcwholidays:white_wavy_garland_colorful_lights",
+      "color": "rainbow"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "minecraft:sea_pickle"
+    },
+    {
+      "type": "neoforge:tag",
+      "amount": 1000,
+      "tag": "c:mayonnaise"
+    }
+  ],
+  "results": [
+    {
+      "amount": 1000,
+      "id": "ratatouille_fried_delights:tartar_sauce"
+    }
+  ]
+}

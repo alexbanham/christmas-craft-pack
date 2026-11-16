@@ -1,0 +1,18 @@
+{
+ "type": "create:filling",
+ "ingredients": [
+  {
+   "item": "christmascraft:christmas_mug"
+  },
+  {
+   "type": "neoforge:single",
+   "amount": 250,
+   "fluid": "christmascraft:peppermint_cocoa"
+  }
+ ],
+ "results": [
+  {
+   "id": "christmascraft:peppermint_hot_chocolate"
+  }
+ ]
+}

@@ -1,0 +1,13 @@
+name = "Better Contraption Diagram"
+filename = "better_contraption_diagram-1.2.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/DX0OFVMh/versions/7vomxhkR/better_contraption_diagram-1.2.2.jar"
+hash-format = "sha512"
+hash = "905d72564a3269425cc39b6d2820e45b92776b3c1fe67a0c455ac29a4ee4f6c967b8bef589ceee8512a7c3f35375313a328d1de717c6bbc3f62877c8d9b48b6d"
+
+[update]
+[update.modrinth]
+mod-id = "DX0OFVMh"
+version = "7vomxhkR"

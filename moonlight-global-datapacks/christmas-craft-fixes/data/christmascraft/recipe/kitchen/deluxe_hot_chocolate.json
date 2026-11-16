@@ -1,0 +1,67 @@
+{
+ "type": "create:sequenced_assembly",
+ "ingredient": {
+  "item": "christmascraft:christmas_mug"
+ },
+ "loops": 1,
+ "results": [
+  {
+   "id": "christmascraft:deluxe_hot_chocolate"
+  }
+ ],
+ "sequence": [
+  {
+   "type": "create:filling",
+   "ingredients": [
+    {
+     "item": "christmascraft:incomplete_deluxe_hot_chocolate"
+    },
+    {
+     "type": "neoforge:tag",
+     "amount": 250,
+     "tag": "c:hot_chocolate"
+    }
+   ],
+   "results": [
+    {
+     "id": "christmascraft:incomplete_deluxe_hot_chocolate"
+    }
+   ]
+  },
+  {
+   "type": "create:deploying",
+   "ingredients": [
+    {
+     "item": "christmascraft:incomplete_deluxe_hot_chocolate"
+    },
+    {
+     "item": "create_confectionery:marshmallow"
+    }
+   ],
+   "results": [
+    {
+     "id": "christmascraft:incomplete_deluxe_hot_chocolate"
+    }
+   ]
+  },
+  {
+   "type": "create:deploying",
+   "ingredients": [
+    {
+     "item": "christmascraft:incomplete_deluxe_hot_chocolate"
+    },
+    {
+     "item": "snowyspirit:candy_cane"
+    }
+   ],
+   "results": [
+    {
+     "id": "christmascraft:incomplete_deluxe_hot_chocolate"
+    }
+   ]
+  }
+ ],
+ "transitional_item": {
+  "id": "christmascraft:incomplete_deluxe_hot_chocolate"
+ }
+}

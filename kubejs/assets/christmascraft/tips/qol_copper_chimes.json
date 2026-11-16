@@ -1,0 +1,11 @@
+{
+  "type": "tipsmod:simple",
+  "title": {
+    "text": "Christmas Craft tip",
+    "color": "red",
+    "bold": true
+  },
+  "text": {
+    "text": "Copper Wind Chimes need a copper sheet: press a copper ingot with a Create Mechanical Press first."
+  }
+}

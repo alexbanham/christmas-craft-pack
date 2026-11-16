@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "hearthandharvest:raw_sausage",
+      "required": false
+    },
+    {
+      "id": "ratatouille:raw_sausage",
+      "required": false
+    }
+  ]
+}
