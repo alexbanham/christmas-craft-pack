@@ -19,3 +19,5 @@ tutorialStep:none
 key_key.saveToolbarActivator:key.keyboard.unknown
 key_key.loadToolbarActivator:key.keyboard.unknown
 key_key.ftbquests.quests:key.keyboard.grave.accent
+key_key.sophisticatedbackpacks.open_backpack:key.keyboard.period
+key_key.sophisticatedbackpacks.inventory_interaction:key.keyboard.apostrophe
