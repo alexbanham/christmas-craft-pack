@@ -3742,6 +3742,10 @@ file = "moonlight-global-datapacks/christmas-craft-fixes/data/delightfulcreators
 hash = "881ace6fbf9fb113349daaa119b0e7cbf2ece71c9712ca7b40754f95c8c9bcbf"
 
 [[files]]
+file = "moonlight-global-datapacks/christmas-craft-fixes/data/delightfulcreators/recipe/emptying/glow_berry_custard.json"
+hash = "1358b0fdb17f8a6a403273ce3723e044514bd7347b70b43158a643a1a5a1f8bc"
+
+[[files]]
 file = "moonlight-global-datapacks/christmas-craft-fixes/data/delightfulcreators/recipe/emptying/hot_cocoa.json"
 hash = "d5f46ea1a2b1b565dc545033d857ba4ec7e3d48418848bbc8cf676a7007e0d80"
 
