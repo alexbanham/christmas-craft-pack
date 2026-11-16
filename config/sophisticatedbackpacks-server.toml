@@ -15,7 +15,7 @@
 	#Turns on/off item fluid handler of backpack in its item form. There are some dupe bugs caused by default fluid handling implementation that manifest when backpack is drained / filled in its item form in another mod's tank and the only way to prevent them is disallowing drain/fill in item form altogether
 	itemFluidHandlerEnabled = false
 	#Determines whether player can right click on backpack that another player is wearing to open it. If off will turn off that capability for everyone and remove related settings from backpack.
-	allowOpeningOtherPlayerBackpacks = false
+	allowOpeningOtherPlayerBackpacks = true
 	#Allows disabling item display settings. Primarily in cases where custom backpack model doesn't support showing the item. (Requires game restart to take effect)
 	itemDisplayDisabled = false
 	#Allows disabling logic that dedupes backpacks with the same UUID in players' inventory. This is here to allow turning off the logic just in case it would be causing performance issues.
@@ -555,7 +555,7 @@
 		#Chance of an entity spawning with Backpack
 		# Default: 0.01
 		# Range: 0.0 ~ 1.0
-		chance = 0.0
+		chance = 0.01
 		#Turns on/off addition of loot into backpacks
 		addLoot = true
 		#Turns on/off buffing the entity that wears backpack with potion effects. These are scaled based on how much loot is added.
@@ -617,11 +617,11 @@
 
 	[server.nerfs]
 		#Determines if too many backpacks in player's inventory cause slowness to the player
-		tooManyBackpacksSlowness = true
+		tooManyBackpacksSlowness = false
 		#Maximum number of backpacks in player's inventory that will not cause slowness
 		# Default: 3
 		# Range: 1 ~ 27
-		maxNumberOfBackpacks = 2
+		maxNumberOfBackpacks = 3
 		#Ratio of slowness levels per every backpack above the maximum number allowed. (number of backpacks above the max gets multiplied by this number and ceiled)
 		# Default: 1.0
 		# Range: 0.1 ~ 5.0

@@ -34,7 +34,7 @@ hash = "a9f22cc7e36e8316685fca19cf92715c5c0a5a05d16fa766add5790b85265dd7"
 
 [[files]]
 file = "config/amc.json"
-hash = "1a0a2e3e8cdad1d472c337f09a64cda3bdc10a62365a96f9f475fb009e1c2c66"
+hash = "93e9e4c60e022ada22efe14d87e825b90c9f00cab3c1060089f87dbd83e289c5"
 
 [[files]]
 file = "config/bits_n_bobs-common.toml"
@@ -42,7 +42,7 @@ hash = "ef974c139b71fdbc4cc14048f46150ff95e8d9911d32a0f5c5bd0b393742fb80"
 
 [[files]]
 file = "config/carryon-common.toml"
-hash = "2cb8b767b62f39c9c1b2e69c05a41d63e36f52c21efb4aa51bd7986fd29f7ed4"
+hash = "b11a63fa7b6369dc99b4093ca90f51570d3b8a7f498cc4001258be8c696ab048"
 
 [[files]]
 file = "config/christmascraft/pack-version.json"
@@ -211,19 +211,15 @@ hash = "69d00383434af962d368f7367a7a27081dc63f0ea018b332b74e51f8c47ffcbb"
 
 [[files]]
 file = "config/naturalist-server.toml"
-hash = "f16ac687cf568b3527b2eba54375527dc8ddc757dfbacd197aad5c4edd044d3a"
+hash = "b0a11f9fa0636e2852345241f28d8992f19c00b6103979d0c87ec17fc8efce14"
 
 [[files]]
 file = "config/simplebackups-common.toml"
 hash = "e5ebd6a4eceaaf2fb07560cfb67672a9883cb14319949616f4d1a42857ffb4f3"
 
 [[files]]
-file = "config/sophisticatedbackpacks-common.toml"
-hash = "0558192a2375667743fe0548e9e6f34f36d266a999389c8b5bb93cd8ca5b3740"
-
-[[files]]
 file = "config/sophisticatedbackpacks-server.toml"
-hash = "f23455dee0a265d72c24a1595ba74267568cd044299a2f28d23f9e147fb9e5b5"
+hash = "a6fb96b2c38eebae41cbd021cc8919cf2256bf2d2b0f1e14999164415005fdb0"
 
 [[files]]
 file = "config/sparsestructures.json5"
@@ -2457,14 +2453,6 @@ metafile = true
 file = "mods/yungs-better-strongholds.pw.toml"
 hash = "03084966c05070b5c4b17cd89234f3c0d813940a2d76b405a6699deac10a0ab8"
 metafile = true
-
-[[files]]
-file = "moonlight-global-datapacks/christmas-craft-fixes/data/alexsmobs/loot_table/gameplay/transmutation_table_rare.json"
-hash = "a4a47c9b743d84960d8583337a828bab5d0d1a238ec8baa9ec1c4e64e98ea646"
-
-[[files]]
-file = "moonlight-global-datapacks/christmas-craft-fixes/data/alexsmobs/tags/block/cachalot_whale_breakables.json"
-hash = "bef4d172fc1bfb34d342e79090726c4a0c272dd404783c3ea022b992e0e0415e"
 
 [[files]]
 file = "moonlight-global-datapacks/christmas-craft-fixes/data/brewinandchewin/recipe/fermenting/strongroot_ale_from_beer.json"
@@ -6241,10 +6229,6 @@ hash = "a93422a1b2c693cabfdfd073926f9fa59a08688e6e46c18df197ee86909bd836"
 [[files]]
 file = "moonlight-global-datapacks/christmas-craft-fixes/data/sophisticatedbackpacks/recipe/gold_backpack.json"
 hash = "fcfe8fe511a12c5dcb9d7bbb41eff4336e3efca560c18b9045306b27fe1a757d"
-
-[[files]]
-file = "moonlight-global-datapacks/christmas-craft-fixes/data/sophisticatedbackpacks/recipe/inception_upgrade.json"
-hash = "8db3a95a78a8352abe579606ada94f787097406ad7a2fefcf2dc47f40dd077ac"
 
 [[files]]
 file = "moonlight-global-datapacks/christmas-craft-fixes/data/sophisticatedbackpacks/recipe/iron_backpack.json"
