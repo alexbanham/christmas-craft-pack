@@ -11,7 +11,7 @@
 	"images": [
 		{
 			"id": "6B57AD0C43872829"
-			"x": 8.0d
+			"x": 10.0d
 			"y": -1.85d
 			"width": 8.5d
 			"height": 1.7d
@@ -29,8 +29,8 @@
 			"icon": {
 				"id": "minecraft:cobblestone"
 			}
-			"x": 2.5d
-			"y": 7.0d
+			"x": 4.5d
+			"y": 5.5d
 			"shape": "circle"
 			"size": 1.0d
 			"tasks": [
@@ -71,6 +71,55 @@
 			]
 		}
 		{
+			"id": "2223E76413CB16C0"
+			"dependencies": [
+				"43313C459681A4B6"
+			]
+			"icon": {
+				"id": "create_mechanical_extruder:mechanical_extruder"
+			}
+			"x": 2.5d
+			"y": 4.5d
+			"shape": "circle"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "57012649202E9774"
+					"type": "item"
+					"item": {
+						"id": "create_mechanical_extruder:mechanical_extruder"
+						"count": 1
+					}
+					"count": 1
+				}
+			]
+			"rewards": [
+				{
+					"id": "131C9B4819C76B77"
+					"type": "xp"
+					"xp": 50
+				}
+				{
+					"id": "73EED47F782C2624"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+				{
+					"id": "6A6068DCBF1E59D7"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+				{
+					"id": "407497B4508F4540"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_25"
+						"count": 1
+					}
+				}
+			]
+		}
+		{
 			"id": "5A8A7B1615173966"
 			"dependencies": [
 				"43313C459681A4B6"
@@ -78,8 +127,8 @@
 			"icon": {
 				"id": "minecraft:stone"
 			}
-			"x": 4.5d
-			"y": 3.5d
+			"x": 6.5d
+			"y": 10.0d
 			"shape": "circle"
 			"size": 1.0d
 			"tasks": [
@@ -128,8 +177,8 @@
 			"icon": {
 				"id": "minecraft:obsidian"
 			}
-			"x": 7.0d
-			"y": 10.5d
+			"x": 9.5d
+			"y": 3.0d
 			"shape": "circle"
 			"size": 1.0d
 			"tasks": [
@@ -177,8 +226,8 @@
 			"icon": {
 				"id": "minecraft:basalt"
 			}
-			"x": 9.0d
-			"y": 11.0d
+			"x": 11.5d
+			"y": 3.5d
 			"shape": "circle"
 			"size": 1.0d
 			"tasks": [
@@ -227,8 +276,8 @@
 			"icon": {
 				"id": "create:limestone"
 			}
-			"x": 7.0d
-			"y": 4.0d
+			"x": 10.5d
+			"y": 6.5d
 			"shape": "circle"
 			"size": 1.0d
 			"tasks": [
@@ -277,8 +326,8 @@
 			"icon": {
 				"id": "create:scoria"
 			}
-			"x": 11.5d
-			"y": 4.0d
+			"x": 15.0d
+			"y": 6.0d
 			"shape": "circle"
 			"size": 1.0d
 			"tasks": [
@@ -327,8 +376,8 @@
 			"icon": {
 				"id": "create:scorchia"
 			}
-			"x": 13.5d
-			"y": 3.0d
+			"x": 17.5d
+			"y": 8.0d
 			"shape": "circle"
 			"size": 1.0d
 			"tasks": [
@@ -382,8 +431,8 @@
 			"icon": {
 				"id": "minecraft:diorite"
 			}
-			"x": 13.5d
-			"y": 5.0d
+			"x": 17.5d
+			"y": 4.0d
 			"shape": "circle"
 			"size": 1.0d
 			"tasks": [
@@ -436,8 +485,8 @@
 			"icon": {
 				"id": "minecraft:dripstone_block"
 			}
-			"x": 15.5d
-			"y": 4.0d
+			"x": 18.0d
+			"y": 6.0d
 			"shape": "circle"
 			"size": 1.0d
 			"tasks": [
@@ -491,8 +540,8 @@
 			"icon": {
 				"id": "minecraft:granite"
 			}
-			"x": 15.5d
-			"y": 6.5d
+			"x": 19.5d
+			"y": 3.5d
 			"shape": "circle"
 			"size": 1.0d
 			"tasks": [
@@ -559,8 +608,8 @@
 			"icon": {
 				"id": "minecraft:calcite"
 			}
-			"x": 7.0d
-			"y": 2.0d
+			"x": 6.5d
+			"y": 1.5d
 			"shape": "circle"
 			"size": 1.0d
 			"tasks": [
@@ -613,8 +662,8 @@
 			"icon": {
 				"id": "create:crimsite"
 			}
-			"x": 9.0d
-			"y": 2.5d
+			"x": 8.5d
+			"y": 0.5d
 			"shape": "circle"
 			"size": 1.0d
 			"tasks": [
@@ -667,8 +716,8 @@
 			"icon": {
 				"id": "create:ochrum"
 			}
-			"x": 11.0d
-			"y": 1.5d
+			"x": 10.5d
+			"y": 1.0d
 			"shape": "circle"
 			"size": 1.0d
 			"tasks": [
@@ -723,7 +772,7 @@
 				"id": "create:veridium"
 			}
 			"x": 9.5d
-			"y": 7.0d
+			"y": 9.5d
 			"shape": "circle"
 			"size": 1.0d
 			"tasks": [
@@ -776,8 +825,8 @@
 			"icon": {
 				"id": "create:asurine"
 			}
-			"x": 13.5d
-			"y": 7.0d
+			"x": 11.5d
+			"y": 9.0d
 			"shape": "circle"
 			"size": 1.0d
 			"tasks": [
@@ -830,8 +879,8 @@
 			"icon": {
 				"id": "twigs:rhyolite"
 			}
-			"x": 11.5d
-			"y": 6.0d
+			"x": 12.5d
+			"y": 11.0d
 			"shape": "circle"
 			"size": 1.0d
 			"tasks": [
@@ -884,8 +933,8 @@
 			"icon": {
 				"id": "twigs:schist"
 			}
-			"x": 11.5d
-			"y": 8.0d
+			"x": 12.5d
+			"y": 7.0d
 			"shape": "circle"
 			"size": 1.0d
 			"tasks": [
@@ -939,8 +988,8 @@
 			"icon": {
 				"id": "alpinewhispers:alpine_gneiss"
 			}
-			"x": 5.0d
-			"y": 8.0d
+			"x": 0.5d
+			"y": 5.5d
 			"shape": "circle"
 			"size": 1.0d
 			"tasks": [
@@ -994,8 +1043,8 @@
 			"icon": {
 				"id": "hearth_and_timber:groutless_rubblestone"
 			}
-			"x": 5.0d
-			"y": 12.0d
+			"x": 6.5d
+			"y": 3.5d
 			"shape": "circle"
 			"size": 1.0d
 			"tasks": [
@@ -1049,8 +1098,8 @@
 			"icon": {
 				"id": "twigs:bloodstone"
 			}
-			"x": 4.5d
-			"y": 0.5d
+			"x": 3.5d
+			"y": 7.5d
 			"shape": "circle"
 			"size": 1.0d
 			"tasks": [
@@ -1112,8 +1161,8 @@
 			"icon": {
 				"id": "minecraft:prismarine"
 			}
-			"x": 5.0d
-			"y": 10.0d
+			"x": 8.5d
+			"y": 7.5d
 			"shape": "circle"
 			"size": 1.0d
 			"tasks": [
@@ -1167,8 +1216,8 @@
 			"icon": {
 				"id": "minecraft:tuff"
 			}
-			"x": 0.5d
-			"y": 5.0d
+			"x": 1.5d
+			"y": 7.5d
 			"shape": "circle"
 			"size": 1.0d
 			"tasks": [
@@ -1230,8 +1279,8 @@
 			"icon": {
 				"id": "minecraft:red_concrete"
 			}
-			"x": 5.5d
-			"y": 6.0d
+			"x": 6.5d
+			"y": 8.0d
 			"shape": "circle"
 			"size": 1.0d
 			"tasks": [
@@ -1284,8 +1333,8 @@
 			"icon": {
 				"id": "minecraft:end_stone"
 			}
-			"x": 11.0d
-			"y": 10.0d
+			"x": 13.5d
+			"y": 2.5d
 			"shape": "circle"
 			"size": 1.0d
 			"tasks": [
@@ -1352,8 +1401,8 @@
 			"icon": {
 				"id": "create_bic_bit:crystallised_oil"
 			}
-			"x": 0.5d
-			"y": 7.0d
+			"x": 8.5d
+			"y": 5.0d
 			"shape": "circle"
 			"size": 1.0d
 			"tasks": [

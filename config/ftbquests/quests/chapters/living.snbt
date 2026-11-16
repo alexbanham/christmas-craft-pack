@@ -24,7 +24,7 @@
 		{
 			"id": "1E574C74D0CF56CB"
 			"dependencies": [
-				"4DCC2697FB0B9A91"
+				"4E56D1E7607E0D8E"
 			]
 			"icon": {
 				"id": "cccasino:cashier_cage"
@@ -69,6 +69,57 @@
 					}
 				}
 			]
+		}
+		{
+			"id": "2738C7826E32539B"
+			"dependencies": [
+				"1E574C74D0CF56CB"
+				"2AEA10F9FB69206E"
+			]
+			"icon": {
+				"id": "cccasino:cashier_cage"
+			}
+			"x": 0.0d
+			"y": -2.5d
+			"shape": "circle"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "492A498C91400567"
+					"type": "item"
+					"item": {
+						"id": "cccasino:cashier_cage"
+						"count": 1
+					}
+					"count": 1
+				}
+			]
+			"rewards": [
+				{
+					"id": "7B9E93EED1837176"
+					"type": "xp"
+					"xp": 50
+				}
+				{
+					"id": "4BDDE7B38DDEB08E"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+				{
+					"id": "5944638F1B6C728D"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+				{
+					"id": "04BA169E5BC352FB"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_25"
+						"count": 1
+					}
+				}
+			]
+			"optional": true
 		}
 		{
 			"id": "18FDF9691693E472"

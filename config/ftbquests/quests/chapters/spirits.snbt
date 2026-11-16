@@ -11,8 +11,8 @@
 	"images": [
 		{
 			"id": "5A5000F0451E1BBB"
-			"x": 4.375d
-			"y": -1.85d
+			"x": 4.5d
+			"y": -5.6d
 			"width": 10.045d
 			"height": 1.7d
 			"rotation": 0.0d
@@ -22,13 +22,152 @@
 	]
 	"quests": [
 		{
-			"id": "37CBC36D59B7D30B"
+			"id": "0EB76C9DE4F8A403"
 			"dependencies": []
+			"icon": {
+				"id": "minecraft:lantern"
+			}
+			"x": 0.0d
+			"y": -3.0d
+			"shape": "gear"
+			"size": 1.5d
+			"tasks": [
+				{
+					"id": "07FF9044542E546E"
+					"type": "checkmark"
+				}
+			]
+			"rewards": [
+				{
+					"id": "78C888933DD4706C"
+					"type": "xp"
+					"xp": 50
+				}
+				{
+					"id": "02F353962B09528F"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+				{
+					"id": "6146EEC10FE297FF"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+				{
+					"id": "2049820F4249F6B4"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_25"
+						"count": 1
+					}
+				}
+			]
+		}
+		{
+			"id": "54069FC3177A5A42"
+			"dependencies": [
+				"0EB76C9DE4F8A403"
+			]
 			"icon": {
 				"id": "minecraft:soul_lantern"
 			}
-			"x": 0.5d
-			"y": 0.75d
+			"x": 3.0d
+			"y": -3.0d
+			"shape": "circle"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "18E758420251EF2C"
+					"type": "checkmark"
+				}
+			]
+			"rewards": [
+				{
+					"id": "42A7A7CE04AF0EE0"
+					"type": "xp"
+					"xp": 50
+				}
+				{
+					"id": "60A8BD3187AA67F0"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+				{
+					"id": "22EC544D64BA3944"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+				{
+					"id": "5F5F5510E1876AE5"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_25"
+						"count": 1
+					}
+				}
+			]
+		}
+		{
+			"id": "7F845E0D3A6E9612"
+			"dependencies": []
+			"icon": {
+				"id": "cccasino:krampus_invitation"
+			}
+			"x": 0.0d
+			"y": 0.0d
+			"shape": "circle"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "4C90411169CFD7DE"
+					"type": "item"
+					"item": {
+						"id": "cccasino:krampus_invitation"
+						"count": 1
+					}
+					"count": 1
+				}
+			]
+			"rewards": [
+				{
+					"id": "735115CD688CC56C"
+					"type": "xp"
+					"xp": 50
+				}
+				{
+					"id": "5B4663F43E2F6534"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+				{
+					"id": "07C118C03FA288C8"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+				{
+					"id": "0EECE6430C31FB1E"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_25"
+						"count": 1
+					}
+				}
+			]
+		}
+		{
+			"id": "37CBC36D59B7D30B"
+			"dependencies": [
+				"7F845E0D3A6E9612"
+			]
+			"icon": {
+				"id": "ftbquests:custom_icon"
+				"count": 1
+				"components": {
+					"ftbquests:icon": "cccasino:textures/gui/quest/spirit_krampus_home.png"
+				}
+			}
+			"x": 3.0d
+			"y": 0.0d
 			"shape": "circle"
 			"size": 1.0d
 			"tasks": [
@@ -65,15 +204,67 @@
 			]
 		}
 		{
-			"id": "1B3551E21608CAFF"
+			"id": "4A25EF2C7CDE8EBA"
 			"dependencies": [
 				"37CBC36D59B7D30B"
+				"03616C083D252999"
+				"755A24D22F84FF75"
 			]
 			"icon": {
-				"id": "minecraft:chain"
+				"id": "cccasino:empty_sack"
 			}
-			"x": 3.0d
-			"y": 0.75d
+			"x": 6.0d
+			"y": 0.0d
+			"shape": "circle"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "691F17419454D8BC"
+					"type": "advancement"
+					"advancement": "christmascraft:spirits/site/krampus"
+					"criterion": ""
+				}
+			]
+			"rewards": [
+				{
+					"id": "19452F125A81DDC6"
+					"type": "xp"
+					"xp": 50
+				}
+				{
+					"id": "6BB960029787D571"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+				{
+					"id": "627C166525298D43"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+				{
+					"id": "2762FB61531F099D"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_25"
+						"count": 1
+					}
+				}
+			]
+		}
+		{
+			"id": "1B3551E21608CAFF"
+			"dependencies": [
+				"4A25EF2C7CDE8EBA"
+			]
+			"icon": {
+				"id": "ftbquests:custom_icon"
+				"count": 1
+				"components": {
+					"ftbquests:icon": "cccasino:textures/gui/quest/spirit_krampus.png"
+				}
+			}
+			"x": 9.0d
+			"y": 0.0d
 			"shape": "gear"
 			"size": 1.5d
 			"tasks": [
@@ -139,40 +330,44 @@
 			]
 		}
 		{
-			"id": "0880B8060057D2D1"
+			"id": "168868F5AA58187A"
 			"dependencies": []
 			"icon": {
-				"id": "minecraft:soul_lantern"
+				"id": "cccasino:rat_king_invitation"
 			}
-			"x": 0.5d
-			"y": 4.0d
+			"x": 0.0d
+			"y": 2.25d
 			"shape": "circle"
 			"size": 1.0d
 			"tasks": [
 				{
-					"id": "356946810145F85F"
-					"type": "biome"
-					"biome": "#cccasino_spirits:home/frost_wyrm"
+					"id": "5142A5B3135F18F5"
+					"type": "item"
+					"item": {
+						"id": "cccasino:rat_king_invitation"
+						"count": 1
+					}
+					"count": 1
 				}
 			]
 			"rewards": [
 				{
-					"id": "6486DF5075A0F8C2"
+					"id": "58B78436D7E9B863"
 					"type": "xp"
 					"xp": 50
 				}
 				{
-					"id": "012B23790A63808C"
+					"id": "6D7CC0F10755F8BE"
 					"type": "random"
 					"table_id": 3429631832040481656L
 				}
 				{
-					"id": "59112D25C503869B"
+					"id": "6E3CAF089B7431BF"
 					"type": "random"
 					"table_id": 3429631832040481656L
 				}
 				{
-					"id": "49ECF7524CC89D31"
+					"id": "79DFFF0CF573099B"
 					"type": "item"
 					"item": {
 						"id": "cccasino:chip_25"
@@ -182,87 +377,19 @@
 			]
 		}
 		{
-			"id": "08B432324938E9BE"
+			"id": "1D7790F93727AB88"
 			"dependencies": [
-				"0880B8060057D2D1"
+				"168868F5AA58187A"
 			]
 			"icon": {
-				"id": "minecraft:blue_ice"
+				"id": "ftbquests:custom_icon"
+				"count": 1
+				"components": {
+					"ftbquests:icon": "cccasino:textures/gui/quest/spirit_rat_king_home.png"
+				}
 			}
 			"x": 3.0d
-			"y": 4.0d
-			"shape": "gear"
-			"size": 1.5d
-			"tasks": [
-				{
-					"id": "6426510A37227A0F"
-					"type": "advancement"
-					"advancement": "christmascraft:spirits/frost_wyrm"
-					"criterion": ""
-					"icon": {
-						"id": "minecraft:blue_ice"
-					}
-				}
-			]
-			"rewards": [
-				{
-					"id": "428D7E8981F27AD5"
-					"type": "xp"
-					"xp": 1000
-				}
-				{
-					"id": "01A8C672F6493F87"
-					"type": "random"
-					"table_id": 4073629130927994432L
-				}
-				{
-					"id": "7385E0C33A37FE54"
-					"type": "random"
-					"table_id": 4073629130927994432L
-				}
-				{
-					"id": "42F5B3118E348A65"
-					"type": "random"
-					"table_id": 4073629130927994432L
-				}
-				{
-					"id": "2401F946AF5F60DE"
-					"type": "random"
-					"table_id": 4073629130927994432L
-				}
-				{
-					"id": "3E9DBCAFFEF7C9DC"
-					"type": "command"
-					"command": "cccasino spirits bounty @s frost_wyrm"
-					"permission_level": 2
-					"silent": true
-					"feedback_message": "spirits.bounty_claimed"
-					"team_reward": false
-					"icon": {
-						"id": "cccasino:chip_1000"
-					}
-				}
-				{
-					"id": "3689235AFB4CE88B"
-					"type": "command"
-					"command": "summon minecraft:firework_rocket ~ ~1 ~ {LifeTime:30,FireworksItem:{id:\"minecraft:firework_rocket\",count:1,components:{\"minecraft:fireworks\":{flight_duration:1b,explosions:[{shape:\"star\",has_twinkle:true,has_trail:true,colors:[I;11739178,2067514,15252771],fade_colors:[I;16777215]}]}}}}"
-					"permission_level": 2
-					"silent": true
-					"team_reward": false
-					"icon": {
-						"id": "minecraft:firework_rocket"
-					}
-				}
-			]
-		}
-		{
-			"id": "1D7790F93727AB88"
-			"dependencies": []
-			"icon": {
-				"id": "minecraft:soul_lantern"
-			}
-			"x": 6.0d
-			"y": 4.0d
+			"y": 2.25d
 			"shape": "circle"
 			"size": 1.0d
 			"tasks": [
@@ -299,15 +426,66 @@
 			]
 		}
 		{
-			"id": "51E3D867E3B037D3"
+			"id": "6475CCF29CA2AF5C"
 			"dependencies": [
 				"1D7790F93727AB88"
+				"273FFFA1BD6ED44E"
 			]
 			"icon": {
-				"id": "minecraft:rotten_flesh"
+				"id": "christmascraft:mince_pie"
 			}
-			"x": 8.0d
-			"y": 4.0d
+			"x": 6.0d
+			"y": 2.25d
+			"shape": "circle"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "01C9074A8A2C3989"
+					"type": "advancement"
+					"advancement": "christmascraft:spirits/site/rat_king"
+					"criterion": ""
+				}
+			]
+			"rewards": [
+				{
+					"id": "5EC2061DF2580B99"
+					"type": "xp"
+					"xp": 50
+				}
+				{
+					"id": "4F37515268671CAD"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+				{
+					"id": "50D37DF52E401627"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+				{
+					"id": "309631F7218FB965"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_25"
+						"count": 1
+					}
+				}
+			]
+		}
+		{
+			"id": "51E3D867E3B037D3"
+			"dependencies": [
+				"6475CCF29CA2AF5C"
+			]
+			"icon": {
+				"id": "ftbquests:custom_icon"
+				"count": 1
+				"components": {
+					"ftbquests:icon": "cccasino:textures/gui/quest/spirit_rat_king.png"
+				}
+			}
+			"x": 9.0d
+			"y": 2.25d
 			"shape": "gear"
 			"size": 1.5d
 			"tasks": [
@@ -373,40 +551,44 @@
 			]
 		}
 		{
-			"id": "767494F34256F323"
+			"id": "4A0A29FCBBFB1856"
 			"dependencies": []
 			"icon": {
-				"id": "minecraft:soul_lantern"
+				"id": "cccasino:coal_golem_invitation"
 			}
-			"x": 0.5d
-			"y": 6.5d
+			"x": 0.0d
+			"y": 4.5d
 			"shape": "circle"
 			"size": 1.0d
 			"tasks": [
 				{
-					"id": "3A6C4423E059BCB4"
-					"type": "biome"
-					"biome": "#cccasino_spirits:home/humbug"
+					"id": "3FB813964C39DBD0"
+					"type": "item"
+					"item": {
+						"id": "cccasino:coal_golem_invitation"
+						"count": 1
+					}
+					"count": 1
 				}
 			]
 			"rewards": [
 				{
-					"id": "182945C7A9B833BC"
+					"id": "714E16417C90F3E8"
 					"type": "xp"
 					"xp": 50
 				}
 				{
-					"id": "16AAB2B2745575E8"
+					"id": "3DE95EF20EE10D68"
 					"type": "random"
 					"table_id": 3429631832040481656L
 				}
 				{
-					"id": "3C3DD6D66742573C"
+					"id": "6F4E1FB10703580E"
 					"type": "random"
 					"table_id": 3429631832040481656L
 				}
 				{
-					"id": "39E1D3E816F4D436"
+					"id": "1F2524579B4F9B2F"
 					"type": "item"
 					"item": {
 						"id": "cccasino:chip_25"
@@ -416,87 +598,19 @@
 			]
 		}
 		{
-			"id": "0558CFF730B2BAC8"
+			"id": "3AD103C03D230D0F"
 			"dependencies": [
-				"767494F34256F323"
+				"4A0A29FCBBFB1856"
 			]
 			"icon": {
-				"id": "minecraft:coal"
+				"id": "ftbquests:custom_icon"
+				"count": 1
+				"components": {
+					"ftbquests:icon": "cccasino:textures/gui/quest/spirit_coal_golem_home.png"
+				}
 			}
 			"x": 3.0d
-			"y": 6.5d
-			"shape": "gear"
-			"size": 1.5d
-			"tasks": [
-				{
-					"id": "1E2C61EE5BCD76D4"
-					"type": "advancement"
-					"advancement": "christmascraft:spirits/humbug"
-					"criterion": ""
-					"icon": {
-						"id": "minecraft:coal"
-					}
-				}
-			]
-			"rewards": [
-				{
-					"id": "0103E12E100B37E7"
-					"type": "xp"
-					"xp": 1000
-				}
-				{
-					"id": "224935AC64033139"
-					"type": "random"
-					"table_id": 4073629130927994432L
-				}
-				{
-					"id": "2DD22220B8E72F7D"
-					"type": "random"
-					"table_id": 4073629130927994432L
-				}
-				{
-					"id": "5B508EE49D7C6EE3"
-					"type": "random"
-					"table_id": 4073629130927994432L
-				}
-				{
-					"id": "2F0477DD1648EAE3"
-					"type": "random"
-					"table_id": 4073629130927994432L
-				}
-				{
-					"id": "4567A68EBFF942F2"
-					"type": "command"
-					"command": "cccasino spirits bounty @s humbug"
-					"permission_level": 2
-					"silent": true
-					"feedback_message": "spirits.bounty_claimed"
-					"team_reward": false
-					"icon": {
-						"id": "cccasino:chip_1000"
-					}
-				}
-				{
-					"id": "183B428A4CF6F5D1"
-					"type": "command"
-					"command": "summon minecraft:firework_rocket ~ ~1 ~ {LifeTime:30,FireworksItem:{id:\"minecraft:firework_rocket\",count:1,components:{\"minecraft:fireworks\":{flight_duration:1b,explosions:[{shape:\"star\",has_twinkle:true,has_trail:true,colors:[I;11739178,2067514,15252771],fade_colors:[I;16777215]}]}}}}"
-					"permission_level": 2
-					"silent": true
-					"team_reward": false
-					"icon": {
-						"id": "minecraft:firework_rocket"
-					}
-				}
-			]
-		}
-		{
-			"id": "3AD103C03D230D0F"
-			"dependencies": []
-			"icon": {
-				"id": "minecraft:soul_lantern"
-			}
-			"x": 6.0d
-			"y": 6.5d
+			"y": 4.5d
 			"shape": "circle"
 			"size": 1.0d
 			"tasks": [
@@ -533,15 +647,66 @@
 			]
 		}
 		{
-			"id": "51867C53CE8E5F9F"
+			"id": "17C630C35394606F"
 			"dependencies": [
 				"3AD103C03D230D0F"
+				"50F37896395DFCB1"
 			]
 			"icon": {
-				"id": "minecraft:coal_block"
+				"id": "cccasino:wooden_train"
 			}
-			"x": 8.0d
-			"y": 6.5d
+			"x": 6.0d
+			"y": 4.5d
+			"shape": "circle"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "5F53DFFF91CB22DF"
+					"type": "advancement"
+					"advancement": "christmascraft:spirits/site/coal_golem"
+					"criterion": ""
+				}
+			]
+			"rewards": [
+				{
+					"id": "015A4CF41DA43054"
+					"type": "xp"
+					"xp": 50
+				}
+				{
+					"id": "47FFBCBEACF7388F"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+				{
+					"id": "773871BF24A7DE8E"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+				{
+					"id": "772AB05A281170D6"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_25"
+						"count": 1
+					}
+				}
+			]
+		}
+		{
+			"id": "51867C53CE8E5F9F"
+			"dependencies": [
+				"17C630C35394606F"
+			]
+			"icon": {
+				"id": "ftbquests:custom_icon"
+				"count": 1
+				"components": {
+					"ftbquests:icon": "cccasino:textures/gui/quest/spirit_coal_golem.png"
+				}
+			}
+			"x": 9.0d
+			"y": 4.5d
 			"shape": "gear"
 			"size": 1.5d
 			"tasks": [
@@ -607,13 +772,509 @@
 			]
 		}
 		{
-			"id": "3E9BA597CE13A6B8"
+			"id": "7ADAB9FA886F15C3"
 			"dependencies": []
 			"icon": {
-				"id": "minecraft:soul_lantern"
+				"id": "cccasino:humbug_invitation"
 			}
-			"x": 0.5d
-			"y": 9.0d
+			"x": 0.0d
+			"y": 6.75d
+			"shape": "circle"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "56DEED5CE8AB5C81"
+					"type": "item"
+					"item": {
+						"id": "cccasino:humbug_invitation"
+						"count": 1
+					}
+					"count": 1
+				}
+			]
+			"rewards": [
+				{
+					"id": "7872AE54538729E3"
+					"type": "xp"
+					"xp": 50
+				}
+				{
+					"id": "52A56971285F11E2"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+				{
+					"id": "66A72CBBCAD55A11"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+				{
+					"id": "7A42380F2DC05036"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_25"
+						"count": 1
+					}
+				}
+			]
+		}
+		{
+			"id": "767494F34256F323"
+			"dependencies": [
+				"7ADAB9FA886F15C3"
+			]
+			"icon": {
+				"id": "ftbquests:custom_icon"
+				"count": 1
+				"components": {
+					"ftbquests:icon": "cccasino:textures/gui/quest/spirit_humbug_home.png"
+				}
+			}
+			"x": 3.0d
+			"y": 6.75d
+			"shape": "circle"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "3A6C4423E059BCB4"
+					"type": "biome"
+					"biome": "#cccasino_spirits:home/humbug"
+				}
+			]
+			"rewards": [
+				{
+					"id": "182945C7A9B833BC"
+					"type": "xp"
+					"xp": 50
+				}
+				{
+					"id": "16AAB2B2745575E8"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+				{
+					"id": "3C3DD6D66742573C"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+				{
+					"id": "39E1D3E816F4D436"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_25"
+						"count": 1
+					}
+				}
+			]
+		}
+		{
+			"id": "614AE5FDCAC799F1"
+			"dependencies": [
+				"767494F34256F323"
+				"3C332E5EB1726584"
+			]
+			"icon": {
+				"id": "cccasino:cymbal_monkey"
+			}
+			"x": 6.0d
+			"y": 6.75d
+			"shape": "circle"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "530C1892B8E4BF4C"
+					"type": "advancement"
+					"advancement": "christmascraft:spirits/site/humbug"
+					"criterion": ""
+				}
+			]
+			"rewards": [
+				{
+					"id": "632517C906591E44"
+					"type": "xp"
+					"xp": 50
+				}
+				{
+					"id": "26AD43E564531B20"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+				{
+					"id": "3213F21CDE46DFC0"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+				{
+					"id": "3CC8EFD909E802FF"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_25"
+						"count": 1
+					}
+				}
+			]
+		}
+		{
+			"id": "0558CFF730B2BAC8"
+			"dependencies": [
+				"614AE5FDCAC799F1"
+			]
+			"icon": {
+				"id": "ftbquests:custom_icon"
+				"count": 1
+				"components": {
+					"ftbquests:icon": "cccasino:textures/gui/quest/spirit_humbug.png"
+				}
+			}
+			"x": 9.0d
+			"y": 6.75d
+			"shape": "gear"
+			"size": 1.5d
+			"tasks": [
+				{
+					"id": "1E2C61EE5BCD76D4"
+					"type": "advancement"
+					"advancement": "christmascraft:spirits/humbug"
+					"criterion": ""
+					"icon": {
+						"id": "minecraft:coal"
+					}
+				}
+			]
+			"rewards": [
+				{
+					"id": "0103E12E100B37E7"
+					"type": "xp"
+					"xp": 1000
+				}
+				{
+					"id": "224935AC64033139"
+					"type": "random"
+					"table_id": 4073629130927994432L
+				}
+				{
+					"id": "2DD22220B8E72F7D"
+					"type": "random"
+					"table_id": 4073629130927994432L
+				}
+				{
+					"id": "5B508EE49D7C6EE3"
+					"type": "random"
+					"table_id": 4073629130927994432L
+				}
+				{
+					"id": "2F0477DD1648EAE3"
+					"type": "random"
+					"table_id": 4073629130927994432L
+				}
+				{
+					"id": "4567A68EBFF942F2"
+					"type": "command"
+					"command": "cccasino spirits bounty @s humbug"
+					"permission_level": 2
+					"silent": true
+					"feedback_message": "spirits.bounty_claimed"
+					"team_reward": false
+					"icon": {
+						"id": "cccasino:chip_1000"
+					}
+				}
+				{
+					"id": "183B428A4CF6F5D1"
+					"type": "command"
+					"command": "summon minecraft:firework_rocket ~ ~1 ~ {LifeTime:30,FireworksItem:{id:\"minecraft:firework_rocket\",count:1,components:{\"minecraft:fireworks\":{flight_duration:1b,explosions:[{shape:\"star\",has_twinkle:true,has_trail:true,colors:[I;11739178,2067514,15252771],fade_colors:[I;16777215]}]}}}}"
+					"permission_level": 2
+					"silent": true
+					"team_reward": false
+					"icon": {
+						"id": "minecraft:firework_rocket"
+					}
+				}
+			]
+		}
+		{
+			"id": "68F5C4E5AE831E89"
+			"dependencies": []
+			"icon": {
+				"id": "cccasino:frost_wyrm_invitation"
+			}
+			"x": 0.0d
+			"y": 10.0d
+			"shape": "circle"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "31F7C6CDD389B827"
+					"type": "item"
+					"item": {
+						"id": "cccasino:frost_wyrm_invitation"
+						"count": 1
+					}
+					"count": 1
+				}
+			]
+			"rewards": [
+				{
+					"id": "4D6C85C7A0D94F08"
+					"type": "xp"
+					"xp": 50
+				}
+				{
+					"id": "440672C315E9E519"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+				{
+					"id": "0556A27895C18E63"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+				{
+					"id": "67F440E40A4C06CF"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_25"
+						"count": 1
+					}
+				}
+			]
+		}
+		{
+			"id": "0880B8060057D2D1"
+			"dependencies": [
+				"68F5C4E5AE831E89"
+			]
+			"icon": {
+				"id": "ftbquests:custom_icon"
+				"count": 1
+				"components": {
+					"ftbquests:icon": "cccasino:textures/gui/quest/spirit_frost_wyrm_home.png"
+				}
+			}
+			"x": 3.0d
+			"y": 10.0d
+			"shape": "circle"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "356946810145F85F"
+					"type": "biome"
+					"biome": "#cccasino_spirits:home/frost_wyrm"
+				}
+			]
+			"rewards": [
+				{
+					"id": "6486DF5075A0F8C2"
+					"type": "xp"
+					"xp": 50
+				}
+				{
+					"id": "012B23790A63808C"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+				{
+					"id": "59112D25C503869B"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+				{
+					"id": "49ECF7524CC89D31"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_25"
+						"count": 1
+					}
+				}
+			]
+		}
+		{
+			"id": "62F4C88A9A95F4D1"
+			"dependencies": [
+				"0880B8060057D2D1"
+				"3A98AD37449E571A"
+				"6E5B88DF0CAA50F1"
+			]
+			"icon": {
+				"id": "cccasino:present_red"
+			}
+			"x": 6.0d
+			"y": 10.0d
+			"shape": "circle"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "65433872393A28B8"
+					"type": "advancement"
+					"advancement": "christmascraft:spirits/site/frost_wyrm"
+					"criterion": ""
+				}
+			]
+			"rewards": [
+				{
+					"id": "28C0898E0F44D01F"
+					"type": "xp"
+					"xp": 50
+				}
+				{
+					"id": "0AB3F4F4A404BD21"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+				{
+					"id": "01BBA45E7F5A90DE"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+				{
+					"id": "2A5B082EAF3A0238"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_25"
+						"count": 1
+					}
+				}
+			]
+		}
+		{
+			"id": "08B432324938E9BE"
+			"dependencies": [
+				"62F4C88A9A95F4D1"
+			]
+			"icon": {
+				"id": "ftbquests:custom_icon"
+				"count": 1
+				"components": {
+					"ftbquests:icon": "cccasino:textures/gui/quest/spirit_frost_wyrm.png"
+				}
+			}
+			"x": 9.0d
+			"y": 10.0d
+			"shape": "gear"
+			"size": 1.5d
+			"tasks": [
+				{
+					"id": "6426510A37227A0F"
+					"type": "advancement"
+					"advancement": "christmascraft:spirits/frost_wyrm"
+					"criterion": ""
+					"icon": {
+						"id": "minecraft:blue_ice"
+					}
+				}
+			]
+			"rewards": [
+				{
+					"id": "428D7E8981F27AD5"
+					"type": "xp"
+					"xp": 1000
+				}
+				{
+					"id": "01A8C672F6493F87"
+					"type": "random"
+					"table_id": 4073629130927994432L
+				}
+				{
+					"id": "7385E0C33A37FE54"
+					"type": "random"
+					"table_id": 4073629130927994432L
+				}
+				{
+					"id": "42F5B3118E348A65"
+					"type": "random"
+					"table_id": 4073629130927994432L
+				}
+				{
+					"id": "2401F946AF5F60DE"
+					"type": "random"
+					"table_id": 4073629130927994432L
+				}
+				{
+					"id": "3E9DBCAFFEF7C9DC"
+					"type": "command"
+					"command": "cccasino spirits bounty @s frost_wyrm"
+					"permission_level": 2
+					"silent": true
+					"feedback_message": "spirits.bounty_claimed"
+					"team_reward": false
+					"icon": {
+						"id": "cccasino:chip_1000"
+					}
+				}
+				{
+					"id": "3689235AFB4CE88B"
+					"type": "command"
+					"command": "summon minecraft:firework_rocket ~ ~1 ~ {LifeTime:30,FireworksItem:{id:\"minecraft:firework_rocket\",count:1,components:{\"minecraft:fireworks\":{flight_duration:1b,explosions:[{shape:\"star\",has_twinkle:true,has_trail:true,colors:[I;11739178,2067514,15252771],fade_colors:[I;16777215]}]}}}}"
+					"permission_level": 2
+					"silent": true
+					"team_reward": false
+					"icon": {
+						"id": "minecraft:firework_rocket"
+					}
+				}
+			]
+		}
+		{
+			"id": "41883EF4ADD926B1"
+			"dependencies": []
+			"icon": {
+				"id": "cccasino:ice_queen_invitation"
+			}
+			"x": 0.0d
+			"y": 12.25d
+			"shape": "circle"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "26C1184AA69F2255"
+					"type": "item"
+					"item": {
+						"id": "cccasino:ice_queen_invitation"
+						"count": 1
+					}
+					"count": 1
+				}
+			]
+			"rewards": [
+				{
+					"id": "186D4CEBD9896EA4"
+					"type": "xp"
+					"xp": 50
+				}
+				{
+					"id": "0230F87D487687D7"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+				{
+					"id": "04ED6BA1ACDBCA26"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+				{
+					"id": "0269466EA9F4B2B4"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_25"
+						"count": 1
+					}
+				}
+			]
+		}
+		{
+			"id": "3E9BA597CE13A6B8"
+			"dependencies": [
+				"41883EF4ADD926B1"
+			]
+			"icon": {
+				"id": "ftbquests:custom_icon"
+				"count": 1
+				"components": {
+					"ftbquests:icon": "cccasino:textures/gui/quest/spirit_ice_queen_home.png"
+				}
+			}
+			"x": 3.0d
+			"y": 12.25d
 			"shape": "circle"
 			"size": 1.0d
 			"tasks": [
@@ -650,15 +1311,67 @@
 			]
 		}
 		{
-			"id": "4139CFBEDA31B46D"
+			"id": "1F3F3F682B309C77"
 			"dependencies": [
 				"3E9BA597CE13A6B8"
+				"70E21DF1177F2B61"
+				"380B0EB54C77A0AA"
 			]
 			"icon": {
-				"id": "minecraft:packed_ice"
+				"id": "cccasino:snow_globe"
 			}
-			"x": 3.0d
-			"y": 9.0d
+			"x": 6.0d
+			"y": 12.25d
+			"shape": "circle"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "1FBE3A3782A91F46"
+					"type": "advancement"
+					"advancement": "christmascraft:spirits/site/ice_queen"
+					"criterion": ""
+				}
+			]
+			"rewards": [
+				{
+					"id": "201851E6B2915498"
+					"type": "xp"
+					"xp": 50
+				}
+				{
+					"id": "70F254825660B07F"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+				{
+					"id": "2C842092301B97D1"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+				{
+					"id": "1821FE6AEA1A3F81"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_25"
+						"count": 1
+					}
+				}
+			]
+		}
+		{
+			"id": "4139CFBEDA31B46D"
+			"dependencies": [
+				"1F3F3F682B309C77"
+			]
+			"icon": {
+				"id": "ftbquests:custom_icon"
+				"count": 1
+				"components": {
+					"ftbquests:icon": "cccasino:textures/gui/quest/spirit_ice_queen.png"
+				}
+			}
+			"x": 9.0d
+			"y": 12.25d
 			"shape": "gear"
 			"size": 1.5d
 			"tasks": [
@@ -724,13 +1437,66 @@
 			]
 		}
 		{
-			"id": "3D18A6483FF401F0"
+			"id": "1C5B42DFB3870978"
 			"dependencies": []
 			"icon": {
-				"id": "minecraft:soul_lantern"
+				"id": "cccasino:yeti_invitation"
 			}
-			"x": 6.0d
-			"y": 9.0d
+			"x": 0.0d
+			"y": 14.5d
+			"shape": "circle"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "15DC5EC3C6F5F10A"
+					"type": "item"
+					"item": {
+						"id": "cccasino:yeti_invitation"
+						"count": 1
+					}
+					"count": 1
+				}
+			]
+			"rewards": [
+				{
+					"id": "2D416933C44FA2AC"
+					"type": "xp"
+					"xp": 50
+				}
+				{
+					"id": "05867275D6722F8E"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+				{
+					"id": "7C708F04C0FA06C2"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+				{
+					"id": "30B8D271319EB699"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_25"
+						"count": 1
+					}
+				}
+			]
+		}
+		{
+			"id": "3D18A6483FF401F0"
+			"dependencies": [
+				"1C5B42DFB3870978"
+			]
+			"icon": {
+				"id": "ftbquests:custom_icon"
+				"count": 1
+				"components": {
+					"ftbquests:icon": "cccasino:textures/gui/quest/spirit_yeti_home.png"
+				}
+			}
+			"x": 3.0d
+			"y": 14.5d
 			"shape": "circle"
 			"size": 1.0d
 			"tasks": [
@@ -767,15 +1533,66 @@
 			]
 		}
 		{
-			"id": "342A3841E27A20B7"
+			"id": "1D554B98B4482BA9"
 			"dependencies": [
 				"3D18A6483FF401F0"
+				"47CA656304C804DD"
 			]
 			"icon": {
-				"id": "minecraft:snow_block"
+				"id": "christmascraft:christmas_dinner_platter"
 			}
-			"x": 8.0d
-			"y": 9.0d
+			"x": 6.0d
+			"y": 14.5d
+			"shape": "circle"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "023958E1039036FC"
+					"type": "advancement"
+					"advancement": "christmascraft:spirits/site/yeti"
+					"criterion": ""
+				}
+			]
+			"rewards": [
+				{
+					"id": "775ACB5BD9B8038F"
+					"type": "xp"
+					"xp": 50
+				}
+				{
+					"id": "435FEECC848F33D6"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+				{
+					"id": "667F1E35B9F11542"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+				{
+					"id": "307AE2914DDF0B04"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_25"
+						"count": 1
+					}
+				}
+			]
+		}
+		{
+			"id": "342A3841E27A20B7"
+			"dependencies": [
+				"1D554B98B4482BA9"
+			]
+			"icon": {
+				"id": "ftbquests:custom_icon"
+				"count": 1
+				"components": {
+					"ftbquests:icon": "cccasino:textures/gui/quest/spirit_yeti.png"
+				}
+			}
+			"x": 9.0d
+			"y": 14.5d
 			"shape": "gear"
 			"size": 1.5d
 			"tasks": [
@@ -841,13 +1658,66 @@
 			]
 		}
 		{
-			"id": "164C123E54C79158"
+			"id": "10B80241FAEA4AF3"
 			"dependencies": []
 			"icon": {
-				"id": "minecraft:soul_lantern"
+				"id": "cccasino:wraith_invitation"
 			}
-			"x": 0.5d
-			"y": 12.0d
+			"x": 0.0d
+			"y": 16.75d
+			"shape": "circle"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "4B57CD4F97E99337"
+					"type": "item"
+					"item": {
+						"id": "cccasino:wraith_invitation"
+						"count": 1
+					}
+					"count": 1
+				}
+			]
+			"rewards": [
+				{
+					"id": "6E8417D9FF36D0E5"
+					"type": "xp"
+					"xp": 50
+				}
+				{
+					"id": "4F94B12EA53BA241"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+				{
+					"id": "124FE387DA250BD6"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+				{
+					"id": "3FDDA83406AAC80E"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_25"
+						"count": 1
+					}
+				}
+			]
+		}
+		{
+			"id": "164C123E54C79158"
+			"dependencies": [
+				"10B80241FAEA4AF3"
+			]
+			"icon": {
+				"id": "ftbquests:custom_icon"
+				"count": 1
+				"components": {
+					"ftbquests:icon": "cccasino:textures/gui/quest/spirit_wraith_home.png"
+				}
+			}
+			"x": 3.0d
+			"y": 16.75d
 			"shape": "circle"
 			"size": 1.0d
 			"tasks": [
@@ -884,15 +1754,67 @@
 			]
 		}
 		{
-			"id": "46F09AC114FE8C01"
+			"id": "7E04D9DD1A00B81B"
 			"dependencies": [
 				"164C123E54C79158"
+				"3A98AD37449E571A"
+				"06E9B8A86768F020"
 			]
 			"icon": {
-				"id": "minecraft:wither_skeleton_skull"
+				"id": "cccasino:saint_nick_relic"
 			}
-			"x": 3.0d
-			"y": 12.0d
+			"x": 6.0d
+			"y": 16.75d
+			"shape": "circle"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "338A8D67BBF3F468"
+					"type": "advancement"
+					"advancement": "christmascraft:spirits/site/wraith"
+					"criterion": ""
+				}
+			]
+			"rewards": [
+				{
+					"id": "631B57EA14606B7E"
+					"type": "xp"
+					"xp": 50
+				}
+				{
+					"id": "1310C09DA64A9E93"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+				{
+					"id": "613126B0B5B0F880"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+				{
+					"id": "06A792A82D594389"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_25"
+						"count": 1
+					}
+				}
+			]
+		}
+		{
+			"id": "46F09AC114FE8C01"
+			"dependencies": [
+				"7E04D9DD1A00B81B"
+			]
+			"icon": {
+				"id": "ftbquests:custom_icon"
+				"count": 1
+				"components": {
+					"ftbquests:icon": "cccasino:textures/gui/quest/spirit_wraith.png"
+				}
+			}
+			"x": 9.0d
+			"y": 16.75d
 			"shape": "gear"
 			"size": 1.5d
 			"tasks": [
