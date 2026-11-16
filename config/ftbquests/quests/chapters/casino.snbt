@@ -24,7 +24,7 @@
 		{
 			"id": "17B3295222734544"
 			"dependencies": [
-				"4DCC2697FB0B9A91"
+				"4E56D1E7607E0D8E"
 			]
 			"icon": {
 				"id": "cccasino:blackjack_table"
@@ -143,6 +143,52 @@
 				}
 				{
 					"id": "0BCEA169EE8FEBE6"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_25"
+						"count": 1
+					}
+				}
+			]
+		}
+		{
+			"id": "3BAC5309ED5C50BE"
+			"dependencies": [
+				"17B3295222734544"
+			]
+			"icon": {
+				"id": "cccasino:slot_cabinet"
+			}
+			"x": -2.5d
+			"y": 7.5d
+			"shape": "circle"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "43998B9F8ACE7675"
+					"type": "advancement"
+					"advancement": "cccasino:tablegames/slots_won"
+					"criterion": ""
+				}
+			]
+			"rewards": [
+				{
+					"id": "0B7173BEA5EBCDB7"
+					"type": "xp"
+					"xp": 50
+				}
+				{
+					"id": "55063DAED7E24E98"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+				{
+					"id": "4DA1DAF1CE9E821C"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+				{
+					"id": "23F5D7D62052BAEF"
 					"type": "item"
 					"item": {
 						"id": "cccasino:chip_25"

@@ -9,7 +9,20 @@
 	"quest.4DCC2697FB0B9A91.title": "Christmas Is in Trouble"
 	"quest.4DCC2697FB0B9A91.quest_subtitle": "The North Pole needs every pair of hands."
 	"quest.4DCC2697FB0B9A91.quest_desc": [
-		"Something has gone wrong at the North Pole. Its spirits are trapped, the toy lines are cold, and the pantry is bare. Chips are how you get by here: make things worth buying and you will earn them. Start with your stocking."
+		"Christmas Craft is Create with Christmas on top. The North Pole's spirits are trapped, its toy lines are cold and its pantry is bare. Fixing it is up to you and your friends: build factories, make toys and food, free the spirits, and play the casino with what you earn. Open your stocking, then read on."
+	]
+	"task.348EE80193B030C6.title": "Use the Cashier's Cage"
+	"task.39D52FE8BEB8AF6A.title": "Open Santa's Shop"
+	"quest.5C4021278DDB9FBD.title": "The North Pole Village"
+	"quest.5C4021278DDB9FBD.quest_subtitle": "Where everyone meets."
+	"quest.5C4021278DDB9FBD.quest_desc": [
+		"A small village at spawn holds what everyone shares: a Cashier's Cage (your bank; you can craft a Cage of your own too), Santa's Shop, the Elf Mail Desk, the Advent Kiosk and the Wheel of Gifts. The card and wheel tables are built by players: sit at a friend's, or build your own. Visit the Cage and Santa's Shop."
+	]
+	"task.3A729D1958633019.title": "Got it"
+	"quest.4E56D1E7607E0D8E.title": "How Money Works"
+	"quest.4E56D1E7607E0D8E.quest_subtitle": "Chips, the bank and Tinsel."
+	"quest.4E56D1E7607E0D8E.quest_desc": [
+		"Chips are the money, and only work pays them. The Cashier's Cage banks them, safe from death. Settled bets at house games also earn Tinsel, for the Prize Counter. Gift Chips only bet: at Jingle Reels, Video Poker and the Wheel. First: work an Elf Shift for pocket money, then start Create."
 	]
 	"chapter.2EA6984255333DCF.title": "The First Machines"
 	"chapter.2EA6984255333DCF.chapter_subtitle": [
@@ -210,6 +223,11 @@
 	"quest.43313C459681A4B6.quest_desc": [
 		"There is no machine in this pack that makes stone out of nothing. Stone comes from fluids: flowing lava that touches water cools into cobblestone, and the water is never used up. Put a drill on it and you have every cobblestone you will ever need."
 	]
+	"quest.2223E76413CB16C0.title": "The Mechanical Extruder"
+	"quest.2223E76413CB16C0.quest_subtitle": "Stone, one block at a time."
+	"quest.2223E76413CB16C0.quest_desc": [
+		"An extruder on Create power makes the block its neighbours would: water on one side and lava on the other gives cobblestone, and the block beneath can change it. Take each block with a click or by automation; a filter picks when there is a choice. JEI lists every pair."
+	]
 	"quest.5A8A7B1615173966.title": "Smooth from the Start"
 	"quest.5A8A7B1615173966.quest_subtitle": "Lava that falls onto water."
 	"quest.5A8A7B1615173966.quest_desc": [
@@ -218,7 +236,7 @@
 	"quest.52E91BA3D7734CCC.title": "Obsidian on Tap"
 	"quest.52E91BA3D7734CCC.quest_subtitle": "Water meets a lava source."
 	"quest.52E91BA3D7734CCC.quest_desc": [
-		"Water touching a lava source turns it to obsidian. A hose pulley in a lava lake refills the source after every block, so a drill and a pulley make obsidian without a bucket in sight."
+		"Water touching a lava source turns it to obsidian. Pump lava from a lake through one hose pulley into a second over the spot: it puts the source back after every block, so a drill makes obsidian without a bucket in sight."
 	]
 	"quest.6383F2F7A5F84E9A.title": "Basalt Columns"
 	"quest.6383F2F7A5F84E9A.quest_subtitle": "Soul soil below, blue ice beside."
@@ -377,45 +395,51 @@
 	"quest.1E574C74D0CF56CB.title": "How the North Pole Pays"
 	"quest.1E574C74D0CF56CB.quest_subtitle": "Nothing crafts a chip."
 	"quest.1E574C74D0CF56CB.quest_desc": [
-		"No recipe makes a chip. Every one is paid for work somebody wanted: an elf's shift, goods sold at the Exchange, a Notice Board order, a delivery flown, a shop of your own. Start at the Cashier's Cage in the village, the bank: use it with a chip to break it into smaller ones (sneak for the whole stack). It never takes a cut."
+		"No recipe makes a chip: each one pays for work somebody wanted. Every Cashier's Cage is the same bank. Sneak-use it with an empty hand to deposit or withdraw: banked chips are safe from death and a full inventory, and Santa's Shop draws on them. Use it holding a chip to break it into smaller ones. It never takes a cut."
+	]
+	"quest.2738C7826E32539B.title": "A Cage of Your Own"
+	"quest.2738C7826E32539B.quest_subtitle": "The bank, at home."
+	"quest.2738C7826E32539B.quest_desc": [
+		"Every Cage holds the same balance, so one in your base is your bank at home. Bells cannot be crafted: find one in a village or buy it from an armorer."
+		"Mechanical Crafters, 3 wide by 3 tall: bell + precision mechanism + 2 iron barses + 4 brass casings + chest = Cashier's Cage."
 	]
 	"quest.18FDF9691693E472.title": "Elf Shifts"
 	"quest.18FDF9691693E472.quest_subtitle": "Sort the post, get paid."
 	"quest.18FDF9691693E472.quest_desc": [
-		"Use the Elf Mail desk to start a shift of ten letters and file each in the pigeonhole whose plate matches its stamp. Ten filed pays real chips; three mix-ups and the shift is unpaid. A small wage, always open. Nearly broke? Santa's Mercy leaves you Gift Chips once a day: they bet at Jingle Reels, Video Poker and the Wheel of Gifts, and wins pay real chips."
+		"Use the Elf Mail desk for a shift of 10 letters and file each in the pigeonhole whose plate matches its stamp. All 10 filed pays 5 chips; 3 mix-ups and the shift is unpaid. Carrying under 50 chips? Santa's Mercy leaves you 10 Gift Chips once a day."
 	]
 	"quest.4DF28181384AE73C.title": "The North Pole Exchange"
 	"quest.4DF28181384AE73C.quest_subtitle": "Sell what you make."
 	"quest.4DF28181384AE73C.quest_desc": [
-		"The Exchange buys made things: dishes, Create and airship parts, crops packed into bales and crates; never raw ore, logs or loose crops. Use the Exchange holding a stack to sell it. Each sale pulls that price down for everyone until it recovers, so make several goods, not a mountain of one. No daily limit: prices are the brake."
+		"The Exchange buys 1,313 made goods in 12 kinds: meals, toys, Create and airship parts, crops packed into crates; never raw ore or loose crops. It opens on What I carry: Sell all, or search and sell one. A good's price halves once 2,000 chips' worth has sold, and half the drop comes back every 24 hours. Every spirit the server frees adds 3% to every sale."
 	]
 	"quest.35D0AD821D56CDD4.title": "Wanted by Sunday"
 	"quest.35D0AD821D56CDD4.quest_subtitle": "The Notice Board."
 	"quest.35D0AD821D56CDD4.quest_desc": [
-		"The Notice Board pins up the week: three North Pole Wants that pay half again at the Exchange, and three orders for bigger lots. Use the board holding an order's goods to hand them in; part loads count, and a filled order pays one lump sum, once each, however far prices have sagged. Both change on Monday: plan your week: sell a Want, fill an order."
+		"The Notice Board pins up the week: 3 North Pole Wants that pay 50% more at the Exchange, and 3 orders for bigger lots. Use the board holding an order's goods to hand them in; part loads count, and a filled order pays one lump sum, on the terms it was posted with. Both change on Monday."
 	]
 	"task.702D39CD3AF817B7.title": "Open Santa's Shop"
 	"quest.4B8CE993D9A0F9A1.title": "Spend It at Santa's"
 	"quest.4B8CE993D9A0F9A1.quest_subtitle": "Where spent chips go."
 	"quest.4B8CE993D9A0F9A1.quest_desc": [
-		"Santa's Shop sells decorations, treats and toy blueprints; chips spent there are gone for good. What it does not sell you make: hang a Notice Board of your own in your factory and hand orders in there."
+		"Santa's Shop takes chips from your pockets or the bank. Tabs: Decor, Treats, Blueprints, Casino and Spirits; a spirit's shelf opens once the server frees it. A Notice Board of your own takes orders at home."
 		"Mechanical Crafters, 3 wide by 3 tall: 2 brass sheets + clipboard + 3 paper + 2 stripped spruce logs = North Pole Notice Board."
 	]
 	"quest.068C2800EC9D4851.title": "An Exchange of Your Own"
 	"quest.068C2800EC9D4851.quest_subtitle": "Sell by the beltful."
 	"quest.068C2800EC9D4851.quest_desc": [
-		"It takes goods from belts, funnels and arms through its hatch and sells every unit for whoever placed it. The chips wait in its till (watch the nixie tubes); an empty hand collects them."
+		"It takes goods from belts, funnels and arms through its hatch and sells every unit for whoever placed it. The chips wait in its till (watch the nixie tubes); the owner collects them with an empty hand."
 		"Mechanical Crafters, 3 wide by 3 tall: planks + 2 golden sheets + 2 brass casings + Flap Card Bank + 2 nixie tubes + brass funnel = North Pole Exchange."
 	]
 	"quest.0EFC2DA5F4BEF5FC.title": "Your First Thousand"
 	"quest.0EFC2DA5F4BEF5FC.quest_subtitle": "Colour up."
 	"quest.0EFC2DA5F4BEF5FC.quest_desc": [
-		"Quests never pay a thousand chip. Carry a thousand chips' worth to the Cashier's Cage and use it with an empty hand: everything in your pockets colours up into the fewest chips there can be, and nothing is lost. However you earned it, a thousand chip means you have found your feet. Keep it as a trophy, or put it to work."
+		"Quests never pay a 1,000 Chip. Carry its worth to the Cashier's Cage (withdraw from the bank if you need to) and use it with an empty hand: everything in your pockets colours up into the fewest chips there can be, and nothing is lost. A 1,000 Chip means you have found your feet."
 	]
 	"quest.1F68120875F5D236.title": "Delivered"
 	"quest.1F68120875F5D236.quest_subtitle": "A sack of toys, delivered."
 	"quest.1F68120875F5D236.quest_desc": [
-		"Every sealed sack that lands in Santa's Sleigh pays its hoist owner 1.25 times its toys' Exchange base value, however it got there: by hand, belt, train or airship, and however many you send. If you are away, the house keeps your pay till you are back. Sacks tied before the change still pay 100 chips."
+		"Every sealed sack that lands in Santa's Sleigh pays its hoist owner 1.25 times its toys' Exchange base value, however it got there: by hand, belt, train or airship, as many as you send. If you are away, the house keeps your pay till you are back. Every spirit the server frees adds 3% to every sack."
 	]
 	"quest.01E302E4BEC06E1C.title": "Mail Order"
 	"quest.01E302E4BEC06E1C.quest_subtitle": "Ship it by frog."
@@ -440,22 +464,22 @@
 	]
 	"task.18482E36E891AD24.title": "Deliver 30 andesite alloy a minute for 10 minutes"
 	"quest.3958B466FD1AD867.title": "Alloy Foundry"
-	"quest.3958B466FD1AD867.quest_subtitle": "Thirty a minute for ten minutes."
+	"quest.3958B466FD1AD867.quest_subtitle": "A real foundry."
 	"quest.3958B466FD1AD867.quest_desc": [
-		"Thirty andesite alloy a minute, held for ten minutes. A real foundry: mixers fed andesite from a quarry, with zinc or iron nuggets arriving on time. Most factories on the server will run on what this makes."
+		"30 andesite alloy a minute, held for 10 minutes. A real foundry: mixers fed andesite from a quarry, with zinc or iron nuggets arriving on time. Most factories on the server will run on what this makes."
 	]
 	"task.14A9A7B8EDD97719.title": "Deliver 4 precision mechanisms a minute for 5 minutes"
 	"reward.360F13786D941D9D.title": "Fireworks!"
 	"quest.764395C6373B64A1.title": "Mechanism Works"
-	"quest.764395C6373B64A1.quest_subtitle": "Four a minute, for five."
+	"quest.764395C6373B64A1.quest_subtitle": "Sequenced lines, side by side."
 	"quest.764395C6373B64A1.quest_desc": [
-		"Four precision mechanisms a minute for five minutes means several sequenced lines running side by side, fed gold sheets and cogs without a gap. The Exchange always wants mechanisms; this is how you supply it."
+		"4 precision mechanisms a minute for 5 minutes means several sequenced lines running side by side, fed gold sheets and cogs without a gap. The Exchange always wants mechanisms; this is how you supply it."
 	]
 	"task.63DEF59CC0A0B293.title": "Deliver 6 boxes of fries a minute for 5 minutes"
 	"quest.6A4E0F47C1E08D99.title": "Fry Shop Rush"
-	"quest.6A4E0F47C1E08D99.quest_subtitle": "Six boxes a minute, five minutes straight."
+	"quest.6A4E0F47C1E08D99.quest_subtitle": "The lunch rush."
 	"quest.6A4E0F47C1E08D99.quest_desc": [
-		"The lunch rush: six boxes of fries a minute for five minutes. Potatoes, oil and cardboard all have to arrive on time, and the fryer must never run dry. Keep the oil tank topped up."
+		"The lunch rush: 6 boxes of fries a minute for 5 minutes. Potatoes, oil and cardboard all have to arrive on time, and the fryer must never run dry. Keep the oil tank topped up."
 	]
 	"chapter.11D71CA7090F9551.title": "The Casino"
 	"chapter.11D71CA7090F9551.chapter_subtitle": [
@@ -467,27 +491,32 @@
 	"quest.17B3295222734544.title": "The Casino Floor"
 	"quest.17B3295222734544.quest_subtitle": "Blackjack, Texas Hold'em and the wheel."
 	"quest.17B3295222734544.quest_desc": [
-		"Walk the floor: blackjack, where the dealer stands on seventeen; Texas Hold'em, where you play your friends and there is no rake; and Snowball Roulette, a single zero and a ball that never lies. Every bet is a real chip on the felt. Sneak-use the Cashier's Cage with an empty hand to deposit or withdraw chips."
+		"Sit on a stool at a Blackjack, a Poker and a Roulette Table, a friend's or your own (Building the Casino). Hold chips and use the felt to bet; the lit buttons do the rest. Seated, the casino panel steps aside and name tags read the table; a summary is a key away in Controls. Settled house bets earn Tinsel. Your Gift Chips bet at the Wheel."
 	]
 	"quest.25E6B1D27ECC0874.title": "The Wheel of Gifts"
-	"quest.25E6B1D27ECC0874.quest_subtitle": "Fifty-four segments and a clapper."
+	"quest.25E6B1D27ECC0874.quest_subtitle": "A wheel, a clapper, a prize."
 	"quest.25E6B1D27ECC0874.quest_desc": [
-		"Put a chip on a symbol's spot on the felt, then anyone uses the wheel: it spins eight seconds and the clapper picks the segment. Snowflakes pay 1:1, holly 2:1, up to 40:1 on Santa or the single lump of Coal. A Gift Chip bets as a 1. In Advent, an empty hand on a symbol takes a free spin once a day, paid in Gift Chips. Win a spin."
+		"Put a chip on a symbol's spot on the felt, then anyone pulls the wheel: it spins 8 seconds and the clapper picks one of 54 segments. Snowflake pays 1:1, Holly 2:1, Bell 5:1, Present 10:1, Star 20:1, Santa and Coal 40:1. A Gift Chip bets as a 1. In Advent, an empty hand on a symbol takes one free spin a day, paid in Gift Chips. Win a spin."
+	]
+	"quest.3BAC5309ED5C50BE.title": "Jingle Reels"
+	"quest.3BAC5309ED5C50BE.quest_subtitle": "Bells, holly and a lever."
+	"quest.3BAC5309ED5C50BE.quest_desc": [
+		"Use a Jingle Reels machine holding a 1, 5, 10 or 25 chip, or a Gift Chip, and pull the lever. Wins pay real chips, and every real chip staked feeds the North Pole Jackpot. Lucky drinks help here too, a little. Win a spin."
 	]
 	"quest.4FD3128EC2BDE93E.title": "Behind the Silver"
 	"quest.4FD3128EC2BDE93E.quest_subtitle": "One card a day, all through Advent."
 	"quest.4FD3128EC2BDE93E.quest_desc": [
-		"From 1 December, use the calendar on an Advent Kiosk for the day's scratch card: 10 chips, one a day until the 24th. Use it and rub off the nine silver panels; three alike win that symbol's prize, up to 2,500 for three Santas. Buy your first card."
+		"From 1 December, use the calendar on an Advent Kiosk for the day's scratch card: 10 chips from the chips you carry, one a day until the 24th. Use it and rub off the 9 silver panels; three alike win that symbol's prize, up to 2,500 for three Santas. Buy your first card."
 	]
 	"quest.3244EFB48B457838.title": "The Christmas Eve Draw"
-	"quest.3244EFB48B457838.quest_subtitle": "Three winning tickets, drawn live."
+	"quest.3244EFB48B457838.quest_subtitle": "Winning tickets, drawn live."
 	"quest.3244EFB48B457838.quest_desc": [
-		"Use the kiosk's counter or drum for a draw ticket, 50 chips each, as many as you like. Most of the takings go in the pot, and on 24 December at 20:00 the drum spins live for three winners: half the pot, then three tenths, then a fifth. Buy a ticket."
+		"Use the kiosk's counter or drum for a draw ticket, 50 chips each, as many as you like. Most of the takings (80%) go in the pot, and on 24 December at 20:00 the drum spins live for its winners: 50%, then 30%, then 20% of the pot. Buy a ticket."
 	]
 	"quest.26329079A83DBAA0.title": "Punto Banco"
 	"quest.26329079A83DBAA0.quest_subtitle": "Player, Banker or Tie."
 	"quest.26329079A83DBAA0.quest_desc": [
-		"Sit at a Baccarat Table and put chips in your seat's boxes: PLAYER, BANKER or TIE. There is nothing to decide once the cards come out: the dealer draws by the tableau, closest to nine wins. The Banker wins a little more often, so a Banker win on a three-card 7 only pushes."
+		"Sit at a Baccarat Table and put chips in your seat's boxes: PLAYER, BANKER or TIE, then press DEAL or wait. There is nothing to decide once the cards come out: the dealer draws by the tableau, closest to nine wins. The Banker wins a little more often, so a Banker win on a three-card 7 only pushes."
 	]
 	"quest.687565AB514EEF81.title": "A Natural"
 	"quest.687565AB514EEF81.quest_subtitle": "Eight or nine on two cards."
@@ -497,29 +526,29 @@
 	"quest.67F72F29FA3BC607.title": "Krampus and the Polar Bear"
 	"quest.67F72F29FA3BC607.quest_subtitle": "The side bets."
 	"quest.67F72F29FA3BC607.quest_desc": [
-		"The red 7 wins 40:1 when the Banker wins on three cards to 7; the white 8 wins 25:1 when the Player wins on three cards to 8. Win either. One or the other comes up about once in eighteen coups."
+		"The red 7 wins 40:1 when the Banker wins on three cards to 7; the white 8 wins 25:1 when the Player wins on three cards to 8. Win either. One or the other comes up about once in 18 coups."
 	]
 	"quest.45A920982B16572E.title": "Jacks or Better"
 	"quest.45A920982B16572E.quest_subtitle": "Hold, then draw."
 	"quest.45A920982B16572E.quest_desc": [
-		"Put up to five coins in a Video Poker cabinet, pull the lever, press the brass keys under the cards you keep and pull again. Win any paying hand. Five coins is the full return: the royal pays 800 a coin there."
+		"Each coin is a chip from 1 to 25: use it on a Video Poker cabinet (sneak to put in up to 5). Pull the lever, press the brass keys under the cards you keep and pull again. Win any paying hand. 5 coins is the full return: the royal pays 800 a coin there. Lucky drinks do nothing at Video Poker."
 	]
 	"quest.45F2F984A25678EA.title": "Four of a Kind"
-	"quest.45F2F984A25678EA.quest_subtitle": "Twenty-five a coin."
+	"quest.45F2F984A25678EA.quest_subtitle": "Quads, and the flaps riffle."
 	"quest.45F2F984A25678EA.quest_desc": [
-		"Draw four of a kind (or better) at Video Poker. It comes about once in four hundred hands with good holds: keep every pair, never a kicker, and let the flaps riffle. Four of a kind pays twenty-five a coin."
+		"Draw four of a kind (or better) at Video Poker. It comes about once in 400 hands with good holds: keep every pair, never a kicker, and let the flaps riffle. Four of a kind pays 25 a coin."
 	]
 	"reward.3217CA0B1A1ED90E.title": "Fireworks!"
 	"quest.3D5AAD87F5A0BC70.title": "The Royal"
 	"quest.3D5AAD87F5A0BC70.quest_subtitle": "Ten to ace, one suit."
 	"quest.3D5AAD87F5A0BC70.quest_desc": [
-		"Draw a royal flush: ten, jack, queen, king and ace of one suit. About one hand in forty thousand, so it is a story people will hear about all season. At five coins it pays 4,000 of them."
+		"Draw a royal flush: ten, jack, queen, king and ace of one suit. About one hand in 40,000, so it is a story people will hear about all season. At 5 coins it pays 4,000 of them."
 	]
 	"reward.70A4379119D5653F.title": "Fireworks!"
 	"quest.1ABB42B4520AF9CC.title": "The North Pole Jackpot"
-	"quest.1ABB42B4520AF9CC.quest_subtitle": "It must drop before 5,000."
+	"quest.1ABB42B4520AF9CC.quest_subtitle": "One pot for the whole server."
 	"quest.1ABB42B4520AF9CC.quest_desc": [
-		"Every real chip staked on Jingle Reels or Video Poker puts two in a hundred into one pot for the whole server, and the meters roll it up. It must drop before 5,000, at a point sealed when it starts: be the spin or the hand that carries it there."
+		"Every real chip staked on Jingle Reels or Video Poker puts 2% into one pot for the whole server, and the meters roll it up. It must drop before 5,000, at a point sealed when it starts: be the spin or the hand that carries it there."
 	]
 	"quest.65BCB7C6DA9DFD52.title": "They're Off"
 	"quest.65BCB7C6DA9DFD52.quest_subtitle": "Back the right reindeer."
@@ -527,14 +556,14 @@
 		"Put chips on a runner's roundel at the Reindeer Derby, then press START or wait for the gate. The odds are on the tote, the order is drawn at the gate, and the chains under the track carry it home. Win a race."
 	]
 	"quest.54C7CF4D81CE9164.title": "The Long Shot"
-	"quest.54C7CF4D81CE9164.quest_subtitle": "12:1 or longer."
+	"quest.54C7CF4D81CE9164.quest_subtitle": "The outsider comes home."
 	"quest.54C7CF4D81CE9164.quest_desc": [
 		"Win backing a runner at 12:1 or longer. The long shots win less often than the favourites, but every bet on the card returns the same in the long run: the difference is the story."
 	]
 	"quest.63B56B75131D58BF.title": "Twenty-One"
 	"quest.63B56B75131D58BF.quest_subtitle": "Beat the dealer."
 	"quest.63B56B75131D58BF.quest_desc": [
-		"Take a seat at a Blackjack Table, put chips in your circle and play the hand from the console in front of you: hit, stand, double or split. The dealer stands on soft 17 and a blackjack pays 3:2. Win a hand that pays more than you staked; a push does not count."
+		"Take a seat at a Blackjack Table, put chips in your circle and play the hand from the console in front of you: hit, stand, double or split. The dealer stands on soft 17, a blackjack pays 3:2 and the shoe is cut at half. Win a hand that pays more than you staked; a push does not count."
 	]
 	"quest.413578C19C63379D.title": "Take the Pot"
 	"quest.413578C19C63379D.quest_subtitle": "Texas Hold'em."
@@ -544,7 +573,7 @@
 	"quest.51B3770383EDC517.title": "Ultimate Texas Hold'em"
 	"quest.51B3770383EDC517.quest_subtitle": "You against the house."
 	"quest.51B3770383EDC517.quest_desc": [
-		"Alone at a Poker Table, put down an ante instead of sitting in: you play Ultimate Texas Hold'em against the dealer. Bet four or three times your ante before the flop, twice after it, or once on the river, and keep six antes in your stack. Beat the dealer's hand."
+		"Alone at a Poker Table, put down an ante instead of sitting in and press DEAL: you play Ultimate Texas Hold'em against the dealer. Play bets are 4×, 3×, 2× or 1× your ante: the bigger ones only before the flop. Ultimate needs six antes in your stack. Beat the dealer's hand."
 	]
 	"quest.0AF2EF50A84C0947.title": "Red or Green"
 	"quest.0AF2EF50A84C0947.quest_subtitle": "Any winning bet."
@@ -552,9 +581,9 @@
 		"Put chips on a Snowball Roulette Table (a number, red or green, odd or even, a dozen or a column) and let the wheel spin. It has a single snow-white zero, so the house edge is small. Win any bet. One number on its own, straight up, pays 35:1."
 	]
 	"quest.50C1DFAAE00DF7F8.title": "Big Chip"
-	"quest.50C1DFAAE00DF7F8.quest_subtitle": "Ten thousand. In one chip."
+	"quest.50C1DFAAE00DF7F8.quest_subtitle": "A fortune in one chip."
 	"quest.50C1DFAAE00DF7F8.quest_desc": [
-		"Hold a ten thousand chip. Very few people on the server ever will. Whether you built it up slowly or won it in a night, you are now the person everyone watches at the table."
+		"Hold a 10,000 Chip. Whether you built it up slowly or won it in a night, you are now the person everyone watches at the table. The High Roller's Ladder counts what you wager, not what you hold: climb it for titles and prizes."
 	]
 	"chapter.2292FA2DAC1C93EC.title": "The Casino Workshop"
 	"chapter.2292FA2DAC1C93EC.chapter_subtitle": [
@@ -577,7 +606,7 @@
 	"quest.6B45234B23A3480E.title": "The Site Controller"
 	"quest.6B45234B23A3480E.quest_subtitle": "The Workshop's brain."
 	"quest.6B45234B23A3480E.quest_desc": [
-		"It checks the building, lists what is missing and runs the stations. It stands in the middle of the front wall, facing out."
+		"It checks the building, lists what is missing and runs the stations. It stands in the middle of the front wall, facing out. Use it in the air for the build guide."
 		"Mechanical Crafters, 3 wide by 3 tall: 4 golden sheets + nixie tube + 2 precision mechanisms + brass casing + electron tube = Site Controller."
 		"Goes into: The Casino Workshop."
 	]
@@ -636,11 +665,15 @@
 	"quest.299AAAEF4829DB19.quest_desc": [
 		"The plan shows both levels: gearboxes and shafts under the floor, the Line up the middle, the stations on its left."
 		"Blocks: 142 Site Casings, 104 andesite casings, 14 gearboxes, 14 Lines, 9 andesite encased shafts, and 8 more, one of each (each has its own quest)."
-		"Drive it at 16 RPM or more. JEI's Casino Workshop page shows every block."
+		"Drive it at 16 RPM or more. Hold a piece near it: the next layer shows in the world."
 		""
 		"{image:cccasino:textures/gui/quest/mb_workshop.png width:200 height:78 align:center}"
 		""
 		"{image:cccasino:textures/gui/quest/mb_plan_workshop.png width:200 height:78 align:center}"
+		""
+		"{image:cccasino:textures/gui/quest/mb_layers_workshop.png width:200 height:78 align:center}"
+		""
+		"{image:cccasino:textures/gui/quest/mb_build_guide.png width:200 height:78 align:center}"
 	]
 	"task.0D23B378EB633CA1.title": "Got it"
 	"quest.0E0C83585F50A19D.title": "Running the Workshop"
@@ -738,14 +771,16 @@
 	"quest.53BA852B2FDB1B1A.title": "How a Game Goes Together"
 	"quest.53BA852B2FDB1B1A.quest_subtitle": "Pieces, then the cloth."
 	"quest.53BA852B2FDB1B1A.quest_desc": [
-		"Place the pieces in the frame JEI shows, then use the printed cloth on it: the table forms. Holding a piece outlines what is missing in blue and a wrong piece in red; goggles on the Dealer's Station list the rest. Break a piece and put it back and it forms again. Sneak with a wrench to lift the cloth."
+		"Place the pieces in the frame the build guide shows (use any piece in the air), then use the printed cloth on it: the table forms. Holding a piece outlines what is missing in blue and a wrong piece in red; goggles on the Dealer's Station list the rest. Break a piece and put it back and it forms again. Sneak with a wrench to lift the cloth."
 		""
 		"{image:cccasino:textures/gui/quest/mb_guide.png width:200 height:78 align:center}"
+		""
+		"{image:cccasino:textures/gui/quest/mb_build_guide.png width:200 height:78 align:center}"
 	]
 	"quest.39B0D878CD31828F.title": "The Dealer's Station"
 	"quest.39B0D878CD31828F.quest_subtitle": "The brain of every table."
 	"quest.39B0D878CD31828F.quest_desc": [
-		"Every game goes together from pieces the Workshop makes. The station holds the chip float and runs the round, so every card and wheel table has one."
+		"The station holds the chip float and runs the round, so every card and wheel table has one. Use it in the air for the build guide."
 		"Workshop: Press (Chip Tray + 2 planks), then Lathe (Table Base) = Dealer's Station."
 		"Goes into: Baccarat Table, Blackjack Table, Large Blackjack Table, Small Blackjack Table and 2 more."
 		""
@@ -786,6 +821,7 @@
 		"Back: Dealer's Station (first, facing you), Card Shoe; front: 2 Padded Rail Sections."
 		"Last, use the Blackjack Layout on it: it forms."
 		"Power: a shaft into the back of the Card Shoe (the dealer's side)."
+		"Or buy a Small Blackjack Table Kit at Santa's Shop (4,000 chips): every piece and the cloth."
 		""
 		"{image:cccasino:textures/gui/quest/mb_blackjack_table_small.png width:200 height:78 align:center}"
 		""
@@ -977,6 +1013,7 @@
 		"Place the Cabinet Plinth (first, facing you), then stand the Reel Drum Housing on it."
 		"It forms as the last piece goes in."
 		"Power: a shaft into the back of the Cabinet Plinth (the side away from the player)."
+		"Or buy a Jingle Reels Kit at Santa's Shop (2,500 chips): every piece and the cloth."
 		""
 		"{image:cccasino:textures/gui/quest/mb_slot_cabinet.png width:200 height:78 align:center}"
 		""
@@ -1105,67 +1142,67 @@
 		"Climb the ladder: status, never chips."
 	]
 	"quest.38391200E39FA1C3.title": "The Elf Card"
-	"quest.38391200E39FA1C3.quest_subtitle": "Ten thousand, wagered."
+	"quest.38391200E39FA1C3.quest_subtitle": "Where the ladder starts."
 	"quest.38391200E39FA1C3.quest_desc": [
-		"The High Roller's Ladder counts every chip you wager at the house games once the round settles. Texas Hold'em between players, Gift Chips and refunds never count. Wager 10,000 in all for the Elf Card: the Prize Counter's first shelf, a title over your seat, and a top hat. Use the card to change the title you show."
+		"The High Roller's Ladder counts every chip you wager at the house games once the round settles. Texas Hold'em between players, Gift Chips and refunds never count. Wager 10,000 in all for the Elf Card: the Prize Counter's first shelf, a title above your name, and a top hat. Use the card to change the title you show."
 	]
 	"quest.1AE01F2D33612C8C.title": "The Reindeer Card"
-	"quest.1AE01F2D33612C8C.quest_subtitle": "A hundred thousand."
+	"quest.1AE01F2D33612C8C.quest_subtitle": "Lucky is waiting."
 	"quest.1AE01F2D33612C8C.quest_desc": [
-		"Wager 100,000 at the house games, all told. The Reindeer Card opens the Prize Counter's second shelf: Lucky the Snow Fox, earmuffs and the Win Burst trail. Velvet ropes set to Reindeer let you walk through, and recipes that ask for the card give it back."
+		"Wager 100,000 at the house games, all told. The Reindeer Card opens the Prize Counter's second shelf: Lucky the Snow Fox, Velvet Earmuffs and Win Burst Trail. Velvet ropes set to Reindeer let you walk through, and recipes that ask for the card give it back."
 	]
 	"quest.467B241331255569.title": "The Sleigh Card"
-	"quest.467B241331255569.quest_subtitle": "A million on the felt."
+	"quest.467B241331255569.quest_subtitle": "Cast in gold."
 	"quest.467B241331255569.quest_desc": [
-		"A million chips wagered. The Sleigh Card opens the Prize Counter's third shelf: Pemberton the Penguin Butler, tray and all, and the High Roller Statue, a gold likeness of you on a plinth. The velvet ropes part for you a little more often now."
+		"1,000,000 chips wagered. The Sleigh Card opens the Prize Counter's third shelf: the High Roller Statue, a gold likeness of you on a plinth. The velvet ropes part for you a little more often now."
 	]
 	"reward.445699731B95F4AD.title": "Fireworks!"
 	"quest.0F67369CA332F014.title": "The North Star Card"
-	"quest.0F67369CA332F014.quest_subtitle": "Ten million."
+	"quest.0F67369CA332F014.quest_subtitle": "The floor knows your name."
 	"quest.0F67369CA332F014.quest_desc": [
-		"Ten million wagered, and the floor knows your name. The North Star Card opens the Prize Counter's fourth shelf, where Mischief the Mini Krampus waits for a player who also holds the Krampus 7 ribbon. Only the very top rope stays closed to you."
+		"10,000,000 wagered, and everyone at the tables knows who you are. The North Star Card opens every velvet rope but the very top one, and its title is one few on the server will ever show."
 	]
 	"reward.05395D6F77C2322D.title": "Fireworks!"
 	"quest.3FD5A71B2ABEE6A9.title": "Santa's Circle"
-	"quest.3FD5A71B2ABEE6A9.quest_subtitle": "Fifty million. The top."
+	"quest.3FD5A71B2ABEE6A9.quest_subtitle": "The top of the ladder."
 	"quest.3FD5A71B2ABEE6A9.quest_desc": [
-		"Fifty million chips wagered at the house. Santa's Circle is the top of the ladder: every velvet rope opens, and the last shelf sells Star Dust, the only way to the gilded looks. The card shimmers. So will you."
+		"50,000,000 chips wagered at the house. Santa's Circle is the top: every velvet rope opens, and the last shelf sells Star Dust, the only way to the gilded looks. The card shimmers. So will you."
 	]
 	"quest.206611988DEB447A.title": "Natural Born"
-	"quest.206611988DEB447A.quest_subtitle": "Blackjack, with a big chip down."
+	"quest.206611988DEB447A.quest_subtitle": "Blackjack, with a fortune down."
 	"quest.206611988DEB447A.quest_desc": [
-		"Be dealt a blackjack natural, an ace and a ten-card, with a 25,000 chip or bigger in the bet. The Natural Born ribbon is a title to show, and the dealer visor and a coat for Pemberton both ask for it."
+		"Be dealt a blackjack natural, an ace and a ten-card, with 25,000 or more on the hand: only a table set to its highest limits takes that (its owner sets them on the shoe). The ribbon is a title to show, and the Dealer's Visor asks for it."
 	]
 	"quest.3853324A3E69880D.title": "Straight Up"
 	"quest.3853324A3E69880D.quest_subtitle": "One number, and the ball finds it."
 	"quest.3853324A3E69880D.quest_desc": [
-		"Put chips on a single number at Snowball Roulette and watch the ball drop into it: 35:1, straight up. The ribbon is a title to show, and the holly wreath hat and a coat for Mischief both ask for it."
+		"Put chips on a single number at Snowball Roulette and watch the ball drop into it: 35:1, straight up. The ribbon is a title to show, and the Holly Wreath hat asks for it."
 	]
 	"quest.1FA3F823835B78BA.title": "Royal"
 	"quest.1FA3F823835B78BA.quest_subtitle": "Ten to ace, one suit."
 	"quest.1FA3F823835B78BA.quest_desc": [
-		"Make a royal flush at Video Poker or Ultimate Texas Hold'em. It comes about once in thirty or forty thousand hands, so when it lands, the casino hears about it. The Royal ribbon is a title, and it goes into Lucky's holly crown and the gold glitter trail."
+		"Make a royal flush at Video Poker (about one hand in 40,000) or at Ultimate Texas Hold'em. When it lands, the casino hears about it. The Royal ribbon is a title, and it goes into Lucky's holly crown and the gold glitter trail."
 	]
 	"quest.334EEFC57AC94423.title": "Krampus 7"
 	"quest.334EEFC57AC94423.quest_subtitle": "The red seven, on the side."
 	"quest.334EEFC57AC94423.quest_desc": [
-		"Win baccarat's Krampus 7 side bet: the Banker wins on three cards to 7, 40:1. The Polar Bear does not count. The ribbon is a title, and with the North Star Card it lets you buy Mischief the Mini Krampus."
+		"Win baccarat's Krampus 7 side bet: the Banker wins on three cards to 7, which pays 40:1. The Polar Bear does not count. The ribbon is a title to show off at every table you sit at from now on."
 	]
 	"quest.69349EF4E0C532E9.title": "Longshot"
-	"quest.69349EF4E0C532E9.quest_subtitle": "12:1, and home first."
+	"quest.69349EF4E0C532E9.quest_subtitle": "An outsider, home first."
 	"quest.69349EF4E0C532E9.quest_desc": [
 		"Back a runner at the Reindeer Derby at 12:1 or longer and see it come home first. The Longshot ribbon is a title to show, and the snowflake trail and a cream coat for Lucky the Snow Fox both ask for it."
 	]
 	"quest.63A8F73034799D95.title": "North Pole Drop"
 	"quest.63A8F73034799D95.quest_subtitle": "The jackpot falls on you."
 	"quest.63A8F73034799D95.quest_desc": [
-		"Be the spin or the hand that drops the North Pole Jackpot, the pot the whole server feeds. The North Pole Drop ribbon is a title to show, and it goes into the aurora trail and Pemberton's earmuffs and scarf."
+		"Be the spin or the hand that drops the North Pole Jackpot, the pot the whole server feeds. The North Pole Drop ribbon is a title to show, and it goes into the Aurora Trail, with Star Dust from Santa's Circle."
 	]
 	"reward.61216641B683C9BF.title": "Fireworks!"
 	"quest.499A79D9EFD8A90F.title": "Full Card"
 	"quest.499A79D9EFD8A90F.quest_subtitle": "A win at every house game."
 	"quest.499A79D9EFD8A90F.quest_desc": [
-		"Win at least once at every house game: blackjack, baccarat, Snowball Roulette, Ultimate Texas Hold'em, Jingle Reels, Video Poker, the Wheel of Gifts and the Reindeer Derby. The Full Card ribbon puts gold trim on your casino panel and a jingle collar within Mischief's reach."
+		"Win at least once at every house game: blackjack, baccarat, Snowball Roulette, Ultimate Texas Hold'em, Jingle Reels, Video Poker, the Wheel of Gifts and the Reindeer Derby. The Full Card ribbon is a title, and it puts gold trim on your casino panel."
 	]
 	"quest.152F345C5D24021B.title": "Tinsel"
 	"quest.152F345C5D24021B.quest_subtitle": "What the house keeps, you earn."
@@ -1176,7 +1213,7 @@
 	"quest.380176687E1624B6.title": "The Prize Counter"
 	"quest.380176687E1624B6.quest_subtitle": "Prizes under glass."
 	"quest.380176687E1624B6.quest_desc": [
-		"Walnut and brass under glass, the prizes turning on their pedestals. Use it for the catalogue: it takes Tinsel only, never chips. Rare finds and lucky drinks are open to everyone; a prize shelf above your rank shows the rank instead of a price. Prize Silk, sold only here, goes into every cosmetic recipe."
+		"Walnut and brass under glass, the prizes turning on their pedestals. It takes Tinsel only, never chips. Open to everyone: Rare finds, Lucky drinks, Santa's Mint. A prize shelf above your rank shows the rank instead of a price. Prize Silk, sold only here, goes into every cosmetic recipe."
 	]
 	"quest.1DBA3BBEF024CD4A.title": "A Counter of Your Own"
 	"quest.1DBA3BBEF024CD4A.quest_subtitle": "Walnut, brass and glass."
@@ -1190,12 +1227,20 @@
 		"The same counter in peppermint stripes: white concrete and red dye for the walnut."
 		"Mechanical Crafters, 3 wide by 4 tall: red dye + precision mechanism + 2 golden sheets + brass casing + 3 framed glass + mechanical bearing + nixie tube + 2 white concrete = Peppermint Prize Counter."
 	]
+	"quest.519D3CC85D3303E8.title": "The Mint Die"
+	"quest.519D3CC85D3303E8.quest_subtitle": "Where every Mint starts."
+	"quest.519D3CC85D3303E8.quest_desc": [
+		"Every Mint starts with a Die: buy it with Tinsel, then build the Mint around it on Mechanical Crafters."
+		"Buy it at the Prize Counter, Santa's Mint shelf: Mint Die for 6,000 Tinsel."
+		"Goes into: Santa's Mint."
+	]
 	"quest.79F724DED7AAD0BD.title": "Santa's Mint"
 	"quest.79F724DED7AAD0BD.quest_subtitle": "Blanks in, chips out."
 	"quest.79F724DED7AAD0BD.quest_desc": [
-		"It turns Tinsel back into chips, slower than play earned it. Use the kit on clear ground, turn its Drive Port with Create, feed it Mint Blanks and collect the till with an empty hand."
-		"Buy it at the Prize Counter, Santa's Mint shelf: Santa's Mint for 10,000 Tinsel."
-		"Each blank strikes 10 chips into the till."
+		"It turns Tinsel back into chips, never all of what play cost."
+		"Mechanical Crafters, 3 wide by 3 tall: 4 brass casings + mechanical press + 2 precision mechanisms + Mint Die + depot = Santa's Mint."
+		"The Mint needs a clear space 3 wide, 3 deep and 5 tall, its front left corner where you click."
+		"Turn the Drive Port in its left wall (16 RPM or more)."
 		""
 		"{image:cccasino:textures/gui/quest/mb_mint.png width:200 height:78 align:center}"
 	]
@@ -1206,22 +1251,42 @@
 		"Buy them at the Prize Counter, Santa's Mint shelf: 10 Mint Blanks for 250 Tinsel."
 		"Each blank strikes 10 chips into the till."
 	]
+	"quest.55A0033DA7844FAA.title": "The Second Press Die"
+	"quest.55A0033DA7844FAA.quest_subtitle": "A die for another press."
+	"quest.55A0033DA7844FAA.quest_desc": [
+		"Another press needs its own Die, bought with Tinsel like the first."
+		"Buy it at the Prize Counter, Santa's Mint shelf: Mint Die: Second Press for 4,000 Tinsel."
+		"Goes into: Mint Upgrade: Second Press."
+	]
 	"quest.66FB011AE03038AD.title": "Mint II"
 	"quest.66FB011AE03038AD.quest_subtitle": "A second press."
 	"quest.66FB011AE03038AD.quest_desc": [
 		"Use it on your Mint: the hall grows a bay to the right and gets a second press. It strikes faster; a blank still makes the same."
-		"Buy it at the Prize Counter, Santa's Mint shelf: Mint Upgrade: Second Press for 15,000 Tinsel."
+		"Mechanical Crafters, 1 wide by 3 tall: Mint Die: Second Press + mechanical press + brass casing = Mint Upgrade: Second Press."
+	]
+	"quest.373657A20BD2F14A.title": "The Feeder Die"
+	"quest.373657A20BD2F14A.quest_subtitle": "A die for the feeder line."
+	"quest.373657A20BD2F14A.quest_desc": [
+		"The feeder and its presses take a Die of their own, bought with Tinsel."
+		"Buy it at the Prize Counter, Santa's Mint shelf: Mint Die: Feeder for 8,000 Tinsel."
+		"Goes into: Mint Upgrade: Feeder and Two Presses."
 	]
 	"quest.64CD5235EA8A1296.title": "Mint III"
 	"quest.64CD5235EA8A1296.quest_subtitle": "More presses and a feeder."
 	"quest.64CD5235EA8A1296.quest_desc": [
 		"Use it on your Mint II: the hall grows again, gets more presses and a belt feeder on its roof. Faster still; a blank still makes the same."
-		"Buy it at the Prize Counter, Santa's Mint shelf: Mint Upgrade: Feeder and Two Presses for 30,000 Tinsel."
+		"Mechanical Crafters, 3 wide by 2 tall: Mint Die: Feeder + 2 mechanical presses + 2 brass casings + brass funnel = Mint Upgrade: Feeder and Two Presses."
+	]
+	"task.3638F915ABB1F64A.title": "Got it"
+	"quest.0A74407E55ADC2B9.title": "A Lucky Drink"
+	"quest.0A74407E55ADC2B9.quest_subtitle": "Luck, by the bottle."
+	"quest.0A74407E55ADC2B9.quest_desc": [
+		"The Lucky drinks shelf sells Lucky Tonic for 150 Tinsel and Mistletoe Elixir for 600 Tinsel. A drink gives you Luck for a while: luckier draws at the casino, and Minecraft luck for fishing and loot. Luck is capped so no house game ever pays back all it takes, and it does nothing at Video Poker. While it lasts you earn less Tinsel."
 	]
 	"quest.50DE7041F0C1E2A3.title": "The Wardrobe"
 	"quest.50DE7041F0C1E2A3.quest_subtitle": "A hat for the tables."
 	"quest.50DE7041F0C1E2A3.quest_desc": [
-		"Buy an Elf Cap from the Elf shelf and use it: it sits in your casino hat slot, drawn over any helmet. Use it again to take it off. Every hat from the Prize Counter or a Prize Silk recipe goes on the same way, one at a time."
+		"Once you hold the Elf Card, buy an Elf Cap from its shelf and use it: it sits in your casino hat slot, over any helmet, and another hat swaps with it. To take it off: sneak and use with an empty hand, looking up. Or press Take Off Casino Hat, a key you set in Controls."
 	]
 	"quest.3A9DBB9E5AEAA938.title": "Lucky"
 	"quest.3A9DBB9E5AEAA938.quest_subtitle": "A snow fox in a bauble."
@@ -1460,7 +1525,7 @@
 	"quest.3A6B51BCBD69EBCD.title": "Punch and Milkshakes"
 	"quest.3A6B51BCBD69EBCD.quest_subtitle": "Something cold for the children's table."
 	"quest.3A6B51BCBD69EBCD.quest_desc": [
-		"Heat a lemon slice, sugar and four cranberries for cranberry jam, then mix 250 mB of it cold with 250 mB of orange juice, ice and sugar for punch. Saw ice into cubes, mix two with sugar and 500 mB of milk for ice cream base, then add milk and peppermint and pour it into a tall cup."
+		"Heat a lemon slice, sugar, four cranberries and 100 mB of water for jam, then mix 250 mB of it cold with 250 mB of orange juice, ice and sugar for punch. Saw ice into cubes, mix two with sugar and 500 mB of milk for ice cream base, then add milk and peppermint and pour it into a tall cup."
 	]
 	"quest.165F13210E83C72D.title": "Roast Potatoes"
 	"quest.165F13210E83C72D.quest_subtitle": "Crispy outside, fluffy inside."
@@ -1470,7 +1535,7 @@
 	"quest.5713C778265B627E.title": "Pigs in Blankets"
 	"quest.5713C778265B627E.quest_subtitle": "Sausages, wrapped in bacon."
 	"quest.5713C778265B627E.quest_desc": [
-		"Any raw meat crafts into a raw sausage, and a knife or a Slice and Dice slicer cuts porkchops into bacon. A deployer wraps the bacon round each sausage, then a fan's smoke cooks them through. Everyone takes one more than their share."
+		"Raw meat and a cleaver craft a raw sausage, and a knife or a Slice and Dice slicer cuts porkchops into bacon. A deployer wraps the bacon round each sausage, then a fan's smoke cooks them through. Everyone takes one more than their share."
 	]
 	"quest.16B3C5D39B428563.title": "Stuffing and Gravy"
 	"quest.16B3C5D39B428563.quest_subtitle": "The trimmings make the dinner."
@@ -1486,12 +1551,12 @@
 	"quest.47CA656304C804DD.title": "Christmas Dinner"
 	"quest.47CA656304C804DD.quest_subtitle": "The whole table, on one platter."
 	"quest.47CA656304C804DD.quest_desc": [
-		"Start from a roast chicken off a sequenced line, then deploy roast potatoes, pigs in blankets and stuffing, and spout 250 mB of gravy and 100 mB of cranberry jam (heated lemon, sugar and cranberries). Five stations, three supply lines, one four-serving feast."
+		"Start from a roast chicken off a sequenced line, then deploy roast potatoes, pigs in blankets and stuffing, and spout 250 mB of gravy and 100 mB of cranberry jam (heated lemon, sugar, cranberries, water). Five stations, three supply lines, one four-serving feast."
 	]
 	"quest.11F5DC58C84D39B9.title": "The Christmas Party Bucket"
 	"quest.11F5DC58C84D39B9.quest_subtitle": "Wrapped, with fries and cake."
 	"quest.11F5DC58C84D39B9.quest_desc": [
-		"Take a bucket of fried chicken from the kitchen and send it down a sequenced line: deployers wrap it in red wrapping paper, add fries and add a slice of cake. Cut a cake into slices with a knife or a Slice and Dice slicer. It feeds a whole team after a long build."
+		"Send a bucket of fried chicken down a sequenced line: deployers wrap it in Create Wrapped red paper (a spout pours 250 mB of red dye on paper; the Workshop's patterned paper will not do), add fries and a slice of cake (a knife cuts it). It feeds a whole team after a long build."
 	]
 	"quest.584718B49E37049D.title": "Set the Table"
 	"quest.584718B49E37049D.quest_subtitle": "Plates, mugs and somewhere to sit."
@@ -1603,7 +1668,7 @@
 	"quest.2CBCFE0DD3F441A9.title": "Sunday Roasts"
 	"quest.2CBCFE0DD3F441A9.quest_subtitle": "Feasts that feed four."
 	"quest.2CBCFE0DD3F441A9.quest_desc": [
-		"Two roast chickens and two shepherd's pies a day, each one a feast that serves four. Deployers lay the mutton, potato and onion, and a spout pours the milk. Two sequenced lines side by side make the whole order."
+		"Two roast chickens and two shepherd's pies a day, each a feast that serves four, from two sequenced lines: the chicken is a bowl and six deployers; the pie is a bowl, mutton, a baked potato and an onion, then a spout of milk."
 	]
 	"quest.7AEE8E7F184871C2.title": "A Tin for Every Mantel"
 	"quest.7AEE8E7F184871C2.quest_subtitle": "Sixteen iced cookies a day."
@@ -1749,7 +1814,7 @@
 	"quest.6168CEC945B4D9AB.title": "Diesel Power"
 	"quest.6168CEC945B4D9AB.quest_subtitle": "Ninety-six revs and a lot of smoke."
 	"quest.6168CEC945B4D9AB.quest_desc": [
-		"A diesel engine (engine pistons, a brass block, a fluid tank, blackstone slabs, flint and steel) gives 96 RPM and 6,144 stress: three times a portable engine, and props that push to 13 m/s. Mix seed oil and ethanol into biodiesel, or pump crude oil and distil it. An analog lever throttles it."
+		"A diesel engine (engine pistons, a brass block, a fluid tank, blackstone slabs, flint and steel) gives 96 RPM and 6,144 stress on diesel (pumped crude oil, distilled): three times a portable engine, props to 13 m/s. Biodiesel (seed oil and ethanol) gives about two thirds of that, plant oil a third. An analog lever throttles it."
 	]
 	"quest.25FA1B6FC0D10A9A.title": "Air Mail"
 	"quest.25FA1B6FC0D10A9A.quest_subtitle": "The fastest roads are in the sky."
@@ -1790,12 +1855,14 @@
 	"quest.50F37896395DFCB1.title": "Santa's Toy Works"
 	"quest.50F37896395DFCB1.quest_subtitle": "The Carousel turns, and toys come out."
 	"quest.50F37896395DFCB1.quest_desc": [
-		"Ring a clear dial in Toy Works Casing, a deployer on a casing pedestal at each stop, ports and controller where the plan shows and the Toy Chute behind the back gate. Stand by it as it forms, then make a Wooden Train."
+		"Ring a dial in Toy Works Casing, a deployer on a pedestal at each stop: use the controller in the air for the build guide. Queue a toy on the controller, feed its blank and parts to the Item Input Port, turn the Drive Port. Make a Wooden Train."
 		"Blocks: 84 Toy Works Casings, 4 Workshop Deployers; one each: Santa's Toy Works, Drive Port, Item Input Port."
 		""
 		"{image:cccasino:textures/gui/quest/mb_toy_works.png width:200 height:78 align:center}"
 		""
 		"{image:cccasino:textures/gui/quest/mb_plan_toy_works.png width:200 height:78 align:center}"
+		""
+		"{image:cccasino:textures/gui/quest/mb_layers_toy_works.png width:200 height:78 align:center}"
 	]
 	"quest.41023DBBCE14EC9D.title": "A New Design"
 	"quest.41023DBBCE14EC9D.quest_subtitle": "Learn a toy nobody taught you."
@@ -1805,7 +1872,7 @@
 	"quest.3C332E5EB1726584.title": "Eight Hands"
 	"quest.3C332E5EB1726584.quest_subtitle": "Every face of the toy."
 	"quest.3C332E5EB1726584.quest_desc": [
-		"Add a second deployer on its own casing pedestal at each stop, as the plan shows, and the works reaches tier II: a toy's steps reach every face and the top. Learn the Clockwork Mouse and make one."
+		"Add a second deployer on its own casing pedestal at each stop, as the plan and the build guide's second page show, and the works reaches tier II: a toy's steps reach every face and the top. Learn the Clockwork Mouse and make one."
 		"Blocks: 88 Toy Works Casings, 8 Workshop Deployers; one each: Santa's Toy Works, Drive Port, Item Input Port."
 		""
 		"{image:cccasino:textures/gui/quest/mb_plan_toy_works.png width:200 height:78 align:center}"
@@ -1833,7 +1900,7 @@
 	"quest.6E5B88DF0CAA50F1.title": "The Gift Wrapper"
 	"quest.6E5B88DF0CAA50F1.quest_subtitle": "One stroke, one present."
 	"quest.6E5B88DF0CAA50F1.quest_desc": [
-		"It presses a toy and a sheet of wrapping paper into a present, one stroke at a time, on Create power. Run a belt from your Toy Chute through it and wrap a toy in red."
+		"It presses a toy and a sheet of wrapping paper into a present on Create power. Use paper on it (or funnel it in) to load its roll of 16 sheets. Run a belt from your Toy Chute through it and wrap a toy in red."
 		"Crafting table: mechanical press + brass casing + shears + string = Gift Wrapper."
 	]
 	"quest.755A24D22F84FF75.title": "Ribbon and Tag"
@@ -1845,13 +1912,13 @@
 	"quest.03616C083D252999.title": "Empty Sacks"
 	"quest.03616C083D252999.quest_subtitle": "Red wool and string."
 	"quest.03616C083D252999.quest_desc": [
-		"The Sack Hoist fills empty sacks with presents. Give it a stack and it never waits for one."
+		"The Sack Hoist fills empty sacks with presents and keeps up to 8 on its platform: top it up by hand, funnel or arm and it never waits for one."
 		"Crafting table (shaped): 2 string + 5 red wool = 2 Empty Sacks."
 	]
 	"quest.072E0AC2B3CCAE09.title": "Santa's Sack Hoist"
 	"quest.072E0AC2B3CCAE09.quest_subtitle": "Presents in, a sealed sack out."
 	"quest.072E0AC2B3CCAE09.quest_desc": [
-		"Placed, it raises its own platform and winch. Feed it presents and an empty sack."
+		"Turn it with Create: 32 presents fill a sack, and sealed sacks wait on its platform."
 		"Mechanical Crafters, 5 wide by 5 tall: 2 shafts + 2 brass casings + rope pulley + 4 metal girders + brass hand + copper casing + brass sheet + stressometer + 4 andesite casings + propeller + iron bars + precision mechanism + 3 spruce slabs = Santa's Sack Hoist."
 		""
 		"{image:cccasino:textures/gui/quest/mb_sack_hoist.png width:200 height:78 align:center}"
@@ -1859,7 +1926,7 @@
 	"quest.11CE1B69A84314E4.title": "Christmas Spirit"
 	"quest.11CE1B69A84314E4.quest_subtitle": "What rises from a full sack."
 	"quest.11CE1B69A84314E4.quest_desc": [
-		"Each sealed sack gives off Spirit Wisps. A Spout fills buckets from the mixer; the Yuletide Forge drinks Spirit by pipe or by the bucket."
+		"Each sealed sack gives 8 Spirit Wisps at the hoist platform's front-left still. A spout fills buckets from the mixer; the Forge takes Spirit by pipe or bucket."
 		"Heated mixer: Spirit Wisp + eggnog + glowstone dust = 250 mB Christmas Spirit."
 		"Goes into: Star of Saint Nicholas, Fine Lucky Tonic, Fine Mistletoe Elixir, Fine Star Draught and 3 more."
 	]
@@ -1877,7 +1944,7 @@
 	"quest.0239AA5C1C21389A.title": "A Finer Vintage"
 	"quest.0239AA5C1C21389A.quest_subtitle": "Ten minutes instead of five."
 	"quest.0239AA5C1C21389A.quest_desc": [
-		"Any brew can be made Fine: deploy a leaf of gold (a saw cuts a gold sheet into four) and spout a second 250 mB of Spirit into it. A Fine bottle lasts ten minutes. Brews never stack: a stronger one replaces a weaker, and the same brew only starts its timer again."
+		"Any brew can be made Fine: deploy a leaf of gold (a saw cuts a gold sheet into four) and spout a second 250 mB of Spirit into it. A Fine bottle lasts ten minutes. Brews never stack: a stronger one replaces a weaker, a weaker is refused and kept, and the same brew restarts its timer only once the running one has gone a minute."
 	]
 	"quest.380B0EB54C77A0AA.title": "Mistletoe Elixir"
 	"quest.380B0EB54C77A0AA.quest_subtitle": "Luck II."
@@ -1915,13 +1982,13 @@
 	"quest.59E6A086C810D86F.title": "The Brass-banded Pot"
 	"quest.59E6A086C810D86F.quest_subtitle": "Plant it."
 	"quest.59E6A086C810D86F.quest_desc": [
-		"Set it in the ground and use the sprig on it. Each step of growth has its own bill of water and Pine Feed: use a water bucket and the feed on the pot (sneak for a whole stack), and open it with an empty hand to see the bill."
+		"Set it in the ground and use the sprig on it. Each step of growth has its own bill of water and Pine Feed: use a water bucket and the feed on the pot (sneak for a stack), or feed it by pipe, funnel or arm. Goggles show the bill. A pot grows it to step 6."
 		"Crafting table (shaped): 5 spruce slabs + 2 brass sheets + Potting Loam = Brass-banded Pot."
 	]
 	"quest.65D03F526D0AC26E.title": "The Spruce Tub"
 	"quest.65D03F526D0AC26E.quest_subtitle": "Room to grow."
 	"quest.65D03F526D0AC26E.quest_desc": [
-		"Use it on the potted tree to repot it, tree and all. From step 7 the tree wants frost as well: a snow block counts 1, ice 2, packed ice 9 and blue ice 81."
+		"Use it on the potted tree to repot it, tree and all; a tub grows it to step 12. From step 7 the tree wants frost as well: a snow block counts 1, ice 2, packed ice 9 and blue ice 81."
 		"Mechanical Crafters, 5 wide by 3 tall: 5 stripped spruce logs + 5 brass sheets + 2 Potting Loam + copper sheet + 2 iron sheets = Spruce Tub."
 	]
 	"chapter.174BDD9E16EB501B.title": "The Yuletide Forge"
@@ -1939,14 +2006,14 @@
 	"quest.385352414B27BF44.quest_subtitle": "Red wool, gold and brass."
 	"quest.385352414B27BF44.quest_desc": [
 		"The hall's walls are Forge Casing, and the controller, the hammer, the glazing and the inlet are made from it."
-		"Crafting table (shaped): 4 gold ingots + 4 red wool + brass casing = 4 Forge Casings."
+		"Use a golden sheet on a brass casing, by hand or with a Deployer = 2 Forge Casings."
 		"Goes into: Yuletide Forge, Forge Glazing, Forge Hammer, Spirit Inlet and 2 more."
 	]
 	"quest.0E75A8E31B582860.title": "Forge Glazing"
 	"quest.0E75A8E31B582860.quest_subtitle": "The windows."
 	"quest.0E75A8E31B582860.quest_desc": [
 		"Framed glass in casing: the hall's windows, set wherever the plan shows glass."
-		"Crafting table (shaped): 4 brass sheets + 4 framed glass + Forge Casing = 4 Forge Glazing."
+		"Crafting table (shaped): 4 brass sheets + 2 red wool + 2 framed glass + Forge Casing = 4 Forge Glazing."
 		"Goes into: The Yuletide Forge (hall), The Chimney Bay (forge tier II)."
 	]
 	"quest.1A4337EC7C2ABC63.title": "Forge Roofing"
@@ -2063,17 +2130,19 @@
 	"quest.6C3C3D57A6C68162.title": "The Forge Hall"
 	"quest.6C3C3D57A6C68162.quest_subtitle": "A hall of plinth, casing and glass."
 	"quest.6C3C3D57A6C68162.quest_desc": [
-		"Raise it as the plan and JEI's \"Yuletide Forge: Structure\" page show: plinth at the foot, casing and glazing up the walls, roofing on top, the burner, hammer and foundry parts inside."
+		"Raise it as the plan and the build guide show (use any Forge piece in the air): plinth at the foot, casing and glazing up the walls, roofing on top, the burner, hammer and foundry parts inside."
 		"Blocks: 145 Forge Casings, 79 Forge Roofing, 46 Forge Glazing, 31 Forge Plinths, and 16 more, one of each (each has its own quest)."
 		""
 		"{image:cccasino:textures/gui/quest/mb_forge.png width:200 height:78 align:center}"
 		""
 		"{image:cccasino:textures/gui/quest/mb_plan_forge.png width:200 height:78 align:center}"
+		""
+		"{image:cccasino:textures/gui/quest/mb_layers_forge.png width:200 height:78 align:center}"
 	]
 	"quest.47402B7D7EF3FBC7.title": "Forged in Spirit"
 	"quest.47402B7D7EF3FBC7.quest_subtitle": "A Yuletide Sword."
 	"quest.47402B7D7EF3FBC7.quest_desc": [
-		"A job takes the ladder (wooden, stone, iron, gold and diamond swords), a netherite sword, two festive foods, a glaze and 750 mB of Spirit. The burner melts while lit and strikes only superheated on blaze cake. Sweet berries glaze it Crimson, blue ice Frost, a spruce sapling Evergreen."
+		"Fill the controller's slots: the ladder (wooden to diamond swords), a netherite sword, two festive foods (cookie, candy cane or gingerbread cookie), a glaze and 750 mB of Spirit by pipe or bucket. Turn the Drive Port; it strikes only superheated on blaze cake. Berries glaze it Crimson, blue ice Frost, a spruce sapling Evergreen."
 	]
 	"quest.55C1D1C3A3B18513.title": "Hat and Boots"
 	"quest.55C1D1C3A3B18513.quest_subtitle": "750 mB of Spirit each."
@@ -2084,7 +2153,7 @@
 	"quest.5A4EACBF22DA2BA2.title": "Dressed for the Season"
 	"quest.5A4EACBF22DA2BA2.quest_subtitle": "The whole Yuletide set."
 	"quest.5A4EACBF22DA2BA2.quest_desc": [
-		"The chestplate and leggings take a full bucket of Spirit each and the most food. Wear all four pieces with a Yuletide Sword in hand: the full set. The early spirits will be balanced around it: in netherite you would barely scrape through."
+		"The chestplate and leggings take a full bucket of Spirit each. Wear all four pieces with a Yuletide Sword in hand: the full set. Your blows land in full on the early spirits (about a third in other gear), and spirit attacks hurt you half as much."
 	]
 	"quest.25122BFA1F675A1F.title": "Tools of the Trade"
 	"quest.25122BFA1F675A1F.quest_subtitle": "Pickaxe, axe and shovel."
@@ -2135,7 +2204,7 @@
 	"quest.6DB79AD649883567.title": "The Chimney Bay"
 	"quest.6DB79AD649883567.quest_subtitle": "Tier II, and a stack with a star."
 	"quest.6DB79AD649883567.quest_desc": [
-		"Build the bay on the hall's right in the same plinth, glazing and roofing, the hearth against its back wall. JEI's \"Tier II: Chimney bay\" page shows each block. Stand by the forge once it reaches tier II."
+		"Build the bay on the hall's right in the same plinth, glazing and roofing, the hearth against its back wall. The build guide's second page shows it layer by layer. Stand by the forge once it reaches tier II."
 		"Blocks: 54 Forge Casings, 23 Forge Roofing, 18 Forge Glazing, 12 Forge Plinths, and 5 more, one of each (each has its own quest)."
 		""
 		"{image:cccasino:textures/gui/quest/mb_plan_forge.png width:200 height:78 align:center}"
@@ -2154,7 +2223,7 @@
 	"quest.3204CFABB0699CF7.title": "Saint Nick"
 	"quest.3204CFABB0699CF7.quest_subtitle": "The whole set, and the bells."
 	"quest.3204CFABB0699CF7.quest_desc": [
-		"Add the Sleigh Harness and the Coat Skirt, then wear all four with a Saint Nick Sword in hand. The set brings sleigh bells (a little speed), presents from hostile mobs, a frost aura that slows them and regeneration near a fire or candle. The late spirits will be balanced around it."
+		"Add the Sleigh Harness and the Coat Skirt, then wear all four with a Saint Nick Sword in hand. The set brings sleigh bells for speed, presents from hostile mobs, a frost aura that slows them and regeneration near a fire, lantern or candle. Your blows land in full on the late spirits (under half in Yuletide gear) and spirit attacks hurt you a quarter as much."
 	]
 	"quest.3165110C41E45804.title": "Saint Nick's Tools"
 	"quest.3165110C41E45804.quest_subtitle": "Three tools from nine."
@@ -2162,10 +2231,33 @@
 		"Each Saint Nick tool takes its Yuletide tool in all three colourways and a Star: Rudolph the pickaxe, the Sleigh Runner axe, the Tree and Gift shovel (and the Crozier, a hoe). Optional, and very much a showpiece."
 	]
 	"chapter.4F4482EF7FA6359B.title": "Free the Spirits"
+	"task.07FF9044542E546E.title": "Got it"
+	"quest.0EB76C9DE4F8A403.title": "The Rite"
+	"quest.0EB76C9DE4F8A403.quest_subtitle": "No site waits for you: you raise it."
+	"quest.0EB76C9DE4F8A403.quest_desc": [
+		"Buy a spirit's invitation at Santa's Shop (Spirits tab) and take it to the spirit's home: the tooltip names it and Nature's Compass finds it. Stand a lantern on open natural ground, not hanging, and use the invitation on it. A blue flame means the place is right; if not, you are told why. Then hold the offering and use it on the blue lantern."
+	]
+	"task.18E758420251EF2C.title": "Got it"
+	"quest.54069FC3177A5A42.title": "Your Site"
+	"quest.54069FC3177A5A42.quest_subtitle": "Fight there as often as you like."
+	"quest.54069FC3177A5A42.quest_desc": [
+		"The site rises around the blue lantern and belongs to your team. Use the invitation on the site's lantern to open the ready screen: when everyone near has readied, the fight starts, and retries are free. To dismiss the site, sneak and use the invitation on its lantern twice: the ground comes back, the offering does not."
+	]
+	"quest.7F845E0D3A6E9612.title": "The Jingling Clasp"
+	"quest.7F845E0D3A6E9612.quest_subtitle": "Krampus's invitation."
+	"quest.7F845E0D3A6E9612.quest_desc": [
+		"Buy the Jingling Clasp at Santa's Shop, on the Spirits tab, for 100 chips. It is the key to the whole rite: carry it to Krampus's home, use it on the lantern there, and later on the site's lantern to fight."
+	]
 	"quest.37CBC36D59B7D30B.title": "Krampus's Home"
 	"quest.37CBC36D59B7D30B.quest_subtitle": "Where the spirit is bound."
 	"quest.37CBC36D59B7D30B.quest_desc": [
-		"Krampus is bound in the snowy taiga, wintry forests and snowy maple forests; Nature's Compass finds them. Stand a lantern on open ground there and use the Jingling Clasp on it: a blue flame means the place is right. Give the lantern 4 Presents (any paper) and your team's site rises around it."
+		"Krampus is bound in these biomes: Snowy Taiga, Wintry Forest, Snowy Maple Forest. Nature's Compass finds any of them, and the Jingling Clasp tells you when you are standing in one. Go there."
+	]
+	"task.691F17419454D8BC.title": "Raise Krampus's site"
+	"quest.4A25EF2C7CDE8EBA.title": "Krampus's Site"
+	"quest.4A25EF2C7CDE8EBA.quest_subtitle": "The offering raises it."
+	"quest.4A25EF2C7CDE8EBA.quest_desc": [
+		"The offering is an Empty Sack, a Ribbon Spool and 4 Gift Tags. How to make it: Empty Sacks (Santa's Workshop); Ribbon and Tag (Santa's Workshop); see JEI. In the home, use the Jingling Clasp on a standing lantern (The Rite). When the flame turns blue, hold the offering and use it on the blue lantern: your site rises around it."
 	]
 	"task.7CF675F36E1AF890.title": "Free the Spirit of Giving"
 	"reward.2C3E4B6398D557BC.title": "1,000 chips"
@@ -2173,25 +2265,23 @@
 	"quest.1B3551E21608CAFF.title": "Krampus"
 	"quest.1B3551E21608CAFF.quest_subtitle": "Free the Spirit of Giving."
 	"quest.1B3551E21608CAFF.quest_desc": [
-		"Santa's Shop sells the 100-chip invitation. Hold the rite in its home, then use it on the site's lantern to fight. Wear Yuletide gear. First win: the Giving relic (a glint on newly wrapped gifts), 1 Spirit bucket, 1,000 chips, four hamper rolls; repeats pay 25. Dodge chain sweeps and light lanes."
+		"Use the Jingling Clasp on your site's lantern and ready up. Wear Yuletide gear. First win: the Giving relic (a glint on newly wrapped gifts), 1 Spirit bucket, 1,000 chips, 4 hamper rolls; repeats pay 25. Dodge chain sweeps and light lanes."
 	]
-	"quest.0880B8060057D2D1.title": "The Frost Wyrm's Home"
-	"quest.0880B8060057D2D1.quest_subtitle": "Where the spirit is bound."
-	"quest.0880B8060057D2D1.quest_desc": [
-		"The Frost Wyrm is bound in the Nether's soul sand valleys and quartz flats; Nature's Compass finds them. Stand a lantern on open ground there and use the Thawing Bell on it: a blue flame means the place is right. Give the lantern a Bucket of Christmas Spirit and your team's site rises around it."
-	]
-	"task.6426510A37227A0F.title": "Free the Spirit of Warmth"
-	"reward.3E9DBCAFFEF7C9DC.title": "1,000 chips"
-	"reward.3689235AFB4CE88B.title": "Fireworks!"
-	"quest.08B432324938E9BE.title": "The Frost Wyrm"
-	"quest.08B432324938E9BE.quest_subtitle": "Free the Spirit of Warmth."
-	"quest.08B432324938E9BE.quest_desc": [
-		"Santa's Shop sells the 200-chip invitation. Hold the rite in its home, then use it on the site's lantern to fight. Wear Saint Nick gear. First win: the Warmth relic (you freeze a quarter slower), 1 Spirit bucket, 1,000 chips, four hamper rolls; repeats pay 40. Dodge frost lanes; cross the ice-ring gaps."
+	"quest.168868F5AA58187A.title": "The Pantry Seal"
+	"quest.168868F5AA58187A.quest_subtitle": "The Rat King's invitation."
+	"quest.168868F5AA58187A.quest_desc": [
+		"Buy the Pantry Seal at Santa's Shop, on the Spirits tab, for 100 chips. It is the key to the whole rite: carry it to The Rat King's home, use it on the lantern there, and later on the site's lantern to fight."
 	]
 	"quest.1D7790F93727AB88.title": "The Rat King's Home"
 	"quest.1D7790F93727AB88.quest_subtitle": "Where the spirit is bound."
 	"quest.1D7790F93727AB88.quest_desc": [
-		"The Rat King is bound in the snowy plains and wintry lowlands, where the snowy villages farm; Nature's Compass finds them. Stand a lantern on open ground there and use the Pantry Seal on it: a blue flame means the place is right. Give the lantern 4 Mince Pies and your team's site rises around it."
+		"The Rat King is bound in these biomes: Snowy Plains, Wintry Lowlands. Nature's Compass finds any of them, and the Pantry Seal tells you when you are standing in one. Go there."
+	]
+	"task.01C9074A8A2C3989.title": "Raise The Rat King's site"
+	"quest.6475CCF29CA2AF5C.title": "The Rat King's Site"
+	"quest.6475CCF29CA2AF5C.quest_subtitle": "The offering raises it."
+	"quest.6475CCF29CA2AF5C.quest_desc": [
+		"The offering is 4 Mince Pies (iced, not Baked). How to make it: Mince Pies (A Christmas Feast). In the home, use the Pantry Seal on a standing lantern (The Rite). When the flame turns blue, hold the offering and use it on the blue lantern: your site rises around it."
 	]
 	"task.4EC1E97BECAC8CFC.title": "Free the Spirit of Plenty"
 	"reward.6F48C283063F0675.title": "1,000 chips"
@@ -2199,25 +2289,23 @@
 	"quest.51E3D867E3B037D3.title": "The Rat King"
 	"quest.51E3D867E3B037D3.quest_subtitle": "Free the Spirit of Plenty."
 	"quest.51E3D867E3B037D3.quest_desc": [
-		"Santa's Shop sells the 100-chip invitation. Hold the rite in its home, then use it on the site's lantern to fight. Wear Yuletide gear. First win: the Plenty relic (less hunger from walking), 1 Spirit bucket, 1,000 chips, four hamper rolls; repeats pay 25. Use a marked composter during Crown Hunger."
+		"Use the Pantry Seal on your site's lantern and ready up. Wear Yuletide gear. First win: the Plenty relic (less hunger from walking), 1 Spirit bucket, 1,000 chips, 4 hamper rolls; repeats pay 25. Use a marked composter during Crown Hunger."
 	]
-	"quest.767494F34256F323.title": "The Humbug's Home"
-	"quest.767494F34256F323.quest_subtitle": "Where the spirit is bound."
-	"quest.767494F34256F323.quest_desc": [
-		"The Humbug is bound in the Siberian taiga, Siberian groves and cold shrubland; Nature's Compass finds them. Stand a lantern on open ground there and use the Carol Key on it: a blue flame means the place is right. Give the lantern a Cymbal Monkey and your team's site rises around it."
-	]
-	"task.1E2C61EE5BCD76D4.title": "Free the Spirit of Cheer"
-	"reward.4567A68EBFF942F2.title": "1,000 chips"
-	"reward.183B428A4CF6F5D1.title": "Fireworks!"
-	"quest.0558CFF730B2BAC8.title": "The Humbug"
-	"quest.0558CFF730B2BAC8.quest_subtitle": "Free the Spirit of Cheer."
-	"quest.0558CFF730B2BAC8.quest_desc": [
-		"Santa's Shop sells the 100-chip invitation. Hold the rite in its home, then use it on the site's lantern to fight. Wear Yuletide gear. First win: the Cheer relic (shorter slowness from hostile mobs), 1 Spirit bucket, 1,000 chips, four hamper rolls; repeats pay 25. Use a marked note block during Lights Out."
+	"quest.4A0A29FCBBFB1856.title": "The Stocking Ember"
+	"quest.4A0A29FCBBFB1856.quest_subtitle": "The Coal Golem's invitation."
+	"quest.4A0A29FCBBFB1856.quest_desc": [
+		"Buy the Stocking Ember at Santa's Shop, on the Spirits tab, for 100 chips. It is the key to the whole rite: carry it to The Coal Golem's home, use it on the lantern there, and later on the site's lantern to fight."
 	]
 	"quest.3AD103C03D230D0F.title": "The Coal Golem's Home"
 	"quest.3AD103C03D230D0F.quest_subtitle": "Where the spirit is bound."
 	"quest.3AD103C03D230D0F.quest_desc": [
-		"The Coal Golem is bound in the snowy slopes, groves, alpine groves and snowy shields; Nature's Compass finds them. Stand a lantern on open ground there and use the Stocking Ember on it: a blue flame means the place is right. Give the lantern a Wooden Train and your team's site rises around it."
+		"The Coal Golem is bound in these biomes: Snowy Slopes, Grove, Alpine Grove, Snowy Shield. Nature's Compass finds any of them, and the Stocking Ember tells you when you are standing in one. Go there."
+	]
+	"task.5F53DFFF91CB22DF.title": "Raise The Coal Golem's site"
+	"quest.17C630C35394606F.title": "The Coal Golem's Site"
+	"quest.17C630C35394606F.quest_subtitle": "The offering raises it."
+	"quest.17C630C35394606F.quest_desc": [
+		"The offering is a Wooden Train from the Toy Works. How to make it: Santa's Toy Works (Santa's Workshop). In the home, use the Stocking Ember on a standing lantern (The Rite). When the flame turns blue, hold the offering and use it on the blue lantern: your site rises around it."
 	]
 	"task.62E337A8AE5923E7.title": "Free the Spirit of Industry"
 	"reward.54E9C0744A2983AB.title": "1,000 chips"
@@ -2225,12 +2313,71 @@
 	"quest.51867C53CE8E5F9F.title": "The Coal Golem"
 	"quest.51867C53CE8E5F9F.quest_subtitle": "Free the Spirit of Industry."
 	"quest.51867C53CE8E5F9F.quest_desc": [
-		"Santa's Shop sells the 100-chip invitation. Hold the rite in its home, then use it on the site's lantern to fight. Wear Yuletide gear. First win: the Industry relic (less tool wear when mining), 1 Spirit bucket, 1,000 chips, four hamper rolls; repeats pay 25. Dodge hammer, furnace cone and vent rows."
+		"Use the Stocking Ember on your site's lantern and ready up. Wear Yuletide gear. First win: the Industry relic (less tool wear when mining), 1 Spirit bucket, 1,000 chips, 4 hamper rolls; repeats pay 25. Dodge hammer, furnace cone and vent rows."
+	]
+	"quest.7ADAB9FA886F15C3.title": "The Carol Key"
+	"quest.7ADAB9FA886F15C3.quest_subtitle": "The Humbug's invitation."
+	"quest.7ADAB9FA886F15C3.quest_desc": [
+		"Buy the Carol Key at Santa's Shop, on the Spirits tab, for 100 chips. It is the key to the whole rite: carry it to The Humbug's home, use it on the lantern there, and later on the site's lantern to fight."
+	]
+	"quest.767494F34256F323.title": "The Humbug's Home"
+	"quest.767494F34256F323.quest_subtitle": "Where the spirit is bound."
+	"quest.767494F34256F323.quest_desc": [
+		"The Humbug is bound in these biomes: Siberian Taiga, Siberian Grove, Cold Shrubland. Nature's Compass finds any of them, and the Carol Key tells you when you are standing in one. Go there."
+	]
+	"task.530C1892B8E4BF4C.title": "Raise The Humbug's site"
+	"quest.614AE5FDCAC799F1.title": "The Humbug's Site"
+	"quest.614AE5FDCAC799F1.quest_subtitle": "The offering raises it."
+	"quest.614AE5FDCAC799F1.quest_desc": [
+		"The offering is a Cymbal Monkey from the Toy Works. How to make it: Santa's Toy Works (learn its blueprint from Santa's Shop). In the home, use the Carol Key on a standing lantern (The Rite). When the flame turns blue, hold the offering and use it on the blue lantern: your site rises around it."
+	]
+	"task.1E2C61EE5BCD76D4.title": "Free the Spirit of Cheer"
+	"reward.4567A68EBFF942F2.title": "1,000 chips"
+	"reward.183B428A4CF6F5D1.title": "Fireworks!"
+	"quest.0558CFF730B2BAC8.title": "The Humbug"
+	"quest.0558CFF730B2BAC8.quest_subtitle": "Free the Spirit of Cheer."
+	"quest.0558CFF730B2BAC8.quest_desc": [
+		"Use the Carol Key on your site's lantern and ready up. Wear Yuletide gear. First win: the Cheer relic (shorter slowness from hostile mobs), 1 Spirit bucket, 1,000 chips, 4 hamper rolls; repeats pay 25. Use a marked note block during Lights Out."
+	]
+	"quest.68F5C4E5AE831E89.title": "The Thawing Bell"
+	"quest.68F5C4E5AE831E89.quest_subtitle": "The Frost Wyrm's invitation."
+	"quest.68F5C4E5AE831E89.quest_desc": [
+		"Buy the Thawing Bell at Santa's Shop, on the Spirits tab, for 200 chips. It is the key to the whole rite: carry it to The Frost Wyrm's home, use it on the lantern there, and later on the site's lantern to fight."
+	]
+	"quest.0880B8060057D2D1.title": "The Frost Wyrm's Home"
+	"quest.0880B8060057D2D1.quest_subtitle": "Where the spirit is bound."
+	"quest.0880B8060057D2D1.quest_desc": [
+		"The Frost Wyrm is bound in the Nether in these biomes: Soul Sand Valley, Quartz Flats. Nature's Compass finds any of them, and the Thawing Bell tells you when you are standing in one. Go there."
+	]
+	"task.65433872393A28B8.title": "Raise The Frost Wyrm's site"
+	"quest.62F4C88A9A95F4D1.title": "The Frost Wyrm's Site"
+	"quest.62F4C88A9A95F4D1.quest_subtitle": "The offering raises it."
+	"quest.62F4C88A9A95F4D1.quest_desc": [
+		"The offering is 4 Presents from the Gift Wrapper. How to make it: The Gift Wrapper (Santa's Workshop). In the home, use the Thawing Bell on a standing lantern (The Rite). When the flame turns blue, hold the offering and use it on the blue lantern: your site rises around it. A Present is a toy wrapped in any of the 4 papers."
+	]
+	"task.6426510A37227A0F.title": "Free the Spirit of Warmth"
+	"reward.3E9DBCAFFEF7C9DC.title": "1,000 chips"
+	"reward.3689235AFB4CE88B.title": "Fireworks!"
+	"quest.08B432324938E9BE.title": "The Frost Wyrm"
+	"quest.08B432324938E9BE.quest_subtitle": "Free the Spirit of Warmth."
+	"quest.08B432324938E9BE.quest_desc": [
+		"Use the Thawing Bell on your site's lantern and ready up. Wear Saint Nick gear. First win: the Warmth relic (you freeze a quarter slower), 1 Spirit bucket, 1,000 chips, 4 hamper rolls; repeats pay 40. Dodge frost lanes; cross the ice-ring gaps."
+	]
+	"quest.41883EF4ADD926B1.title": "The Crystal Invitation"
+	"quest.41883EF4ADD926B1.quest_subtitle": "The Ice Queen's invitation."
+	"quest.41883EF4ADD926B1.quest_desc": [
+		"Buy the Crystal Invitation at Santa's Shop, on the Spirits tab, for 200 chips. It is the key to the whole rite: carry it to The Ice Queen's home, use it on the lantern there, and later on the site's lantern to fight."
 	]
 	"quest.3E9BA597CE13A6B8.title": "The Ice Queen's Home"
 	"quest.3E9BA597CE13A6B8.quest_subtitle": "Where the spirit is bound."
 	"quest.3E9BA597CE13A6B8.quest_desc": [
-		"The Ice Queen is bound in the End's crystal peaks and highlands; Nature's Compass finds them. Stand a lantern on open ground there and use the Crystal Invitation on it: a blue flame means the place is right. Give the lantern a Snow Globe and a Bottled Starlight and your team's site rises around it."
+		"The Ice Queen is bound in the End in these biomes: Crystal Peaks, End Highlands. Nature's Compass finds any of them, and the Crystal Invitation tells you when you are standing in one. Go there."
+	]
+	"task.1FBE3A3782A91F46.title": "Raise The Ice Queen's site"
+	"quest.1F3F3F682B309C77.title": "The Ice Queen's Site"
+	"quest.1F3F3F682B309C77.quest_subtitle": "The offering raises it."
+	"quest.1F3F3F682B309C77.quest_desc": [
+		"The offering is a Toy Works Snow Globe and a Mistletoe Elixir. How to make it: Master Toymaker (Santa's Workshop); Mistletoe Elixir (Santa's Workshop). In the home, use the Crystal Invitation on a standing lantern (The Rite). When the flame turns blue, hold the offering and use it on the blue lantern: your site rises around it."
 	]
 	"task.68FE2628E1B01A8E.title": "Free the Spirit of Wonder"
 	"reward.02F762A189957A75.title": "1,000 chips"
@@ -2238,12 +2385,23 @@
 	"quest.4139CFBEDA31B46D.title": "The Ice Queen"
 	"quest.4139CFBEDA31B46D.quest_subtitle": "Free the Spirit of Wonder."
 	"quest.4139CFBEDA31B46D.quest_desc": [
-		"Santa's Shop sells the 200-chip invitation. Hold the rite in its home, then use it on the site's lantern to fight. Wear Saint Nick gear. First win: the Wonder relic (10% faster on ice), 1 Spirit bucket, 1,000 chips, four hamper rolls; repeats pay 40. Dodge the lance, fan and expanding ring."
+		"Use the Crystal Invitation on your site's lantern and ready up. Wear Saint Nick gear. First win: the Wonder relic (10% faster on ice), 1 Spirit bucket, 1,000 chips, 4 hamper rolls; repeats pay 40. Dodge the lance, fan and expanding ring."
+	]
+	"quest.1C5B42DFB3870978.title": "The Hearth Token"
+	"quest.1C5B42DFB3870978.quest_subtitle": "The Yeti Matriarch's invitation."
+	"quest.1C5B42DFB3870978.quest_desc": [
+		"Buy the Hearth Token at Santa's Shop, on the Spirits tab, for 200 chips. It is the key to the whole rite: carry it to The Yeti Matriarch's home, use it on the lantern there, and later on the site's lantern to fight."
 	]
 	"quest.3D18A6483FF401F0.title": "The Yeti Matriarch's Home"
 	"quest.3D18A6483FF401F0.quest_subtitle": "Where the spirit is bound."
 	"quest.3D18A6483FF401F0.quest_desc": [
-		"The Yeti Matriarch is bound in the frozen peaks, jagged peaks and frozen cliffs; Nature's Compass finds them. Stand a lantern on open ground there and use the Hearth Token on it: a blue flame means the place is right. Give the lantern a Christmas Dinner Platter and your team's site rises around it."
+		"The Yeti Matriarch is bound in these biomes: Frozen Peaks, Jagged Peaks, Frozen Cliffs. Nature's Compass finds any of them, and the Hearth Token tells you when you are standing in one. Go there."
+	]
+	"task.023958E1039036FC.title": "Raise The Yeti Matriarch's site"
+	"quest.1D554B98B4482BA9.title": "The Yeti Matriarch's Site"
+	"quest.1D554B98B4482BA9.quest_subtitle": "The offering raises it."
+	"quest.1D554B98B4482BA9.quest_desc": [
+		"The offering is a Christmas Dinner Platter. How to make it: Christmas Dinner (A Christmas Feast). In the home, use the Hearth Token on a standing lantern (The Rite). When the flame turns blue, hold the offering and use it on the blue lantern: your site rises around it."
 	]
 	"task.5188EB1A6AF3D981.title": "Free the Spirit of Home"
 	"reward.09C66ADE1181A267.title": "1,000 chips"
@@ -2251,12 +2409,23 @@
 	"quest.342A3841E27A20B7.title": "The Yeti Matriarch"
 	"quest.342A3841E27A20B7.quest_subtitle": "Free the Spirit of Home."
 	"quest.342A3841E27A20B7.quest_desc": [
-		"Santa's Shop sells the 200-chip invitation. Hold the rite in its home, then use it on the site's lantern to fight. Wear Saint Nick gear. First win: the Home relic (campfires cure slowness), 1 Spirit bucket, 1,000 chips, four hamper rolls; repeats pay 40. Dodge palm strikes, boulders and avalanche lanes."
+		"Use the Hearth Token on your site's lantern and ready up. Wear Saint Nick gear. First win: the Home relic (campfires cure slowness), 1 Spirit bucket, 1,000 chips, 4 hamper rolls; repeats pay 40. Dodge palm strikes, boulders and avalanche lanes."
+	]
+	"quest.10B80241FAEA4AF3.title": "The Last Bell"
+	"quest.10B80241FAEA4AF3.quest_subtitle": "The Wraith of Christmas Yet to Come's invitation."
+	"quest.10B80241FAEA4AF3.quest_desc": [
+		"Buy The Last Bell at Santa's Shop, on the Spirits tab, for 300 chips. It is the key to the whole rite: carry it to The Wraith of Christmas Yet to Come's home, use it on the lantern there, and later on the site's lantern to fight."
 	]
 	"quest.164C123E54C79158.title": "The Wraith of Christmas Yet to Come's Home"
 	"quest.164C123E54C79158.quest_subtitle": "Where the spirit is bound."
 	"quest.164C123E54C79158.quest_desc": [
-		"The Wraith of Christmas Yet to Come is bound in the End's shadowlands and void barrens; Nature's Compass finds them. Stand a lantern on open ground there and use the The Last Bell on it: a blue flame means the place is right. Give the lantern a Star of Saint Nicholas and your team's site rises around it."
+		"The Wraith of Christmas Yet to Come is bound in the End in these biomes: Shadowlands, Void Barrens. Nature's Compass finds any of them, and The Last Bell tells you when you are standing in one. Go there."
+	]
+	"task.338A8D67BBF3F468.title": "Raise The Wraith of Christmas Yet to Come's site"
+	"quest.7E04D9DD1A00B81B.title": "The Wraith of Christmas Yet to Come's Site"
+	"quest.7E04D9DD1A00B81B.quest_subtitle": "The offering raises it."
+	"quest.7E04D9DD1A00B81B.quest_desc": [
+		"The offering is a Star of Saint Nicholas and a Bottled Starlight. How to make it: The Star of Saint Nicholas (The Yuletide Forge); The Star Draught (Santa's Workshop). In the home, use The Last Bell on a standing lantern (The Rite). When the flame turns blue, hold the offering and use it on the blue lantern: your site rises around it."
 	]
 	"task.749EE7B374FC23CF.title": "Free the Spirit of Christmas"
 	"reward.7737AF52B25A0145.title": "1,000 chips"
@@ -2264,7 +2433,7 @@
 	"quest.46F09AC114FE8C01.title": "The Wraith of Christmas Yet to Come"
 	"quest.46F09AC114FE8C01.quest_subtitle": "Free the Spirit of Christmas."
 	"quest.46F09AC114FE8C01.quest_desc": [
-		"Santa's Shop sells the 300-chip invitation. Hold the rite in its home, then use it on the site's lantern to fight. Wear Saint Nick gear. First win: the Christmas relic (quicker campfire rests), 2 Spirit buckets, 1,000 chips, four hamper rolls; repeats pay 40. Use Last Bell refuges. Earlier spirits ease this fight."
+		"Use The Last Bell on your site's lantern and ready up. Wear Saint Nick gear. First win: the Christmas relic (quicker campfire rests), 2 Spirit buckets, 1,000 chips, 4 hamper rolls; repeats pay 40. Use Last Bell refuges. Earlier spirits ease this fight."
 	]
 	"chapter.080155EC6799C4F9.title": "Advent"
 	"chapter.080155EC6799C4F9.chapter_subtitle": [
@@ -2274,7 +2443,7 @@
 	"quest.559A0A926A5C76D6.title": "Door 1: The First Door"
 	"quest.559A0A926A5C76D6.quest_subtitle": "Opens on 1 December."
 	"quest.559A0A926A5C76D6.quest_desc": [
-		"December is here, and the calendar on the village square has twenty-four little doors. One opens each real day. Behind each is something new for the North Pole: a game, a recipe, a job, a surprise. Come back tomorrow."
+		"December is here, and the calendar on the village square has twenty-four little doors. Each opens itself the first time you are online on or after its day, and missed doors open together. Behind each is something new: a game, a recipe, a job, a surprise."
 	]
 	"task.0EC0C529961D5C67.title": "Open on 2 December"
 	"quest.643EFD15A683DE79.title": "Door 2: Hot Chocolate Weather"
@@ -2457,12 +2626,12 @@
 	"quest.04414F74275E7108.title": "A Place for Everything"
 	"quest.04414F74275E7108.quest_subtitle": "Every item, labelled."
 	"quest.04414F74275E7108.quest_desc": [
-		"Item drawers hold one item each, single, double or quad, and show it with its count on the front. A wrench opens a drawer's settings: lock, void and a capacity upgrade. On the seam between two drawers it joins them, so one funnel fills the whole wall."
+		"Item drawers hold one item each, single, double or quad, and show the count. Use one to put items in (sneak: all of them); hit it to take one (sneak: a stack). A wrench on the front opens its settings: lock, void, capacity upgrades. On the seam between two it joins them, so one funnel fills the wall."
 	]
 	"quest.2EE5504A5FDC22BE.title": "Pack for the Trip"
 	"quest.2EE5504A5FDC22BE.quest_subtitle": "Storage you can wear."
 	"quest.2EE5504A5FDC22BE.quest_desc": [
-		"A backpack carries 27 slots and takes upgrades: pickup, filters, a magnet, even a crafting grid. The back slot holds two, so it goes on beside your elytra. Copper, iron, gold and diamond backpacks hold more, each made with Create parts."
+		"A backpack carries 27 slots and takes upgrades: pickup, filters, a magnet, even a crafting grid. Wear it and press Open Backpack (the period key, unless you changed it) to open it. Copper, iron, gold and diamond backpacks hold more, each made with Create parts."
 	]
 	"quest.2EB7A654E81D70A3.title": "Speed Control"
 	"quest.2EB7A654E81D70A3.quest_subtitle": "Exactly as fast as you need."
@@ -2482,7 +2651,7 @@
 	"quest.22C6FD4AB848F277.title": "Patience and Cheese"
 	"quest.22C6FD4AB848F277.quest_subtitle": "Good things come to those who wait."
 	"quest.22C6FD4AB848F277.quest_desc": [
-		"Curdle milk, press the curds into a wheel and let it age: young, then aged, and the older it is the more it is worth. Check the wheel in JEI before you wax it. The best cheese on the server will be the oldest."
+		"Heat crushed nether wart with milk in a mixer to curdle it, press 500 mB over a basin into an unripe wheel and let it age: young, then aged. A deployer with a honeycomb block waxes it. The best cheese on the server will be the oldest."
 	]
 	"quest.038921FFDFD25064.title": "The Tea Room"
 	"quest.038921FFDFD25064.quest_subtitle": "Green and black, by the pot."
@@ -2507,7 +2676,7 @@
 	"quest.06CDF3C596B1DDFE.title": "Falconer"
 	"quest.06CDF3C596B1DDFE.quest_subtitle": "Eyes in the sky."
 	"quest.06CDF3C596B1DDFE.quest_desc": [
-		"Bald eagles hunt over wooded mountains and dive for salmon. Tame one with fish oil, then pick it up on a falconry glove and punch to launch it at whatever you are looking at."
+		"Bald eagles hunt over wooded mountains and dive for salmon. Tame one with fish oil (blobfish and a bottle), then pick it up on a falconry glove (leather and bear fur) and punch to launch it at whatever you look at."
 	]
 	"quest.3982866972D22962.title": "Trunk Show"
 	"quest.3982866972D22962.quest_subtitle": "A friend who carries the shopping."

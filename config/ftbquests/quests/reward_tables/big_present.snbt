@@ -92,16 +92,6 @@
 		{
 			"id": "1BC443D1B010BD05"
 			"item": {
-				"id": "cccasino:ribbon_spool"
-				"count": 1
-			}
-			"weight": 3.0d
-			"count": 2
-			"random_bonus": 2
-		}
-		{
-			"id": "217ADC0215B987CC"
-			"item": {
 				"id": "minecraft:diamond"
 				"count": 1
 			}
@@ -110,7 +100,7 @@
 			"random_bonus": 2
 		}
 		{
-			"id": "065C041C65A55C1A"
+			"id": "217ADC0215B987CC"
 			"item": {
 				"id": "alpinewhispers:candle_wreath"
 				"count": 1
@@ -118,7 +108,7 @@
 			"weight": 2.0d
 		}
 		{
-			"id": "109A4F7F074B6974"
+			"id": "065C041C65A55C1A"
 			"item": {
 				"id": "cccasino:chip_50"
 				"count": 1
@@ -127,7 +117,7 @@
 			"random_bonus": 2
 		}
 		{
-			"id": "7A4F106109B61660"
+			"id": "109A4F7F074B6974"
 			"item": {
 				"id": "cccasino:chip_500"
 				"count": 1

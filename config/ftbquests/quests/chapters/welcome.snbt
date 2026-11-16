@@ -11,8 +11,8 @@
 	"images": [
 		{
 			"id": "4EF37717D08CEBF1"
-			"x": 0.0d
-			"y": -2.6d
+			"x": 2.875d
+			"y": -1.85d
 			"width": 13.87d
 			"height": 1.7d
 			"rotation": 0.0d
@@ -27,8 +27,8 @@
 			"icon": {
 				"id": "mcwholidays:big_red_present"
 			}
-			"x": 0.0d
-			"y": 0.0d
+			"x": 0.75d
+			"y": 0.75d
 			"shape": "gear"
 			"size": 1.5d
 			"tasks": [
@@ -77,6 +77,108 @@
 						"count": 1
 					}
 					"count": 10
+				}
+			]
+		}
+		{
+			"id": "5C4021278DDB9FBD"
+			"dependencies": [
+				"4DCC2697FB0B9A91"
+			]
+			"icon": {
+				"id": "cccasino:santa_shop"
+			}
+			"x": 3.25d
+			"y": 0.75d
+			"shape": "circle"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "348EE80193B030C6"
+					"type": "advancement"
+					"advancement": "cccasino:visit/cashier_cage"
+					"criterion": ""
+					"icon": {
+						"id": "cccasino:cashier_cage"
+					}
+				}
+				{
+					"id": "39D52FE8BEB8AF6A"
+					"type": "advancement"
+					"advancement": "cccasino:visit/santa_shop"
+					"criterion": ""
+					"icon": {
+						"id": "cccasino:santa_shop"
+					}
+				}
+			]
+			"rewards": [
+				{
+					"id": "6A37FBA4573FC6D7"
+					"type": "xp"
+					"xp": 50
+				}
+				{
+					"id": "39639B04BFFCA7FD"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+				{
+					"id": "621DD98B9756D161"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+				{
+					"id": "2C348249F5481830"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_25"
+						"count": 1
+					}
+				}
+			]
+		}
+		{
+			"id": "4E56D1E7607E0D8E"
+			"dependencies": [
+				"5C4021278DDB9FBD"
+			]
+			"icon": {
+				"id": "cccasino:chip_25"
+			}
+			"x": 5.25d
+			"y": 0.75d
+			"shape": "circle"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "3A729D1958633019"
+					"type": "checkmark"
+				}
+			]
+			"rewards": [
+				{
+					"id": "219EB81E029CCBFF"
+					"type": "xp"
+					"xp": 50
+				}
+				{
+					"id": "21E3EA5F4BAA93EC"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+				{
+					"id": "15F767965186ABF8"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+				{
+					"id": "7B6F8454A19E2C26"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_25"
+						"count": 1
+					}
 				}
 			]
 		}

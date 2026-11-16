@@ -12,7 +12,7 @@
 		{
 			"id": "6C77BF67F8249A3B"
 			"x": 4.125d
-			"y": -12.35d
+			"y": -14.85d
 			"width": 9.62d
 			"height": 1.7d
 			"rotation": 0.0d
@@ -666,9 +666,51 @@
 			"optional": true
 		}
 		{
-			"id": "79F724DED7AAD0BD"
+			"id": "519D3CC85D3303E8"
 			"dependencies": [
 				"380176687E1624B6"
+			]
+			"icon": {
+				"id": "cccasino:mint_die"
+			}
+			"x": 1.0d
+			"y": -7.5d
+			"shape": "square"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "25177819CAE455F4"
+					"type": "item"
+					"item": {
+						"id": "cccasino:mint_die"
+						"count": 1
+					}
+					"count": 1
+				}
+			]
+			"rewards": [
+				{
+					"id": "318EC948CCC19BFA"
+					"type": "xp"
+					"xp": 100
+				}
+				{
+					"id": "4F38B21F65013DB5"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+				{
+					"id": "51F13A9A36AA5A0B"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+			]
+			"optional": true
+		}
+		{
+			"id": "79F724DED7AAD0BD"
+			"dependencies": [
+				"519D3CC85D3303E8"
 			]
 			"icon": {
 				"id": "cccasino:mint_kit"
@@ -756,9 +798,51 @@
 			"optional": true
 		}
 		{
-			"id": "66FB011AE03038AD"
+			"id": "55A0033DA7844FAA"
 			"dependencies": [
 				"79F724DED7AAD0BD"
+			]
+			"icon": {
+				"id": "cccasino:mint_die_second"
+			}
+			"x": 1.0d
+			"y": -10.0d
+			"shape": "square"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "47AD6E3666123E0E"
+					"type": "item"
+					"item": {
+						"id": "cccasino:mint_die_second"
+						"count": 1
+					}
+					"count": 1
+				}
+			]
+			"rewards": [
+				{
+					"id": "0F3CD7BA6513D714"
+					"type": "xp"
+					"xp": 100
+				}
+				{
+					"id": "2603C9E90B58FDBA"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+				{
+					"id": "77FC7D04104DD7C8"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+			]
+			"optional": true
+		}
+		{
+			"id": "66FB011AE03038AD"
+			"dependencies": [
+				"55A0033DA7844FAA"
 			]
 			"icon": {
 				"id": "cccasino:mint_second_press"
@@ -798,9 +882,51 @@
 			"optional": true
 		}
 		{
-			"id": "64CD5235EA8A1296"
+			"id": "373657A20BD2F14A"
 			"dependencies": [
 				"66FB011AE03038AD"
+			]
+			"icon": {
+				"id": "cccasino:mint_die_feeder"
+			}
+			"x": -4.0d
+			"y": -12.5d
+			"shape": "square"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "625437AC28443E79"
+					"type": "item"
+					"item": {
+						"id": "cccasino:mint_die_feeder"
+						"count": 1
+					}
+					"count": 1
+				}
+			]
+			"rewards": [
+				{
+					"id": "51ADB045CCF68680"
+					"type": "xp"
+					"xp": 100
+				}
+				{
+					"id": "3B3381939510EC01"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+				{
+					"id": "535F275735272162"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+			]
+			"optional": true
+		}
+		{
+			"id": "64CD5235EA8A1296"
+			"dependencies": [
+				"373657A20BD2F14A"
 			]
 			"icon": {
 				"id": "cccasino:mint_feeder"
@@ -840,15 +966,53 @@
 			"optional": true
 		}
 		{
-			"id": "50DE7041F0C1E2A3"
+			"id": "0A74407E55ADC2B9"
 			"dependencies": [
 				"380176687E1624B6"
 			]
 			"icon": {
+				"id": "cccasino:lucky_tonic"
+			}
+			"x": 4.5d
+			"y": -8.0d
+			"shape": "square"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "3638F915ABB1F64A"
+					"type": "checkmark"
+				}
+			]
+			"rewards": [
+				{
+					"id": "03B93DE545A4484A"
+					"type": "xp"
+					"xp": 100
+				}
+				{
+					"id": "68474C7722CF80F0"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+				{
+					"id": "404ED3888FD507F9"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+			]
+			"optional": true
+		}
+		{
+			"id": "50DE7041F0C1E2A3"
+			"dependencies": [
+				"380176687E1624B6"
+				"38391200E39FA1C3"
+			]
+			"icon": {
 				"id": "cccasino:hat_elf_cap"
 			}
-			"x": 1.5d
-			"y": -7.5d
+			"x": -1.5d
+			"y": -5.0d
 			"shape": "square"
 			"size": 1.0d
 			"tasks": [
