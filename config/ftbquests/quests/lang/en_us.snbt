@@ -398,12 +398,14 @@
 	"quest.4B8CE993D9A0F9A1.title": "Spend It at Santa's"
 	"quest.4B8CE993D9A0F9A1.quest_subtitle": "Where spent chips go."
 	"quest.4B8CE993D9A0F9A1.quest_desc": [
-		"Santa's Shop sells decorations, treats and toy blueprints; chips spent there are gone for good, and it takes real chips only. What it does not sell you make: a Notice Board of your own is a Create clipboard on brass sheets and spruce posts, on Mechanical Crafters. Hang one in your factory and hand orders in there."
+		"Santa's Shop sells decorations, treats and toy blueprints; chips spent there are gone for good. What it does not sell you make: hang a Notice Board of your own in your factory and hand orders in there."
+		"Mechanical Crafters, 3 wide by 3 tall: 2 brass sheets + clipboard + 3 paper + 2 stripped spruce logs = North Pole Notice Board."
 	]
 	"quest.068C2800EC9D4851.title": "An Exchange of Your Own"
 	"quest.068C2800EC9D4851.quest_subtitle": "Sell by the beltful."
 	"quest.068C2800EC9D4851.quest_desc": [
-		"Build a North Pole Exchange on Mechanical Crafters: a split-flap bank from your Workshop, nixie tubes, a brass funnel and brass casings. It takes goods from belts, funnels and arms through its hatch and sells every unit for whoever placed it. The chips wait in its till (watch the nixie tubes); an empty hand collects them."
+		"It takes goods from belts, funnels and arms through its hatch and sells every unit for whoever placed it. The chips wait in its till (watch the nixie tubes); an empty hand collects them."
+		"Mechanical Crafters, 3 wide by 3 tall: planks + 2 golden sheets + 2 brass casings + Flap Card Bank + 2 nixie tubes + brass funnel = North Pole Exchange."
 	]
 	"quest.0EFC2DA5F4BEF5FC.title": "Your First Thousand"
 	"quest.0EFC2DA5F4BEF5FC.quest_subtitle": "Colour up."
@@ -433,7 +435,8 @@
 	"quest.1B7B5521AF591BB6.title": "The North Pole Tally"
 	"quest.1B7B5521AF591BB6.quest_subtitle": "Know what your line makes."
 	"quest.1B7B5521AF591BB6.quest_desc": [
-		"Before you count on a line to earn, find out what it really makes. A North Pole Tally counts what you feed it, a minute at a time. It is a test bench: what goes in is sent to Santa, not sold, so measure, then turn the belt to your counter. The quests after it ask for a rate held for minutes: proof a factory really works."
+		"A Tally counts what you feed it, a minute at a time. It is a test bench: what goes in is sent to Santa, not sold. The quests after it ask for a rate held for minutes."
+		"Crafting table (shaped): chute + 2 brass sheets + electron tube + brass casing = North Pole Tally."
 	]
 	"task.18482E36E891AD24.title": "Deliver 30 andesite alloy a minute for 10 minutes"
 	"quest.3958B466FD1AD867.title": "Alloy Foundry"
@@ -480,101 +483,6 @@
 	"quest.3244EFB48B457838.quest_subtitle": "Three winning tickets, drawn live."
 	"quest.3244EFB48B457838.quest_desc": [
 		"Use the kiosk's counter or drum for a draw ticket, 50 chips each, as many as you like. Most of the takings go in the pot, and on 24 December at 20:00 the drum spins live for three winners: half the pot, then three tenths, then a fifth. Buy a ticket."
-	]
-	"quest.299AAAEF4829DB19.title": "The Casino Workshop"
-	"quest.299AAAEF4829DB19.quest_subtitle": "Loom, Press and Lathe, under one roof."
-	"quest.299AAAEF4829DB19.quest_desc": [
-		"Seven wide, nine deep, six high: an andesite-casing floor over its gearboxes, walls and roof of Site Casing (brick on andesite casing) or Window Casing, the controller mid-front, ports for items, fluid and drive, and a Loom, Press and Lathe on a two-lane Line. Drive it at 16 RPM or more. JEI's Casino Workshop page shows every block."
-		""
-		"{image:cccasino:textures/gui/quest/mb_workshop.png width:200 height:78 align:center}"
-	]
-	"quest.0F03E2ABFFB16E4D.title": "Brass Fittings"
-	"quest.0F03E2ABFFB16E4D.quest_subtitle": "Rolled, turned, polished."
-	"quest.0F03E2ABFFB16E4D.quest_desc": [
-		"A Crafts & Additions Rolling Mill rolls brass ingots into rods, and the Workshop Lathe turns each rod into two rough brass fittings. Polish them with sandpaper, by hand or with a Deployer. Rails, trays, stools and table trim all take fittings, so set the line up once."
-	]
-	"quest.539B89CF91B6A862.title": "Green Baize"
-	"quest.539B89CF91B6A862.quest_subtitle": "Woven, fulled and dyed."
-	"quest.539B89CF91B6A862.quest_desc": [
-		"Feed the Workshop three string, a green dye and a bucket's worth of water through its ports: the Loom weaves it, fulls it in the water and dyes it tournament green, two felts at a time. Casino felt goes on every table, under every printed layout. It is the first thing your Workshop makes."
-	]
-	"quest.367F247FAC4883D3.title": "A Fresh Deck"
-	"quest.367F247FAC4883D3.quest_subtitle": "Printed, varnished, cut."
-	"quest.367F247FAC4883D3.quest_desc": [
-		"Smoke charcoal for carbon black, then the Press makes a black-core board from it with paper and water. Print it with red and black ink (dye and seed oil in a mixer), varnish it under a Spout and the Press cuts a deck from two sheets. Card varnish is seed oil and honey in a heated mixer."
-	]
-	"quest.49AF6C93F1CE98F3.title": "The Padded Rail"
-	"quest.49AF6C93F1CE98F3.quest_subtitle": "Spruce, velvet and brass."
-	"quest.49AF6C93F1CE98F3.quest_desc": [
-		"Turn a spruce core on the Lathe, pad and upholster it in velvet on the Loom, then cap it with brass fittings that a Deployer has polished with sandpaper. Every table is ringed with them."
-	]
-	"quest.046BF9F97A37F92E.title": "The Chip Tray"
-	"quest.046BF9F97A37F92E.quest_subtitle": "Made on a belt."
-	"quest.046BF9F97A37F92E.quest_desc": [
-		"A brass sheet rides a sequenced-assembly belt: a Deployer fits a polished fitting, another lays velvet, a Spout varnishes the rim and a Press shapes the tray. Every table keeps its chips in one."
-	]
-	"quest.39B0D878CD31828F.title": "Casino Pieces"
-	"quest.39B0D878CD31828F.quest_subtitle": "Every game is built, not crafted."
-	"quest.39B0D878CD31828F.quest_desc": [
-		"Every casino game goes together from pieces the Workshop makes. A Small Blackjack Table takes a Dealer's Station, a Card Shoe and two Padded Rail Sections. In JEI, U on a piece shows every game it goes into (the casino tab); R on a game shows its layout."
-		""
-		"{image:cccasino:textures/gui/quest/mb_kit.png width:200 height:78 align:center}"
-	]
-	"task.1AD926128CE3C763.title": "Got it"
-	"quest.53BA852B2FDB1B1A.title": "How a Game Goes Together"
-	"quest.53BA852B2FDB1B1A.quest_subtitle": "Pieces, then the cloth."
-	"quest.53BA852B2FDB1B1A.quest_desc": [
-		"Place the pieces in the frame JEI shows, then use the printed cloth on it: the table forms. Holding a piece outlines what is missing in blue and a wrong piece in red; goggles on the Dealer's Station list the rest. Break a piece and put it back and it forms again. Sneak with a wrench to lift the cloth."
-		""
-		"{image:cccasino:textures/gui/quest/mb_guide.png width:200 height:78 align:center}"
-	]
-	"quest.5BD417BE5DE016AD.title": "Deal for Your Friends"
-	"quest.5BD417BE5DE016AD.quest_subtitle": "The small blackjack table."
-	"quest.5BD417BE5DE016AD.quest_desc": [
-		"Make a Dealer's Station, a Card Shoe and two Padded Rail Sections, set them in their two-by-two frame and lay a printed Blackjack Layout on the felt: the table forms. Put the shoe on Create power. A mechanical crafter makes two Casino Stools from velvet, a brass fitting and a shaft: seat your friends."
-		""
-		"{image:cccasino:textures/gui/quest/mb_blackjack_table_small.png width:200 height:78 align:center}"
-	]
-	"quest.09F4E97815BACFA7.title": "The House Table"
-	"quest.09F4E97815BACFA7.quest_subtitle": "Five seats and a dealer console."
-	"quest.09F4E97815BACFA7.quest_desc": [
-		"The medium table adds a Dealer's Apron with the dealer console in it: golden and brass sheets, a nixie read-out and a precision mechanism. Three rail sections across the front, the cloth laid last. This is the table the casino floor is built on."
-		""
-		"{image:cccasino:textures/gui/quest/mb_blackjack_table.png width:200 height:78 align:center}"
-	]
-	"quest.07247796C5F51FB3.title": "High Stakes"
-	"quest.07247796C5F51FB3.quest_subtitle": "The large blackjack table."
-	"quest.07247796C5F51FB3.quest_desc": [
-		"Five wide and three deep: two Dealer's Aprons, four Felt Beds and seven Rail Sections round the station and the shoe. Lay the Blackjack Layout on the big frame: it is the biggest blackjack table there is, for the biggest games of the season."
-		""
-		"{image:cccasino:textures/gui/quest/mb_blackjack_table_large.png width:200 height:78 align:center}"
-	]
-	"quest.0540CCBE9A343034.title": "Texas Hold'em at Home"
-	"quest.0540CCBE9A343034.quest_subtitle": "A shuffler of your own."
-	"quest.0540CCBE9A343034.quest_desc": [
-		"A Poker Table needs a Card Shuffler, made on a sequenced-assembly line: a precision mechanism takes cogwheels, rubber rollers and an electron tube, twice round. The Workshop builds it into the table's shuffler piece; ring the oval with rail sections and lay the Poker Layout."
-		""
-		"{image:cccasino:textures/gui/quest/mb_poker_table.png width:200 height:78 align:center}"
-	]
-	"quest.58AF8CB9EC71E889.title": "Spin the Wheel"
-	"quest.58AF8CB9EC71E889.quest_subtitle": "Bowl, frets, ring and bearing."
-	"quest.58AF8CB9EC71E889.quest_desc": [
-		"Turn a dark-oak bowl on the Lathe and send it down a sequenced line: a Spout varnishes it, Deployers fit brass frets, a spun number ring and a mechanical bearing. The Workshop sets it in a Wheel Bowl; lay the Roulette Layout on its frame: a Snowball Roulette Table."
-		""
-		"{image:cccasino:textures/gui/quest/mb_roulette_table.png width:200 height:78 align:center}"
-	]
-	"quest.70B9DA851B83DADE.title": "Jingle Reels"
-	"quest.70B9DA851B83DADE.quest_subtitle": "Three reels and a sequenced stop."
-	"quest.70B9DA851B83DADE.quest_desc": [
-		"Spin iron drums on the Lathe and print their reels on the Press, then bank three of them on a shaft with a sequenced gearshift to stop them in turn. The Workshop builds them into a Reel Drum Housing: stand it on a Cabinet Plinth and the reels can roll."
-		""
-		"{image:cccasino:textures/gui/quest/mb_slot_cabinet.png width:200 height:78 align:center}"
-	]
-	"reward.3951FF9A2E2C7F8D.title": "Fireworks!"
-	"quest.11C16135B26F8B1F.title": "Grand Opening"
-	"quest.11C16135B26F8B1F.quest_subtitle": "Every table, made by you."
-	"quest.11C16135B26F8B1F.quest_desc": [
-		"A Poker Table, a Snowball Roulette Table and a Jingle Reels Slot Machine, every piece made in your own Workshop and put together on your own floor. Throw the doors open: the North Pole has a casino of its own making."
 	]
 	"quest.26329079A83DBAA0.title": "Punto Banco"
 	"quest.26329079A83DBAA0.quest_subtitle": "Player, Banker or Tie."
@@ -643,44 +551,554 @@
 	"quest.0AF2EF50A84C0947.quest_desc": [
 		"Put chips on a Snowball Roulette Table (a number, red or green, odd or even, a dozen or a column) and let the wheel spin. It has a single snow-white zero, so the house edge is small. Win any bet. One number on its own, straight up, pays 35:1."
 	]
+	"quest.50C1DFAAE00DF7F8.title": "Big Chip"
+	"quest.50C1DFAAE00DF7F8.quest_subtitle": "Ten thousand. In one chip."
+	"quest.50C1DFAAE00DF7F8.quest_desc": [
+		"Hold a ten thousand chip. Very few people on the server ever will. Whether you built it up slowly or won it in a night, you are now the person everyone watches at the table."
+	]
+	"chapter.2292FA2DAC1C93EC.title": "The Casino Workshop"
+	"chapter.2292FA2DAC1C93EC.chapter_subtitle": [
+		"Felt, brass, ink and card."
+	]
+	"quest.653836C04919015E.title": "Site Casing"
+	"quest.653836C04919015E.quest_subtitle": "Brick on andesite."
+	"quest.653836C04919015E.quest_desc": [
+		"The Workshop's walls and roof are Site Casing: brick worked into andesite casing. A Deployer holding bricks over a belt of casings makes it by the stack."
+		"Use a brick on an andesite casing, by hand or with a Deployer = Site Casing."
+		"Goes into: Drive Port, Fluid Port, Item Input Port, Item Output Port, The Casino Workshop."
+	]
+	"quest.35845F3880C54CE6.title": "Window Casing"
+	"quest.35845F3880C54CE6.quest_subtitle": "Let the light in."
+	"quest.35845F3880C54CE6.quest_desc": [
+		"Window Casing, or Create's framed glass, can stand in for Site Casing anywhere in the walls and roof. Casino Casing, the red base it is made on, dresses a casino floor too."
+		"Crafting table: andesite casing + red dye = Casino Casing."
+		"Crafting table: Casino Casing + glass pane = Window Casing."
+	]
+	"quest.6B45234B23A3480E.title": "The Site Controller"
+	"quest.6B45234B23A3480E.quest_subtitle": "The Workshop's brain."
+	"quest.6B45234B23A3480E.quest_desc": [
+		"It checks the building, lists what is missing and runs the stations. It stands in the middle of the front wall, facing out."
+		"Mechanical Crafters, 3 wide by 3 tall: 4 golden sheets + nixie tube + 2 precision mechanisms + brass casing + electron tube = Site Controller."
+		"Goes into: The Casino Workshop."
+	]
+	"quest.54B424A03CE608EB.title": "Item Ports"
+	"quest.54B424A03CE608EB.quest_subtitle": "In at the front, out at the back."
+	"quest.54B424A03CE608EB.quest_desc": [
+		"Parts go in through the Item Input Port beside the controller and come out of the Item Output Port in the back wall, both facing out."
+		"Crafting table: Site Casing + brass funnel = Item Input Port."
+		"Crafting table: Site Casing + brass tunnel = Item Output Port."
+		"Goes into: The Casino Workshop."
+	]
+	"quest.476CAF48976256A1.title": "The Fluid Port"
+	"quest.476CAF48976256A1.quest_subtitle": "Water in."
+	"quest.476CAF48976256A1.quest_desc": [
+		"Water and other fluids come in through the Fluid Port, in the right-hand wall as you face the front, facing out. Pipe a water supply to it."
+		"Crafting table: Site Casing + fluid pipe + copper sheet = Fluid Port."
+		"Goes into: The Casino Workshop."
+	]
+	"quest.31F2964C9FA4AC4E.title": "The Drive Port"
+	"quest.31F2964C9FA4AC4E.quest_subtitle": "Rotation in."
+	"quest.31F2964C9FA4AC4E.quest_desc": [
+		"Rotation comes in through the Drive Port near the back of the right-hand wall. The Toy Works and the Forge take one too."
+		"Crafting table: Site Casing + shaft + cogwheel = Drive Port."
+		"Goes into: The Casino Workshop, Santa's Toy Works (tier I), Santa's Toy Works (tier II), The Yuletide Forge (hall)."
+	]
+	"quest.337D10F8E3FE6033.title": "The Line"
+	"quest.337D10F8E3FE6033.quest_subtitle": "Front to back and round again."
+	"quest.337D10F8E3FE6033.quest_desc": [
+		"The Line carries parts from the front to the back past the stations, beside its return lane, up the middle of the Workshop."
+		"Crafting table: andesite casing + belt connector = Line."
+		"Goes into: The Casino Workshop."
+	]
+	"quest.0588D4B1A1D7CEBD.title": "The Loom Station"
+	"quest.0588D4B1A1D7CEBD.quest_subtitle": "Felt, velvet and padding."
+	"quest.0588D4B1A1D7CEBD.quest_desc": [
+		"The Loom weaves cloth for every table. It stands nearest the front, on the left of the Line, facing it."
+		"Mechanical Crafters, 3 wide by 3 tall: 2 cogwheels + brass casing + loom + precision mechanism = Loom Station."
+		"Goes into: The Casino Workshop."
+	]
+	"quest.4D218EE95E5F18CD.title": "The Card Press Station"
+	"quest.4D218EE95E5F18CD.quest_subtitle": "Print, press, cut."
+	"quest.4D218EE95E5F18CD.quest_desc": [
+		"The Press prints layouts and cards and presses pieces together. It stands in the middle, on the left of the Line, facing it."
+		"Mechanical Crafters, 3 wide by 3 tall: precision mechanism + 2 paper + mechanical press + brass casing = Card Press Station."
+		"Goes into: The Casino Workshop."
+	]
+	"quest.0FDB19D00D8B3048.title": "The Lathe Station"
+	"quest.0FDB19D00D8B3048.quest_subtitle": "Spruce, oak, brass and iron."
+	"quest.0FDB19D00D8B3048.quest_desc": [
+		"The Lathe turns wood and metal: rails, bowls, drums and fittings. It stands at the back, on the left of the Line, facing it."
+		"Mechanical Crafters, 3 wide by 3 tall: precision mechanism + 2 shafts + mechanical saw + brass casing = Lathe Station."
+		"Goes into: The Casino Workshop."
+	]
+	"quest.299AAAEF4829DB19.title": "The Casino Workshop"
+	"quest.299AAAEF4829DB19.quest_subtitle": "Loom, Press and Lathe, under one roof."
+	"quest.299AAAEF4829DB19.quest_desc": [
+		"The plan shows both levels: gearboxes and shafts under the floor, the Line up the middle, the stations on its left."
+		"Blocks: 142 Site Casings, 104 andesite casings, 14 gearboxes, 14 Lines, 9 andesite encased shafts, and 8 more, one of each (each has its own quest)."
+		"Drive it at 16 RPM or more. JEI's Casino Workshop page shows every block."
+		""
+		"{image:cccasino:textures/gui/quest/mb_workshop.png width:200 height:78 align:center}"
+		""
+		"{image:cccasino:textures/gui/quest/mb_plan_workshop.png width:200 height:78 align:center}"
+	]
+	"task.0D23B378EB633CA1.title": "Got it"
+	"quest.0E0C83585F50A19D.title": "Running the Workshop"
+	"quest.0E0C83585F50A19D.quest_subtitle": "Feed it, pick a part, collect."
+	"quest.0E0C83585F50A19D.quest_desc": [
+		"Put the inputs in the Item Input Port by hand, hopper, funnel or belt, and pipe fluids to the Fluid Port: the Workshop makes whatever they can make, and parts leave by the Item Output Port. To make one part only, use the controller and pick it, or use that part on the controller; sneak-use it to clear."
+	]
+	"quest.539B89CF91B6A862.title": "Green Baize"
+	"quest.539B89CF91B6A862.quest_subtitle": "Woven, fulled and dyed."
+	"quest.539B89CF91B6A862.quest_desc": [
+		"Casino felt goes under every printed layout and into every felt bed. The Loom weaves it in water, so pipe water into the Workshop's fluid port before you start."
+		"Workshop: Loom (3 string + green dye + 250 mB water) = 2 Casino Felt."
+		"Goes into: Baccarat Layout, Blackjack Layout, Felt Bed, Poker Layout, Roulette Layout."
+	]
+	"quest.429B69D1C137E392.title": "Velvet"
+	"quest.429B69D1C137E392.quest_subtitle": "Crimson, for rails and stools."
+	"quest.429B69D1C137E392.quest_desc": [
+		"Velvet pads the rails, lines the chip trays and covers the stools. Send the string, wool and dye in through the Workshop's item port and the Loom weaves it."
+		"Workshop: Loom (2 string + white wool + red dye) = 2 Velvet."
+		"Goes into: Padded Rail, Racing Reindeer, Casino Stool, Chip Tray."
+	]
+	"quest.0F03E2ABFFB16E4D.title": "Brass Fittings"
+	"quest.0F03E2ABFFB16E4D.quest_subtitle": "Rolled, turned, polished."
+	"quest.0F03E2ABFFB16E4D.quest_desc": [
+		"A Crafts & Additions Rolling Mill rolls brass ingots into rods; the Lathe turns them and sandpaper finishes them. You will need plenty."
+		"Workshop: Lathe (brass rod) = 2 Rough Brass Fittings."
+		"Sandpaper, by hand or on a Deployer: Rough Brass Fitting = Brass Fitting."
+		"Goes into: Dealing Shoe, Split-Flap Screen, Padded Rail, Racing Reindeer and 3 more."
+	]
+	"quest.33F5C32A51EC7A8D.title": "Printing Inks"
+	"quest.33F5C32A51EC7A8D.quest_subtitle": "Red, black and gold."
+	"quest.33F5C32A51EC7A8D.quest_desc": [
+		"Layouts, cards, reels and drums are all printed. A mixer makes each ink from a dye and cooking oil (seed oil, sunflower oil or frying oil all count)."
+		"Mixer: red dye + 100 mB cooking oil = 2 Red Ink."
+		"Mixer: black dye + 100 mB cooking oil = 2 Black Ink."
+		"Mixer: yellow dye + gold nugget + 100 mB cooking oil = 2 Gold Ink."
+	]
+	"quest.58A659F5C6540F44.title": "Card Varnish"
+	"quest.58A659F5C6540F44.quest_subtitle": "Oil and honey, heated."
+	"quest.58A659F5C6540F44.quest_desc": [
+		"Varnish seals the cards, the chip trays' rims and the roulette bowl. A heated mixer makes it; a Spout pours it on whatever passes beneath, or fills a bucket."
+		"Heated mixer: 250 mB cooking oil + 250 mB honey = 250 mB Card Varnish."
+		"Goes into: Chip Tray, Roulette Wheel, Varnished Card Sheet."
+	]
+	"quest.4B0C180A837B130D.title": "Black-Core Board"
+	"quest.4B0C180A837B130D.quest_subtitle": "Card stock with a dark heart."
+	"quest.4B0C180A837B130D.quest_desc": [
+		"Cards, reels and cabinet art start as black-core board, so nothing shows through. Smoke charcoal into carbon black, then the Press makes the board."
+		"Smoker, or a fan blowing through fire: charcoal = Carbon Black."
+		"Workshop: Press (3 paper + Carbon Black + 100 mB water) = 2 Black-Core Boards."
+		"Goes into: Cabinet Art, Printed Card Sheet, Slot Reel."
+	]
+	"quest.367F247FAC4883D3.title": "A Fresh Deck"
+	"quest.367F247FAC4883D3.quest_subtitle": "Printed, varnished, cut."
+	"quest.367F247FAC4883D3.quest_desc": [
+		"Print the board, varnish it, and the Press cuts a deck."
+		"Workshop: Press (Black-Core Board + Red Ink + Black Ink) = Printed Card Sheet."
+		"Spout: 100 mB Card Varnish onto a Printed Card Sheet = Varnished Card Sheet."
+		"Workshop: Press (2 Varnished Card Sheets) = Deck of Cards."
+		"Goes into: Dealing Shoe, Card Shuffler, Baccarat Table."
+	]
+	"quest.49AF6C93F1CE98F3.title": "The Padded Rail"
+	"quest.49AF6C93F1CE98F3.quest_subtitle": "Spruce, velvet and brass."
+	"quest.49AF6C93F1CE98F3.quest_desc": [
+		"The crimson rail that rings every table: a spruce core, padded and upholstered, capped with brass."
+		"Workshop: Lathe (stripped spruce log), then Loom (white wool + Velvet), then Lathe (2 Brass Fittings) = 2 Padded Rails."
+		"Goes into: Padded Rail Section."
+	]
+	"quest.046BF9F97A37F92E.title": "The Chip Tray"
+	"quest.046BF9F97A37F92E.quest_subtitle": "Made on a belt."
+	"quest.046BF9F97A37F92E.quest_desc": [
+		"Every table keeps its float in a chip tray, and every cabinet stands on one. It is made on a sequenced-assembly belt, not in the Workshop."
+		"Sequenced assembly on a brass sheet: Deployer (Brass Fitting), Deployer (Velvet), Spout (50 mB Card Varnish), Press = Chip Tray."
+		"Goes into: Cabinet Plinth, Dealer's Station."
+	]
+	"quest.08990150A624EEF9.title": "The Table Base"
+	"quest.08990150A624EEF9.quest_subtitle": "The geared foot under a game."
+	"quest.08990150A624EEF9.quest_desc": [
+		"The geared pedestal that stations, plinths, the Start Gate and the Starter's Box stand on."
+		"Mechanical Crafters, 3 wide by 3 tall: 4 stripped spruce logs + 2 shafts + 2 cogwheels + andesite casing = Table Base."
+		"Goes into: Cabinet Plinth, Dealer's Station, Start Gate, Starter's Box."
+	]
+	"quest.3DC2E07FEA1E56D5.title": "The Dealer Console"
+	"quest.3DC2E07FEA1E56D5.quest_subtitle": "Nixie read-out and value boxes."
+	"quest.3DC2E07FEA1E56D5.quest_desc": [
+		"The dealer's read-out and value boxes, built on Mechanical Crafters for the bigger tables' aprons."
+		"Mechanical Crafters, 3 wide by 2 tall: 2 golden sheets + nixie tube + 2 brass sheets + precision mechanism = Dealer Console."
+		"Goes into: Dealer's Apron."
+	]
+	"chapter.08E74AF8C1515210.title": "Building the Casino"
+	"chapter.08E74AF8C1515210.chapter_subtitle": [
+		"Piece by piece, game by game."
+	]
+	"task.1AD926128CE3C763.title": "Got it"
+	"quest.53BA852B2FDB1B1A.title": "How a Game Goes Together"
+	"quest.53BA852B2FDB1B1A.quest_subtitle": "Pieces, then the cloth."
+	"quest.53BA852B2FDB1B1A.quest_desc": [
+		"Place the pieces in the frame JEI shows, then use the printed cloth on it: the table forms. Holding a piece outlines what is missing in blue and a wrong piece in red; goggles on the Dealer's Station list the rest. Break a piece and put it back and it forms again. Sneak with a wrench to lift the cloth."
+		""
+		"{image:cccasino:textures/gui/quest/mb_guide.png width:200 height:78 align:center}"
+	]
+	"quest.39B0D878CD31828F.title": "The Dealer's Station"
+	"quest.39B0D878CD31828F.quest_subtitle": "The brain of every table."
+	"quest.39B0D878CD31828F.quest_desc": [
+		"Every game goes together from pieces the Workshop makes. The station holds the chip float and runs the round, so every card and wheel table has one."
+		"Workshop: Press (Chip Tray + 2 planks), then Lathe (Table Base) = Dealer's Station."
+		"Goes into: Baccarat Table, Blackjack Table, Large Blackjack Table, Small Blackjack Table and 2 more."
+		""
+		"{image:cccasino:textures/gui/quest/mb_kit.png width:200 height:78 align:center}"
+	]
+	"quest.0FBF5DACFAC5BFCE.title": "The Dealing Shoe"
+	"quest.0FBF5DACFAC5BFCE.quest_subtitle": "A deck in a spruce box."
+	"quest.0FBF5DACFAC5BFCE.quest_desc": [
+		"The shoe the dealer draws from: turned spruce, a brass roller and a fresh deck behind glass."
+		"Workshop: Lathe (stripped spruce log), then Lathe (2 Brass Fittings + iron sheet + shaft), then Press (glass pane + Deck of Cards) = Dealing Shoe."
+		"Goes into: Card Shoe."
+	]
+	"quest.09B88CC30A57872F.title": "The Card Shoe"
+	"quest.09B88CC30A57872F.quest_subtitle": "The piece that deals."
+	"quest.09B88CC30A57872F.quest_desc": [
+		"Set in its housing, the shoe becomes the piece that deals: it takes a shaft at the back and deals faster the faster it turns."
+		"Workshop: Lathe (Dealing Shoe + andesite casing) = Card Shoe."
+		"Goes into: Baccarat Table, Blackjack Table, Large Blackjack Table, Small Blackjack Table."
+	]
+	"quest.42FFB9DA33CF881D.title": "Padded Rail Sections"
+	"quest.42FFB9DA33CF881D.quest_subtitle": "Where the players sit."
+	"quest.42FFB9DA33CF881D.quest_desc": [
+		"Padded rails on a spruce apron: the front edge of every table, where the players lean and stack their chips."
+		"Workshop: Lathe (planks), then Loom (2 Padded Rails) = 2 Padded Rail Sections."
+		"Goes into: Baccarat Table, Blackjack Table, Large Blackjack Table, Small Blackjack Table and 2 more."
+	]
+	"quest.018CF874EB5BD079.title": "The Blackjack Layout"
+	"quest.018CF874EB5BD079.quest_subtitle": "The cloth that makes it blackjack."
+	"quest.018CF874EB5BD079.quest_desc": [
+		"Felt printed in gold and red. Laid on a frame of pieces, it is what turns them into a blackjack table."
+		"Workshop: Press (Casino Felt + Gold Ink + Red Ink) = Blackjack Layout."
+		"Goes into: Blackjack Table, Large Blackjack Table, Small Blackjack Table."
+	]
+	"quest.5BD417BE5DE016AD.title": "Deal for Your Friends"
+	"quest.5BD417BE5DE016AD.quest_subtitle": "The small blackjack table."
+	"quest.5BD417BE5DE016AD.quest_desc": [
+		"Your first table: a station, a shoe and a rail in front."
+		"Back: Dealer's Station (first, facing you), Card Shoe; front: 2 Padded Rail Sections."
+		"Last, use the Blackjack Layout on it: it forms."
+		"Power: a shaft into the back of the Card Shoe (the dealer's side)."
+		""
+		"{image:cccasino:textures/gui/quest/mb_blackjack_table_small.png width:200 height:78 align:center}"
+		""
+		"{image:cccasino:textures/gui/quest/mb_plan_blackjack_table_small.png width:200 height:78 align:center}"
+	]
+	"quest.477BFDFCB9E6815F.title": "Pull Up a Stool"
+	"quest.477BFDFCB9E6815F.quest_subtitle": "Seat your friends."
+	"quest.477BFDFCB9E6815F.quest_desc": [
+		"Set a stool on each seat (S on the placement map; blocks counted from the players' left) and sit on it."
+		"Mechanical Crafters, 1 wide by 3 tall: Velvet + Brass Fitting + shaft = 2 Casino Stools."
+		"Small Blackjack Table: 2 stools, in front of every front-row block."
+		"Blackjack Table: 3 stools, both ends of the front row and in front of front-row block 2."
+	]
+	"quest.3DAC64CAA3A32A8D.title": "The Dealer's Apron"
+	"quest.3DAC64CAA3A32A8D.quest_subtitle": "The dealer's edge."
+	"quest.3DAC64CAA3A32A8D.quest_desc": [
+		"The dealer's side of the bigger tables: the console's read-out, the value boxes and the discard rack."
+		"Workshop: Lathe (stripped spruce log), then Press (brass sheet + Dealer Console) = Dealer's Apron."
+		"Goes into: Baccarat Table, Blackjack Table, Large Blackjack Table, Poker Table, Snowball Roulette Table."
+	]
+	"quest.58E1763614FC4FDB.title": "Felt Beds"
+	"quest.58E1763614FC4FDB.quest_subtitle": "The playing field."
+	"quest.58E1763614FC4FDB.quest_desc": [
+		"Stretched felt on a spruce frame with brass corner brackets: the middle of every big table."
+		"Workshop: Loom (Casino Felt), then Press (planks) = Felt Bed."
+		"Goes into: Baccarat Table, Large Blackjack Table, Poker Table, Snowball Roulette Table."
+	]
+	"quest.09F4E97815BACFA7.title": "The House Table"
+	"quest.09F4E97815BACFA7.quest_subtitle": "A dealer console and more seats."
+	"quest.09F4E97815BACFA7.quest_desc": [
+		"The table the casino floor is built on: the small table with an apron beside the station."
+		"Back: Dealer's Apron, Dealer's Station (first, facing you), Card Shoe; front: 3 Padded Rail Sections."
+		"Last, use the Blackjack Layout on it: it forms."
+		"Power: a shaft into the back of the Card Shoe (the dealer's side)."
+		""
+		"{image:cccasino:textures/gui/quest/mb_blackjack_table.png width:200 height:78 align:center}"
+		""
+		"{image:cccasino:textures/gui/quest/mb_plan_blackjack_table.png width:200 height:78 align:center}"
+	]
+	"quest.07247796C5F51FB3.title": "High Stakes"
+	"quest.07247796C5F51FB3.quest_subtitle": "The large blackjack table."
+	"quest.07247796C5F51FB3.quest_desc": [
+		"The biggest blackjack table there is."
+		"Back: Dealer's Apron, Felt Bed, Dealer's Station (first, facing you), Dealer's Apron, Card Shoe; middle: Padded Rail Section, 3 Felt Beds, Padded Rail Section; front: 5 Padded Rail Sections."
+		"Last, use the Blackjack Layout on it: it forms."
+		"Power: a shaft into the back of the Card Shoe (the dealer's side)."
+		""
+		"{image:cccasino:textures/gui/quest/mb_blackjack_table_large.png width:200 height:78 align:center}"
+		""
+		"{image:cccasino:textures/gui/quest/mb_plan_blackjack_table_large.png width:200 height:78 align:center}"
+	]
+	"quest.7EFC39E0F99C2DBE.title": "The Baccarat Layout"
+	"quest.7EFC39E0F99C2DBE.quest_subtitle": "Player, Banker, Tie."
+	"quest.7EFC39E0F99C2DBE.quest_desc": [
+		"PLAYER in blue, BANKER in red, TIE in black, with the Krampus and Polar Bear roundels. Laid on the large frame, it makes a baccarat table."
+		"Workshop: Press (Casino Felt + Red Ink + Black Ink + blue dye) = Baccarat Layout."
+		"Goes into: Baccarat Table."
+	]
 	"quest.233AAF32706D7F1B.title": "The Baccarat Table"
-	"quest.233AAF32706D7F1B.quest_subtitle": "Five seats, eight decks."
+	"quest.233AAF32706D7F1B.quest_subtitle": "The big frame, dressed for baccarat."
 	"quest.233AAF32706D7F1B.quest_desc": [
-		"Print a baccarat layout on the Workshop Press (felt, red and black ink, blue dye) and lay it, with two decks for the eight-deck shoe, on a large blackjack frame of pieces: the cloth makes it baccarat. Power the shoe and seat a dealer."
+		"Back: Dealer's Apron, Felt Bed, Dealer's Station (first, facing you), Dealer's Apron, Card Shoe; middle: Padded Rail Section, 3 Felt Beds, Padded Rail Section; front: 5 Padded Rail Sections."
+		"Last, use the Baccarat Layout on it, with 2 Decks of Cards in your inventory: it forms."
+		"Power: a shaft into the back of the Card Shoe (the dealer's side)."
 		""
 		"{image:cccasino:textures/gui/quest/mb_baccarat_table.png width:200 height:78 align:center}"
+		""
+		"{image:cccasino:textures/gui/quest/mb_plan_baccarat_table.png width:200 height:78 align:center}"
+	]
+	"quest.6AA696C757523861.title": "Shuffler Rollers"
+	"quest.6AA696C757523861.quest_subtitle": "Rubber rollers and a counter."
+	"quest.6AA696C757523861.quest_desc": [
+		"The works of a card shuffler: a geared feed, rubber rollers and an electron-tube card counter, built round a precision mechanism on a belt."
+		"Sequenced assembly on a precision mechanism, twice round: Deployer (cogwheel), Deployer (slime ball), Deployer (electron tube) = Shuffler Rollers."
+		"Goes into: Card Shuffler."
+	]
+	"quest.544D3D9887CA9061.title": "The Card Shuffler"
+	"quest.544D3D9887CA9061.quest_subtitle": "The poker table's dealer."
+	"quest.544D3D9887CA9061.quest_desc": [
+		"The rollers and a deck in a housing: the piece that shuffles and deals at the Poker Table. It takes a shaft at the back."
+		"Workshop: Press (Shuffler Rollers + Deck of Cards + andesite casing) = Card Shuffler."
+		"Goes into: Poker Table."
+	]
+	"quest.79E7F9939D97C2C3.title": "The Poker Layout"
+	"quest.79E7F9939D97C2C3.quest_subtitle": "A seat box for every player."
+	"quest.79E7F9939D97C2C3.quest_desc": [
+		"Felt printed with a gold betting line and the seat boxes. Laid on its frame, it makes a Poker Table."
+		"Workshop: Press (Casino Felt + Gold Ink + Black Ink) = Poker Layout."
+		"Goes into: Poker Table."
+	]
+	"quest.0540CCBE9A343034.title": "Texas Hold'em at Home"
+	"quest.0540CCBE9A343034.quest_subtitle": "A shuffler of your own."
+	"quest.0540CCBE9A343034.quest_desc": [
+		"The oval table."
+		"Back: Padded Rail Section, Dealer's Apron, Dealer's Station (first, facing you), Card Shuffler, Padded Rail Section; middle: Padded Rail Section, 3 Felt Beds, Padded Rail Section; front: 5 Padded Rail Sections."
+		"Last, use the Poker Layout on it: it forms."
+		"Power: a shaft into the back of the Card Shuffler (the dealer's side)."
+		""
+		"{image:cccasino:textures/gui/quest/mb_poker_table.png width:200 height:78 align:center}"
+		""
+		"{image:cccasino:textures/gui/quest/mb_plan_poker_table.png width:200 height:78 align:center}"
+	]
+	"quest.7A13E70F900DE899.title": "The Turned Bowl"
+	"quest.7A13E70F900DE899.quest_subtitle": "Dark oak, on the Lathe."
+	"quest.7A13E70F900DE899.quest_desc": [
+		"Every roulette wheel starts as a solid dark-oak bowl, turned on the Workshop Lathe and left raw for the varnish."
+		"Workshop: Lathe (3 stripped dark oak logs) = Turned Bowl."
+		"Goes into: Roulette Wheel."
+	]
+	"quest.11C45A219061F700.title": "The Number Ring"
+	"quest.11C45A219061F700.quest_subtitle": "Red, black and a gold zero."
+	"quest.11C45A219061F700.quest_desc": [
+		"A spun brass ring printed with the numbers in red and black and a gold zero, set round the wheel."
+		"Workshop: Lathe (brass sheet), then Press (Red Ink + Black Ink + Gold Ink) = Number Ring."
+		"Goes into: Roulette Wheel."
+	]
+	"quest.491E146A077DA613.title": "The Roulette Wheel"
+	"quest.491E146A077DA613.quest_subtitle": "Bowl, frets, ring and bearing."
+	"quest.491E146A077DA613.quest_desc": [
+		"The bowl rides a sequenced-assembly belt: varnished, fretted in brass, ringed with numbers and set on a bearing."
+		"Sequenced assembly on a Turned Bowl: Spout (250 mB Card Varnish), Deployer (Brass Fitting), Deployer (Brass Fitting), Deployer (Number Ring), Deployer (mechanical bearing) = Roulette Wheel."
+		"Goes into: Wheel Bowl."
+	]
+	"quest.7A0F939D7B80F0B5.title": "The Wheel Bowl"
+	"quest.7A0F939D7B80F0B5.quest_subtitle": "The piece that spins."
+	"quest.7A0F939D7B80F0B5.quest_desc": [
+		"The wheel set in its housing: the Roulette Table's spinning piece. It takes a shaft at the back."
+		"Workshop: Lathe (Roulette Wheel + andesite casing) = Wheel Bowl."
+		"Goes into: Snowball Roulette Table."
+	]
+	"quest.0A3A3089AB04CCDA.title": "The Roulette Layout"
+	"quest.0A3A3089AB04CCDA.quest_subtitle": "A single snow-white zero."
+	"quest.0A3A3089AB04CCDA.quest_desc": [
+		"The single-zero betting layout printed in red, black and white. Laid on its frame, it makes a Snowball Roulette Table."
+		"Workshop: Press (Casino Felt + Red Ink + Black Ink + white dye) = Roulette Layout."
+		"Goes into: Snowball Roulette Table."
+	]
+	"quest.58AF8CB9EC71E889.title": "Spin the Wheel"
+	"quest.58AF8CB9EC71E889.quest_subtitle": "A long table and its wheel."
+	"quest.58AF8CB9EC71E889.quest_desc": [
+		"A long table with the wheel beside the dealer."
+		"Back: Padded Rail Section, Wheel Bowl, Dealer's Station (first, facing you), Dealer's Apron, Felt Bed, Padded Rail Section; front: 6 Padded Rail Sections."
+		"Last, use the Roulette Layout on it: it forms."
+		"Power: a shaft into the back of the Wheel Bowl (the dealer's side)."
+		""
+		"{image:cccasino:textures/gui/quest/mb_roulette_table.png width:200 height:78 align:center}"
+		""
+		"{image:cccasino:textures/gui/quest/mb_plan_roulette_table.png width:200 height:78 align:center}"
+	]
+	"quest.3602C0241FAD6D4E.title": "The Cabinet Plinth"
+	"quest.3602C0241FAD6D4E.quest_subtitle": "Every cabinet stands on one."
+	"quest.3602C0241FAD6D4E.quest_desc": [
+		"The brass plinth with the payout tray that every cabinet stands on. It takes the cabinet's shaft at the back."
+		"Workshop: Press (Chip Tray + 2 iron sheets), then Lathe (Table Base) = Cabinet Plinth."
+		"Goes into: Jingle Reels Slot Machine, Video Poker."
+	]
+	"quest.0B9F65B7550A5250.title": "Cabinet Art"
+	"quest.0B9F65B7550A5250.quest_subtitle": "A back-lit topper."
+	"quest.0B9F65B7550A5250.quest_desc": [
+		"Back-lit glass printed in red and gold: the topper of every Jingle Reels and Video Poker cabinet."
+		"Workshop: Press (Black-Core Board + Gold Ink + Red Ink + glass pane) = Cabinet Art."
+		"Goes into: Split-Flap Screen, Reel Drum Housing."
+	]
+	"quest.2E56FCF595062EBA.title": "Slot Reels"
+	"quest.2E56FCF595062EBA.quest_subtitle": "Spun and printed."
+	"quest.2E56FCF595062EBA.quest_desc": [
+		"A spun iron drum with its printed strip of symbols: the reels that spin in Jingle Reels."
+		"Workshop: Lathe (iron sheet), then Press (Black-Core Board + Red Ink + Gold Ink) = Slot Reel."
+		"Goes into: Reel Bank."
+	]
+	"quest.6DC55892EFD35977.title": "The Reel Bank"
+	"quest.6DC55892EFD35977.quest_subtitle": "A sequenced stop."
+	"quest.6DC55892EFD35977.quest_desc": [
+		"Reels on one geared shaft, with a sequenced gearshift that stops them in turn."
+		"Mechanical Crafters, 3 wide by 2 tall: 3 Slot Reels + shaft + sequenced gearshift + precision mechanism = Reel Bank."
+		"Goes into: Reel Drum Housing."
+	]
+	"quest.107A1B27166EE8B2.title": "The Reel Drum Housing"
+	"quest.107A1B27166EE8B2.quest_subtitle": "Behind an iron bezel."
+	"quest.107A1B27166EE8B2.quest_desc": [
+		"The reels behind an iron bezel, lit by lamps, with the topper above: the top of a Jingle Reels cabinet."
+		"Workshop: Press (Reel Bank + Cabinet Art + 2 golden sheets), then Lathe (2 iron sheets + 2 redstone lamps) = Reel Drum Housing."
+		"Goes into: Jingle Reels Slot Machine."
+	]
+	"quest.70B9DA851B83DADE.title": "Jingle Reels"
+	"quest.70B9DA851B83DADE.quest_subtitle": "Reels and a sequenced stop."
+	"quest.70B9DA851B83DADE.quest_desc": [
+		"A cabinet is a plinth and a top."
+		"Place the Cabinet Plinth (first, facing you), then stand the Reel Drum Housing on it."
+		"It forms as the last piece goes in."
+		"Power: a shaft into the back of the Cabinet Plinth (the side away from the player)."
+		""
+		"{image:cccasino:textures/gui/quest/mb_slot_cabinet.png width:200 height:78 align:center}"
+		""
+		"{image:cccasino:textures/gui/quest/mb_plan_slot_cabinet.png width:200 height:78 align:center}"
+	]
+	"quest.02CF580964732304.title": "The Flap Card Bank"
+	"quest.02CF580964732304.quest_subtitle": "Varnished leaves on one axle."
+	"quest.02CF580964732304.quest_desc": [
+		"Split-flap card windows on one geared axle, built round a precision mechanism on a sequenced-assembly belt."
+		"Sequenced assembly on a precision mechanism, five times round: Deployer (Varnished Card Sheet), Deployer (iron sheet), Press = Flap Card Bank."
+		"Goes into: Split-Flap Screen, North Pole Exchange."
+	]
+	"quest.627DAB046F6FD0BC.title": "The Split-Flap Screen"
+	"quest.627DAB046F6FD0BC.quest_subtitle": "Cards that riffle."
+	"quest.627DAB046F6FD0BC.quest_desc": [
+		"The flap bank behind glass with the paytable, the brass HOLD keys and the lever: the top of a Video Poker cabinet."
+		"Workshop: Press (Flap Card Bank + Cabinet Art + 2 golden sheets), then Lathe (2 Brass Fittings + 2 redstone lamps) = Split-Flap Screen."
+		"Goes into: Video Poker."
 	]
 	"quest.4FF3E69EE26E2A8C.title": "A Cabinet of Your Own"
-	"quest.4FF3E69EE26E2A8C.quest_subtitle": "Five flaps on one axle."
+	"quest.4FF3E69EE26E2A8C.quest_subtitle": "Card flaps on one axle."
 	"quest.4FF3E69EE26E2A8C.quest_desc": [
-		"Varnished card leaves, iron and a press ride a sequenced line round a precision mechanism five times to make the flap card bank. The Workshop builds it into a Split-Flap Screen: stand it on a Cabinet Plinth and run a shaft into the plinth's back."
+		"The same plinth, a different top."
+		"Place the Cabinet Plinth (first, facing you), then stand the Split-Flap Screen on it."
+		"It forms as the last piece goes in."
+		"Power: a shaft into the back of the Cabinet Plinth (the side away from the player)."
 		""
 		"{image:cccasino:textures/gui/quest/mb_video_poker.png width:200 height:78 align:center}"
+		""
+		"{image:cccasino:textures/gui/quest/mb_plan_video_poker.png width:200 height:78 align:center}"
+	]
+	"quest.5A3C4DCD138C6FC3.title": "Counter Drums"
+	"quest.5A3C4DCD138C6FC3.quest_subtitle": "Digits on copper."
+	"quest.5A3C4DCD138C6FC3.quest_desc": [
+		"Spun copper drums printed with digits: the rolling numbers of the North Pole Jackpot Meter."
+		"Workshop: Lathe (copper sheet), then Press (Black Ink + bone meal) = 5 Counter Drums."
+		"Goes into: Jackpot Bell Drive, Counter Drum Bank."
+	]
+	"quest.684ADC37A293B7A1.title": "The Counter Drum Bank"
+	"quest.684ADC37A293B7A1.quest_subtitle": "Drums and a nixie."
+	"quest.684ADC37A293B7A1.quest_desc": [
+		"Counter drums in a brass case with a nixie tube and a precision index: the meter's sides."
+		"Workshop: Lathe (2 Counter Drums), then Press (golden sheet + nixie tube + brass casing + precision mechanism) = Counter Drum Bank."
+		"Goes into: North Pole Jackpot Meter."
+	]
+	"quest.6D484A7F28DA968C.title": "The Jackpot Bell Drive"
+	"quest.6D484A7F28DA968C.quest_subtitle": "The middle drum and the bell."
+	"quest.6D484A7F28DA968C.quest_desc": [
+		"The meter's middle: a drum on a shaft and the bell that rings when the jackpot drops. It takes the meter's shaft at the back."
+		"Workshop: Lathe (Counter Drum + shaft), then Press (bell) = Jackpot Bell Drive."
+		"Goes into: North Pole Jackpot Meter."
 	]
 	"quest.794A08662876BB40.title": "Roll It Up"
-	"quest.794A08662876BB40.quest_subtitle": "Five drums and a bell."
+	"quest.794A08662876BB40.quest_subtitle": "Drums and a bell."
 	"quest.794A08662876BB40.quest_desc": [
-		"Spin copper drums on the Workshop Lathe and print their digits on the Press. Two Counter Drum Banks either side of a Jackpot Bell Drive make the meter. Seat it on a bank of cabinets: every meter shows the same pot."
+		"Every meter shows the same pot, fed by Jingle Reels and Video Poker."
+		"In a row: Counter Drum Bank, Jackpot Bell Drive (first, facing you), Counter Drum Bank."
+		"It forms as the last piece goes in."
+		"Power: a shaft into the back of the Jackpot Bell Drive (the side away from the player)."
 		""
 		"{image:cccasino:textures/gui/quest/mb_jackpot_meter.png width:200 height:78 align:center}"
+		""
+		"{image:cccasino:textures/gui/quest/mb_plan_jackpot_meter.png width:200 height:78 align:center}"
+	]
+	"quest.6F99C9BFE6DC9FAD.title": "Derby Track"
+	"quest.6F99C9BFE6DC9FAD.quest_subtitle": "Snow lanes and a chain."
+	"quest.6F99C9BFE6DC9FAD.quest_desc": [
+		"Snow lanes with guide rods and the chain run under the bed: the Reindeer Derby's course."
+		"Workshop: Press (planks + andesite alloy), then Loom (white wool) = Derby Track Segment."
+		"Goes into: Reindeer Derby."
+	]
+	"quest.5A60DADBB2CD0975.title": "The Start Gate"
+	"quest.5A60DADBB2CD0975.quest_subtitle": "Stalls and a gate bar."
+	"quest.5A60DADBB2CD0975.quest_desc": [
+		"Stalls, a chain take-up and the brass gate bar: where the runners line up for the off."
+		"Workshop: Press (precision mechanism + chain conveyor), then Lathe (brass casing + Table Base) = Start Gate."
+		"Goes into: Reindeer Derby."
+	]
+	"quest.7B6E7398A9ADC425.title": "The Starter's Box"
+	"quest.7B6E7398A9ADC425.quest_subtitle": "START and the tote."
+	"quest.7B6E7398A9ADC425.quest_desc": [
+		"The START button and the tote board on its gantry: the Derby's brain. It takes its shaft from below."
+		"Workshop: Press (6 display boards + precision mechanism), then Lathe (Table Base + shaft) = Starter's Box."
+		"Goes into: Reindeer Derby."
+	]
+	"quest.77623409EB0672EB.title": "Racing Reindeer"
+	"quest.77623409EB0672EB.quest_subtitle": "Turned, blanketed, numbered."
+	"quest.77623409EB0672EB.quest_desc": [
+		"Turned birch reindeer in velvet racing blankets, numbered in red, on brass carriage pins."
+		"Workshop: Lathe (stripped birch log), then Loom (Velvet + brown dye), then Press (Red Ink + Brass Fitting) = 3 Racing Reindeer."
+		"Goes into: Reindeer Derby."
 	]
 	"quest.4E5304ECD7C6AE5F.title": "The Reindeer Derby"
-	"quest.4E5304ECD7C6AE5F.quest_subtitle": "Six runners and a tote."
+	"quest.4E5304ECD7C6AE5F.quest_subtitle": "Runners and a tote."
 	"quest.4E5304ECD7C6AE5F.quest_desc": [
-		"Lay a Start Gate, eight Derby Track Segments and the Starter's Box with its tote of six Create display boards. Turn six birch reindeer on the Lathe, blanket them on the Loom, number them on the Press and lead them into the Start Gate. A shaft up into the Starter's Box runs the chains."
+		"The course goes down first, the runners last."
+		"Back: Start Gate, 4 Derby Track Segments; front: 2 Derby Track Segments, Starter's Box (first, facing you), 2 Derby Track Segments."
+		"Last, carry 6 Racing Reindeer and use one on it: it forms."
+		"Power: a shaft up into the bottom of the Starter's Box."
 		""
 		"{image:cccasino:textures/gui/quest/mb_reindeer_derby.png width:200 height:78 align:center}"
+		""
+		"{image:cccasino:textures/gui/quest/mb_plan_reindeer_derby.png width:200 height:78 align:center}"
+	]
+	"quest.12981B4FB4AB7702.title": "More Seats"
+	"quest.12981B4FB4AB7702.quest_subtitle": "Stools round the big tables."
+	"quest.12981B4FB4AB7702.quest_desc": [
+		"Large Blackjack Table and Baccarat Table: 5 stools, both ends of the front row and in front of front-row blocks 2 to 4."
+		"Poker Table: 6 stools, both ends of the middle row, behind both ends of the back row and in front of front-row blocks 2 and 4."
+		"Snowball Roulette Table: 5 stools, the right end of the front row and in front of front-row blocks 3 to 6."
+	]
+	"reward.3951FF9A2E2C7F8D.title": "Fireworks!"
+	"quest.11C16135B26F8B1F.title": "Grand Opening"
+	"quest.11C16135B26F8B1F.quest_subtitle": "Every table, made by you."
+	"quest.11C16135B26F8B1F.quest_desc": [
+		"A Poker Table, a Snowball Roulette Table and a Jingle Reels Slot Machine, every piece made in your own Workshop and put together on your own floor. Throw the doors open: the North Pole has a casino of its own making."
 	]
 	"reward.7DBB11749BED1860.title": "Fireworks!"
 	"quest.22F01DA66DD51A33.title": "The Full Floor"
 	"quest.22F01DA66DD51A33.quest_subtitle": "Every game in the house."
 	"quest.22F01DA66DD51A33.quest_desc": [
 		"A Baccarat Table, a Video Poker cabinet under a North Pole Jackpot Meter, and the Reindeer Derby, all of your own making. The North Pole has a casino floor to rival anywhere."
-	]
-	"quest.50C1DFAAE00DF7F8.title": "Big Chip"
-	"quest.50C1DFAAE00DF7F8.quest_subtitle": "Ten thousand. In one chip."
-	"quest.50C1DFAAE00DF7F8.quest_desc": [
-		"Hold a ten thousand chip. Very few people on the server ever will. Whether you built it up slowly or won it in a night, you are now the person everyone watches at the table."
 	]
 	"chapter.511C154DE343C9D2.title": "The High Roller"
 	"chapter.511C154DE343C9D2.chapter_subtitle": [
@@ -749,11 +1167,56 @@
 	"quest.499A79D9EFD8A90F.quest_desc": [
 		"Win at least once at every house game: blackjack, baccarat, Snowball Roulette, Ultimate Texas Hold'em, Jingle Reels, Video Poker, the Wheel of Gifts and the Reindeer Derby. The Full Card ribbon puts gold trim on your casino panel and a jingle collar within Mischief's reach."
 	]
+	"quest.152F345C5D24021B.title": "Tinsel"
+	"quest.152F345C5D24021B.quest_subtitle": "What the house keeps, you earn."
+	"quest.152F345C5D24021B.quest_desc": [
+		"Every bet you settle at a house game earns Tinsel: one for each chip the house expects to keep, so riskier games and bigger bets earn more. Texas Hold'em between players, Gift Chips, free spins, refunds and pushes earn none, and a lucky drink earns less. Tinsel is a balance, not an item: see it at the Cashier's Cage and spend it at the Prize Counter."
+	]
 	"task.11DF351145BC6421.title": "Open the Prize Counter"
 	"quest.380176687E1624B6.title": "The Prize Counter"
 	"quest.380176687E1624B6.quest_subtitle": "Prizes under glass."
 	"quest.380176687E1624B6.quest_desc": [
-		"Walnut and brass under glass, the prizes turning on their pedestals. Use it for the catalogue: a shelf above your rank shows the rank instead of a price. Chips spent here are gone for good, and Prize Silk, sold only here, goes into every cosmetic recipe."
+		"Walnut and brass under glass, the prizes turning on their pedestals. Use it for the catalogue: it takes Tinsel only, never chips. Rare finds and lucky drinks are open to everyone; a prize shelf above your rank shows the rank instead of a price. Prize Silk, sold only here, goes into every cosmetic recipe."
+	]
+	"quest.1DBA3BBEF024CD4A.title": "A Counter of Your Own"
+	"quest.1DBA3BBEF024CD4A.quest_subtitle": "Walnut, brass and glass."
+	"quest.1DBA3BBEF024CD4A.quest_desc": [
+		"Prize Counters are made on Mechanical Crafters, so a casino of your own can have one."
+		"Mechanical Crafters, 3 wide by 4 tall: precision mechanism + 2 golden sheets + brass casing + 3 framed glass + mechanical bearing + nixie tube + 3 dark oak planks = Prize Counter."
+	]
+	"quest.0C16ACADB2482B70.title": "Peppermint Counter"
+	"quest.0C16ACADB2482B70.quest_subtitle": "Red and white instead."
+	"quest.0C16ACADB2482B70.quest_desc": [
+		"The same counter in peppermint stripes: white concrete and red dye for the walnut."
+		"Mechanical Crafters, 3 wide by 4 tall: red dye + precision mechanism + 2 golden sheets + brass casing + 3 framed glass + mechanical bearing + nixie tube + 2 white concrete = Peppermint Prize Counter."
+	]
+	"quest.79F724DED7AAD0BD.title": "Santa's Mint"
+	"quest.79F724DED7AAD0BD.quest_subtitle": "Blanks in, chips out."
+	"quest.79F724DED7AAD0BD.quest_desc": [
+		"It turns Tinsel back into chips, slower than play earned it. Use the kit on clear ground, turn its Drive Port with Create, feed it Mint Blanks and collect the till with an empty hand."
+		"Buy it at the Prize Counter, Santa's Mint shelf: Santa's Mint for 10,000 Tinsel."
+		"Each blank strikes 10 chips into the till."
+		""
+		"{image:cccasino:textures/gui/quest/mb_mint.png width:200 height:78 align:center}"
+	]
+	"quest.346E2293002961DD.title": "Mint Blanks"
+	"quest.346E2293002961DD.quest_subtitle": "Brass discs, waiting to be chips."
+	"quest.346E2293002961DD.quest_desc": [
+		"Feed blanks into your Mint by hand, funnel, hopper or belt, keep its Drive Port turning, and collect the till with an empty hand."
+		"Buy them at the Prize Counter, Santa's Mint shelf: 10 Mint Blanks for 250 Tinsel."
+		"Each blank strikes 10 chips into the till."
+	]
+	"quest.66FB011AE03038AD.title": "Mint II"
+	"quest.66FB011AE03038AD.quest_subtitle": "A second press."
+	"quest.66FB011AE03038AD.quest_desc": [
+		"Use it on your Mint: the hall grows a bay to the right and gets a second press. It strikes faster; a blank still makes the same."
+		"Buy it at the Prize Counter, Santa's Mint shelf: Mint Upgrade: Second Press for 15,000 Tinsel."
+	]
+	"quest.64CD5235EA8A1296.title": "Mint III"
+	"quest.64CD5235EA8A1296.quest_subtitle": "More presses and a feeder."
+	"quest.64CD5235EA8A1296.quest_desc": [
+		"Use it on your Mint II: the hall grows again, gets more presses and a belt feeder on its roof. Faster still; a blank still makes the same."
+		"Buy it at the Prize Counter, Santa's Mint shelf: Mint Upgrade: Feeder and Two Presses for 30,000 Tinsel."
 	]
 	"quest.50DE7041F0C1E2A3.title": "The Wardrobe"
 	"quest.50DE7041F0C1E2A3.quest_subtitle": "A hat for the tables."
@@ -1297,12 +1760,42 @@
 	"chapter.6EFBA7C7F19E4A02.chapter_subtitle": [
 		"The quota will not fill itself."
 	]
+	"quest.03377F72F3AE03D8.title": "Toy Works Casing"
+	"quest.03377F72F3AE03D8.quest_subtitle": "Brass and red wool."
+	"quest.03377F72F3AE03D8.quest_desc": [
+		"The Carousel's ring wall and the pedestals its deployers stand on are all Toy Works Casing."
+		"Crafting table: brass casing + red wool = Toy Works Casing."
+		"Goes into: Santa's Toy Works (tier I), Santa's Toy Works (tier II)."
+	]
+	"quest.48D345600A803BE4.title": "Workshop Deployers"
+	"quest.48D345600A803BE4.quest_subtitle": "Hands for the Carousel."
+	"quest.48D345600A803BE4.quest_desc": [
+		"A Create deployer, fitted for the Toy Works: it stands on a casing pedestal at one of the dial's stops and works the toy as it comes round."
+		"Crafting table: deployer = Workshop Deployer."
+		"Goes into: Santa's Toy Works (tier I), Santa's Toy Works (tier II)."
+	]
+	"quest.1BB3CB63CAA9DC5A.title": "The Toy Works Controller"
+	"quest.1BB3CB63CAA9DC5A.quest_subtitle": "The Carousel itself."
+	"quest.1BB3CB63CAA9DC5A.quest_desc": [
+		"The controller draws the dial, the canopy and the transmission once the works forms. It stands over the input port at the front gate."
+		"Crafting table (shaped): 4 brass casings + paper + 2 cogwheels + precision mechanism + deployer = Santa's Toy Works."
+		"Goes into: Santa's Toy Works (tier I), Santa's Toy Works (tier II)."
+	]
+	"quest.1A54651857F45F6A.title": "The Toy Chute"
+	"quest.1A54651857F45F6A.quest_subtitle": "Where finished toys come out."
+	"quest.1A54651857F45F6A.quest_desc": [
+		"Set on the ground behind the back gate, it catches each finished toy and hands it to a belt, a funnel or a chest."
+		"Crafting table: chute + andesite casing + brass sheet = Toy Chute."
+	]
 	"quest.50F37896395DFCB1.title": "Santa's Toy Works"
 	"quest.50F37896395DFCB1.quest_subtitle": "The Carousel turns, and toys come out."
 	"quest.50F37896395DFCB1.quest_desc": [
-		"Craft the controller (brass casing, paper, a cogwheel, a precision mechanism and a deployer) and ring a turning dial with Toy Works Casing: four Workshop Deployers on pedestals at its stops, an input port under the controller, a Drive Port and the Toy Chute at the back. Stand by it as it forms. Every team knows three toys: make a Wooden Train."
+		"Ring a clear dial in Toy Works Casing, a deployer on a casing pedestal at each stop, ports and controller where the plan shows and the Toy Chute behind the back gate. Stand by it as it forms, then make a Wooden Train."
+		"Blocks: 84 Toy Works Casings, 4 Workshop Deployers; one each: Santa's Toy Works, Drive Port, Item Input Port."
 		""
 		"{image:cccasino:textures/gui/quest/mb_toy_works.png width:200 height:78 align:center}"
+		""
+		"{image:cccasino:textures/gui/quest/mb_plan_toy_works.png width:200 height:78 align:center}"
 	]
 	"quest.41023DBBCE14EC9D.title": "A New Design"
 	"quest.41023DBBCE14EC9D.quest_subtitle": "Learn a toy nobody taught you."
@@ -1312,7 +1805,10 @@
 	"quest.3C332E5EB1726584.title": "Eight Hands"
 	"quest.3C332E5EB1726584.quest_subtitle": "Every face of the toy."
 	"quest.3C332E5EB1726584.quest_desc": [
-		"Add a second deployer at each stop and the Toy Works reaches tier II: eight deployers, and a toy's steps can reach all four faces and the top. Learn the Clockwork Mouse and make one."
+		"Add a second deployer on its own casing pedestal at each stop, as the plan shows, and the works reaches tier II: a toy's steps reach every face and the top. Learn the Clockwork Mouse and make one."
+		"Blocks: 88 Toy Works Casings, 8 Workshop Deployers; one each: Santa's Toy Works, Drive Port, Item Input Port."
+		""
+		"{image:cccasino:textures/gui/quest/mb_plan_toy_works.png width:200 height:78 align:center}"
 	]
 	"quest.7F19373A1F5858BC.title": "Fired in the Kiln"
 	"quest.7F19373A1F5858BC.quest_subtitle": "Paint that sets hard."
@@ -1325,27 +1821,47 @@
 	"quest.70E21DF1177F2B61.quest_desc": [
 		"The snow globe is the hardest toy in the Toy Works: every tier II deployer, and a kiln kept superheated on blaze cake. Learn it, make it, and wrap it for someone who has been very good this year."
 	]
+	"quest.36D87345093002C0.title": "Wrapping Paper"
+	"quest.36D87345093002C0.quest_subtitle": "Stars, dots, snowflakes and stripes."
+	"quest.36D87345093002C0.quest_desc": [
+		"A mixer prints paper for the Gift Wrapper: the dye picks the pattern."
+		"Mixer: 4 paper + red dye = 4 Wrapping Paper (Red Stars)."
+		"Mixer: 4 paper + green dye = 4 Wrapping Paper (Green Dots)."
+		"Mixer: 4 paper + blue dye = 4 Wrapping Paper (Blue Snowflakes)."
+		"Mixer: 4 paper + red dye + white dye = 4 Wrapping Paper (Candy Stripe)."
+	]
 	"quest.6E5B88DF0CAA50F1.title": "The Gift Wrapper"
 	"quest.6E5B88DF0CAA50F1.quest_subtitle": "One stroke, one present."
 	"quest.6E5B88DF0CAA50F1.quest_desc": [
-		"Mix paper and dye for wrapping paper. The Gift Wrapper presses a toy and a sheet into a present, one stroke at a time, on Create power. Run a belt from your Toy Chute through it and wrap a toy in red."
+		"It presses a toy and a sheet of wrapping paper into a present, one stroke at a time, on Create power. Run a belt from your Toy Chute through it and wrap a toy in red."
+		"Crafting table: mechanical press + brass casing + shears + string = Gift Wrapper."
 	]
 	"quest.755A24D22F84FF75.title": "Ribbon and Tag"
 	"quest.755A24D22F84FF75.quest_subtitle": "The finishing touch."
 	"quest.755A24D22F84FF75.quest_desc": [
 		"A deployer holding a ribbon spool ties a bow on a passing present, and one holding a gift tag adds the tag. Neither is needed for the quota, but a dressed present is the proper way to send a toy to Santa."
+		"Mixer: 4 string + red dye + green dye = Ribbon Spool."
+	]
+	"quest.03616C083D252999.title": "Empty Sacks"
+	"quest.03616C083D252999.quest_subtitle": "Red wool and string."
+	"quest.03616C083D252999.quest_desc": [
+		"The Sack Hoist fills empty sacks with presents. Give it a stack and it never waits for one."
+		"Crafting table (shaped): 2 string + 5 red wool = 2 Empty Sacks."
 	]
 	"quest.072E0AC2B3CCAE09.title": "Santa's Sack Hoist"
-	"quest.072E0AC2B3CCAE09.quest_subtitle": "Thirty-two presents, one sealed sack."
+	"quest.072E0AC2B3CCAE09.quest_subtitle": "Presents in, a sealed sack out."
 	"quest.072E0AC2B3CCAE09.quest_desc": [
-		"Feed presents to the Sack Hoist and give it an empty sack. At 32 presents the winch seals the sack and sets it down. A sack counts toward the server's Toy Quota once it is delivered to Santa's Sleigh in the North Pole village, and the delivery is credited to whoever placed the hoist. Fill your first sack."
+		"Placed, it raises its own platform and winch. Feed it presents and an empty sack."
+		"Mechanical Crafters, 5 wide by 5 tall: 2 shafts + 2 brass casings + rope pulley + 4 metal girders + brass hand + copper casing + brass sheet + stressometer + 4 andesite casings + propeller + iron bars + precision mechanism + 3 spruce slabs = Santa's Sack Hoist."
 		""
 		"{image:cccasino:textures/gui/quest/mb_sack_hoist.png width:200 height:78 align:center}"
 	]
 	"quest.11CE1B69A84314E4.title": "Christmas Spirit"
 	"quest.11CE1B69A84314E4.quest_subtitle": "What rises from a full sack."
 	"quest.11CE1B69A84314E4.quest_desc": [
-		"Each sealed sack gives off eight Spirit Wisps. A heated mixer turns a wisp, an eggnog and a glowstone dust into 250 mB of Christmas Spirit, a glowing fluid. Pipe it to a Spout and fill an empty bucket: four batches a bucket. The Yuletide Forge drinks it by pipe or by the bucket."
+		"Each sealed sack gives off Spirit Wisps. A Spout fills buckets from the mixer; the Yuletide Forge drinks Spirit by pipe or by the bucket."
+		"Heated mixer: Spirit Wisp + eggnog + glowstone dust = 250 mB Christmas Spirit."
+		"Goes into: Star of Saint Nicholas, Fine Lucky Tonic, Fine Mistletoe Elixir, Fine Star Draught and 3 more."
 	]
 	"quest.4530F11F5D045B0C.title": "A Little Luck"
 	"quest.4530F11F5D045B0C.quest_subtitle": "Lucky Tonic."
@@ -1355,7 +1871,8 @@
 	"quest.5AECE8411290B83C.title": "A Bowl for the Table"
 	"quest.5AECE8411290B83C.quest_subtitle": "The Lucky Punch Bowl."
 	"quest.5AECE8411290B83C.quest_desc": [
-		"Brass sheets, glass and a brass casing on Mechanical Crafters make a punch bowl. Set it on the casino floor and run a spout over it: it holds four cups of Lucky Tonic, and anyone takes a cup with an empty hand. A round of luck for the whole table, as long as the bowl lasts."
+		"Set it on the casino floor and run a spout over it: it holds cups of Lucky Tonic, and anyone takes a cup with an empty hand. A round of luck for the whole table."
+		"Mechanical Crafters, 3 wide by 3 tall: 4 brass sheets + glass + brass casing = Lucky Punch Bowl."
 	]
 	"quest.0239AA5C1C21389A.title": "A Finer Vintage"
 	"quest.0239AA5C1C21389A.quest_subtitle": "Ten minutes instead of five."
@@ -1384,33 +1901,174 @@
 	"quest.20EA1B203C3ED0AE.title": "Good Soil"
 	"quest.20EA1B203C3ED0AE.quest_subtitle": "Loam and feed, from the mixer."
 	"quest.20EA1B203C3ED0AE.quest_desc": [
-		"A Yule Tree grows in Potting Loam and eats Pine Feed, and a Create mixer makes both with a splash of water: coarse dirt, podzol and bone meal give two loam; two bone meal, dried kelp and spruce leaves give four Pine Feed. Make some of each."
+		"A Yule Tree grows in Potting Loam and eats Pine Feed, and a Create mixer makes both with a splash of water. Make some of each."
+		"Mixer: coarse dirt + podzol + bone meal + 250 mB water = 2 Potting Loam."
+		"Mixer: 2 bone meal + dried kelp + spruce leaves + 250 mB water = 4 Pine Feed."
 	]
 	"quest.2EDBE26438D39774.title": "A Yule Sprig"
 	"quest.2EDBE26438D39774.quest_subtitle": "A sapling, dressed on a belt."
 	"quest.2EDBE26438D39774.quest_desc": [
-		"Send a spruce sapling down a sequenced-assembly belt: Deployers add a snowball, glow berries and a gift tag (paper and string make four). What comes off is a Yule Sprig, a tree that will grow all season if you look after it."
+		"Tie gift tags, then send a spruce sapling down a sequenced-assembly belt. What comes off is a Yule Sprig, a tree that grows all season if you look after it."
+		"Crafting table: paper + string = 4 Gift Tags."
+		"Sequenced assembly on a spruce sapling: Deployer (snowball), Deployer (glow berries), Deployer (Gift Tag) = Yule Sprig."
 	]
 	"quest.59E6A086C810D86F.title": "The Brass-banded Pot"
 	"quest.59E6A086C810D86F.quest_subtitle": "Plant it."
 	"quest.59E6A086C810D86F.quest_desc": [
-		"Craft the pot from spruce slabs, brass sheets and loam, set it in the ground and use the sprig on it. Each step of growth has its own bill of water and Pine Feed: use a water bucket and the feed on the pot (sneak for a whole stack), and open it with an empty hand to see the bill."
+		"Set it in the ground and use the sprig on it. Each step of growth has its own bill of water and Pine Feed: use a water bucket and the feed on the pot (sneak for a whole stack), and open it with an empty hand to see the bill."
+		"Crafting table (shaped): 5 spruce slabs + 2 brass sheets + Potting Loam = Brass-banded Pot."
 	]
 	"quest.65D03F526D0AC26E.title": "The Spruce Tub"
-	"quest.65D03F526D0AC26E.quest_subtitle": "Room for twelve."
+	"quest.65D03F526D0AC26E.quest_subtitle": "Room to grow."
 	"quest.65D03F526D0AC26E.quest_desc": [
-		"A mechanical crafter makes the tub from stripped spruce logs, brass, iron and copper sheets and two loam. Use it on the potted tree to repot it, tree and all. From step 7 the tree wants frost as well: a snow block counts 1, ice 2, packed ice 9 and blue ice 81."
+		"Use it on the potted tree to repot it, tree and all. From step 7 the tree wants frost as well: a snow block counts 1, ice 2, packed ice 9 and blue ice 81."
+		"Mechanical Crafters, 5 wide by 3 tall: 5 stripped spruce logs + 5 brass sheets + 2 Potting Loam + copper sheet + 2 iron sheets = Spruce Tub."
 	]
 	"chapter.174BDD9E16EB501B.title": "The Yuletide Forge"
 	"chapter.174BDD9E16EB501B.chapter_subtitle": [
 		"Netherite, blaze cake and Christmas Spirit."
 	]
+	"quest.5BAAB16D6AFDA307.title": "Forge Plinth"
+	"quest.5BAAB16D6AFDA307.quest_subtitle": "The gilded foot."
+	"quest.5BAAB16D6AFDA307.quest_desc": [
+		"The hall's whole bottom course is gilded Forge Plinth, under the casing and the windows."
+		"Crafting table (shaped): 4 polished blackstone bricks + 4 gilded blackstone + brass casing = 4 Forge Plinths."
+		"Goes into: The Yuletide Forge (hall), The Chimney Bay (forge tier II)."
+	]
+	"quest.385352414B27BF44.title": "Forge Casing"
+	"quest.385352414B27BF44.quest_subtitle": "Red wool, gold and brass."
+	"quest.385352414B27BF44.quest_desc": [
+		"The hall's walls are Forge Casing, and the controller, the hammer, the glazing and the inlet are made from it."
+		"Crafting table (shaped): 4 gold ingots + 4 red wool + brass casing = 4 Forge Casings."
+		"Goes into: Yuletide Forge, Forge Glazing, Forge Hammer, Spirit Inlet and 2 more."
+	]
+	"quest.0E75A8E31B582860.title": "Forge Glazing"
+	"quest.0E75A8E31B582860.quest_subtitle": "The windows."
+	"quest.0E75A8E31B582860.quest_desc": [
+		"Framed glass in casing: the hall's windows, set wherever the plan shows glass."
+		"Crafting table (shaped): 4 brass sheets + 4 framed glass + Forge Casing = 4 Forge Glazing."
+		"Goes into: The Yuletide Forge (hall), The Chimney Bay (forge tier II)."
+	]
+	"quest.1A4337EC7C2ABC63.title": "Forge Roofing"
+	"quest.1A4337EC7C2ABC63.quest_subtitle": "Red and white over the hall."
+	"quest.1A4337EC7C2ABC63.quest_desc": [
+		"A course of red and white roofing covers the whole hall, with a gap for the chimney to rise through."
+		"Crafting table (shaped): 4 red wool + 4 white wool + brass sheet = 8 Forge Roofing."
+		"Goes into: The Yuletide Forge (hall), The Chimney Bay (forge tier II)."
+	]
+	"quest.1AC0DC6E008CC3B5.title": "The Spirit Inlet"
+	"quest.1AC0DC6E008CC3B5.quest_subtitle": "A wall that drinks."
+	"quest.1AC0DC6E008CC3B5.quest_desc": [
+		"A Spirit Inlet can take the place of any casing in the walls: pipe Christmas Spirit into it and the forge fills itself."
+		"Crafting table: Forge Casing + fluid pipe + copper sheet = Spirit Inlet."
+	]
+	"quest.0427504972DE689C.title": "The Forge Controller"
+	"quest.0427504972DE689C.quest_subtitle": "The Yuletide Forge itself."
+	"quest.0427504972DE689C.quest_desc": [
+		"The forge's brain stands in the front wall beside the picture window. Use a bucket of Spirit on it to fill the forge by hand."
+		"Crafting table: Forge Casing + precision mechanism + netherite ingot + anvil = Yuletide Forge."
+		"Goes into: The Yuletide Forge (hall)."
+	]
+	"quest.15523FA15296F6A0.title": "The Forge Hammer"
+	"quest.15523FA15296F6A0.quest_subtitle": "The drop hammer."
+	"quest.15523FA15296F6A0.quest_desc": [
+		"The drop hammer hangs over the anvil inside the hall. It strikes netherite only while the burner is superheated."
+		"Crafting table: mechanical press + netherite ingot + Forge Casing = Forge Hammer."
+		"Goes into: The Yuletide Forge (hall)."
+	]
+	"quest.5FAF1CFBE71AC7AE.title": "The Forge Transmission"
+	"quest.5FAF1CFBE71AC7AE.quest_subtitle": "Drive to the machinery."
+	"quest.5FAF1CFBE71AC7AE.quest_desc": [
+		"It carries rotation from the Drive Port at the foot of the left wall to the forge's machinery."
+		"Crafting table (shaped): 4 cogwheels + shaft + 2 large cogwheels + gearbox + brass casing = Forge Transmission."
+		"Goes into: The Yuletide Forge (hall)."
+	]
+	"quest.783C1ECA681A529B.title": "The Forge Crucible"
+	"quest.783C1ECA681A529B.quest_subtitle": "Where the ladder melts."
+	"quest.783C1ECA681A529B.quest_desc": [
+		"The crucible stands over the blaze burner and melts the ladder of lesser pieces down first."
+		"Crafting table (shaped): 4 polished blackstone bricks + magma block + 2 blaze rods + cauldron + brass casing = Forge Crucible."
+		"Goes into: The Yuletide Forge (hall)."
+	]
+	"quest.02DC57FEF82F0BFB.title": "The Forge Bellows"
+	"quest.02DC57FEF82F0BFB.quest_subtitle": "Blow it hot."
+	"quest.02DC57FEF82F0BFB.quest_desc": [
+		"An encased fan in leather and brass that blows the furnace hot from beside the crucible."
+		"Crafting table (shaped): 4 leather + precision mechanism + 2 brass sheets + encased fan + brass casing = Forge Bellows."
+		"Goes into: The Yuletide Forge (hall)."
+	]
+	"quest.2198FD71FF6CD036.title": "The Forge Chute"
+	"quest.2198FD71FF6CD036.quest_subtitle": "Feeding the crucible."
+	"quest.2198FD71FF6CD036.quest_desc": [
+		"A glass-fronted chute that drops the work from the magazine into the crucible below it."
+		"Crafting table (shaped): 6 brass sheets + framed glass + chute + brass casing = Forge Chute."
+		"Goes into: The Yuletide Forge (hall)."
+	]
+	"quest.066A62BFAF4E19B6.title": "The Forge Chimney"
+	"quest.066A62BFAF4E19B6.quest_subtitle": "Up through the roof."
+	"quest.066A62BFAF4E19B6.quest_desc": [
+		"Blackstone and a campfire: it carries the furnace's smoke up through the gap in the roofing."
+		"Crafting table (shaped): 6 polished blackstone bricks + brass sheet + campfire + brass casing = Forge Chimney."
+		"Goes into: The Yuletide Forge (hall)."
+	]
+	"quest.19F5B36D392B8665.title": "The Tool Magazine"
+	"quest.19F5B36D392B8665.quest_subtitle": "The work, waiting."
+	"quest.19F5B36D392B8665.quest_desc": [
+		"Behind glass and bars, it holds the tools and armour of the ladder waiting their turn in the crucible."
+		"Crafting table (shaped): 2 framed glass + iron bars + 2 brass ingots + chest + 2 brass sheets + brass casing = Tool Magazine."
+		"Goes into: The Yuletide Forge (hall)."
+	]
+	"quest.25067D583E119569.title": "The Ladle Gantry"
+	"quest.25067D583E119569.quest_subtitle": "Along the ceiling."
+	"quest.25067D583E119569.quest_desc": [
+		"A gantry carriage that runs the ladle along the ceiling from the crucible's tap to the anvil."
+		"Crafting table (shaped): 4 brass sheets + gantry shaft + gantry carriage + 2 precision mechanisms + brass casing = Ladle Gantry."
+		"Goes into: The Yuletide Forge (hall)."
+	]
+	"quest.21084AA453FDFCD9.title": "The Swage Anvil"
+	"quest.21084AA453FDFCD9.quest_subtitle": "Where the hammer falls."
+	"quest.21084AA453FDFCD9.quest_desc": [
+		"The anvil under the hammer, faced in netherite scrap, where the piece takes its shape."
+		"Crafting table (shaped): 4 netherite scrap + 3 iron sheets + anvil + brass casing = Swage Anvil."
+		"Goes into: The Yuletide Forge (hall)."
+	]
+	"quest.5FBF2E757A075E59.title": "The Forge Arm Mount"
+	"quest.5FBF2E757A075E59.quest_subtitle": "Turning the work."
+	"quest.5FBF2E757A075E59.quest_desc": [
+		"A Mechanical Arm on its brass mount beside the anvil: it turns the work between the hammer's strokes."
+		"Crafting table (shaped): 2 precision mechanisms + electron tube + mechanical arm + 4 brass sheets + brass casing = Forge Arm Mount."
+		"Goes into: The Yuletide Forge (hall)."
+	]
+	"quest.53E685956C05A61F.title": "The Glazing Basin"
+	"quest.53E685956C05A61F.quest_subtitle": "Crimson, Frost or Evergreen."
+	"quest.53E685956C05A61F.quest_desc": [
+		"The basin where the piece takes its glaze: sweet berries for Crimson, blue ice for Frost, a spruce sapling for Evergreen."
+		"Crafting table (shaped): 2 red dye + 3 brass sheets + basin + 2 sugar + brass casing = Glazing Basin."
+		"Goes into: The Yuletide Forge (hall)."
+	]
+	"quest.2D5E3292B4066BEC.title": "The Spirit Quench"
+	"quest.2D5E3292B4066BEC.quest_subtitle": "Cooled in Spirit."
+	"quest.2D5E3292B4066BEC.quest_desc": [
+		"A tank of Christmas Spirit that cools the finished piece. Its recipe takes a full bucket of Spirit."
+		"Crafting table (shaped): 4 copper sheets + Bucket of Christmas Spirit + 2 framed glass + fluid tank + brass casing = Spirit Quench."
+		"Goes into: The Yuletide Forge (hall)."
+	]
+	"quest.1CF5E7B30BE58C21.title": "The Forge Depot"
+	"quest.1CF5E7B30BE58C21.quest_subtitle": "Done."
+	"quest.1CF5E7B30BE58C21.quest_desc": [
+		"The brass depot by the quench where the finished piece waits for you to take it."
+		"Crafting table (shaped): 6 brass sheets + gold ingot + depot + brass casing = Forge Depot."
+		"Goes into: The Yuletide Forge (hall)."
+	]
 	"quest.6C3C3D57A6C68162.title": "The Forge Hall"
-	"quest.6C3C3D57A6C68162.quest_subtitle": "Ten by eight, seven courses high."
+	"quest.6C3C3D57A6C68162.quest_subtitle": "A hall of plinth, casing and glass."
 	"quest.6C3C3D57A6C68162.quest_desc": [
-		"The forge is a fixed build: a ring ten by eight on Forge Plinth, walls of Forge Glazing and Casing, a roof and a chimney, a blaze burner, the hammer and twelve forge blocks inside. The controller and hammer take netherite; the Spirit Quench a bucket of Spirit. A Spirit Inlet in a wall pipes it in; JEI's \"Yuletide Forge: Structure\" page shows every block."
+		"Raise it as the plan and JEI's \"Yuletide Forge: Structure\" page show: plinth at the foot, casing and glazing up the walls, roofing on top, the burner, hammer and foundry parts inside."
+		"Blocks: 145 Forge Casings, 79 Forge Roofing, 46 Forge Glazing, 31 Forge Plinths, and 16 more, one of each (each has its own quest)."
 		""
 		"{image:cccasino:textures/gui/quest/mb_forge.png width:200 height:78 align:center}"
+		""
+		"{image:cccasino:textures/gui/quest/mb_plan_forge.png width:200 height:78 align:center}"
 	]
 	"quest.47402B7D7EF3FBC7.title": "Forged in Spirit"
 	"quest.47402B7D7EF3FBC7.quest_subtitle": "A Yuletide Sword."
@@ -1434,19 +2092,53 @@
 		"The forge makes the tools the same way as the sword: the five vanilla tiers in the ladder, the netherite tool, food, a glaze and Spirit (750 mB for the pickaxe and axe, 500 mB for the shovel and the hoe). Optional, but they last."
 	]
 	"quest.3A98AD37449E571A.title": "The Star of Saint Nicholas"
-	"quest.3A98AD37449E571A.quest_subtitle": "Two turns round the line."
+	"quest.3A98AD37449E571A.quest_subtitle": "Round the line, again."
 	"quest.3A98AD37449E571A.quest_desc": [
-		"A golden sheet rides a sequenced-assembly line twice: a Spout fills 250 mB of Spirit, Deployers add a diamond and glowstone dust, then a Press sets them. Half a bucket a Star. Every Saint Nick piece takes a Star in its netherite slot, so build the line to keep running."
+		"Every Saint Nick piece takes a Star in its netherite slot, so build the line to keep running."
+		"Sequenced assembly on a golden sheet, twice round: Spout (250 mB Christmas Spirit), Deployer (diamond), Deployer (glowstone dust), Press = Star of Saint Nicholas."
 	]
 	"quest.14A9E0EFBED3AA0F.title": "Hung with Care"
-	"quest.14A9E0EFBED3AA0F.quest_subtitle": "Hearth, mantel and pedestal."
+	"quest.14A9E0EFBED3AA0F.quest_subtitle": "The fireplace."
 	"quest.14A9E0EFBED3AA0F.quest_desc": [
-		"Saint Nick pieces are forged at a fireplace, not under the hammer. Make its three inside parts: the Forge Hearth (precision mechanisms, a blaze burner, gold, bricks and a sturdy sheet), the Stocking Mantel (brass sheets, a bell and red, green and light blue wool) and the Display Pedestal (red wool, gold and a depot)."
+		"Saint Nick pieces are forged at a fireplace, not under the hammer. The hearth stands against the bay's back wall."
+		"Crafting table (shaped): 2 precision mechanisms + gold block + 2 bricks + blaze burner + 2 brass casings + sturdy sheet = Forge Hearth."
+		"Goes into: The Chimney Bay (forge tier II)."
+	]
+	"quest.40D3227101BDE46A.title": "The Display Pedestal"
+	"quest.40D3227101BDE46A.quest_subtitle": "On the hearth."
+	"quest.40D3227101BDE46A.quest_desc": [
+		"The piece rests on the pedestal before the hearth while it is forged, in red wool and gold."
+		"Crafting table (shaped): 3 red wool + 2 gold blocks + depot + 2 brass casings + precision mechanism = Display Pedestal."
+		"Goes into: The Chimney Bay (forge tier II)."
+	]
+	"quest.2D25BA3950C246BB.title": "The Stocking Mantel"
+	"quest.2D25BA3950C246BB.quest_subtitle": "Over the fire."
+	"quest.2D25BA3950C246BB.quest_desc": [
+		"The mantel hangs over the hearth with its stockings, and a bell for when a piece is done."
+		"Crafting table (shaped): 2 brass sheets + bell + red wool + green wool + light blue wool + 2 brass casings + gold block = Stocking Mantel."
+		"Goes into: The Chimney Bay (forge tier II)."
+	]
+	"quest.0A9CA338F66CC580.title": "The Flue Damper"
+	"quest.0A9CA338F66CC580.quest_subtitle": "Above the mantel."
+	"quest.0A9CA338F66CC580.quest_desc": [
+		"The damper sits in the stack above the mantel and draws the fire."
+		"Crafting table (shaped): 4 copper casings + electron tube + 2 cogwheels + fluid valve + precision mechanism = Flue Damper."
+		"Goes into: The Chimney Bay (forge tier II)."
+	]
+	"quest.2BF9D5338B9EFAE7.title": "The Chimney Crown"
+	"quest.2BF9D5338B9EFAE7.quest_subtitle": "Under the star."
+	"quest.2BF9D5338B9EFAE7.quest_desc": [
+		"Copper and gold: it tops the bay's chimney stack, under its star."
+		"Crafting table (shaped): 4 copper sheets + gold block + 3 copper casings + brass casing = Chimney Crown."
+		"Goes into: The Chimney Bay (forge tier II)."
 	]
 	"quest.6DB79AD649883567.title": "The Chimney Bay"
 	"quest.6DB79AD649883567.quest_subtitle": "Tier II, and a stack with a star."
 	"quest.6DB79AD649883567.quest_desc": [
-		"Add the Flue Damper (copper casing, an electron tube, a fluid valve, a precision mechanism) and the Chimney Crown (copper sheets, gold), then build the bay three blocks wide on the hall's right in the same plinth, glazing and roofing. JEI's \"Tier II: Chimney bay\" page shows each block. Stand by the forge once it reaches tier II."
+		"Build the bay on the hall's right in the same plinth, glazing and roofing, the hearth against its back wall. JEI's \"Tier II: Chimney bay\" page shows each block. Stand by the forge once it reaches tier II."
+		"Blocks: 54 Forge Casings, 23 Forge Roofing, 18 Forge Glazing, 12 Forge Plinths, and 5 more, one of each (each has its own quest)."
+		""
+		"{image:cccasino:textures/gui/quest/mb_plan_forge.png width:200 height:78 align:center}"
 	]
 	"quest.49B4631A81F12ED1.title": "The North Star"
 	"quest.49B4631A81F12ED1.quest_subtitle": "One sword from three."
@@ -1470,64 +2162,109 @@
 		"Each Saint Nick tool takes its Yuletide tool in all three colourways and a Star: Rudolph the pickaxe, the Sleigh Runner axe, the Tree and Gift shovel (and the Crozier, a hoe). Optional, and very much a showpiece."
 	]
 	"chapter.4F4482EF7FA6359B.title": "Free the Spirits"
-	"chapter.4F4482EF7FA6359B.chapter_subtitle": [
-		"Eight villains. Eight spirits. Coming soon."
+	"quest.37CBC36D59B7D30B.title": "Krampus's Home"
+	"quest.37CBC36D59B7D30B.quest_subtitle": "Where the spirit is bound."
+	"quest.37CBC36D59B7D30B.quest_desc": [
+		"Krampus is bound in the snowy taiga, wintry forests and snowy maple forests; Nature's Compass finds them. Stand a lantern on open ground there and use the Jingling Clasp on it: a blue flame means the place is right. Give the lantern 4 Presents (any paper) and your team's site rises around it."
 	]
-	"task.7CF675F36E1AF890.title": "Defeat Krampus (coming soon)"
+	"task.7CF675F36E1AF890.title": "Free the Spirit of Giving"
+	"reward.2C3E4B6398D557BC.title": "1,000 chips"
 	"reward.0B0197D3B2A59DDC.title": "Fireworks!"
-	"quest.1B3551E21608CAFF.title": "Krampus (coming soon)"
-	"quest.1B3551E21608CAFF.quest_subtitle": "Free the Spirit of Giving. Not built yet."
+	"quest.1B3551E21608CAFF.title": "Krampus"
+	"quest.1B3551E21608CAFF.quest_subtitle": "Free the Spirit of Giving."
 	"quest.1B3551E21608CAFF.quest_desc": [
-		"Krampus stalks the forest roads with a sack and a chain, and inside the sack is the Spirit of Giving. Free it and every gift on the server feels a little more generous. Coming soon: this fight is not in the game yet."
+		"Santa's Shop sells the 100-chip invitation. Hold the rite in its home, then use it on the site's lantern to fight. Wear Yuletide gear. First win: the Giving relic (a glint on newly wrapped gifts), 1 Spirit bucket, 1,000 chips, four hamper rolls; repeats pay 25. Dodge chain sweeps and light lanes."
 	]
-	"task.6426510A37227A0F.title": "Defeat The Frost Wyrm (coming soon)"
+	"quest.0880B8060057D2D1.title": "The Frost Wyrm's Home"
+	"quest.0880B8060057D2D1.quest_subtitle": "Where the spirit is bound."
+	"quest.0880B8060057D2D1.quest_desc": [
+		"The Frost Wyrm is bound in the Nether's soul sand valleys and quartz flats; Nature's Compass finds them. Stand a lantern on open ground there and use the Thawing Bell on it: a blue flame means the place is right. Give the lantern a Bucket of Christmas Spirit and your team's site rises around it."
+	]
+	"task.6426510A37227A0F.title": "Free the Spirit of Warmth"
+	"reward.3E9DBCAFFEF7C9DC.title": "1,000 chips"
 	"reward.3689235AFB4CE88B.title": "Fireworks!"
-	"quest.08B432324938E9BE.title": "The Frost Wyrm (coming soon)"
-	"quest.08B432324938E9BE.quest_subtitle": "Free the Spirit of Warmth. Not built yet."
+	"quest.08B432324938E9BE.title": "The Frost Wyrm"
+	"quest.08B432324938E9BE.quest_subtitle": "Free the Spirit of Warmth."
 	"quest.08B432324938E9BE.quest_desc": [
-		"The Frost Wyrm coils under the glacier and breathes a cold no fire can touch. It swallowed the Spirit of Warmth. Bring it back and the long nights soften. Coming soon: this fight is not in the game yet."
+		"Santa's Shop sells the 200-chip invitation. Hold the rite in its home, then use it on the site's lantern to fight. Wear Saint Nick gear. First win: the Warmth relic (you freeze a quarter slower), 1 Spirit bucket, 1,000 chips, four hamper rolls; repeats pay 40. Dodge frost lanes; cross the ice-ring gaps."
 	]
-	"task.4EC1E97BECAC8CFC.title": "Defeat The Rat King (coming soon)"
+	"quest.1D7790F93727AB88.title": "The Rat King's Home"
+	"quest.1D7790F93727AB88.quest_subtitle": "Where the spirit is bound."
+	"quest.1D7790F93727AB88.quest_desc": [
+		"The Rat King is bound in the snowy plains and wintry lowlands, where the snowy villages farm; Nature's Compass finds them. Stand a lantern on open ground there and use the Pantry Seal on it: a blue flame means the place is right. Give the lantern 4 Mince Pies and your team's site rises around it."
+	]
+	"task.4EC1E97BECAC8CFC.title": "Free the Spirit of Plenty"
+	"reward.6F48C283063F0675.title": "1,000 chips"
 	"reward.45A7941B99B8A95B.title": "Fireworks!"
-	"quest.51E3D867E3B037D3.title": "The Rat King (coming soon)"
-	"quest.51E3D867E3B037D3.quest_subtitle": "Free the Spirit of Plenty. Not built yet."
+	"quest.51E3D867E3B037D3.title": "The Rat King"
+	"quest.51E3D867E3B037D3.quest_subtitle": "Free the Spirit of Plenty."
 	"quest.51E3D867E3B037D3.quest_desc": [
-		"Under the village granaries the Rat King hoards every crumb the Food Drive collects, and the Spirit of Plenty with them. Clear the tunnels and the pantries fill again. Coming soon: this fight is not in the game yet."
+		"Santa's Shop sells the 100-chip invitation. Hold the rite in its home, then use it on the site's lantern to fight. Wear Yuletide gear. First win: the Plenty relic (less hunger from walking), 1 Spirit bucket, 1,000 chips, four hamper rolls; repeats pay 25. Use a marked composter during Crown Hunger."
 	]
-	"task.1E2C61EE5BCD76D4.title": "Defeat The Humbug (coming soon)"
+	"quest.767494F34256F323.title": "The Humbug's Home"
+	"quest.767494F34256F323.quest_subtitle": "Where the spirit is bound."
+	"quest.767494F34256F323.quest_desc": [
+		"The Humbug is bound in the Siberian taiga, Siberian groves and cold shrubland; Nature's Compass finds them. Stand a lantern on open ground there and use the Carol Key on it: a blue flame means the place is right. Give the lantern a Cymbal Monkey and your team's site rises around it."
+	]
+	"task.1E2C61EE5BCD76D4.title": "Free the Spirit of Cheer"
+	"reward.4567A68EBFF942F2.title": "1,000 chips"
 	"reward.183B428A4CF6F5D1.title": "Fireworks!"
-	"quest.0558CFF730B2BAC8.title": "The Humbug (coming soon)"
-	"quest.0558CFF730B2BAC8.quest_subtitle": "Free the Spirit of Cheer. Not built yet."
+	"quest.0558CFF730B2BAC8.title": "The Humbug"
+	"quest.0558CFF730B2BAC8.quest_subtitle": "Free the Spirit of Cheer."
 	"quest.0558CFF730B2BAC8.quest_desc": [
-		"The Humbug hates laughter, lights and music, and he keeps the Spirit of Cheer in a locked box. His raiders strike undefended bases. Stop him and the whole server cheers up. Coming soon: this fight is not in the game yet."
+		"Santa's Shop sells the 100-chip invitation. Hold the rite in its home, then use it on the site's lantern to fight. Wear Yuletide gear. First win: the Cheer relic (shorter slowness from hostile mobs), 1 Spirit bucket, 1,000 chips, four hamper rolls; repeats pay 25. Use a marked note block during Lights Out."
 	]
-	"task.62E337A8AE5923E7.title": "Defeat The Coal Golem (coming soon)"
+	"quest.3AD103C03D230D0F.title": "The Coal Golem's Home"
+	"quest.3AD103C03D230D0F.quest_subtitle": "Where the spirit is bound."
+	"quest.3AD103C03D230D0F.quest_desc": [
+		"The Coal Golem is bound in the snowy slopes, groves, alpine groves and snowy shields; Nature's Compass finds them. Stand a lantern on open ground there and use the Stocking Ember on it: a blue flame means the place is right. Give the lantern a Wooden Train and your team's site rises around it."
+	]
+	"task.62E337A8AE5923E7.title": "Free the Spirit of Industry"
+	"reward.54E9C0744A2983AB.title": "1,000 chips"
 	"reward.1E25186A7DE98F57.title": "Fireworks!"
-	"quest.51867C53CE8E5F9F.title": "The Coal Golem (coming soon)"
-	"quest.51867C53CE8E5F9F.quest_subtitle": "Free the Spirit of Industry. Not built yet."
+	"quest.51867C53CE8E5F9F.title": "The Coal Golem"
+	"quest.51867C53CE8E5F9F.quest_subtitle": "Free the Spirit of Industry."
 	"quest.51867C53CE8E5F9F.quest_desc": [
-		"Built from every lump of coal ever left in a stocking, the Coal Golem guards the Spirit of Industry deep in the mines. Free it and the factories of the North Pole run hotter. Coming soon: this fight is not in the game yet."
+		"Santa's Shop sells the 100-chip invitation. Hold the rite in its home, then use it on the site's lantern to fight. Wear Yuletide gear. First win: the Industry relic (less tool wear when mining), 1 Spirit bucket, 1,000 chips, four hamper rolls; repeats pay 25. Dodge hammer, furnace cone and vent rows."
 	]
-	"task.68FE2628E1B01A8E.title": "Defeat The Ice Queen (coming soon)"
+	"quest.3E9BA597CE13A6B8.title": "The Ice Queen's Home"
+	"quest.3E9BA597CE13A6B8.quest_subtitle": "Where the spirit is bound."
+	"quest.3E9BA597CE13A6B8.quest_desc": [
+		"The Ice Queen is bound in the End's crystal peaks and highlands; Nature's Compass finds them. Stand a lantern on open ground there and use the Crystal Invitation on it: a blue flame means the place is right. Give the lantern a Snow Globe and a Bottled Starlight and your team's site rises around it."
+	]
+	"task.68FE2628E1B01A8E.title": "Free the Spirit of Wonder"
+	"reward.02F762A189957A75.title": "1,000 chips"
 	"reward.424DC8C3F545C37B.title": "Fireworks!"
-	"quest.4139CFBEDA31B46D.title": "The Ice Queen (coming soon)"
-	"quest.4139CFBEDA31B46D.quest_subtitle": "Free the Spirit of Wonder. Not built yet."
+	"quest.4139CFBEDA31B46D.title": "The Ice Queen"
+	"quest.4139CFBEDA31B46D.quest_subtitle": "Free the Spirit of Wonder."
 	"quest.4139CFBEDA31B46D.quest_desc": [
-		"The Ice Queen froze the Spirit of Wonder into the heart of her palace, and the snow stopped sparkling. Thaw her court and the aurora returns to the northern sky. Coming soon: this fight is not in the game yet."
+		"Santa's Shop sells the 200-chip invitation. Hold the rite in its home, then use it on the site's lantern to fight. Wear Saint Nick gear. First win: the Wonder relic (10% faster on ice), 1 Spirit bucket, 1,000 chips, four hamper rolls; repeats pay 40. Dodge the lance, fan and expanding ring."
 	]
-	"task.5188EB1A6AF3D981.title": "Defeat The Yeti Matriarch (coming soon)"
+	"quest.3D18A6483FF401F0.title": "The Yeti Matriarch's Home"
+	"quest.3D18A6483FF401F0.quest_subtitle": "Where the spirit is bound."
+	"quest.3D18A6483FF401F0.quest_desc": [
+		"The Yeti Matriarch is bound in the frozen peaks, jagged peaks and frozen cliffs; Nature's Compass finds them. Stand a lantern on open ground there and use the Hearth Token on it: a blue flame means the place is right. Give the lantern a Christmas Dinner Platter and your team's site rises around it."
+	]
+	"task.5188EB1A6AF3D981.title": "Free the Spirit of Home"
+	"reward.09C66ADE1181A267.title": "1,000 chips"
 	"reward.0CA920CD4F92A98F.title": "Fireworks!"
-	"quest.342A3841E27A20B7.title": "The Yeti Matriarch (coming soon)"
-	"quest.342A3841E27A20B7.quest_subtitle": "Free the Spirit of Home. Not built yet."
+	"quest.342A3841E27A20B7.title": "The Yeti Matriarch"
+	"quest.342A3841E27A20B7.quest_subtitle": "Free the Spirit of Home."
 	"quest.342A3841E27A20B7.quest_desc": [
-		"High in the peaks the Yeti Matriarch guards her den, and with it the Spirit of Home. Win it back and every hearth in the village burns brighter. Coming soon: this fight is not in the game yet."
+		"Santa's Shop sells the 200-chip invitation. Hold the rite in its home, then use it on the site's lantern to fight. Wear Saint Nick gear. First win: the Home relic (campfires cure slowness), 1 Spirit bucket, 1,000 chips, four hamper rolls; repeats pay 40. Dodge palm strikes, boulders and avalanche lanes."
 	]
-	"task.749EE7B374FC23CF.title": "Defeat The Wraith of Christmas Yet to Come (coming soon)"
+	"quest.164C123E54C79158.title": "The Wraith of Christmas Yet to Come's Home"
+	"quest.164C123E54C79158.quest_subtitle": "Where the spirit is bound."
+	"quest.164C123E54C79158.quest_desc": [
+		"The Wraith of Christmas Yet to Come is bound in the End's shadowlands and void barrens; Nature's Compass finds them. Stand a lantern on open ground there and use the The Last Bell on it: a blue flame means the place is right. Give the lantern a Star of Saint Nicholas and your team's site rises around it."
+	]
+	"task.749EE7B374FC23CF.title": "Free the Spirit of Christmas"
+	"reward.7737AF52B25A0145.title": "1,000 chips"
 	"reward.46E525A02A6F5565.title": "Fireworks!"
-	"quest.46F09AC114FE8C01.title": "The Wraith of Christmas Yet to Come (coming soon)"
-	"quest.46F09AC114FE8C01.quest_subtitle": "Free the Spirit of Christmas. Not built yet."
+	"quest.46F09AC114FE8C01.title": "The Wraith of Christmas Yet to Come"
+	"quest.46F09AC114FE8C01.quest_subtitle": "Free the Spirit of Christmas."
 	"quest.46F09AC114FE8C01.quest_desc": [
-		"The last villain waits for Christmas Eve. The Wraith holds the Spirit of Christmas itself, and if it is not freed, Santa's sleigh stays grounded. Every spirit freed before then makes the fight fairer. Coming soon: this fight is not in the game yet."
+		"Santa's Shop sells the 300-chip invitation. Hold the rite in its home, then use it on the site's lantern to fight. Wear Saint Nick gear. First win: the Christmas relic (quicker campfire rests), 2 Spirit buckets, 1,000 chips, four hamper rolls; repeats pay 40. Use Last Bell refuges. Earlier spirits ease this fight."
 	]
 	"chapter.080155EC6799C4F9.title": "Advent"
 	"chapter.080155EC6799C4F9.chapter_subtitle": [
@@ -1717,6 +2454,16 @@
 	"quest.7B6A31AFEA6FA2A2.quest_desc": [
 		"Item vaults link into one huge store that funnels and arms can reach from any side. Every factory you build from here on wants one at the start of the line and one at the end."
 	]
+	"quest.04414F74275E7108.title": "A Place for Everything"
+	"quest.04414F74275E7108.quest_subtitle": "Every item, labelled."
+	"quest.04414F74275E7108.quest_desc": [
+		"Item drawers hold one item each, single, double or quad, and show it with its count on the front. A wrench opens a drawer's settings: lock, void and a capacity upgrade. On the seam between two drawers it joins them, so one funnel fills the whole wall."
+	]
+	"quest.2EE5504A5FDC22BE.title": "Pack for the Trip"
+	"quest.2EE5504A5FDC22BE.quest_subtitle": "Storage you can wear."
+	"quest.2EE5504A5FDC22BE.quest_desc": [
+		"A backpack carries 27 slots and takes upgrades: pickup, filters, a magnet, even a crafting grid. The back slot holds two, so it goes on beside your elytra. Copper, iron, gold and diamond backpacks hold more, each made with Create parts."
+	]
 	"quest.2EB7A654E81D70A3.title": "Speed Control"
 	"quest.2EB7A654E81D70A3.quest_subtitle": "Exactly as fast as you need."
 	"quest.2EB7A654E81D70A3.quest_desc": [
@@ -1746,6 +2493,41 @@
 	"quest.3351CA8AC3970DC2.quest_subtitle": "Casings for a proper casino floor."
 	"quest.3351CA8AC3970DC2.quest_desc": [
 		"Andesite casing and red dye make Casino Casing. Add green dye for Holly Casing, a brass sheet for Gilded Casing, red and white dye for a Candy-Stripe Pillar, or a glass pane for Window Casing. They connect like Create's own casings: dress the walls round your tables."
+	]
+	"quest.7DF294648F05049B.title": "Field Notes"
+	"quest.7DF294648F05049B.quest_subtitle": "Every creature, written up."
+	"quest.7DF294648F05049B.quest_desc": [
+		"Everyone gets an Animal Dictionary on their first day. Its pages cover every new creature: where it lives, what it eats and how to tame it. The North has plenty of them, from froststalkers on the ice to eagles over the mountains."
+	]
+	"quest.22A24F2331851550.title": "Cold Company"
+	"quest.22A24F2331851550.quest_subtitle": "Walk with the pack."
+	"quest.22A24F2331851550.quest_desc": [
+		"Froststalkers hunt in packs among the ice spikes and frozen peaks, and now and then one drops its horn. Set the horn on packed ice for a froststalker helmet: wearing it, you walk among them undetected."
+	]
+	"quest.06CDF3C596B1DDFE.title": "Falconer"
+	"quest.06CDF3C596B1DDFE.quest_subtitle": "Eyes in the sky."
+	"quest.06CDF3C596B1DDFE.quest_desc": [
+		"Bald eagles hunt over wooded mountains and dive for salmon. Tame one with fish oil, then pick it up on a falconry glove and punch to launch it at whatever you are looking at."
+	]
+	"quest.3982866972D22962.title": "Trunk Show"
+	"quest.3982866972D22962.quest_subtitle": "A friend who carries the shopping."
+	"quest.3982866972D22962.quest_desc": [
+		"Elephants roam the savannas in herds. Acacia blossoms, a rare drop from acacia trees, tame a calf or an elephant without tusks. A tame elephant can be ridden, and a chest on its back carries a great deal."
+	]
+	"quest.6889E7E7327BB887.title": "Lava Ferry"
+	"quest.6889E7E7327BB887.quest_subtitle": "Four seats, no lifeguard."
+	"quest.6889E7E7327BB887.quest_desc": [
+		"Laviathans swim the Nether's lava lakes and flee when hurt. A Straddlite Saddle seats four and a Straddlite Tack lets you steer: carry three friends across the lava."
+	]
+	"quest.2EB056454744EDD6.title": "Wings Over the Void"
+	"quest.2EB056454744EDD6.quest_subtitle": "The End has its own birds."
+	"quest.2EB056454744EDD6.quest_desc": [
+		"Cosmaws wander the outer End islands. Feed one cosmic cod, a few times over, and it is yours. It will not fight for you, but if you fall off an island it comes to catch you."
+	]
+	"quest.5AF8F151D65999EF.title": "The Worm at the End"
+	"quest.5AF8F151D65999EF.quest_subtitle": "Something bigger than the dragon."
+	"quest.5AF8F151D65999EF.quest_desc": [
+		"Throw a mysterious worm into the End's void and the Void Worm comes up to meet you. Only blows to its head really hurt it, so bring friends and good armour."
 	]
 	"reward_table.2F987FFAF3252378.title": "Christmas Stocking"
 	"reward_table.7A49BBDFE5202D38.title": "Wrapped Gift"

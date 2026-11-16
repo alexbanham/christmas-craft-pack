@@ -2,7 +2,7 @@
 	"id": "511C154DE343C9D2"
 	"filename": "high_roller"
 	"group": "6E6872417BE99080"
-	"order_index": 7
+	"order_index": 9
 	"icon": {
 		"id": "cccasino:rank_card_santas_circle"
 	}
@@ -12,7 +12,7 @@
 		{
 			"id": "6C77BF67F8249A3B"
 			"x": 4.125d
-			"y": -7.35d
+			"y": -12.35d
 			"width": 9.62d
 			"height": 1.7d
 			"rotation": 0.0d
@@ -502,15 +502,53 @@
 			"optional": true
 		}
 		{
+			"id": "152F345C5D24021B"
+			"dependencies": [
+				"17B3295222734544"
+			]
+			"icon": {
+				"id": "cccasino:cashier_cage"
+			}
+			"x": 1.5d
+			"y": -2.5d
+			"shape": "square"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "34AC87CD7C1BDA2A"
+					"type": "advancement"
+					"advancement": "cccasino:economy/tinsel_earned"
+					"criterion": ""
+				}
+			]
+			"rewards": [
+				{
+					"id": "2BEFC359F9B4806C"
+					"type": "xp"
+					"xp": 100
+				}
+				{
+					"id": "634A94EC8B9F016B"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+				{
+					"id": "467D9310C14B63EC"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+			]
+		}
+		{
 			"id": "380176687E1624B6"
 			"dependencies": [
-				"38391200E39FA1C3"
+				"152F345C5D24021B"
 			]
 			"icon": {
 				"id": "cccasino:prize_counter"
 			}
 			"x": 1.5d
-			"y": -2.5d
+			"y": -5.0d
 			"shape": "square"
 			"size": 1.0d
 			"tasks": [
@@ -544,6 +582,264 @@
 			"optional": true
 		}
 		{
+			"id": "1DBA3BBEF024CD4A"
+			"dependencies": [
+				"380176687E1624B6"
+			]
+			"icon": {
+				"id": "cccasino:prize_counter"
+			}
+			"x": 4.5d
+			"y": -5.5d
+			"shape": "square"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "7EACB41CFD8B37A1"
+					"type": "item"
+					"item": {
+						"id": "cccasino:prize_counter"
+						"count": 1
+					}
+					"count": 1
+				}
+			]
+			"rewards": [
+				{
+					"id": "711E5864F4D4E21A"
+					"type": "xp"
+					"xp": 100
+				}
+				{
+					"id": "612C5A5D84C58E3B"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+				{
+					"id": "04AC095586740D04"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+			]
+			"optional": true
+		}
+		{
+			"id": "0C16ACADB2482B70"
+			"dependencies": [
+				"1DBA3BBEF024CD4A"
+			]
+			"icon": {
+				"id": "cccasino:prize_counter_peppermint"
+			}
+			"x": 7.0d
+			"y": -5.5d
+			"shape": "square"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "326144C45B1688AC"
+					"type": "item"
+					"item": {
+						"id": "cccasino:prize_counter_peppermint"
+						"count": 1
+					}
+					"count": 1
+				}
+			]
+			"rewards": [
+				{
+					"id": "6D555A245F77C4EF"
+					"type": "xp"
+					"xp": 100
+				}
+				{
+					"id": "2D915ADE6AFD100E"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+				{
+					"id": "6388BC1C740FB4BA"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+			]
+			"optional": true
+		}
+		{
+			"id": "79F724DED7AAD0BD"
+			"dependencies": [
+				"380176687E1624B6"
+			]
+			"icon": {
+				"id": "cccasino:mint_kit"
+			}
+			"x": -1.5d
+			"y": -7.5d
+			"shape": "square"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "54EE630E9033F87F"
+					"type": "item"
+					"item": {
+						"id": "cccasino:mint_kit"
+						"count": 1
+					}
+					"count": 1
+				}
+				{
+					"id": "29D353798F6B5DDE"
+					"type": "advancement"
+					"advancement": "cccasino:economy/mint_collected"
+					"criterion": ""
+				}
+			]
+			"rewards": [
+				{
+					"id": "7C115344EE8C369B"
+					"type": "xp"
+					"xp": 100
+				}
+				{
+					"id": "4B9ECCB40DFBE71C"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+				{
+					"id": "75065F45E3E741F8"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+			]
+			"optional": true
+		}
+		{
+			"id": "346E2293002961DD"
+			"dependencies": [
+				"79F724DED7AAD0BD"
+			]
+			"icon": {
+				"id": "cccasino:mint_blank"
+			}
+			"x": -4.0d
+			"y": -6.0d
+			"shape": "square"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "0AADEE312037F57A"
+					"type": "item"
+					"item": {
+						"id": "cccasino:mint_blank"
+						"count": 1
+					}
+					"count": 1
+				}
+			]
+			"rewards": [
+				{
+					"id": "6DFC54E9DE6CF9B4"
+					"type": "xp"
+					"xp": 100
+				}
+				{
+					"id": "7C0C6D0A42F5F812"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+				{
+					"id": "43AEAD187B6E4849"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+			]
+			"optional": true
+		}
+		{
+			"id": "66FB011AE03038AD"
+			"dependencies": [
+				"79F724DED7AAD0BD"
+			]
+			"icon": {
+				"id": "cccasino:mint_second_press"
+			}
+			"x": -1.5d
+			"y": -10.0d
+			"shape": "square"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "034D58152E4F376C"
+					"type": "item"
+					"item": {
+						"id": "cccasino:mint_second_press"
+						"count": 1
+					}
+					"count": 1
+				}
+			]
+			"rewards": [
+				{
+					"id": "5E52F6DF9AE2C3AE"
+					"type": "xp"
+					"xp": 100
+				}
+				{
+					"id": "6046255061934DC5"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+				{
+					"id": "2105C3CF5E82A3EC"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+			]
+			"optional": true
+		}
+		{
+			"id": "64CD5235EA8A1296"
+			"dependencies": [
+				"66FB011AE03038AD"
+			]
+			"icon": {
+				"id": "cccasino:mint_feeder"
+			}
+			"x": -4.0d
+			"y": -10.0d
+			"shape": "square"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "206FD23B1E8EEA65"
+					"type": "item"
+					"item": {
+						"id": "cccasino:mint_feeder"
+						"count": 1
+					}
+					"count": 1
+				}
+			]
+			"rewards": [
+				{
+					"id": "61E797E910E3C522"
+					"type": "xp"
+					"xp": 100
+				}
+				{
+					"id": "277A86A9AF62AEA9"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+				{
+					"id": "494B0D989846F3D4"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+			]
+			"optional": true
+		}
+		{
 			"id": "50DE7041F0C1E2A3"
 			"dependencies": [
 				"380176687E1624B6"
@@ -552,7 +848,7 @@
 				"id": "cccasino:hat_elf_cap"
 			}
 			"x": 1.5d
-			"y": -5.0d
+			"y": -7.5d
 			"shape": "square"
 			"size": 1.0d
 			"tasks": [

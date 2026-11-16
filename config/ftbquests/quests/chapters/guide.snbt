@@ -2,7 +2,7 @@
 	"id": "07A864A645B84CC0"
 	"filename": "guide"
 	"group": "227D82CAA2C2C613"
-	"order_index": 17
+	"order_index": 19
 	"icon": {
 		"id": "minecraft:book"
 	}
@@ -11,8 +11,8 @@
 	"images": [
 		{
 			"id": "09C688E3E9E4A110"
-			"x": 5.0d
-			"y": -2.35d
+			"x": 4.25d
+			"y": -1.85d
 			"width": 8.5d
 			"height": 1.7d
 			"rotation": 0.0d
@@ -29,8 +29,8 @@
 			"icon": {
 				"id": "create:schematicannon"
 			}
-			"x": 0.0d
-			"y": 0.0d
+			"x": 5.0d
+			"y": 7.0d
 			"shape": "circle"
 			"size": 1.0d
 			"tasks": [
@@ -71,8 +71,8 @@
 			"icon": {
 				"id": "create:mechanical_harvester"
 			}
-			"x": 2.5d
-			"y": 0.0d
+			"x": 7.5d
+			"y": 7.0d
 			"shape": "circle"
 			"size": 1.0d
 			"tasks": [
@@ -113,8 +113,8 @@
 			"icon": {
 				"id": "minecraft:blackstone"
 			}
-			"x": 5.0d
-			"y": 0.0d
+			"x": 0.5d
+			"y": 9.5d
 			"shape": "circle"
 			"size": 1.0d
 			"tasks": [
@@ -155,8 +155,8 @@
 			"icon": {
 				"id": "create:copper_backtank"
 			}
-			"x": 7.5d
-			"y": 0.0d
+			"x": 3.0d
+			"y": 9.5d
 			"shape": "circle"
 			"size": 1.0d
 			"tasks": [
@@ -207,8 +207,8 @@
 			"icon": {
 				"id": "create:potato_cannon"
 			}
-			"x": 10.0d
-			"y": 0.0d
+			"x": 5.5d
+			"y": 9.5d
 			"shape": "circle"
 			"size": 1.0d
 			"tasks": [
@@ -249,8 +249,8 @@
 			"icon": {
 				"id": "create:item_vault"
 			}
-			"x": 0.0d
-			"y": 2.5d
+			"x": 0.5d
+			"y": 7.0d
 			"shape": "circle"
 			"size": 1.0d
 			"tasks": [
@@ -284,6 +284,90 @@
 			"optional": true
 		}
 		{
+			"id": "04414F74275E7108"
+			"dependencies": [
+				"7B6A31AFEA6FA2A2"
+			]
+			"icon": {
+				"id": "create_item_drawers:item_drawer_quad"
+			}
+			"x": 2.5d
+			"y": 7.0d
+			"shape": "circle"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "3656136F4DB39B6C"
+					"type": "item"
+					"item": {
+						"id": "create_item_drawers:item_drawer_single"
+						"count": 1
+					}
+					"count": 1
+				}
+			]
+			"rewards": [
+				{
+					"id": "407E9E1C4EF1EC5E"
+					"type": "xp"
+					"xp": 100
+				}
+				{
+					"id": "54F28291CAAF4D26"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+				{
+					"id": "7D3D2C7A45F79A82"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+			]
+			"optional": true
+		}
+		{
+			"id": "2EE5504A5FDC22BE"
+			"dependencies": [
+				"6BB02375EE1FFF0B"
+			]
+			"icon": {
+				"id": "sophisticatedbackpacks:backpack"
+			}
+			"x": 8.0d
+			"y": 9.5d
+			"shape": "circle"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "4796D077FF41CF96"
+					"type": "item"
+					"item": {
+						"id": "sophisticatedbackpacks:backpack"
+						"count": 1
+					}
+					"count": 1
+				}
+			]
+			"rewards": [
+				{
+					"id": "5D4232A9C08FB573"
+					"type": "xp"
+					"xp": 100
+				}
+				{
+					"id": "2BC206117A4A86EB"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+				{
+					"id": "57ED532D595C61EC"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+			]
+			"optional": true
+		}
+		{
 			"id": "2EB7A654E81D70A3"
 			"dependencies": [
 				"70221A959234FE1A"
@@ -291,8 +375,8 @@
 			"icon": {
 				"id": "create:rotation_speed_controller"
 			}
-			"x": 2.5d
-			"y": 2.5d
+			"x": 0.5d
+			"y": 11.5d
 			"shape": "circle"
 			"size": 1.0d
 			"tasks": [
@@ -334,8 +418,8 @@
 			"icon": {
 				"id": "create:elevator_pulley"
 			}
-			"x": 5.0d
-			"y": 2.5d
+			"x": 3.0d
+			"y": 11.5d
 			"shape": "circle"
 			"size": 1.0d
 			"tasks": [
@@ -377,8 +461,8 @@
 			"icon": {
 				"id": "create:extendo_grip"
 			}
-			"x": 7.5d
-			"y": 2.5d
+			"x": 5.5d
+			"y": 11.5d
 			"shape": "circle"
 			"size": 1.0d
 			"tasks": [
@@ -419,8 +503,8 @@
 			"icon": {
 				"id": "create_bic_bit:aged_cheese"
 			}
-			"x": 10.0d
-			"y": 2.5d
+			"x": 8.0d
+			"y": 11.5d
 			"shape": "circle"
 			"size": 1.0d
 			"tasks": [
@@ -461,8 +545,8 @@
 			"icon": {
 				"id": "farmersrespite:green_tea"
 			}
-			"x": 0.0d
-			"y": 5.0d
+			"x": 0.5d
+			"y": 13.5d
 			"shape": "circle"
 			"size": 1.0d
 			"tasks": [
@@ -503,8 +587,8 @@
 			"icon": {
 				"id": "cccasino:casino_casing"
 			}
-			"x": 2.5d
-			"y": 5.0d
+			"x": 3.0d
+			"y": 13.5d
 			"shape": "circle"
 			"size": 1.0d
 			"tasks": [
@@ -531,6 +615,282 @@
 				}
 				{
 					"id": "5FFC6B3D3337EE28"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+			]
+			"optional": true
+		}
+		{
+			"id": "7DF294648F05049B"
+			"dependencies": [
+				"4DCC2697FB0B9A91"
+			]
+			"icon": {
+				"id": "alexsmobs:animal_dictionary"
+			}
+			"x": 0.5d
+			"y": 2.5d
+			"shape": "circle"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "2450B2FB37F702E8"
+					"type": "item"
+					"item": {
+						"id": "alexsmobs:animal_dictionary"
+						"count": 1
+					}
+					"count": 1
+				}
+			]
+			"rewards": [
+				{
+					"id": "7D1EB46B7553064A"
+					"type": "xp"
+					"xp": 100
+				}
+				{
+					"id": "28D05D9FA1892306"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+				{
+					"id": "28DBD303AE0D8DA5"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+			]
+			"optional": true
+		}
+		{
+			"id": "22A24F2331851550"
+			"dependencies": [
+				"7DF294648F05049B"
+			]
+			"icon": {
+				"id": "alexsmobs:froststalker_helmet"
+			}
+			"x": 2.5d
+			"y": 0.5d
+			"shape": "circle"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "2186B847216DAA5A"
+					"type": "advancement"
+					"advancement": "alexsmobs:alexsmobs/froststalker_helmet"
+					"criterion": ""
+				}
+			]
+			"rewards": [
+				{
+					"id": "7FF6D210C44EDA0B"
+					"type": "xp"
+					"xp": 100
+				}
+				{
+					"id": "1F7BF94237B76411"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+				{
+					"id": "33C8EC8BC07BD77E"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+			]
+			"optional": true
+		}
+		{
+			"id": "06CDF3C596B1DDFE"
+			"dependencies": [
+				"7DF294648F05049B"
+			]
+			"icon": {
+				"id": "alexsmobs:falconry_glove"
+			}
+			"x": 5.5d
+			"y": 4.5d
+			"shape": "circle"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "499BD3D89B40CA24"
+					"type": "advancement"
+					"advancement": "alexsmobs:alexsmobs/tame_bald_eagle"
+					"criterion": ""
+				}
+			]
+			"rewards": [
+				{
+					"id": "4747FC2717FB9F58"
+					"type": "xp"
+					"xp": 100
+				}
+				{
+					"id": "65E710E35CCB145F"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+				{
+					"id": "27511823BEE17848"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+			]
+			"optional": true
+		}
+		{
+			"id": "3982866972D22962"
+			"dependencies": [
+				"7DF294648F05049B"
+			]
+			"icon": {
+				"id": "alexsmobs:acacia_blossom"
+			}
+			"x": 2.5d
+			"y": 2.5d
+			"shape": "circle"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "218E6F5C9DD0326A"
+					"type": "advancement"
+					"advancement": "alexsmobs:alexsmobs/tame_elephant"
+					"criterion": ""
+				}
+			]
+			"rewards": [
+				{
+					"id": "6ADB6E08CE193C46"
+					"type": "xp"
+					"xp": 100
+				}
+				{
+					"id": "6E37930304340D8F"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+				{
+					"id": "7DB0BBD19BD5C974"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+			]
+			"optional": true
+		}
+		{
+			"id": "6889E7E7327BB887"
+			"dependencies": [
+				"7DF294648F05049B"
+			]
+			"icon": {
+				"id": "alexsmobs:straddle_saddle"
+			}
+			"x": 2.5d
+			"y": 4.5d
+			"shape": "circle"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "5F88260B5E063298"
+					"type": "advancement"
+					"advancement": "alexsmobs:alexsmobs/laviathan_four_passengers"
+					"criterion": ""
+				}
+			]
+			"rewards": [
+				{
+					"id": "45A003D231B6F29B"
+					"type": "xp"
+					"xp": 100
+				}
+				{
+					"id": "586B4A03C21F622C"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+				{
+					"id": "64ED88BEE844322B"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+			]
+			"optional": true
+		}
+		{
+			"id": "2EB056454744EDD6"
+			"dependencies": [
+				"7DF294648F05049B"
+			]
+			"icon": {
+				"id": "alexsmobs:cosmic_cod"
+			}
+			"x": 4.5d
+			"y": 1.0d
+			"shape": "circle"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "33731A2BD2B056FB"
+					"type": "advancement"
+					"advancement": "alexsmobs:alexsmobs/tame_cosmaw"
+					"criterion": ""
+				}
+			]
+			"rewards": [
+				{
+					"id": "328FE02E2B367EFD"
+					"type": "xp"
+					"xp": 100
+				}
+				{
+					"id": "7345A3808AC472B0"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+				{
+					"id": "6B584364D99F2E68"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+			]
+			"optional": true
+		}
+		{
+			"id": "5AF8F151D65999EF"
+			"dependencies": [
+				"2EB056454744EDD6"
+			]
+			"icon": {
+				"id": "alexsmobs:mysterious_worm"
+			}
+			"x": 6.5d
+			"y": 1.0d
+			"shape": "circle"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "3F6B0FF4485753A0"
+					"type": "advancement"
+					"advancement": "alexsmobs:alexsmobs/void_worm_kill"
+					"criterion": ""
+				}
+			]
+			"rewards": [
+				{
+					"id": "331487E6D6BC0768"
+					"type": "xp"
+					"xp": 100
+				}
+				{
+					"id": "715F720A87D0A619"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+				{
+					"id": "365316F4EAF8BBF5"
 					"type": "random"
 					"table_id": 3429631832040481656L
 				}

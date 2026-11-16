@@ -2,7 +2,7 @@
 	"id": "4F4482EF7FA6359B"
 	"filename": "spirits"
 	"group": "6E6872417BE99080"
-	"order_index": 15
+	"order_index": 17
 	"icon": {
 		"id": "minecraft:wither_skeleton_skull"
 	}
@@ -11,8 +11,8 @@
 	"images": [
 		{
 			"id": "5A5000F0451E1BBB"
-			"x": 4.5d
-			"y": -2.6d
+			"x": 4.375d
+			"y": -1.85d
 			"width": 10.045d
 			"height": 1.7d
 			"rotation": 0.0d
@@ -22,13 +22,58 @@
 	]
 	"quests": [
 		{
-			"id": "1B3551E21608CAFF"
+			"id": "37CBC36D59B7D30B"
 			"dependencies": []
+			"icon": {
+				"id": "minecraft:soul_lantern"
+			}
+			"x": 0.5d
+			"y": 0.75d
+			"shape": "circle"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "494662D1A38C61B3"
+					"type": "biome"
+					"biome": "#cccasino_spirits:home/krampus"
+				}
+			]
+			"rewards": [
+				{
+					"id": "1146884D5D3C8576"
+					"type": "xp"
+					"xp": 50
+				}
+				{
+					"id": "7F745F4423E9E361"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+				{
+					"id": "4579332E0A054875"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+				{
+					"id": "4A38FBA56497931B"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_25"
+						"count": 1
+					}
+				}
+			]
+		}
+		{
+			"id": "1B3551E21608CAFF"
+			"dependencies": [
+				"37CBC36D59B7D30B"
+			]
 			"icon": {
 				"id": "minecraft:chain"
 			}
-			"x": 0.0d
-			"y": 0.0d
+			"x": 3.0d
+			"y": 0.75d
 			"shape": "gear"
 			"size": 1.5d
 			"tasks": [
@@ -69,13 +114,16 @@
 					"table_id": 4073629130927994432L
 				}
 				{
-					"id": "05935055C21DE8A6"
-					"type": "item"
-					"item": {
-						"id": "cccasino:chip_500"
-						"count": 1
+					"id": "2C3E4B6398D557BC"
+					"type": "command"
+					"command": "cccasino spirits bounty @s krampus"
+					"permission_level": 2
+					"silent": true
+					"feedback_message": "spirits.bounty_claimed"
+					"team_reward": false
+					"icon": {
+						"id": "cccasino:chip_1000"
 					}
-					"count": 2
 				}
 				{
 					"id": "0B0197D3B2A59DDC"
@@ -91,13 +139,58 @@
 			]
 		}
 		{
-			"id": "08B432324938E9BE"
+			"id": "0880B8060057D2D1"
 			"dependencies": []
+			"icon": {
+				"id": "minecraft:soul_lantern"
+			}
+			"x": 0.5d
+			"y": 4.0d
+			"shape": "circle"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "356946810145F85F"
+					"type": "biome"
+					"biome": "#cccasino_spirits:home/frost_wyrm"
+				}
+			]
+			"rewards": [
+				{
+					"id": "6486DF5075A0F8C2"
+					"type": "xp"
+					"xp": 50
+				}
+				{
+					"id": "012B23790A63808C"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+				{
+					"id": "59112D25C503869B"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+				{
+					"id": "49ECF7524CC89D31"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_25"
+						"count": 1
+					}
+				}
+			]
+		}
+		{
+			"id": "08B432324938E9BE"
+			"dependencies": [
+				"0880B8060057D2D1"
+			]
 			"icon": {
 				"id": "minecraft:blue_ice"
 			}
 			"x": 3.0d
-			"y": 0.0d
+			"y": 4.0d
 			"shape": "gear"
 			"size": 1.5d
 			"tasks": [
@@ -138,13 +231,16 @@
 					"table_id": 4073629130927994432L
 				}
 				{
-					"id": "5337D6A061CE0764"
-					"type": "item"
-					"item": {
-						"id": "cccasino:chip_500"
-						"count": 1
+					"id": "3E9DBCAFFEF7C9DC"
+					"type": "command"
+					"command": "cccasino spirits bounty @s frost_wyrm"
+					"permission_level": 2
+					"silent": true
+					"feedback_message": "spirits.bounty_claimed"
+					"team_reward": false
+					"icon": {
+						"id": "cccasino:chip_1000"
 					}
-					"count": 2
 				}
 				{
 					"id": "3689235AFB4CE88B"
@@ -160,13 +256,58 @@
 			]
 		}
 		{
-			"id": "51E3D867E3B037D3"
+			"id": "1D7790F93727AB88"
 			"dependencies": []
+			"icon": {
+				"id": "minecraft:soul_lantern"
+			}
+			"x": 6.0d
+			"y": 4.0d
+			"shape": "circle"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "492B90D28ED9FC28"
+					"type": "biome"
+					"biome": "#cccasino_spirits:home/rat_king"
+				}
+			]
+			"rewards": [
+				{
+					"id": "2F3893ED6B504EEC"
+					"type": "xp"
+					"xp": 50
+				}
+				{
+					"id": "23A256669F979009"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+				{
+					"id": "4FF0CE4D37E22512"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+				{
+					"id": "6F6313556D7C3E6B"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_25"
+						"count": 1
+					}
+				}
+			]
+		}
+		{
+			"id": "51E3D867E3B037D3"
+			"dependencies": [
+				"1D7790F93727AB88"
+			]
 			"icon": {
 				"id": "minecraft:rotten_flesh"
 			}
-			"x": 6.0d
-			"y": 0.0d
+			"x": 8.0d
+			"y": 4.0d
 			"shape": "gear"
 			"size": 1.5d
 			"tasks": [
@@ -207,13 +348,16 @@
 					"table_id": 4073629130927994432L
 				}
 				{
-					"id": "45AAEAB25C2CA6D6"
-					"type": "item"
-					"item": {
-						"id": "cccasino:chip_500"
-						"count": 1
+					"id": "6F48C283063F0675"
+					"type": "command"
+					"command": "cccasino spirits bounty @s rat_king"
+					"permission_level": 2
+					"silent": true
+					"feedback_message": "spirits.bounty_claimed"
+					"team_reward": false
+					"icon": {
+						"id": "cccasino:chip_1000"
 					}
-					"count": 2
 				}
 				{
 					"id": "45A7941B99B8A95B"
@@ -229,13 +373,58 @@
 			]
 		}
 		{
-			"id": "0558CFF730B2BAC8"
+			"id": "767494F34256F323"
 			"dependencies": []
+			"icon": {
+				"id": "minecraft:soul_lantern"
+			}
+			"x": 0.5d
+			"y": 6.5d
+			"shape": "circle"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "3A6C4423E059BCB4"
+					"type": "biome"
+					"biome": "#cccasino_spirits:home/humbug"
+				}
+			]
+			"rewards": [
+				{
+					"id": "182945C7A9B833BC"
+					"type": "xp"
+					"xp": 50
+				}
+				{
+					"id": "16AAB2B2745575E8"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+				{
+					"id": "3C3DD6D66742573C"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+				{
+					"id": "39E1D3E816F4D436"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_25"
+						"count": 1
+					}
+				}
+			]
+		}
+		{
+			"id": "0558CFF730B2BAC8"
+			"dependencies": [
+				"767494F34256F323"
+			]
 			"icon": {
 				"id": "minecraft:coal"
 			}
-			"x": 9.0d
-			"y": 0.0d
+			"x": 3.0d
+			"y": 6.5d
 			"shape": "gear"
 			"size": 1.5d
 			"tasks": [
@@ -276,13 +465,16 @@
 					"table_id": 4073629130927994432L
 				}
 				{
-					"id": "193A031663D8C767"
-					"type": "item"
-					"item": {
-						"id": "cccasino:chip_500"
-						"count": 1
+					"id": "4567A68EBFF942F2"
+					"type": "command"
+					"command": "cccasino spirits bounty @s humbug"
+					"permission_level": 2
+					"silent": true
+					"feedback_message": "spirits.bounty_claimed"
+					"team_reward": false
+					"icon": {
+						"id": "cccasino:chip_1000"
 					}
-					"count": 2
 				}
 				{
 					"id": "183B428A4CF6F5D1"
@@ -298,13 +490,58 @@
 			]
 		}
 		{
-			"id": "51867C53CE8E5F9F"
+			"id": "3AD103C03D230D0F"
 			"dependencies": []
+			"icon": {
+				"id": "minecraft:soul_lantern"
+			}
+			"x": 6.0d
+			"y": 6.5d
+			"shape": "circle"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "67AB1B72CB298A4E"
+					"type": "biome"
+					"biome": "#cccasino_spirits:home/coal_golem"
+				}
+			]
+			"rewards": [
+				{
+					"id": "144299BDC718EB2A"
+					"type": "xp"
+					"xp": 50
+				}
+				{
+					"id": "2241C7BC594DF721"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+				{
+					"id": "2B9A5A1C9019D203"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+				{
+					"id": "7D4EDF8004E897E2"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_25"
+						"count": 1
+					}
+				}
+			]
+		}
+		{
+			"id": "51867C53CE8E5F9F"
+			"dependencies": [
+				"3AD103C03D230D0F"
+			]
 			"icon": {
 				"id": "minecraft:coal_block"
 			}
-			"x": 0.0d
-			"y": 3.0d
+			"x": 8.0d
+			"y": 6.5d
 			"shape": "gear"
 			"size": 1.5d
 			"tasks": [
@@ -345,13 +582,16 @@
 					"table_id": 4073629130927994432L
 				}
 				{
-					"id": "345DBCB13D71B12A"
-					"type": "item"
-					"item": {
-						"id": "cccasino:chip_500"
-						"count": 1
+					"id": "54E9C0744A2983AB"
+					"type": "command"
+					"command": "cccasino spirits bounty @s coal_golem"
+					"permission_level": 2
+					"silent": true
+					"feedback_message": "spirits.bounty_claimed"
+					"team_reward": false
+					"icon": {
+						"id": "cccasino:chip_1000"
 					}
-					"count": 2
 				}
 				{
 					"id": "1E25186A7DE98F57"
@@ -367,13 +607,58 @@
 			]
 		}
 		{
-			"id": "4139CFBEDA31B46D"
+			"id": "3E9BA597CE13A6B8"
 			"dependencies": []
+			"icon": {
+				"id": "minecraft:soul_lantern"
+			}
+			"x": 0.5d
+			"y": 9.0d
+			"shape": "circle"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "0AB503CF4B0F4475"
+					"type": "biome"
+					"biome": "#cccasino_spirits:home/ice_queen"
+				}
+			]
+			"rewards": [
+				{
+					"id": "291ADFDA63AB8A99"
+					"type": "xp"
+					"xp": 50
+				}
+				{
+					"id": "56F8AA19D7B71B81"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+				{
+					"id": "77527D57A95C0E06"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+				{
+					"id": "004D862A81758B29"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_25"
+						"count": 1
+					}
+				}
+			]
+		}
+		{
+			"id": "4139CFBEDA31B46D"
+			"dependencies": [
+				"3E9BA597CE13A6B8"
+			]
 			"icon": {
 				"id": "minecraft:packed_ice"
 			}
 			"x": 3.0d
-			"y": 3.0d
+			"y": 9.0d
 			"shape": "gear"
 			"size": 1.5d
 			"tasks": [
@@ -414,13 +699,16 @@
 					"table_id": 4073629130927994432L
 				}
 				{
-					"id": "3095B76AC3BA6E36"
-					"type": "item"
-					"item": {
-						"id": "cccasino:chip_500"
-						"count": 1
+					"id": "02F762A189957A75"
+					"type": "command"
+					"command": "cccasino spirits bounty @s ice_queen"
+					"permission_level": 2
+					"silent": true
+					"feedback_message": "spirits.bounty_claimed"
+					"team_reward": false
+					"icon": {
+						"id": "cccasino:chip_1000"
 					}
-					"count": 2
 				}
 				{
 					"id": "424DC8C3F545C37B"
@@ -436,13 +724,58 @@
 			]
 		}
 		{
-			"id": "342A3841E27A20B7"
+			"id": "3D18A6483FF401F0"
 			"dependencies": []
+			"icon": {
+				"id": "minecraft:soul_lantern"
+			}
+			"x": 6.0d
+			"y": 9.0d
+			"shape": "circle"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "642CB518EF8522D3"
+					"type": "biome"
+					"biome": "#cccasino_spirits:home/yeti"
+				}
+			]
+			"rewards": [
+				{
+					"id": "3A754C97DEB10CE7"
+					"type": "xp"
+					"xp": 50
+				}
+				{
+					"id": "6B02DF060B6D6C46"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+				{
+					"id": "4476391E4E2479A5"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+				{
+					"id": "43D3F394FAD2B290"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_25"
+						"count": 1
+					}
+				}
+			]
+		}
+		{
+			"id": "342A3841E27A20B7"
+			"dependencies": [
+				"3D18A6483FF401F0"
+			]
 			"icon": {
 				"id": "minecraft:snow_block"
 			}
-			"x": 6.0d
-			"y": 3.0d
+			"x": 8.0d
+			"y": 9.0d
 			"shape": "gear"
 			"size": 1.5d
 			"tasks": [
@@ -483,13 +816,16 @@
 					"table_id": 4073629130927994432L
 				}
 				{
-					"id": "1648962C014BD450"
-					"type": "item"
-					"item": {
-						"id": "cccasino:chip_500"
-						"count": 1
+					"id": "09C66ADE1181A267"
+					"type": "command"
+					"command": "cccasino spirits bounty @s yeti"
+					"permission_level": 2
+					"silent": true
+					"feedback_message": "spirits.bounty_claimed"
+					"team_reward": false
+					"icon": {
+						"id": "cccasino:chip_1000"
 					}
-					"count": 2
 				}
 				{
 					"id": "0CA920CD4F92A98F"
@@ -505,13 +841,58 @@
 			]
 		}
 		{
-			"id": "46F09AC114FE8C01"
+			"id": "164C123E54C79158"
 			"dependencies": []
+			"icon": {
+				"id": "minecraft:soul_lantern"
+			}
+			"x": 0.5d
+			"y": 12.0d
+			"shape": "circle"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "490A5B4A307FC4DB"
+					"type": "biome"
+					"biome": "#cccasino_spirits:home/wraith"
+				}
+			]
+			"rewards": [
+				{
+					"id": "115B82F99CD0FD73"
+					"type": "xp"
+					"xp": 50
+				}
+				{
+					"id": "59BA02214DDC604A"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+				{
+					"id": "33A4CD0A06DAF312"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+				{
+					"id": "5870C47A02A7BC49"
+					"type": "item"
+					"item": {
+						"id": "cccasino:chip_25"
+						"count": 1
+					}
+				}
+			]
+		}
+		{
+			"id": "46F09AC114FE8C01"
+			"dependencies": [
+				"164C123E54C79158"
+			]
 			"icon": {
 				"id": "minecraft:wither_skeleton_skull"
 			}
-			"x": 9.0d
-			"y": 3.0d
+			"x": 3.0d
+			"y": 12.0d
 			"shape": "gear"
 			"size": 1.5d
 			"tasks": [
@@ -552,13 +933,16 @@
 					"table_id": 4073629130927994432L
 				}
 				{
-					"id": "0DE8EEA64BC6CEC6"
-					"type": "item"
-					"item": {
-						"id": "cccasino:chip_500"
-						"count": 1
+					"id": "7737AF52B25A0145"
+					"type": "command"
+					"command": "cccasino spirits bounty @s wraith"
+					"permission_level": 2
+					"silent": true
+					"feedback_message": "spirits.bounty_claimed"
+					"team_reward": false
+					"icon": {
+						"id": "cccasino:chip_1000"
 					}
-					"count": 2
 				}
 				{
 					"id": "46E525A02A6F5565"
