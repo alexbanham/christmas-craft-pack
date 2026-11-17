@@ -5,6 +5,14 @@ file = "CREDITS.md"
 hash = "53cd4eb2ccbbee2e37b97577a8a3fb756d1e2866236453f3f97965e44f4b886f"
 
 [[files]]
+file = "config/MiniMOTD/icons/christmascraft.png"
+hash = "6235a37d03c33941fe712376d8a4a696eda6ecc565cb8b9f93e99f5bbc8eb8f6"
+
+[[files]]
+file = "config/MiniMOTD/main.conf"
+hash = "e20937c5e72df5f7fcc96458f69f1216b4c0611c0aa24e67dd62ad1720ceac7f"
+
+[[files]]
 file = "config/adq_tweaks-common.toml"
 hash = "1a1aaf39bd1f35ec04fd16aa58ff577c13b48c5ef5392b348617fb35f6043c71"
 
@@ -208,10 +216,6 @@ hash = "988716181a7da42501e3a2cb300914062658d0b62744b631c852bb0cd9509429"
 file = "config/iris.properties"
 hash = "efe0c30620affee4a63c94309643da1b5a10d9b411d292f1394bd233489a7334"
 preserve = true
-
-[[files]]
-file = "config/minimotd/main.conf"
-hash = "5a3308ff90beaf7a434a704f46a245dd2a02b7698c356cddb69240fc6757bc8d"
 
 [[files]]
 file = "config/modernfix-mixins.properties"
