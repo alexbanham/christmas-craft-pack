@@ -42,7 +42,7 @@ hash = "a9f22cc7e36e8316685fca19cf92715c5c0a5a05d16fa766add5790b85265dd7"
 
 [[files]]
 file = "config/amc.json"
-hash = "a9f3c58eec743bb4dc74763c32c0f4610a114f0d9244b4cc1c478a9727aa1cd6"
+hash = "50c2530c122f0981d3e4095dcf4e750547e168ec3b46658e8169ecc005725732"
 
 [[files]]
 file = "config/bits_n_bobs-common.toml"
@@ -146,7 +146,7 @@ hash = "964cf13e06629164ab2e9c57e19ff53fb8386454d2b101315d2ab3a537659a39"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/high_roller.snbt"
-hash = "9fdc2eac07f8c9fc7b577947045eac8af1fd58e1fa5ab46f915bef8654bf9c6c"
+hash = "566dde015b386ed886e2a58762620252711b71396ef4721bbb8c5d84697f822f"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/kitchen.snbt"
@@ -186,27 +186,27 @@ hash = "1968b1172f4184e36962ea8442accf213b5f8b69b998a18c8d4b045026441741"
 
 [[files]]
 file = "config/ftbquests/quests/lang/en_us.snbt"
-hash = "e720315a05f62f341098bf86aa4b7b0a37e7ceb336c9cc72ba962d749e9c8edd"
+hash = "b2c37ba03e42daef0b98352a54c8be78d73d87991e4d0c8d710bf1e04a148b7b"
 
 [[files]]
 file = "config/ftbquests/quests/reward_tables/advent.snbt"
-hash = "d9fd6a980dec1a36a924536bea19216daa657c422958897b5f6ea5aa4eb2e3b8"
+hash = "8977039ddd5f3e9e439304f7e87e611a27361bab45c4bd873dbdce5abc5d2904"
 
 [[files]]
 file = "config/ftbquests/quests/reward_tables/big_present.snbt"
-hash = "740926bd513adb2adcd5ff78d279f6d331db4853a0d7e44e83fab7a7dbd38c14"
+hash = "2e203cc715e95a5eca6042567cd86b7279e1052eb7ce8d13649ac96d786273e3"
 
 [[files]]
 file = "config/ftbquests/quests/reward_tables/santas_sack.snbt"
-hash = "2ae5914c5037b6338b3996697884fa158332355ef49b2fa4d743dc6d270e20f2"
+hash = "6825dec305fbfb74c6cd8c1050a7c650498476622c24f2dc432fea0516ac298a"
 
 [[files]]
 file = "config/ftbquests/quests/reward_tables/stocking.snbt"
-hash = "ac66d3842c00780d388b2f7bab4a1c4cf222902060235d4f945b349fa024b745"
+hash = "14a9dd32766189436b8db7202e8a32557cc3705900dd0533f4014c99df395c52"
 
 [[files]]
 file = "config/ftbquests/quests/reward_tables/wrapped_gift.snbt"
-hash = "79bea02f47899cb590d1a8ac920c4f4f7362b64f81a77874ab25206b2744e47b"
+hash = "68d5a1fc061059a8e271252fff212cf47fa4060889317c4c8c5281412e0598cf"
 
 [[files]]
 file = "config/gravestone-server.toml"
@@ -1211,7 +1211,7 @@ hash = "8892e94cbb6cd3fec2c69a0e15354f18fdf4d124119cc4e3e838ed15fe5c3695"
 
 [[files]]
 file = "mods/0-cccasino.pw.toml"
-hash = "44eb4110febb99a1e88609d2700b6d6cb763f77ca7bb78d511f3797d5b3371ee"
+hash = "f701013dba3e2a2dc1dc60a6bad005ce04cdad1d777c6718a63dea12a42d665b"
 metafile = true
 
 [[files]]

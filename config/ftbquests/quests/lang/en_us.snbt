@@ -9,7 +9,9 @@
 	"quest.4DCC2697FB0B9A91.title": "Christmas Is in Trouble"
 	"quest.4DCC2697FB0B9A91.quest_subtitle": "The North Pole needs every pair of hands."
 	"quest.4DCC2697FB0B9A91.quest_desc": [
-		"Christmas Craft is Create with Christmas on top. The North Pole's spirits are trapped, its toy lines are cold and its pantry is bare. Fixing it is up to you and your friends: build factories, make toys and food, free the spirits, and play the casino with what you earn. Open your stocking, then read on."
+		"Christmas Craft is Create with Christmas on top. The North Pole's spirits are trapped, its toy lines are cold and its pantry is bare. It is up to you and your friends: build factories, make toys and food, free the spirits, and play the casino with what you earn. Open your stocking. Click any item for its recipe, or hover and press R (recipe) or U (uses)."
+		""
+		"{image:item:create:andesite_alloy width:16 height:16 align:center click_action:show_recipe:create:andesite_alloy}"
 	]
 	"task.348EE80193B030C6.title": "Use the Cashier's Cage"
 	"task.39D52FE8BEB8AF6A.title": "Open Santa's Shop"
@@ -37,7 +39,7 @@
 	"quest.05A1F9B3EA14DE2E.title": "Andesite Alloy"
 	"quest.05A1F9B3EA14DE2E.quest_subtitle": "The grey stuff that holds Create together."
 	"quest.05A1F9B3EA14DE2E.quest_desc": [
-		"Andesite and iron nuggets make andesite alloy, the base of every early Create machine: shafts, cogs, casings. Make it by hand today. By the end of this chapter a mixer makes it for you, and that is the whole idea of this pack."
+		"Andesite and iron nuggets make andesite alloy, the base of every early Create machine: shafts, cogs, casings. Make it by hand today. By the end of this chapter a mixer makes it for you, and that is the whole idea of this pack. Click the alloy for its recipe; Esc comes back."
 	]
 	"quest.7BEE285CCC7460D7.title": "The Andesite Age"
 	"quest.7BEE285CCC7460D7.quest_subtitle": "A box for every machine."
@@ -401,7 +403,7 @@
 	"quest.1E574C74D0CF56CB.title": "How the North Pole Pays"
 	"quest.1E574C74D0CF56CB.quest_subtitle": "Nothing crafts a chip."
 	"quest.1E574C74D0CF56CB.quest_desc": [
-		"No recipe makes a chip: each one pays for work somebody wanted. Every Cashier's Cage is the same bank. Sneak-use it with an empty hand to deposit or withdraw: banked chips are safe from death and a full inventory, and Santa's Shop draws on them. Use it holding a chip to break it into smaller ones. It never takes a cut."
+		"No recipe makes a chip: each one pays for work somebody wanted. Every Cashier's Cage is the same bank. Use it to open its window: Change breaks a chip into smaller ones, Colour up puts what you carry in the fewest chips, and Bank deposits or withdraws. Banked chips are safe from death and a full inventory, and Santa's Shop draws on them. No cut, ever."
 	]
 	"quest.2738C7826E32539B.title": "A Cage of Your Own"
 	"quest.2738C7826E32539B.quest_subtitle": "The bank, at home."
@@ -440,7 +442,7 @@
 	"quest.0EFC2DA5F4BEF5FC.title": "Your First Thousand"
 	"quest.0EFC2DA5F4BEF5FC.quest_subtitle": "Colour up."
 	"quest.0EFC2DA5F4BEF5FC.quest_desc": [
-		"Quests never pay a 1,000 Chip. Carry its worth to the Cashier's Cage (withdraw from the bank if you need to) and use it with an empty hand: everything in your pockets colours up into the fewest chips there can be, and nothing is lost. A 1,000 Chip means you have found your feet."
+		"Quests never pay a 1,000 Chip. Carry its worth to the Cashier's Cage (withdraw from the bank if you need to), use it and press Colour up: everything in your pockets colours up into the fewest chips there can be, and nothing is lost. A 1,000 Chip means you have found your feet."
 	]
 	"quest.1F68120875F5D236.title": "Delivered"
 	"quest.1F68120875F5D236.quest_subtitle": "A sack of toys, delivered."
@@ -502,7 +504,7 @@
 	"quest.25E6B1D27ECC0874.title": "The Wheel of Gifts"
 	"quest.25E6B1D27ECC0874.quest_subtitle": "A wheel, a clapper, a prize."
 	"quest.25E6B1D27ECC0874.quest_desc": [
-		"Put a chip on a symbol's spot on the felt, then anyone pulls the wheel: it spins 8 seconds and the clapper picks one of 54 segments. Snowflake pays 1:1, Holly 2:1, Bell 5:1, Present 10:1, Star 20:1, Santa and Coal 40:1. A Gift Chip bets as a 1. In Advent, an empty hand on a symbol takes one free spin a day, paid in Gift Chips. Win a spin."
+		"Put a chip on a symbol's spot on the felt, then pull the wheel (bettors only): it spins 8 seconds and the clapper picks one of 54 segments. Snowflake pays 1:1, Holly 2:1, Bell 5:1, Present 10:1, Star 20:1, Santa and Coal 40:1. A Gift Chip bets as a 1. In Advent, an empty hand on a symbol takes one free spin a day, paid in Gift Chips. Win a spin."
 	]
 	"quest.3BAC5309ED5C50BE.title": "Jingle Reels"
 	"quest.3BAC5309ED5C50BE.quest_subtitle": "Bells, holly and a lever."
@@ -1166,7 +1168,7 @@
 	"quest.1F17B86C229F752E.quest_subtitle": "The cheapest prize on each shelf."
 	"quest.1F17B86C229F752E.quest_desc": [
 		"Time to each shelf's cheapest useful prize, priced in Tinsel:"
-		"Betting 1,000 chips a spin at Snowball Roulette, 40 spins an hour: Elf Card, Velvet Rope Post at 200: about 10 minutes; Reindeer Card, Velvet Earmuffs at 800: about 45 minutes; Sleigh Card, High Roller Statue at 25,000: about 24 hours; Santa's Circle Card, Star Dust at 10,000: about 9 hours."
+		"At 1,000 chips a spin, 40 spins an hour of Snowball Roulette: Elf Card, Velvet Rope Post (200): 10 min; Reindeer Card, Velvet Earmuffs (800): 45 min; Sleigh Card, Pemberton (20,000): 19 h; North Star Card, Mischief (30,000): 28 h; Santa's Circle Card, Star Dust (10,000): 9 h."
 	]
 	"quest.38391200E39FA1C3.title": "The Elf Card"
 	"quest.38391200E39FA1C3.quest_subtitle": "Where the ladder starts."
@@ -1181,13 +1183,13 @@
 	"quest.467B241331255569.title": "The Sleigh Card"
 	"quest.467B241331255569.quest_subtitle": "Cast in gold."
 	"quest.467B241331255569.quest_desc": [
-		"1,000,000 chips wagered. The Sleigh Card opens the Prize Counter's third shelf: the High Roller Statue, a gold likeness of you on a plinth. The velvet ropes part for you a little more often now."
+		"1,000,000 chips wagered. The Sleigh Card opens the Prize Counter's third shelf: the Pemberton the Penguin Butler and High Roller Statue, a gold likeness of you on a plinth. The velvet ropes part for you a little more often now."
 	]
 	"reward.445699731B95F4AD.title": "Fireworks!"
 	"quest.0F67369CA332F014.title": "The North Star Card"
 	"quest.0F67369CA332F014.quest_subtitle": "The floor knows your name."
 	"quest.0F67369CA332F014.quest_desc": [
-		"10,000,000 wagered, and everyone at the tables knows who you are. The North Star Card opens every velvet rope but the very top one, and its title is one few on the server will ever show."
+		"10,000,000 wagered, and everyone at the tables knows who you are. The North Star Card opens the Prize Counter's fourth shelf (Mischief the Mini Krampus) and every velvet rope but the very top one, and its title is one few on the server will ever show."
 	]
 	"reward.05395D6F77C2322D.title": "Fireworks!"
 	"quest.3FD5A71B2ABEE6A9.title": "Santa's Circle"
@@ -1319,6 +1321,16 @@
 	"quest.3A9DBB9E5AEAA938.quest_subtitle": "A snow fox in a bauble."
 	"quest.3A9DBB9E5AEAA938.quest_desc": [
 		"Lucky the Snow Fox comes in a glass bauble from the Reindeer shelf. Use it to call Lucky out, and again to send Lucky home. Lucky follows you, curls up by the fire and back-flips when you win, and can never be hurt or lost."
+	]
+	"quest.2A4013AB51C619B1.title": "Pemberton"
+	"quest.2A4013AB51C619B1.quest_subtitle": "A butler in a bauble."
+	"quest.2A4013AB51C619B1.quest_desc": [
+		"Pemberton the Penguin Butler comes in a glass bauble from the Sleigh shelf. Use it to call him out, and again to send him home. He waddles after you with a silver tray, belly-slides on snow and ice, claps when you win, and can never be hurt or lost."
+	]
+	"quest.676E2BB70D35ED8C.title": "Mischief"
+	"quest.676E2BB70D35ED8C.quest_subtitle": "A little Krampus of your own."
+	"quest.676E2BB70D35ED8C.quest_desc": [
+		"Mischief the Mini Krampus waits on the North Star shelf, for players with the Krampus 7 feat. He skulks after you, rattles his chains, hides behind you, cackles when you lose and grins when you win. All for show: he never takes anything, and can never be hurt or lost."
 	]
 	"quest.771CE23EE96A2FF8.title": "Cast in Gold"
 	"quest.771CE23EE96A2FF8.quest_subtitle": "The High Roller Statue."

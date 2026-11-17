@@ -121,12 +121,6 @@
 			"item": {
 				"id": "cccasino:chip_500"
 				"count": 1
-				"components": {
-					"minecraft:custom_name": "{\"text\": \"Five Hundred in the Bow\", \"italic\": false}"
-					"minecraft:lore": [
-						"{\"text\": \"Spend it wisely. Or don't.\", \"color\": \"gray\"}"
-					]
-				}
 			}
 			"weight": 1.5d
 		}

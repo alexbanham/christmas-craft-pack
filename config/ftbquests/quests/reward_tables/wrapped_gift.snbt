@@ -112,12 +112,6 @@
 			"item": {
 				"id": "cccasino:gift_chip"
 				"count": 1
-				"components": {
-					"minecraft:custom_name": "{\"text\": \"Gift Chip\", \"italic\": false}"
-					"minecraft:lore": [
-						"{\"text\": \"Bets at Jingle Reels, Video Poker and the Wheel of Gifts. Wins pay real chips.\", \"color\": \"gray\"}"
-					]
-				}
 			}
 			"weight": 8.0d
 			"count": 5
@@ -136,12 +130,6 @@
 			"item": {
 				"id": "cccasino:chip_250"
 				"count": 1
-				"components": {
-					"minecraft:custom_name": "{\"text\": \"Two-Fifty Under the Ribbon\", \"italic\": false}"
-					"minecraft:lore": [
-						"{\"text\": \"Someone up north likes you.\", \"color\": \"gray\"}"
-					]
-				}
 			}
 			"weight": 1.0d
 		}
