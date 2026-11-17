@@ -11,7 +11,7 @@
 	"images": [
 		{
 			"id": "6C77BF67F8249A3B"
-			"x": 4.125d
+			"x": 4.75d
 			"y": -14.85d
 			"width": 9.62d
 			"height": 1.7d
@@ -1192,6 +1192,90 @@
 				}
 				{
 					"id": "5483496E5F012605"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+			]
+			"optional": true
+		}
+		{
+			"id": "2A4013AB51C619B1"
+			"dependencies": [
+				"467B241331255569"
+			]
+			"icon": {
+				"id": "cccasino:pet_bauble_penguin"
+			}
+			"x": 10.5d
+			"y": -2.5d
+			"shape": "square"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "3CFA65B8C9AD890D"
+					"type": "item"
+					"item": {
+						"id": "cccasino:pet_bauble_penguin"
+						"count": 1
+					}
+					"count": 1
+				}
+			]
+			"rewards": [
+				{
+					"id": "02DD970B330BAE7A"
+					"type": "xp"
+					"xp": 100
+				}
+				{
+					"id": "1EDCF589657CDF94"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+				{
+					"id": "7A057F32A1B3EFD9"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+			]
+			"optional": true
+		}
+		{
+			"id": "676E2BB70D35ED8C"
+			"dependencies": [
+				"0F67369CA332F014"
+			]
+			"icon": {
+				"id": "cccasino:pet_bauble_krampus"
+			}
+			"x": 13.5d
+			"y": -2.5d
+			"shape": "square"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "463159C257F53AED"
+					"type": "item"
+					"item": {
+						"id": "cccasino:pet_bauble_krampus"
+						"count": 1
+					}
+					"count": 1
+				}
+			]
+			"rewards": [
+				{
+					"id": "2C4AFE97ABE6F77C"
+					"type": "xp"
+					"xp": 100
+				}
+				{
+					"id": "528D995D49015489"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+				{
+					"id": "4607357E4DD6C317"
 					"type": "random"
 					"table_id": 3429631832040481656L
 				}

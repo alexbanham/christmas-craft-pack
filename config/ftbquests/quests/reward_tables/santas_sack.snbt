@@ -104,12 +104,6 @@
 			"item": {
 				"id": "cccasino:chip_5000"
 				"count": 1
-				"components": {
-					"minecraft:custom_name": "{\"text\": \"Santa's Own Chip\", \"italic\": false}"
-					"minecraft:lore": [
-						"{\"text\": \"Five thousand. Do not tell the elves.\", \"color\": \"gray\"}"
-					]
-				}
 			}
 			"weight": 0.2d
 		}
