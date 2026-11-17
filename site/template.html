@@ -3,224 +3,465 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Christmas Craft</title>
-<meta name="description" content="Christmas Craft: a Create + airships Christmas modpack. Download once, it updates itself.">
-<meta property="og:title" content="Christmas Craft">
-<meta property="og:description" content="Download once. It updates itself every time you press Play.">
-<link rel="icon" href="{{tree_uri}}">
+<title>Christmas Craft 2026 | Minecraft modpack for Windows</title>
+<meta name="description" content="Christmas Craft 2026 is a Minecraft: Java Edition {{mc}} modpack with Create, airships, a casino with real chips, Santa's Toy Works, spirit bosses and a {{quest_count}}-quest book. Download it once; it updates itself every time you press Play.">
+<meta name="theme-color" content="#0a1510">
+<meta name="color-scheme" content="dark">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Christmas Craft 2026">
+<meta property="og:title" content="Christmas Craft 2026">
+<meta property="og:description" content="A Minecraft modpack for the season: Create, airships, a casino with real chips, Santa's Toy Works, spirit bosses and a {{quest_count}}-quest book. Download once, press Play, it keeps itself up to date.">
+<meta property="og:url" content="{{site_url}}">
+<meta property="og:image" content="{{site_url}}assets/og.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="The Christmas Craft lodge at dusk, strung with fairy lights.">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="icon" type="image/png" sizes="32x32" href="assets/favicon-32.png">
+<link rel="apple-touch-icon" href="assets/icon-192.png">
 <style>
-@font-face { font-family: "Monocraft"; src: url("assets/Monocraft.otf") format("opentype"); font-display: swap; }
 :root {
-  --sky-top: #070d22; --sky-bottom: #1b2a58;
-  --panel: #c6c6c6; --panel-hi: #ffffff; --panel-lo: #555555; --ink: #3f3f3f;
-  --slot: #8b8b8b; --slot-lo: #373737;
-  --green: #3c8527; --green-hi: #6cc349; --green-lo: #1d4d13;
-  --stone: #7a7a7a; --stone-hi: #b4b4b4; --stone-lo: #3b3b3b;
-  --splash: #ffff55; --tip: #100010; --tip-border: #2a0a5e;
-  --font: "Monocraft", ui-monospace, "Cascadia Mono", Consolas, monospace;
+  --bg: #0a1510; --bg-2: #0e1d15; --card: #12271c; --card-hi: #183324;
+  --line: rgba(227, 182, 90, .30); --line-soft: rgba(244, 234, 210, .12);
+  --gold: #e3b65a; --gold-hi: #f0ca7c; --cream: #f4ead2; --ink: #e8eee9; --muted: #b3c2b8; --berry: #c8283f;
+  --serif: Georgia, Cambria, "Times New Roman", serif;
+  --sans: "Segoe UI", system-ui, -apple-system, Roboto, "Helvetica Neue", Arial, sans-serif;
+  --label: Bahnschrift, "Segoe UI", system-ui, sans-serif;
+  --wrap: 1120px;
 }
 * { box-sizing: border-box; }
-html { background: var(--sky-top); }
-body {
-  margin: 0; min-height: 100vh; color: #fff; font-family: var(--font); font-size: 16px; line-height: 1.6;
-  background: linear-gradient(var(--sky-top), var(--sky-bottom) 70%, #2b3d72);
-  overflow-x: hidden;
-}
-#sky { position: fixed; inset: 0; width: 100%; height: 100%; z-index: 0; pointer-events: none; image-rendering: pixelated; }
-.lights { position: relative; z-index: 2; height: 56px; width: 100%; display: block; }
-main { position: relative; z-index: 1; max-width: 880px; margin: 0 auto; padding: 8px 16px 48px; }
-.shadow { text-shadow: 2px 2px 0 #3f3f3f; }
-a { color: inherit; }
+[hidden] { display: none !important; }
+html { background: var(--bg); scroll-behavior: smooth; }
+@media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } }
+body { margin: 0; background: var(--bg); color: var(--ink); font: 17px/1.6 var(--sans); -webkit-font-smoothing: antialiased; }
+img { display: block; max-width: 100%; }
+a { color: var(--gold-hi); text-underline-offset: 3px; }
+a:hover { color: var(--cream); }
+:focus-visible { outline: 2px solid var(--gold-hi); outline-offset: 3px; border-radius: 4px; }
+.wrap { width: 100%; max-width: var(--wrap); margin: 0 auto; padding: 0 24px; }
+.skip { position: absolute; left: 16px; top: -48px; z-index: 10; padding: 8px 14px; background: var(--gold); color: #1a1206; border-radius: 6px; font-weight: 600; }
+.skip:focus { top: 12px; }
+code, kbd { font: .92em/1 Consolas, "Cascadia Mono", ui-monospace, monospace; background: rgba(244, 234, 210, .1); color: var(--cream); padding: 2px 6px; border-radius: 4px; }
+b, strong { color: var(--cream); font-weight: 600; }
+
+/* top bar */
+.top { position: absolute; inset: 0 0 auto; z-index: 3; }
+.top .wrap { display: flex; align-items: center; justify-content: space-between; gap: 16px; height: 72px; }
+.brand { display: inline-flex; align-items: center; gap: 10px; color: var(--cream); text-decoration: none; font: 600 18px/1 var(--label); letter-spacing: .02em; }
+.brand img { width: 28px; height: 28px; image-rendering: pixelated; }
+.top nav ul { display: flex; gap: 28px; margin: 0; padding: 0; list-style: none; }
+.top nav a { color: var(--ink); text-decoration: none; font: 500 15px/1 var(--label); letter-spacing: .04em; }
+.top nav a:hover { color: var(--gold-hi); }
 
 /* hero */
-.hero { position: relative; text-align: center; padding: 24px 0 8px; }
-.trees { display: flex; justify-content: space-between; align-items: flex-end; position: absolute; inset: 40px -8px auto; pointer-events: none; }
-.trees img { width: 120px; image-rendering: pixelated; }
-.title-wrap { position: relative; display: inline-block; margin: 8px 0 0; }
-h1 {
-  margin: 0; font-weight: normal; letter-spacing: 2px; line-height: 1.05;
-  font-size: clamp(40px, 10vw, 88px); color: #f2f2f2;
-  text-shadow: 0 3px 0 #9a9a9a, 0 6px 0 #6b6b6b, 0 9px 0 #4a4a4a, 0 12px 0 #222, 0 18px 16px rgba(0,0,0,.6);
+.hero { position: relative; isolation: isolate; min-height: min(86vh, 780px); display: flex; align-items: flex-end; overflow: hidden; background: #050a07; }
+.hero picture, .hero picture img { position: absolute; inset: 0; width: 100%; height: 100%; z-index: -2; }
+.hero picture img { object-fit: cover; object-position: 62% 40%; }
+.hero::after {
+  content: ""; position: absolute; inset: 0; z-index: -1;
+  background:
+    linear-gradient(90deg, rgba(6, 14, 9, .92) 0%, rgba(6, 14, 9, .76) 30%, rgba(6, 14, 9, .18) 58%, rgba(6, 14, 9, 0) 72%),
+    linear-gradient(0deg, var(--bg) 0%, rgba(10, 21, 16, .55) 16%, rgba(10, 21, 16, 0) 40%),
+    linear-gradient(180deg, rgba(6, 14, 9, .55) 0%, rgba(6, 14, 9, 0) 14%);
 }
-h1 .red { color: #ff5555; text-shadow: 0 3px 0 #b02727, 0 6px 0 #861a1a, 0 9px 0 #5c1010, 0 12px 0 #2a0505, 0 18px 16px rgba(0,0,0,.6); }
-.splash {
-  position: absolute; right: -24px; bottom: 4px; color: var(--splash); font-size: clamp(14px, 2.6vw, 20px);
-  text-shadow: 2px 2px 0 #3f3f15; white-space: nowrap; transform-origin: center;
-  animation: splash .55s ease-in-out infinite alternate; transform: rotate(-17deg);
-}
-@keyframes splash { from { transform: rotate(-17deg) scale(1); } to { transform: rotate(-17deg) scale(1.09); } }
-.tagline { margin: 64px auto 24px; max-width: 560px; color: #dfe7ff; }
-
-/* minecraft buttons */
+.hero .wrap { position: relative; z-index: 1; padding-top: 120px; padding-bottom: 72px; }
+.snow { position: absolute; inset: 0; width: 100%; height: 100%; z-index: 0; pointer-events: none; image-rendering: pixelated; }
+@media (prefers-reduced-motion: reduce) { .snow { display: none; } }
+.hero-copy { max-width: 620px; }
+.eyebrow { margin: 0; font: 600 14px/1.4 var(--label); letter-spacing: .24em; text-transform: uppercase; color: var(--gold); }
+.eyebrow::before { content: ""; display: inline-block; width: 36px; height: 3px; margin: 0 14px 0 0; vertical-align: middle; background: var(--berry); position: relative; top: -2px; }
+h1 { margin: 14px 0 0; font: 700 clamp(46px, 7.4vw, 92px)/1 var(--serif); letter-spacing: -.01em; color: var(--cream); text-shadow: 0 4px 24px rgba(0, 0, 0, .55); }
+h1 .year { color: var(--gold); }
+.lead { margin: 22px 0 0; font-size: clamp(18px, 2.1vw, 21px); line-height: 1.5; color: var(--ink); text-shadow: 0 2px 10px rgba(0, 0, 0, .7); }
+.cta { margin-top: 32px; display: flex; flex-wrap: wrap; align-items: center; gap: 14px 28px; }
 .btn {
-  display: inline-flex; align-items: center; justify-content: center; gap: 16px;
-  font: inherit; color: #fff; text-decoration: none; cursor: pointer; user-select: none;
-  background: var(--stone); border: 3px solid #000;
-  box-shadow: inset 3px 3px 0 var(--stone-hi), inset -3px -5px 0 var(--stone-lo);
-  text-shadow: 2px 2px 0 #3f3f3f; padding: 12px 24px 14px;
+  display: inline-flex; align-items: center; justify-content: center; gap: 12px; min-height: 60px; padding: 0 30px;
+  border-radius: 10px; background: var(--gold); color: #1a1206; text-decoration: none;
+  font: 700 20px/1 var(--label); letter-spacing: .01em;
+  box-shadow: 0 1px 0 rgba(255, 255, 255, .35) inset, 0 10px 30px rgba(0, 0, 0, .45);
+  transition: background-color .15s, transform .15s;
 }
-.btn:hover, .btn:focus-visible { outline: none; border-color: #fff; }
-.btn:active { box-shadow: inset 3px 3px 0 var(--stone-lo), inset -3px -3px 0 var(--stone-hi); }
-.btn-play {
-  background: var(--green); font-size: clamp(20px, 4.4vw, 32px); padding: 18px 40px 22px; min-width: min(100%, 480px);
-  box-shadow: inset 4px 4px 0 var(--green-hi), inset -4px -8px 0 var(--green-lo), 0 8px 0 rgba(0,0,0,.35);
-}
-.btn-play:active { box-shadow: inset 4px 4px 0 var(--green-lo), inset -4px -4px 0 var(--green-hi); transform: translateY(4px); }
-.btn-play svg { width: 1em; height: 1em; image-rendering: pixelated; flex: none; }
-.meta { margin: 16px 0 0; font-size: 14px; color: #c5d0f0; }
-.meta b { color: #fff; font-weight: normal; }
+.btn:hover { background: var(--gold-hi); color: #1a1206; transform: translateY(-1px); }
+.btn svg { width: 22px; height: 22px; flex: none; }
+.guide { font: 600 16px/1.4 var(--label); color: var(--cream); text-decoration: none; border-bottom: 1px solid var(--line); padding-bottom: 2px; }
+.guide:hover { border-color: var(--gold-hi); }
+.guide span { color: var(--gold); }
+.meta { margin: 16px 0 0; font: 500 15px/1.5 var(--label); color: var(--muted); letter-spacing: .02em; }
+.meta b { color: var(--cream); font-weight: 600; }
+.req { margin: 4px 0 0; font-size: 15px; color: var(--muted); }
 
-/* inventory panels */
-.panel {
-  position: relative; margin: 48px 0 0; padding: 24px; color: var(--ink); background: var(--panel);
-  border: 3px solid #000; box-shadow: inset 3px 3px 0 var(--panel-hi), inset -3px -3px 0 var(--panel-lo), 0 12px 0 rgba(0,0,0,.3);
-}
-.panel h2 { margin: 0 0 16px; font-size: 20px; font-weight: normal; color: var(--ink); }
-.panel h2 small { font-size: 14px; color: #6a6a6a; }
-.slot {
-  flex: none; display: grid; place-items: center; width: 48px; height: 48px; background: var(--slot);
-  box-shadow: inset 3px 3px 0 var(--slot-lo), inset -3px -3px 0 #fff;
-}
-.slot img { width: 36px; height: 36px; image-rendering: pixelated; }
-.slot .n { font-size: 24px; color: #fff; text-shadow: 2px 2px 0 #3f3f3f; }
+/* sections */
+section.band { padding: 88px 0; }
+section.band.alt { background: var(--bg-2); border-top: 1px solid var(--line-soft); border-bottom: 1px solid var(--line-soft); }
+.kicker { margin: 0 0 10px; font: 600 13px/1.4 var(--label); letter-spacing: .22em; text-transform: uppercase; color: var(--gold); }
+h2 { margin: 0; font: 700 clamp(30px, 4vw, 42px)/1.15 var(--serif); color: var(--cream); }
+.intro { margin: 12px 0 0; max-width: 640px; color: var(--muted); }
+h3 { margin: 0; font: 600 20px/1.3 var(--label); color: var(--cream); letter-spacing: .01em; }
 
-.steps { list-style: none; margin: 0; padding: 0; display: grid; gap: 12px; }
-.steps li { display: flex; gap: 16px; align-items: center; }
-.steps p { margin: 0; }
-.steps code { background: #a8a8a8; padding: 1px 6px; color: #222; font-family: inherit; }
-.note {
-  margin: 20px 0 0; padding: 12px 16px; background: var(--tip); color: #e0e0e0; font-size: 14px;
-  border: 3px solid var(--tip); box-shadow: inset 0 0 0 2px var(--tip-border);
-}
-.note b { color: #ffaa00; font-weight: normal; }
+/* feature cards */
+.features { list-style: none; margin: 40px 0 0; padding: 0; display: grid; gap: 28px; grid-template-columns: repeat(3, minmax(0, 1fr)); }
+.feature { display: flex; flex-direction: column; }
+.feature img { width: 100%; height: auto; aspect-ratio: 16 / 9; object-fit: cover; border-radius: 8px; border: 1px solid rgba(227, 182, 90, .7); box-shadow: 0 12px 28px rgba(0, 0, 0, .45); background: var(--card); }
+.feature h3 { margin-top: 18px; }
+.feature p { margin: 6px 0 0; color: var(--muted); font-size: 16px; }
 
-.mods { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(min(100%, 380px), 1fr)); gap: 8px; }
-.mods a { display: flex; gap: 12px; align-items: center; padding: 6px; text-decoration: none; color: var(--ink); }
-.mods a:hover, .mods a:focus-visible { outline: none; background: rgba(255,255,255,.45); }
-.mods .name { display: block; color: #222; }
-.mods .desc { display: block; font-size: 13px; line-height: 1.4; color: #555; }
-.tag { display: inline-block; margin-left: 6px; padding: 0 6px; font-size: 11px; vertical-align: 2px; color: #fff; background: #5a4a9a; }
-.tag.lib { background: #777; }
-.lib-row { opacity: .75; }
-
-/* snowy ground */
-.ground {
-  position: relative; z-index: 1; height: 128px; margin-top: 24px;
-  background: url("{{ground_uri}}") repeat-x top left / 64px 64px, url("{{dirt_uri}}") repeat left 64px / 64px 64px, #593d29;
-  image-rendering: pixelated; border-top: 0;
+/* install */
+.install { margin-top: 40px; display: grid; grid-template-columns: minmax(0, 1.55fr) minmax(0, 1fr); gap: 40px; align-items: start; }
+.steps { list-style: none; margin: 0; padding: 0; counter-reset: step; display: grid; gap: 26px; }
+.steps li { counter-increment: step; display: grid; grid-template-columns: 44px minmax(0, 1fr); gap: 18px; }
+.steps li::before {
+  content: counter(step); display: grid; place-items: center; width: 44px; height: 44px; border-radius: 50%;
+  border: 1px solid var(--gold); color: var(--gold); font: 700 20px/1 var(--serif);
 }
-footer {
-  position: relative; z-index: 1; background: #3b2818; color: #c9b8a6; font-size: 13px; text-align: center; padding: 16px 16px 32px;
-}
-footer p { margin: 4px 0; }
-footer code { font-family: inherit; color: #fff; }
+.steps h3 { margin-top: 8px; }
+.steps p { margin: 6px 0 0; color: var(--ink); }
+.steps .sub { color: var(--muted); font-size: 16px; }
+.panel { background: var(--card); border: 1px solid var(--line-soft); border-radius: 12px; padding: 26px 28px; }
+.panel h3 { margin-bottom: 10px; }
+.panel p { margin: 10px 0 0; }
+.panel ul { margin: 0; padding: 0 0 0 20px; }
+.panel li { margin: 6px 0; }
+.panel li::marker { color: var(--gold); }
+.needs { border-top: 3px solid var(--berry); }
+.needs .note { color: var(--muted); font-size: 16px; }
+.pair { margin-top: 28px; display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1.25fr); gap: 28px; align-items: start; }
+p, li, h2 { text-wrap: pretty; }
+.pair ol { margin: 10px 0 0; padding: 0 0 0 22px; }
+.pair ol li { margin: 4px 0; }
+.pair ol li::marker { color: var(--gold); font-weight: 600; }
 
+/* help */
+.faq { margin-top: 32px; display: grid; gap: 10px; max-width: 860px; }
+.faq details { background: var(--card); border: 1px solid var(--line-soft); border-radius: 10px; }
+.faq details[open] { border-color: var(--line); }
+.faq summary { cursor: pointer; list-style: none; display: flex; justify-content: space-between; align-items: center; gap: 16px; padding: 16px 20px; font: 600 17px/1.4 var(--label); color: var(--cream); }
+.faq summary::-webkit-details-marker { display: none; }
+.faq summary::after { content: "+"; flex: none; font: 400 26px/1 var(--sans); color: var(--gold); }
+.faq details[open] summary::after { content: "\2212"; }
+.faq details p { margin: 0; padding: 0 20px 18px; color: var(--ink); }
+.stuck { margin: 24px 0 0; color: var(--muted); max-width: 860px; }
+
+/* mods */
+.mod-tools { margin-top: 28px; display: flex; flex-wrap: wrap; align-items: center; gap: 12px 20px; }
+.search { position: relative; flex: 1 1 320px; max-width: 460px; }
+.search label { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
+.search input {
+  width: 100%; height: 48px; padding: 0 16px 0 44px; border-radius: 10px; border: 1px solid var(--line); background: var(--card);
+  color: var(--ink); font: 16px var(--sans);
+}
+.search input::placeholder { color: #93a598; }
+.search input:focus { outline: 2px solid var(--gold-hi); outline-offset: 1px; }
+.search svg { position: absolute; left: 15px; top: 15px; width: 18px; height: 18px; color: var(--gold); pointer-events: none; }
+.mod-status { margin: 0; color: var(--muted); font-size: 15px; }
+.mod-list { margin-top: 20px; }
+.mod-list > summary {
+  display: inline-flex; align-items: center; gap: 10px; cursor: pointer; list-style: none; padding: 12px 20px; border-radius: 10px;
+  border: 1px solid var(--line); background: var(--card); color: var(--cream); font: 600 16px/1.2 var(--label);
+}
+.mod-list > summary::-webkit-details-marker { display: none; }
+.mod-list > summary::before { content: ""; width: 8px; height: 8px; border-right: 2px solid var(--gold); border-bottom: 2px solid var(--gold); transform: rotate(-45deg); transition: transform .15s; }
+.mod-list[open] > summary::before { transform: rotate(45deg); margin-top: -4px; }
+.mod-list > summary:hover { background: var(--card-hi); }
+.mod-list .when-open { display: none; }
+.mod-list[open] .when-open { display: inline; }
+.mod-list[open] .when-closed { display: none; }
+.mods { list-style: none; margin: 20px 0 0; padding: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(min(100%, 320px), 1fr)); gap: 0 28px; }
+.mod { padding: 12px 0; border-bottom: 1px solid var(--line-soft); min-width: 0; }
+.mod-name { display: block; font-weight: 600; color: var(--cream); overflow-wrap: anywhere; }
+.mod-name a { color: var(--cream); text-decoration: none; }
+.mod-name a:hover { color: var(--gold-hi); text-decoration: underline; }
+.mod-desc { display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; margin-top: 2px; font-size: 14px; line-height: 1.45; color: var(--muted); overflow-wrap: anywhere; }
+.tag { display: inline-block; margin-left: 8px; padding: 1px 8px; border-radius: 999px; border: 1px solid var(--line); font: 600 11px/1.6 var(--label); letter-spacing: .06em; text-transform: uppercase; color: var(--gold); vertical-align: 2px; }
+.mod[hidden] { display: none; }
+.no-match { margin: 16px 0 0; color: var(--muted); }
+
+/* footer */
+footer { border-top: 3px solid var(--berry); background: linear-gradient(180deg, #13402b, #0c2a1d); padding: 40px 0 48px; font-size: 15px; color: var(--ink); }
+footer .wrap { display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: 8px 40px; align-items: start; }
+footer p { margin: 0 0 8px; }
+footer .brand { margin-bottom: 12px; }
+footer .small { color: #c3d0c7; }
+footer .links { margin: 0; padding: 0; list-style: none; text-align: right; }
+footer .links li { margin: 0 0 8px; }
+footer a { color: var(--gold-hi); }
+
+@media (max-width: 960px) {
+  .features { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .install { grid-template-columns: minmax(0, 1fr); }
+}
 @media (max-width: 720px) {
-  .trees { display: none; }
-  .panel { padding: 16px; }
-  .btn-play { width: 100%; padding: 16px 8px 20px; gap: 10px; font-size: 18px; white-space: nowrap; }
-  .splash { right: 0; bottom: -8px; }
-}
-@media (prefers-reduced-motion: reduce) {
-  .splash { animation: none; }
+  body { font-size: 16px; }
+  .wrap { padding: 0 16px; }
+  .top nav { display: none; }
+  .top .wrap { height: 60px; }
+  .hero { min-height: 640px; }
+  .hero picture img { object-position: 70% 40%; }
+  .hero::after {
+    background:
+      linear-gradient(0deg, var(--bg) 0%, rgba(8, 17, 12, .9) 46%, rgba(8, 17, 12, .25) 74%, rgba(6, 14, 9, .45) 100%);
+  }
+  .hero .wrap { padding-top: 220px; padding-bottom: 48px; }
+  .eyebrow { font-size: 12px; letter-spacing: .18em; }
+  .eyebrow::before { width: 24px; margin-right: 10px; }
+  .cta { gap: 16px; }
+  .btn { width: 100%; font-size: 19px; }
+  section.band { padding: 60px 0; }
+  .features { grid-template-columns: minmax(0, 1fr); gap: 32px; }
+  .pair { grid-template-columns: minmax(0, 1fr); }
+  .panel { padding: 22px 20px; }
+  .steps li { grid-template-columns: 38px minmax(0, 1fr); gap: 14px; }
+  .steps li::before { width: 38px; height: 38px; font-size: 18px; }
+  .steps h3 { margin-top: 5px; }
+  .faq summary { padding: 14px 16px; font-size: 16px; }
+  .faq details p { padding: 0 16px 16px; }
+  .mod-list > summary { width: 100%; justify-content: center; }
+  footer .wrap { grid-template-columns: minmax(0, 1fr); }
+  footer .links { text-align: left; }
 }
 </style>
 </head>
 <body>
-<canvas id="sky" aria-hidden="true"></canvas>
-<svg class="lights" id="lights" aria-hidden="true"></svg>
+<a class="skip" href="#main">Skip to content</a>
 
-<main>
-  <section class="hero">
-    <div class="trees" aria-hidden="true"><img src="{{tree_uri}}" alt=""><img src="{{tree_uri}}" alt=""></div>
-    <div class="title-wrap">
-      <h1>CHRISTMAS<br><span class="red">CRAFT</span></h1>
-      <div class="splash" id="splash">Merry Crafting!</div>
+<header class="top">
+  <div class="wrap">
+    <a class="brand" href="#top" aria-label="Christmas Craft 2026, top of page"><img src="assets/favicon-32.png" alt="" width="28" height="28">Christmas Craft</a>
+    <nav aria-label="Sections">
+      <ul>
+        <li><a href="#features">The pack</a></li>
+        <li><a href="#install">Install</a></li>
+        <li><a href="#help">Help</a></li>
+        <li><a href="#mods">Mods</a></li>
+      </ul>
+    </nav>
+  </div>
+</header>
+
+<main id="main">
+  <section class="hero" id="top" aria-labelledby="title">
+    <picture>
+      <source media="(max-width: 720px)" srcset="assets/hero-960.jpg">
+      <img src="assets/hero-1920.jpg" alt="The Christmas Craft lodge at dusk, strung with fairy lights, on a snowy hillside." width="1920" height="1080" fetchpriority="high">
+    </picture>
+    <canvas class="snow" id="snow" aria-hidden="true"></canvas>
+    <div class="wrap">
+      <div class="hero-copy">
+        <p class="eyebrow">Minecraft modpack</p>
+        <h1 id="title">Christmas Craft <span class="year">2026</span></h1>
+        <p class="lead">A Minecraft modpack for a group of friends, played from November to Christmas. Download it once: it updates itself every time you press Play.</p>
+        <div class="cta">
+          <a class="btn" href="{{download_url}}">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 3v12"/><path d="m6.5 10 5.5 5.5 5.5-5.5"/><path d="M4 20h16"/></svg>
+            Download for Windows
+          </a>
+          <a class="guide" href="#install">Read the install guide <span aria-hidden="true">&darr;</span></a>
+        </div>
+        <p class="meta"><b>v{{version}}</b> &middot; Minecraft {{mc}} &middot; NeoForge {{neoforge}}{{size}}</p>
+        <p class="req">Needs Windows and a Microsoft account that owns Minecraft: Java Edition.</p>
+      </div>
     </div>
-    <p class="tagline shadow">A cozy Create + airships Christmas modpack. Download it once and it updates itself every time you press Play.</p>
-    <a class="btn btn-play" href="{{download_url}}">
-      <svg viewBox="0 0 8 8" shape-rendering="crispEdges" aria-hidden="true"><path fill="#fff" d="M3 0h2v4h2v1h-1v1h-1v1h-2v-1h-1v-1h-1v-1h2z"/></svg>
-      Download for Windows
-    </a>
-    <p class="meta shadow"><b>v{{version}}</b> &middot; Minecraft {{mc}} &middot; NeoForge {{neoforge}}{{size}}</p>
   </section>
 
-  <section class="panel" aria-labelledby="how">
-    <h2 id="how">How to play</h2>
-    <ol class="steps">
-      <li><span class="slot"><span class="n">1</span></span><p>Download the zip above. Right-click it, choose <code>Extract All</code>, and put it in Documents (not a OneDrive folder, not Program Files).</p></li>
-      <li><span class="slot"><span class="n">2</span></span><p>Open <code>prismlauncher.exe</code> in the extracted folder. If Windows says it protected your PC, click <code>More info</code>, then <code>Run anyway</code>.</p></li>
-      <li><span class="slot"><span class="n">3</span></span><p>Sign in with your Microsoft account when it asks.</p></li>
-      <li><span class="slot"><span class="n">4</span></span><p>Double-click <code>Christmas Craft</code>. The first start downloads about 2 GB (5 to 15 minutes). After that, updates install by themselves when you press Play.</p></li>
-    </ol>
-    <p class="note"><b>You need:</b> Windows and the Microsoft account that owns Minecraft: Java Edition (bought, or included with PC Game Pass). Never download the zip again: just press Play. To play together, everyone presses Play first so you are on the same version. The server address is in Discord; voice chat is <code>V</code> in game. Low frame rate? Turn shaders off in Video Settings, Shader Packs.</p>
+  <section class="band" id="features" aria-labelledby="features-title">
+    <div class="wrap">
+      <p class="kicker">In the pack</p>
+      <h2 id="features-title">What you will find</h2>
+      <p class="intro">Every picture on this page is a real capture from the game.</p>
+      <ul class="features">
+        <li class="feature">
+          <img src="assets/casino.jpg" alt="Villagers seated around a blackjack table in the casino hall." width="960" height="540" loading="lazy">
+          <h3>The casino</h3>
+          <p>Blackjack, Texas Hold'em, roulette and more at real tables, played with chips you carry as items.</p>
+        </li>
+        <li class="feature">
+          <img src="assets/airship.jpg" alt="A whale-shaped airship flying under the northern lights." width="960" height="540" loading="lazy">
+          <h3>Create and airships</h3>
+          <p>Create machines and contraptions, and Create Aeronautics airships you build and fly.</p>
+        </li>
+        <li class="feature">
+          <img src="assets/toyworks.jpg" alt="Inside Santa's Toy Works: a turning wooden carousel ringed by machines." width="960" height="540" loading="lazy">
+          <h3>Santa's Toy Works</h3>
+          <p>A carousel workshop driven by Create that turns parts into painted toys.</p>
+        </li>
+        <li class="feature">
+          <img src="assets/forge.jpg" alt="The Yuletide Forge: brass-trimmed machines against a red quilted wall." width="960" height="540" loading="lazy">
+          <h3>The Yuletide Forge</h3>
+          <p>A forge multiblock for the Yuletide gear set, and later the Saint Nick set.</p>
+        </li>
+        <li class="feature">
+          <img src="assets/boss.jpg" alt="The Coal Golem fighting among stone pillars and burning embers." width="960" height="540" loading="lazy">
+          <h3>Spirit bosses</h3>
+          <p>Eight spirit bosses, each called up by a rite in its own biome. Shown: the Coal Golem.</p>
+        </li>
+        <li class="feature">
+          <img src="assets/quests.jpg" alt="A chapter of the quest book: quest icons joined by lines on a starry background." width="960" height="540" loading="lazy">
+          <h3>A {{quest_count}}-quest book</h3>
+          <p>A quest for every multiblock and each piece in it, and quests pay chips.</p>
+        </li>
+      </ul>
+    </div>
   </section>
 
-  <section class="panel" aria-labelledby="mods">
-    <h2 id="mods">Mods in this pack <small>({{mod_count}})</small></h2>
-    <ul class="mods">
+  <section class="band alt" id="install" aria-labelledby="install-title">
+    <div class="wrap">
+      <p class="kicker">Install</p>
+      <h2 id="install-title">Install in four steps</h2>
+      <p class="intro">You do not install Java, Minecraft, NeoForge or any mods yourself. The launcher does it.</p>
+      <div class="install">
+        <ol class="steps">
+          <li><div><h3>Unzip it</h3><p>Open your Downloads folder, right-click <code>ChristmasCraft-Launcher.zip</code> and choose <b>Extract All</b>. Click <b>Browse</b>, pick <b>Documents</b>, then <b>Extract</b>. A new folder opens.</p><p class="sub">Don't just double-click the zip: that only shows what's inside, and the launcher won't run from there.</p><p class="sub">Not Program Files, and not a OneDrive folder.</p></div></li>
+          <li><div><h3>Start the launcher</h3><p>In the new <code>ChristmasCraft-Launcher</code> folder, double-click <code>prismlauncher.exe</code> (it may show as just <code>prismlauncher</code>, with a blue cube icon).</p><p class="sub">If Windows says it protected your PC, click <b>More info</b>, then <b>Run anyway</b>.</p></div></li>
+          <li><div><h3>Sign in</h3><p>Sign in with your Microsoft account when it asks.</p></div></li>
+          <li><div><h3>Press Play</h3><p>Double-click <b>Christmas Craft</b>.</p><p class="sub">The first start downloads Java, Minecraft, NeoForge and {{mod_count}} mods: about 2 GB. Give it 5 to 15 minutes. A small window shows the progress.</p></div></li>
+        </ol>
+        <aside class="panel needs" aria-labelledby="needs-title">
+          <h3 id="needs-title">You need</h3>
+          <ul>
+            <li>Windows.</li>
+            <li>A Microsoft account that owns Minecraft: Java Edition.</li>
+            <li>About 4 GB of free disk.</li>
+          </ul>
+          <p class="note">The download link always gives the current launcher. You only need it once.</p>
+        </aside>
+      </div>
+      <div class="pair">
+        <div class="panel">
+          <h3>Updates</h3>
+          <p>Every time you press Play, the launcher checks for updates and installs them before the game starts. You never download the zip again.</p>
+        </div>
+        <div class="panel">
+          <h3>Playing together</h3>
+          <p>Everyone must be on the same version, so everyone presses Play first. If in doubt, close the game and press Play again.</p>
+          <ol>
+            <li>Start Christmas Craft and click <b>Multiplayer</b>.</li>
+            <li>Click <b>Add Server</b> and enter the address posted in the Discord.</li>
+            <li>Click <b>Done</b>, then join.</li>
+          </ol>
+          <p>Voice chat: Simple Voice Chat is in the pack. Press <kbd>V</kbd> in game to set it up.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="band" id="help" aria-labelledby="help-title">
+    <div class="wrap">
+      <p class="kicker">Help</p>
+      <h2 id="help-title">If something goes wrong</h2>
+      <div class="faq">
+        <details><summary>Windows says it protected your PC</summary><p>Click <b>More info</b>, then <b>Run anyway</b>. Some browsers also warn about the zip: choose to keep it.</p></details>
+        <details><summary>Odd errors, or nothing saves</summary><p>The folder is probably inside OneDrive or Program Files, or the launcher was opened from inside the zip. Extract the zip to Documents and open <code>prismlauncher.exe</code> from there.</p></details>
+        <details><summary>The first start is slow</summary><p>That is the 2 GB download. Give it 5 to 15 minutes.</p></details>
+        <details><summary>A window says a download failed</summary><p>Close it and press Play again. It carries on where it stopped.</p></details>
+        <details><summary>"Incompatible client" when joining</summary><p>You are on a different version. Close the game and press Play in the launcher so it updates. The friend you are joining does the same.</p></details>
+        <details><summary>Low frame rate</summary><p>Shaders are on by default. Turn them off in Options, Video Settings, Shader Packs.</p></details>
+        <details><summary>PC with only 8 GB of memory</summary><p>Turn the shaders off. In the launcher, right-click Christmas Craft, then Edit, Settings, Memory, and set the maximum to 5000.</p></details>
+      </div>
+      <p class="stuck">Still stuck? Ask in the Discord. Say what you clicked and what you saw, and attach a screenshot if you can.</p>
+    </div>
+  </section>
+
+  <section class="band alt" id="mods" aria-labelledby="mods-title">
+    <div class="wrap">
+      <p class="kicker">Mods</p>
+      <h2 id="mods-title">Mods in this pack</h2>
+      <p class="intro">{{mod_count}} mods. Every one downloads from its official Modrinth or CurseForge page; the launcher holds no mod jars. The authors are credited in <a href="{{repo_url}}/blob/stable/CREDITS.md">CREDITS.md</a>.</p>
+      <div class="mod-tools" id="mod-tools" hidden>
+        <div class="search">
+          <label for="mod-search">Search the mods</label>
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"/><path d="m20 20-4.8-4.8"/></svg>
+          <input type="search" id="mod-search" placeholder="Search by name or description" autocomplete="off" spellcheck="false">
+        </div>
+        <p class="mod-status" id="mod-status" aria-live="polite"></p>
+      </div>
+      <details class="mod-list" id="mod-list">
+        <summary><span class="when-closed">Show all {{mod_count}} mods</span><span class="when-open">Hide the mod list</span></summary>
+        <ul class="mods" id="mod-items">
 {{mod_rows}}
-    </ul>
+        </ul>
+        <p class="no-match" id="no-match" hidden>No mod matches that search.</p>
+      </details>
+    </div>
   </section>
 </main>
 
-<div class="ground" aria-hidden="true"></div>
 <footer>
-  <p>Launchers update from <code>stable</code> v{{version}}{{testing_note}}. <a href="{{repo_url}}">Pack source</a></p>
-  <p>Built with <a href="https://prismlauncher.org">Prism Launcher</a> and <a href="https://packwiz.infra.link">packwiz</a>. Font: <a href="https://github.com/IdreesInc/Monocraft">Monocraft</a> by Idrees Hassan (<a href="assets/OFL.txt">OFL</a>).</p>
-  <p>Not an official Minecraft product. Not approved by or associated with Mojang or Microsoft.</p>
+  <div class="wrap">
+    <div>
+      <a class="brand" href="#top"><img src="assets/favicon-32.png" alt="" width="28" height="28">Christmas Craft 2026</a>
+      <p>Built on <a href="https://github.com/PrismLauncher/PrismLauncher">Prism Launcher</a> (GPL-3.0) and <a href="https://packwiz.infra.link">packwiz</a>. Every mod downloads from its official page.</p>
+      <p class="small">Not an official Minecraft product. Not approved by or associated with Mojang or Microsoft.</p>
+    </div>
+    <ul class="links">
+      <li><a href="{{download_url}}">Download for Windows</a></li>
+      <li><a href="{{repo_url}}">Pack source</a></li>
+      <li class="small">Launchers update from <code>stable</code> v{{version}}{{testing_note}}</li>
+    </ul>
+  </div>
 </footer>
 
 <script>
 (function () {
-  var reduce = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+  var tools = document.getElementById("mod-tools"), input = document.getElementById("mod-search"),
+      list = document.getElementById("mod-list"), status = document.getElementById("mod-status"),
+      none = document.getElementById("no-match"),
+      rows = Array.prototype.slice.call(document.querySelectorAll("#mod-items .mod"));
+  if (!tools || !input || !list) return;
+  tools.hidden = false;
+  rows.forEach(function (li) { li.setAttribute("data-q", li.textContent.toLowerCase()); });
+  function filter() {
+    var q = input.value.trim().toLowerCase(), shown = 0;
+    rows.forEach(function (li) {
+      var hit = !q || li.getAttribute("data-q").indexOf(q) !== -1;
+      li.hidden = !hit;
+      if (hit) shown++;
+    });
+    if (q) list.open = true;
+    none.hidden = shown !== 0;
+    status.textContent = q ? shown + " of " + rows.length + " mods match" : "";
+  }
+  input.addEventListener("input", filter);
+})();
 
-  var splashes = ["Merry Crafting!", "Now with airships!", "Ho ho ho!", "Fairy lights included!", "Contraptions under the tree!",
-    "Zero zips!", "Updates itself!", "Snow on everything!", "Spin those cogs!", "Deck the halls with brass!"];
-  document.getElementById("splash").textContent = splashes[Math.floor(Math.random() * splashes.length)];
-
-  // pixel snow + stars
-  var c = document.getElementById("sky"), g = c.getContext("2d"), P = 3, W, H, stars = [], flakes = [];
+// Falling pixel snow over the hero: one canvas, one requestAnimationFrame loop, paused when the tab is
+// hidden or the hero is scrolled away, off under prefers-reduced-motion.
+(function () {
+  var c = document.getElementById("snow");
+  if (!c || !c.getContext || window.matchMedia("(prefers-reduced-motion: reduce)").matches) return;
+  var g = c.getContext("2d"), W = 0, H = 0, flakes = [], running = false, inView = true, last = 0, raf = 0;
+  function flake(anyY) {
+    var r = Math.random(), s = r < 0.6 ? 1 : r < 0.9 ? 2 : 3;
+    return { x: Math.random() * W, y: anyY ? Math.random() * H : -3, s: s,
+      v: 12 + s * 9 + Math.random() * 14, a: 0.35 + Math.random() * 0.5,
+      p: Math.random() * 6.3, w: 0.4 + Math.random() * 0.8, d: 6 + Math.random() * 10 };
+  }
   function size() {
-    W = c.width = Math.ceil(innerWidth / P); H = c.height = Math.ceil(innerHeight / P);
-    stars = []; for (var i = 0; i < W * H / 900; i++) stars.push([Math.random() * W | 0, Math.random() * H * 0.7 | 0, Math.random()]);
-    flakes = []; for (var j = 0; j < W * H / 450; j++) flakes.push({ x: Math.random() * W, y: Math.random() * H, v: 0.15 + Math.random() * 0.35, s: Math.random() < 0.2 ? 2 : 1, p: Math.random() * 6 });
+    W = c.width = c.clientWidth; H = c.height = c.clientHeight;
+    var n = Math.max(40, Math.min(220, Math.round(W / 7)));
+    flakes = []; for (var i = 0; i < n; i++) flakes.push(flake(true));
   }
   function draw(t) {
-    g.clearRect(0, 0, W, H);
-    for (var i = 0; i < stars.length; i++) {
-      var s = stars[i]; g.fillStyle = "rgba(255,255,230," + (0.35 + 0.5 * Math.abs(Math.sin(t / 1400 + s[2] * 9))) + ")"; g.fillRect(s[0], s[1], 1, 1);
+    var dt = Math.min(0.05, (t - (last || t)) / 1000); last = t;
+    g.clearRect(0, 0, W, H); g.fillStyle = "#fff";
+    for (var i = 0; i < flakes.length; i++) {
+      var f = flakes[i];
+      f.y += f.v * dt;
+      if (f.y > H) { flakes[i] = f = flake(false); }
+      var x = Math.round(f.x + Math.sin(t / 1000 * f.w + f.p) * f.d);
+      g.globalAlpha = f.a; g.fillRect(x, Math.round(f.y), f.s, f.s);
     }
-    g.fillStyle = "#fff";
-    for (var k = 0; k < flakes.length; k++) {
-      var f = flakes[k];
-      if (!reduce) { f.y += f.v; f.x += Math.sin(t / 900 + f.p) * 0.12; if (f.y > H) { f.y = -2; f.x = Math.random() * W; } }
-      g.fillRect(Math.round(f.x), Math.round(f.y), f.s, f.s);
-    }
-    if (!reduce) requestAnimationFrame(draw);
+    g.globalAlpha = 1;
+    raf = requestAnimationFrame(draw);
   }
-  size(); addEventListener("resize", function () { size(); if (reduce) draw(0); }); requestAnimationFrame(draw);
-
-  // a string of fairy lights along the top
-  var svg = document.getElementById("lights"), NS = "http://www.w3.org/2000/svg", colors = ["#ff5555", "#ffd93b", "#55ff55", "#55ccff", "#ff88ff"];
-  function lights() {
-    var w = svg.clientWidth, span = w < 600 ? 110 : 150, n = Math.max(2, Math.round(w / span)), step = w / n, d = "", html = "", b = 0;
-    for (var i = 0; i < n; i++) {
-      var x0 = i * step, x1 = x0 + step, sag = 26;
-      d += "M" + x0 + " 4 Q" + (x0 + step / 2) + " " + (4 + sag * 2) + " " + x1 + " 4 ";
-      for (var k = 1; k <= 4; k++) {
-        var u = k / 5, x = x0 + step * u, y = 4 + 2 * u * (1 - u) * sag * 2, col = colors[b % colors.length], delay = ((b * 0.37) % 2).toFixed(2);
-        html += '<g class="bulb" style="color:' + col + ';animation-delay:' + delay + 's"><rect x="' + (x - 1) + '" y="' + (y) + '" width="3" height="3" fill="#2c2c2c"/>' +
-          '<rect x="' + (x - 3) + '" y="' + (y + 3) + '" width="7" height="9" fill="' + col + '"/><rect x="' + (x - 2) + '" y="' + (y + 4) + '" width="2" height="3" fill="#fff" opacity=".7"/></g>';
-        b++;
-      }
-    }
-    svg.innerHTML = '<path d="' + d + '" fill="none" stroke="#1d2a1d" stroke-width="2"/>' + html;
+  function update() {
+    var go = inView && !document.hidden;
+    if (go && !running) { running = true; last = 0; raf = requestAnimationFrame(draw); }
+    else if (!go && running) { running = false; cancelAnimationFrame(raf); }
   }
-  var st = document.createElement("style");
-  st.textContent = ".bulb{filter:drop-shadow(0 0 5px currentColor)}" + (reduce ? "" : ".bulb{animation:blink 2s steps(1) infinite}@keyframes blink{50%{opacity:.35}}");
-  document.head.appendChild(st);
-  lights(); addEventListener("resize", lights);
+  size();
+  var timer; addEventListener("resize", function () { clearTimeout(timer); timer = setTimeout(size, 150); });
+  document.addEventListener("visibilitychange", update);
+  if ("IntersectionObserver" in window) new IntersectionObserver(function (e) { inView = e[0].isIntersecting; update(); }).observe(c);
+  update();
 })();
 </script>
 </body>

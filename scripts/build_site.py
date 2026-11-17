@@ -3,15 +3,18 @@
 
     python3 scripts/build_site.py --pack _site/stable [--testing _site/testing] --out _site
 
-Version and mod list come from --pack (stable: what the download button installs). Mod titles,
-icons and descriptions come from the Modrinth API; if that is unreachable the page still builds
-from the .pw.toml names. The pixel art is generated here, so the page ships no game textures.
+Version and mod list come from --pack (stable: what the download button installs). Mod titles
+and descriptions come from the Modrinth API; if that is unreachable the page still builds from the
+.pw.toml names. Images and the favicon live in site/assets and are copied next to index.html, so
+the page loads nothing from other hosts and works from its own folder.
 """
-import argparse, html, json, os, random, shutil, tomllib, urllib.parse, urllib.request
+import argparse, html, json, os, shutil, tomllib, urllib.parse, urllib.request
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 REPO = os.environ.get("GITHUB_REPOSITORY", "alexbanham/christmas-craft-pack")
+OWNER, NAME = REPO.split("/", 1)
+SITE = f"https://{OWNER.lower()}.github.io/{NAME}/"  # absolute base for the Open Graph tags
 ASSET = "ChristmasCraft-Launcher.zip"
 DOWNLOAD = f"https://github.com/{REPO}/releases/latest/download/{ASSET}"
 UA = {"User-Agent": f"{REPO} site builder (github.com/{REPO})"}
@@ -26,64 +29,8 @@ def get_json(url):
 
 
 def plain(text):
-    """Drop emoji and other astral-plane symbols the pixel font has no glyphs for."""
+    """Drop emoji and other pictographic symbols from mod titles."""
     return "".join(ch for ch in text if ord(ch) < 0x2190 or 0x2E80 <= ord(ch) < 0x1F000).strip()
-
-
-def pixel_svg(rows, palette):
-    """Pixel map (one char per pixel, '.' = transparent) -> data URI SVG."""
-    w = max(len(r) for r in rows)
-    rects = []
-    for y, row in enumerate(rows):
-        x = 0
-        while x < len(row):
-            ch, run = row[x], 1
-            while x + run < len(row) and row[x + run] == ch:
-                run += 1
-            if ch != ".":
-                rects.append(f'<rect x="{x}" y="{y}" width="{run}" height="1" fill="{palette[ch]}"/>')
-            x += run
-    svg = f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {w} {len(rows)}" shape-rendering="crispEdges">{"".join(rects)}</svg>'
-    return "data:image/svg+xml," + urllib.parse.quote(svg)
-
-
-TREE = [
-    ".......Y.......",
-    "......YYY......",
-    ".......Y.......",
-    ".......G.......",
-    "......GgG......",
-    ".....GGRGG.....",
-    "......GGG......",
-    ".....GgGGG.....",
-    "....GGGBGgG....",
-    "...GgGGGGGYG...",
-    ".....GGgGG.....",
-    "....GRGGGgGG...",
-    "...GGGGgGGBGG..",
-    "..GGYGGGGgGGGG.",
-    ".GgGGGGRGGGGgGG",
-    "......TTT......",
-    "......TTT......",
-    "..SSSSSSSSSSS..",
-]
-TREE_COLORS = {"Y": "#ffd93b", "G": "#2e7d32", "g": "#4caf50", "R": "#e53935", "B": "#42a5f5", "T": "#6d4c2f", "S": "#f4f8ff"}
-
-
-GROUND_COLORS = {"W": "#ffffff", "w": "#eef5ff", "S": "#d3e2f5", "D": "#866043", "d": "#79553a", "k": "#593d29", "L": "#9b7653"}
-
-
-def ground_tile(snowy):
-    """16x16 dirt tile, optionally snow-capped, drawn from a fixed seed so every build is identical."""
-    rng = random.Random(1225 if snowy else 2512)
-    rows = []
-    for y in range(16):
-        row = ""
-        for x in range(16):
-            edge = 4 + (1 if (x * 7 + 3) % 5 < 2 else 0) if snowy else 0  # ragged snow line
-            row += rng.choice("WwwS") if y < edge else rng.choice("DDdkL")
-        rows.append(row)
-    return pixel_svg(rows, GROUND_COLORS)
 
 
 def mod_rows(pack):
@@ -103,23 +50,52 @@ def mod_rows(pack):
     for m in mods:
         p = info.get(m["mr"], {})
         m["title"] = plain(p.get("title") or m["name"])
-        m["desc"] = p.get("description", "")
-        m["icon"] = p.get("icon_url")
+        m["desc"] = plain(p.get("description", ""))
         m["url"] = f"https://modrinth.com/mod/{p.get('slug') or m['mr']}" if m["mr"] else None
         m["lib"] = "library" in p.get("categories", [])  # primary categories only; extras over-tag
     mods.sort(key=lambda m: (m["lib"], m["title"].lower()))
 
     out = []
+    e = html.escape
     for m in mods:
-        e = html.escape
-        icon = f'<img src="{e(m["icon"])}" alt="" loading="lazy">' if m["icon"] else ""
         tags = ('<span class="tag">client</span>' if m["side"] == "client" else "") + \
-               ('<span class="tag lib">library</span>' if m["lib"] else "")
-        body = f'<span class="slot">{icon}</span><span><span class="name">{e(m["title"])}{tags}</span><span class="desc">{e(m["desc"])}</span></span>'
-        inner = f'<a href="{e(m["url"])}">{body}</a>' if m["url"] else f'<a>{body}</a>'
-        cls = ' class="lib-row"' if m["lib"] else ""
-        out.append(f'      <li{cls}>{inner}</li>')
+               ('<span class="tag">library</span>' if m["lib"] else "")
+        name = f'<a href="{e(m["url"])}">{e(m["title"])}</a>' if m["url"] else e(m["title"])
+        desc = f'<span class="mod-desc">{e(m["desc"])}</span>' if m["desc"] else ""
+        cls = "mod lib" if m["lib"] else "mod"
+        out.append(f'          <li class="{cls}"><span class="mod-name">{name}{tags}</span>{desc}</li>')
     return "\n".join(out), len(mods)
+
+
+def quest_count(pack):
+    """Quests in the pack's FTB Quests book: the objects directly inside each chapter's top-level "quests" list."""
+    def count(s):
+        depth, i, n, key, in_quests = 0, 0, 0, None, None
+        while i < len(s):
+            c = s[i]
+            if c == '"':  # a string: remember it as the latest key, skip its contents
+                j = i + 1
+                while s[j] != '"':
+                    j += 2 if s[j] == "\\" else 1
+                key, i = s[i + 1:j], j + 1
+                continue
+            if c in "{[":
+                if c == "[" and depth == 1 and key == "quests":
+                    in_quests = depth + 1
+                elif c == "{" and in_quests is not None and depth == in_quests:
+                    n += 1
+                depth += 1
+            elif c in "}]":
+                depth -= 1
+                if in_quests is not None and depth < in_quests:
+                    in_quests = None
+            i += 1
+        return n
+
+    chapters = sorted((pack / "config" / "ftbquests" / "quests" / "chapters").glob("*.snbt"))
+    total = sum(count(f.read_text(encoding="utf-8")) for f in chapters)
+    assert total > 0, f"no quests found under {pack / 'config/ftbquests/quests/chapters'}"
+    return total
 
 
 def release_size():
@@ -146,6 +122,7 @@ def main():
         if tv != pack["version"]:
             testing_note = f" (testing: v{html.escape(tv)})"
     rows, count = mod_rows(a.pack)
+    quests = quest_count(a.pack)
 
     values = {
         "version": html.escape(pack["version"]),
@@ -154,12 +131,11 @@ def main():
         "size": release_size(),
         "download_url": DOWNLOAD,
         "repo_url": f"https://github.com/{REPO}",
+        "site_url": SITE,
         "testing_note": testing_note,
         "mod_rows": rows,
         "mod_count": str(count),
-        "tree_uri": pixel_svg(TREE, TREE_COLORS),
-        "ground_uri": ground_tile(True),
-        "dirt_uri": ground_tile(False),
+        "quest_count": str(quests),
     }
     page = (ROOT / "site" / "template.html").read_text(encoding="utf-8")
     for k, v in values.items():
@@ -169,9 +145,10 @@ def main():
     a.out.mkdir(parents=True, exist_ok=True)
     (a.out / "index.html").write_text(page, encoding="utf-8", newline="\n")
     (a.out / "assets").mkdir(exist_ok=True)
-    for f in (ROOT / "site" / "fonts").iterdir():
-        shutil.copy2(f, a.out / "assets" / f.name)
-    print(f"built {a.out / 'index.html'}: v{pack['version']}, {count} mods")
+    for f in (ROOT / "site" / "assets").iterdir():
+        if f.is_file():
+            shutil.copy2(f, a.out / "assets" / f.name)
+    print(f"built {a.out / 'index.html'}: v{pack['version']}, {count} mods, {quests} quests")
 
 
 if __name__ == "__main__":

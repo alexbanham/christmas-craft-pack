@@ -22,8 +22,10 @@ You do not install Java, Minecraft, NeoForge or any mods yourself. The launcher 
 
 ## Install
 
-1. Right-click the downloaded zip and choose **Extract All**. Put it somewhere simple, like Documents. Not Program Files, and not a OneDrive folder. Do not run anything from inside the zip without extracting it.
-2. In the extracted folder, open `prismlauncher.exe`. If Windows says it protected your PC, click **More info**, then **Run anyway**.
+1. **Unzip it.** Open your Downloads folder and find `ChristmasCraft-Launcher.zip`. Right-click it and choose **Extract All...**. Click **Browse**, pick **Documents**, then click **Extract**. A new folder called `ChristmasCraft-Launcher` opens.
+   - Don't just double-click the zip: that only shows what's inside, and the launcher won't run from there.
+   - Not Program Files, and not a OneDrive folder.
+2. **Start the launcher.** In that new folder, double-click `prismlauncher.exe` (it may show as just `prismlauncher`, with a blue cube icon). If Windows says it protected your PC, click **More info**, then **Run anyway**. Next time, start it from the same place, or right-click it and choose **Pin to Start**.
 3. Sign in with your Microsoft account when it asks.
 4. Double-click **Christmas Craft**.
 

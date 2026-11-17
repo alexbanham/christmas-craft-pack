@@ -5,6 +5,14 @@ file = "CREDITS.md"
 hash = "53cd4eb2ccbbee2e37b97577a8a3fb756d1e2866236453f3f97965e44f4b886f"
 
 [[files]]
+file = "config/MiniMOTD/icons/christmascraft.png"
+hash = "6235a37d03c33941fe712376d8a4a696eda6ecc565cb8b9f93e99f5bbc8eb8f6"
+
+[[files]]
+file = "config/MiniMOTD/main.conf"
+hash = "e20937c5e72df5f7fcc96458f69f1216b4c0611c0aa24e67dd62ad1720ceac7f"
+
+[[files]]
 file = "config/adq_tweaks-common.toml"
 hash = "1a1aaf39bd1f35ec04fd16aa58ff577c13b48c5ef5392b348617fb35f6043c71"
 
@@ -210,10 +218,6 @@ hash = "efe0c30620affee4a63c94309643da1b5a10d9b411d292f1394bd233489a7334"
 preserve = true
 
 [[files]]
-file = "config/minimotd/main.conf"
-hash = "5a3308ff90beaf7a434a704f46a245dd2a02b7698c356cddb69240fc6757bc8d"
-
-[[files]]
 file = "config/modernfix-mixins.properties"
 hash = "69d00383434af962d368f7367a7a27081dc63f0ea018b332b74e51f8c47ffcbb"
 
@@ -236,6 +240,10 @@ hash = "1bd9fb4ba60c8343e7718f4f01a95abf04597814554adf98abdd98a3bdceb967"
 [[files]]
 file = "config/vaportrails-client.toml"
 hash = "64489d2e66065474070d1d6496c75c31c0b2d819e95510ab6223847f0a81714f"
+
+[[files]]
+file = "config/xaero/minimap/default_radar_categories_client.json"
+hash = "7408dfb457f02644821b418b2ceb4114623d34ef567de74770c808b45406bd40"
 
 [[files]]
 file = "config/xaerohud.txt"
@@ -1183,7 +1191,7 @@ hash = "c45a3631270472c36d9626f62d58b996c35283a8119e5b997da3965c58c14ad9"
 
 [[files]]
 file = "kubejs/server_scripts/qol-ui-audio.js"
-hash = "62a5fcf5b6f6786d41f5ab3beaae9495ff9b00122c8a65d968b953ac6fa7938f"
+hash = "ea3016ec042c2d115ea8dfa40fd0dcde6d333619913ab11f7df478fb88f22b2c"
 
 [[files]]
 file = "kubejs/startup_scripts/christmas-kitchen.js"
@@ -6449,10 +6457,6 @@ hash = "e36ae9f6c85f6fb47081edf4d0813769fbfd7919998c649d661f17ebeb85db47"
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/minecraft/textures/gui/sprites/hud/armor_half.png"
 hash = "14f687fb40137d7a9d9add12c261b98568a474cdcc2c958bb050d9735eb2f134"
-
-[[files]]
-file = "resourcepacks/Christmas Craft HUD/assets/minecraft/textures/gui/sprites/hud/crosshair.png"
-hash = "4755953218cb76b34163e82c394a51fcd8225894493bb6abb9ed0cdf71feb12c"
 
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/minecraft/textures/gui/sprites/hud/crosshair_attack_indicator_background.png"
