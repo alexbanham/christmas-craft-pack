@@ -1187,7 +1187,7 @@ hash = "c45a3631270472c36d9626f62d58b996c35283a8119e5b997da3965c58c14ad9"
 
 [[files]]
 file = "kubejs/server_scripts/qol-ui-audio.js"
-hash = "62a5fcf5b6f6786d41f5ab3beaae9495ff9b00122c8a65d968b953ac6fa7938f"
+hash = "ea3016ec042c2d115ea8dfa40fd0dcde6d333619913ab11f7df478fb88f22b2c"
 
 [[files]]
 file = "kubejs/startup_scripts/christmas-kitchen.js"
@@ -6453,10 +6453,6 @@ hash = "e36ae9f6c85f6fb47081edf4d0813769fbfd7919998c649d661f17ebeb85db47"
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/minecraft/textures/gui/sprites/hud/armor_half.png"
 hash = "14f687fb40137d7a9d9add12c261b98568a474cdcc2c958bb050d9735eb2f134"
-
-[[files]]
-file = "resourcepacks/Christmas Craft HUD/assets/minecraft/textures/gui/sprites/hud/crosshair.png"
-hash = "4755953218cb76b34163e82c394a51fcd8225894493bb6abb9ed0cdf71feb12c"
 
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/minecraft/textures/gui/sprites/hud/crosshair_attack_indicator_background.png"
