@@ -1194,10 +1194,6 @@ file = "kubejs/data/christmascraft/loot_table/blocks/yule_log.json"
 hash = "c45a3631270472c36d9626f62d58b996c35283a8119e5b997da3965c58c14ad9"
 
 [[files]]
-file = "kubejs/server_scripts/andesite-early.js"
-hash = "082065efed88015b3c56d3e1ed8e606d2750cffc8b430850cba0f9d0bafa4c10"
-
-[[files]]
 file = "kubejs/server_scripts/qol-ui-audio.js"
 hash = "ea3016ec042c2d115ea8dfa40fd0dcde6d333619913ab11f7df478fb88f22b2c"
 
