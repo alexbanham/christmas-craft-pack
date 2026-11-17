@@ -2250,11 +2250,6 @@ hash = "d013168d6b9028befe36495d81d22ddb5f04aa6d83bc4ebe3cf1b46ef041706e"
 metafile = true
 
 [[files]]
-file = "mods/seamless-loading-screen.pw.toml"
-hash = "1d8cade30558d813a56021bbad054063b9d9f184896e596bd6517186b687b1e2"
-metafile = true
-
-[[files]]
 file = "mods/searchables.pw.toml"
 hash = "ce9ddada6ffd55a512149cc474c6a453281a997a5fdf1b7b4a2cc73f875e704a"
 metafile = true
