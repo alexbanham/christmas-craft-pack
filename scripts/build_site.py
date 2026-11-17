@@ -67,6 +67,37 @@ def mod_rows(pack):
     return "\n".join(out), len(mods)
 
 
+def quest_count(pack):
+    """Quests in the pack's FTB Quests book: the objects directly inside each chapter's top-level "quests" list."""
+    def count(s):
+        depth, i, n, key, in_quests = 0, 0, 0, None, None
+        while i < len(s):
+            c = s[i]
+            if c == '"':  # a string: remember it as the latest key, skip its contents
+                j = i + 1
+                while s[j] != '"':
+                    j += 2 if s[j] == "\\" else 1
+                key, i = s[i + 1:j], j + 1
+                continue
+            if c in "{[":
+                if c == "[" and depth == 1 and key == "quests":
+                    in_quests = depth + 1
+                elif c == "{" and in_quests is not None and depth == in_quests:
+                    n += 1
+                depth += 1
+            elif c in "}]":
+                depth -= 1
+                if in_quests is not None and depth < in_quests:
+                    in_quests = None
+            i += 1
+        return n
+
+    chapters = sorted((pack / "config" / "ftbquests" / "quests" / "chapters").glob("*.snbt"))
+    total = sum(count(f.read_text(encoding="utf-8")) for f in chapters)
+    assert total > 0, f"no quests found under {pack / 'config/ftbquests/quests/chapters'}"
+    return total
+
+
 def release_size():
     try:
         rel = get_json(f"https://api.github.com/repos/{REPO}/releases/latest")
@@ -91,6 +122,7 @@ def main():
         if tv != pack["version"]:
             testing_note = f" (testing: v{html.escape(tv)})"
     rows, count = mod_rows(a.pack)
+    quests = quest_count(a.pack)
 
     values = {
         "version": html.escape(pack["version"]),
@@ -103,6 +135,7 @@ def main():
         "testing_note": testing_note,
         "mod_rows": rows,
         "mod_count": str(count),
+        "quest_count": str(quests),
     }
     page = (ROOT / "site" / "template.html").read_text(encoding="utf-8")
     for k, v in values.items():
@@ -115,7 +148,7 @@ def main():
     for f in (ROOT / "site" / "assets").iterdir():
         if f.is_file():
             shutil.copy2(f, a.out / "assets" / f.name)
-    print(f"built {a.out / 'index.html'}: v{pack['version']}, {count} mods")
+    print(f"built {a.out / 'index.html'}: v{pack['version']}, {count} mods, {quests} quests")
 
 
 if __name__ == "__main__":

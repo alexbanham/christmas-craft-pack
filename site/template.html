@@ -4,13 +4,13 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Christmas Craft 2026 | Minecraft modpack for Windows</title>
-<meta name="description" content="Christmas Craft 2026 is a Minecraft: Java Edition {{mc}} modpack with Create, airships, a casino with real chips, Santa's Toy Works, spirit bosses and a 439-quest book. Download it once; it updates itself every time you press Play.">
+<meta name="description" content="Christmas Craft 2026 is a Minecraft: Java Edition {{mc}} modpack with Create, airships, a casino with real chips, Santa's Toy Works, spirit bosses and a {{quest_count}}-quest book. Download it once; it updates itself every time you press Play.">
 <meta name="theme-color" content="#0a1510">
 <meta name="color-scheme" content="dark">
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="Christmas Craft 2026">
 <meta property="og:title" content="Christmas Craft 2026">
-<meta property="og:description" content="A Minecraft modpack for the season: Create, airships, a casino with real chips, Santa's Toy Works, spirit bosses and a 439-quest book. Download once, press Play, it keeps itself up to date.">
+<meta property="og:description" content="A Minecraft modpack for the season: Create, airships, a casino with real chips, Santa's Toy Works, spirit bosses and a {{quest_count}}-quest book. Download once, press Play, it keeps itself up to date.">
 <meta property="og:url" content="{{site_url}}">
 <meta property="og:image" content="{{site_url}}assets/og.jpg">
 <meta property="og:image:width" content="1200">
@@ -64,7 +64,9 @@ b, strong { color: var(--cream); font-weight: 600; }
     linear-gradient(0deg, var(--bg) 0%, rgba(10, 21, 16, .55) 16%, rgba(10, 21, 16, 0) 40%),
     linear-gradient(180deg, rgba(6, 14, 9, .55) 0%, rgba(6, 14, 9, 0) 14%);
 }
-.hero .wrap { padding-top: 120px; padding-bottom: 72px; }
+.hero .wrap { position: relative; z-index: 1; padding-top: 120px; padding-bottom: 72px; }
+.snow { position: absolute; inset: 0; width: 100%; height: 100%; z-index: 0; pointer-events: none; image-rendering: pixelated; }
+@media (prefers-reduced-motion: reduce) { .snow { display: none; } }
 .hero-copy { max-width: 620px; }
 .eyebrow { margin: 0; font: 600 14px/1.4 var(--label); letter-spacing: .24em; text-transform: uppercase; color: var(--gold); }
 .eyebrow::before { content: ""; display: inline-block; width: 36px; height: 3px; margin: 0 14px 0 0; vertical-align: middle; background: var(--berry); position: relative; top: -2px; }
@@ -241,6 +243,7 @@ footer a { color: var(--gold-hi); }
       <source media="(max-width: 720px)" srcset="assets/hero-960.jpg">
       <img src="assets/hero-1920.jpg" alt="The Christmas Craft lodge at dusk, strung with fairy lights, on a snowy hillside." width="1920" height="1080" fetchpriority="high">
     </picture>
+    <canvas class="snow" id="snow" aria-hidden="true"></canvas>
     <div class="wrap">
       <div class="hero-copy">
         <p class="eyebrow">Minecraft modpack</p>
@@ -292,7 +295,7 @@ footer a { color: var(--gold-hi); }
         </li>
         <li class="feature">
           <img src="assets/quests.jpg" alt="A chapter of the quest book: quest icons joined by lines on a starry background." width="960" height="540" loading="lazy">
-          <h3>A 439-quest book</h3>
+          <h3>A {{quest_count}}-quest book</h3>
           <p>A quest for every multiblock and each piece in it, and quests pay chips.</p>
         </li>
       </ul>
@@ -417,6 +420,48 @@ footer a { color: var(--gold-hi); }
     status.textContent = q ? shown + " of " + rows.length + " mods match" : "";
   }
   input.addEventListener("input", filter);
+})();
+
+// Falling pixel snow over the hero: one canvas, one requestAnimationFrame loop, paused when the tab is
+// hidden or the hero is scrolled away, off under prefers-reduced-motion.
+(function () {
+  var c = document.getElementById("snow");
+  if (!c || !c.getContext || window.matchMedia("(prefers-reduced-motion: reduce)").matches) return;
+  var g = c.getContext("2d"), W = 0, H = 0, flakes = [], running = false, inView = true, last = 0, raf = 0;
+  function flake(anyY) {
+    var r = Math.random(), s = r < 0.6 ? 1 : r < 0.9 ? 2 : 3;
+    return { x: Math.random() * W, y: anyY ? Math.random() * H : -3, s: s,
+      v: 12 + s * 9 + Math.random() * 14, a: 0.35 + Math.random() * 0.5,
+      p: Math.random() * 6.3, w: 0.4 + Math.random() * 0.8, d: 6 + Math.random() * 10 };
+  }
+  function size() {
+    W = c.width = c.clientWidth; H = c.height = c.clientHeight;
+    var n = Math.max(40, Math.min(220, Math.round(W / 7)));
+    flakes = []; for (var i = 0; i < n; i++) flakes.push(flake(true));
+  }
+  function draw(t) {
+    var dt = Math.min(0.05, (t - (last || t)) / 1000); last = t;
+    g.clearRect(0, 0, W, H); g.fillStyle = "#fff";
+    for (var i = 0; i < flakes.length; i++) {
+      var f = flakes[i];
+      f.y += f.v * dt;
+      if (f.y > H) { flakes[i] = f = flake(false); }
+      var x = Math.round(f.x + Math.sin(t / 1000 * f.w + f.p) * f.d);
+      g.globalAlpha = f.a; g.fillRect(x, Math.round(f.y), f.s, f.s);
+    }
+    g.globalAlpha = 1;
+    raf = requestAnimationFrame(draw);
+  }
+  function update() {
+    var go = inView && !document.hidden;
+    if (go && !running) { running = true; last = 0; raf = requestAnimationFrame(draw); }
+    else if (!go && running) { running = false; cancelAnimationFrame(raf); }
+  }
+  size();
+  var timer; addEventListener("resize", function () { clearTimeout(timer); timer = setTimeout(size, 150); });
+  document.addEventListener("visibilitychange", update);
+  if ("IntersectionObserver" in window) new IntersectionObserver(function (e) { inView = e[0].isIntersecting; update(); }).observe(c);
+  update();
 })();
 </script>
 </body>
