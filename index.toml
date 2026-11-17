@@ -1631,7 +1631,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-integrated-farming.pw.toml"
-hash = "205ac4987dcaf6aa6a099c9dbcb97f9aea85b2f9b2f5953fc88c83d92afd90b5"
+hash = "5b33d7c6179719122bbe3efb86ca5136e3e24b38f25bbb5a518838d300fa6894"
 metafile = true
 
 [[files]]

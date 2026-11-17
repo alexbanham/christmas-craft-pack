@@ -1,13 +1,10 @@
 name = "Create: Integrated Farming"
-filename = "create-integrated-farming-1.4.3.jar"
+filename = "create-integrated-farming-1.4.3-ccfix.1.jar"
 side = "both"
 
+# Unofficial compatibility build; full source and LGPL notices accompany the release.
+# Pin until upstream supports Hearth & Harvest 1.4.x (upstream issue #76).
 [download]
-url = "https://cdn.modrinth.com/data/9k1pAsfR/versions/EWfVwbHy/create-integrated-farming-1.4.3.jar"
-hash-format = "sha512"
-hash = "a768425f3377dadacec42890e0ffd4b1f4672d987b2c8938fb25b0a5a7424b44d0f32669d69889d76d4f7f54881784b00b25444c70d3f7359c07642e8ee73825"
-
-[update]
-[update.modrinth]
-mod-id = "9k1pAsfR"
-version = "EWfVwbHy"
+url = "https://github.com/alexbanham/christmas-craft-pack/releases/download/cif-1.4.3-ccfix.1-20261117/create-integrated-farming-1.4.3-ccfix.1.jar"
+hash-format = "sha256"
+hash = "0c6eaf78a4f6dd4305120849e4e973915b62b6c1ba3b811fd6d90a975641bed6"
