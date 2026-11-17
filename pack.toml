@@ -1,12 +1,12 @@
 name = "Christmas Craft"
 author = "Alex & friends"
-version = "0.5.27"
+version = "0.5.28"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "4daf781edd7af721053c5b1ee807d1c843edc1efd77dedd83191a852c352a48c"
+hash = "8df4b1742695a268c66f9b44bd815fb99935d133ec848ffa6d4d35f5f7f4be5d"
 
 [versions]
 minecraft = "1.21.1"

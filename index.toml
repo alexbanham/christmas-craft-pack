@@ -138,7 +138,7 @@ hash = "964cf13e06629164ab2e9c57e19ff53fb8386454d2b101315d2ab3a537659a39"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/high_roller.snbt"
-hash = "422e912519b411513a4b6a5c0cc55f81cb3bde638e60d6f37b753dde5db99428"
+hash = "9fdc2eac07f8c9fc7b577947045eac8af1fd58e1fa5ab46f915bef8654bf9c6c"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/kitchen.snbt"
@@ -166,7 +166,7 @@ hash = "0f0dd92bd12924419250f799fb53dae7316d6f3f76540a6e75501be362c3a33f"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/welcome.snbt"
-hash = "00e4eaf3e9356ba1253198384af87ebc586a9234a65648d77c6d4bb0d9d5d005"
+hash = "ea9eddf2678351f93a8b5d042228d2ac1e53919732ac4dfed2ac172fa92ed8d7"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/workshop.snbt"
@@ -178,7 +178,7 @@ hash = "1968b1172f4184e36962ea8442accf213b5f8b69b998a18c8d4b045026441741"
 
 [[files]]
 file = "config/ftbquests/quests/lang/en_us.snbt"
-hash = "933bd8739817e1f88b2baee992500481156c6ba4995cbe67a45dc69031bf00a6"
+hash = "e720315a05f62f341098bf86aa4b7b0a37e7ceb336c9cc72ba962d749e9c8edd"
 
 [[files]]
 file = "config/ftbquests/quests/reward_tables/advent.snbt"
@@ -1199,7 +1199,7 @@ hash = "8892e94cbb6cd3fec2c69a0e15354f18fdf4d124119cc4e3e838ed15fe5c3695"
 
 [[files]]
 file = "mods/0-cccasino.pw.toml"
-hash = "5cf6894c49bc5452ad7ab1e4dbf1baf59bc69d4da6c4f33ba2ad531a8dae6734"
+hash = "44eb4110febb99a1e88609d2700b6d6cb763f77ca7bb78d511f3797d5b3371ee"
 metafile = true
 
 [[files]]
@@ -6264,491 +6264,491 @@ preserve = true
 
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/appleskin/textures/gui/sprites/tooltip_hunger_outline.png"
-hash = "7b18763a33086cf4cd576cf4fb02a8e1a97f58906e1bfa9cc77e463140096d7c"
+hash = "3a9947eecc624988716851003b47b1657aa04bb3a1a9c565a6107bed837409e5"
 
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/appleskin/textures/icons.png"
-hash = "2e496508ba15551470225d718a0d2c6cdf25258c8e25af2a0db8c48c1a3244cc"
+hash = "ea236a53d49ea12e1cb2e10db45bab5e0f2c36e06ef6d28d4bdc474c24b2b5c8"
 
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/minecraft/textures/gui/container/blast_furnace.png"
-hash = "3ab2eedfd520ac9eccf5de268c6619f8a81f9a77d9d633e8b7f67b63012ab100"
+hash = "bfc32c86873d32f5e62792b6374393ecf5e53fe77d9f4b84b09b53b3ddf5e640"
 
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/minecraft/textures/gui/container/crafting_table.png"
-hash = "9b4ac3b86283ecaee0f589c094cdcb4c93978a3082db6c73518f18d84999a9ae"
+hash = "170213b581f09e11f08f0e547cd28e7dc6dc18645c2c5c3a5f303b3f10870b39"
 
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/minecraft/textures/gui/container/dispenser.png"
-hash = "6dac8a86601f0eee3b193a8f289b5132c00be9ef65e4c2187b76db2828154bbb"
+hash = "70d1eb7e98e516f3e8e12cb0de70b30bc5376680dce863775d31897cc326dc47"
 
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/minecraft/textures/gui/container/furnace.png"
-hash = "be7f017f2af69a975d7507ee5eb18ce9738005417e60ff8e9c443f23ba233d91"
+hash = "7f0854a959879a6f7e28208c862fdba702f58f7f2ab426ca68d9e6ed47a491d5"
 
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/minecraft/textures/gui/container/generic_54.png"
-hash = "0258e0e122413a41a2abe27cf9a2dc27cd99fcb31d8772557aec6d1b4caf48ce"
+hash = "d886609fdf594ab0e636b4a80355329c7af6d5dd5d32508a0e648de5e688d9de"
 
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/minecraft/textures/gui/container/hopper.png"
-hash = "89b0441de53922a955b77938831741ebfb44bf00189c76b8e00e3c0edf7d3b33"
+hash = "2c8b9c0e40c74379748a49fbba0a9c69688397a4cfeeb6bd1278519cc936cb24"
 
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/minecraft/textures/gui/container/inventory.png"
-hash = "484ba404a3fd6dfb9ddd8ccb8c8cf8c15726664c70c8397ce76b68e70539366f"
+hash = "2bbd854b62422a6b7761263b36e2ad65644988bf3ce1c6675264e18542c0d3b0"
 
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/minecraft/textures/gui/container/shulker_box.png"
-hash = "ac2560cd81c6829c6f8c578ca409b42ed9b5faa79b6a89baaf1f402020ae9d7b"
+hash = "6936bc99f7e6fb60622e4d71d508934aad07669f93d5fb05f1139958121c592a"
 
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/minecraft/textures/gui/container/smoker.png"
-hash = "5ee82cc08b126d92ac5be7a0e83ea29b2171644bc13cca9bed97b8c86e564eeb"
+hash = "144ffbdb966f1d121fbdd5f7395a43b0f2c60f6fd31bcf19815401d52cda572c"
 
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/minecraft/textures/gui/sprites/boss_bar/blue_background.png"
-hash = "3f7341dc82e378c688329f2e0430e9174120a2e19b7e2761a8833d36228fa961"
+hash = "71591ff3a28eb77e4f9176e5177532fbacfb46220876a9bf14c9bb8c160d26bb"
 
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/minecraft/textures/gui/sprites/boss_bar/blue_progress.png"
-hash = "d190efb93a0ad590caf40773d27852362287414a30e135fbcc8222e9696cdbe2"
+hash = "caa48f80a293608c53aa2f29da5c6c5cb46b2fbf91820021059071e037e1d329"
 
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/minecraft/textures/gui/sprites/boss_bar/green_background.png"
-hash = "3f7341dc82e378c688329f2e0430e9174120a2e19b7e2761a8833d36228fa961"
+hash = "53830b5d1f62bf631c6503c412276de70c703d38e8bccc4ae0b35f697eee3b3e"
 
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/minecraft/textures/gui/sprites/boss_bar/green_progress.png"
-hash = "fb490ec5ac927659ca906078581b171a299993c7934ff5082a403dfccf03a161"
+hash = "d7aa951dcb23fafd7b0906004c83b982a8a37cf20bf01e4197c748ea6b0be646"
 
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/minecraft/textures/gui/sprites/boss_bar/notched_10_background.png"
-hash = "b79062153d7752058abdf4285f5565b02b2789ae2cb55eb388520fe166c206d1"
+hash = "8f48448053d6d8630a8950c67c827645a01d0a66b1cbb9280d473456d55ecf3e"
 
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/minecraft/textures/gui/sprites/boss_bar/notched_10_progress.png"
-hash = "7adcc3917fe1f242604b851202c3593c237d4e4d7b30b0d4260b707b6d068b8b"
+hash = "15c9d59bd534ef620784fc0452b68d203c84df25ce527ef648ff36c074e36cea"
 
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/minecraft/textures/gui/sprites/boss_bar/notched_12_background.png"
-hash = "d3171042dc3745298ddd47574f2dcbdb47197dc643564025c276a19582b630a0"
+hash = "adf7af16fe1bc04c212cf17948394660488777f31e97b211e7698a8fff77a1a3"
 
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/minecraft/textures/gui/sprites/boss_bar/notched_12_progress.png"
-hash = "98269288fcabd92d42e1804dcc9415da1903b2a1f63aa3f140b60112f2ade910"
+hash = "9b977fb22255823954b9268b9331dcc26a8003f7e1a9b5817078a6004ae071c6"
 
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/minecraft/textures/gui/sprites/boss_bar/notched_20_background.png"
-hash = "d3ec8b044dd93c4e43ccd287871f31d66f2ba6f0abc14dc9812494be5bc150b0"
+hash = "9ff7456d82928322d6d86afdc6b9439fec2765b6b1e9bdff0f8cf49550b7d637"
 
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/minecraft/textures/gui/sprites/boss_bar/notched_20_progress.png"
-hash = "3d11a69474f49f3fd13381a18c34d0d90b854f34455cc0a3adee509beb179862"
+hash = "f8b6a2434c08bba9576e498d6da0bc0b8f9995a615fe30324b8f89c5609fcd20"
 
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/minecraft/textures/gui/sprites/boss_bar/notched_6_background.png"
-hash = "f17c8da47a4a17ad6ff66d5d486b8e2e9f5d662c73186b2e358ed6d1c8695d85"
+hash = "ab9a943882b5f13864bdda2c481f82195678fd6beb6fe919198620d0015a090f"
 
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/minecraft/textures/gui/sprites/boss_bar/notched_6_progress.png"
-hash = "9455f2ee2c7cc7eb3fd81d76638b0c703d270561ce00b4a7da06089141a2f0d0"
+hash = "9d2bc68ce249f82acc8d140fa90efe435d8a64111f45760abd56084a04f1036d"
 
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/minecraft/textures/gui/sprites/boss_bar/pink_background.png"
-hash = "3f7341dc82e378c688329f2e0430e9174120a2e19b7e2761a8833d36228fa961"
+hash = "2b4b28263398ea55a9f0b7fd5dbaeb3905c54a73e550c15a6608a7724752293a"
 
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/minecraft/textures/gui/sprites/boss_bar/pink_progress.png"
-hash = "b1a08b08644071d35c411f809c986c5ee78b6149dfc1971797ed4f87eb067108"
+hash = "c061c05732d4ac8105c707c9e82725bba819d0a28bf8e3fabe22a333f82a34c3"
 
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/minecraft/textures/gui/sprites/boss_bar/purple_background.png"
-hash = "3f7341dc82e378c688329f2e0430e9174120a2e19b7e2761a8833d36228fa961"
+hash = "e366f86cc62e2911de54c919cbf95aa3328ec6500ddf2bc16a007a72526ce51a"
 
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/minecraft/textures/gui/sprites/boss_bar/purple_progress.png"
-hash = "7fbfed2b5326bebbd9b4f52e20b6dac83bef1fcfad1b84c5767406dc74e65f11"
+hash = "f792717c2ef7be103ec9c70f016e5bbf4cd6035b932006ab77fc0c4bbd176b38"
 
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/minecraft/textures/gui/sprites/boss_bar/red_background.png"
-hash = "3f7341dc82e378c688329f2e0430e9174120a2e19b7e2761a8833d36228fa961"
+hash = "50652d9139d2f78a2385afcc5eeac42ba589d3b67365300db962cf3c5448639d"
 
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/minecraft/textures/gui/sprites/boss_bar/red_progress.png"
-hash = "7e63f297a89b0b59bfad4d96b0d0cf95c807066c23d7b34eee1042e6c56a52cf"
+hash = "fe1fc537e8c903e19d8213b8f8387a859111c5a878db8bfd83e7ea74733ec56f"
 
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/minecraft/textures/gui/sprites/boss_bar/white_background.png"
-hash = "3f7341dc82e378c688329f2e0430e9174120a2e19b7e2761a8833d36228fa961"
+hash = "54b5e9dceb9b5f4269c9e5c5b529c2b5ecc00beed503f7189b47cf4fb22bf410"
 
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/minecraft/textures/gui/sprites/boss_bar/white_progress.png"
-hash = "89c662a8d4f2392b96e27078681f7e615ef06387f086bd5d7fa8f6125c156afe"
+hash = "8773c137fa74d701adc7030998d12143e4dde05f5a9787ecb8283cfa18bf3553"
 
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/minecraft/textures/gui/sprites/boss_bar/yellow_background.png"
-hash = "3f7341dc82e378c688329f2e0430e9174120a2e19b7e2761a8833d36228fa961"
+hash = "e1cbc73eb0bd1e6b135a485f23d10817021d4bdf80edfa604e25cc0bd6353155"
 
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/minecraft/textures/gui/sprites/boss_bar/yellow_progress.png"
-hash = "66915c7683b7731274f4404524452aa8052c33976ee54f8b041ab44b9fa0a36d"
+hash = "3bbcccd5f2a442c2c619e55f53a05a4326553e1884d56feaf850e9a5703fb71b"
 
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/minecraft/textures/gui/sprites/container/blast_furnace/burn_progress.png"
-hash = "d57fda20a40dac7cc9dc256d67a43834badc2f7e6903dd0347f1ea2a0fba35cf"
+hash = "5bd16bf4889c94449b58f7edb1811feacefac4bf44b5c514500e51401f05b2b1"
 
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/minecraft/textures/gui/sprites/container/blast_furnace/lit_progress.png"
-hash = "c465635c47c26d3eebdad723b761bb9df052aa0e12b00e6f591f1ca5ad9c9c5b"
+hash = "b6c89f1b8f129be6a5927bf8aed6cec458b61d6107b093fe6b268862ca0756e9"
 
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/minecraft/textures/gui/sprites/container/furnace/burn_progress.png"
-hash = "d57fda20a40dac7cc9dc256d67a43834badc2f7e6903dd0347f1ea2a0fba35cf"
+hash = "5bd16bf4889c94449b58f7edb1811feacefac4bf44b5c514500e51401f05b2b1"
 
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/minecraft/textures/gui/sprites/container/furnace/lit_progress.png"
-hash = "c465635c47c26d3eebdad723b761bb9df052aa0e12b00e6f591f1ca5ad9c9c5b"
+hash = "b6c89f1b8f129be6a5927bf8aed6cec458b61d6107b093fe6b268862ca0756e9"
 
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/minecraft/textures/gui/sprites/container/inventory/effect_background_large.png"
-hash = "e3136df6ac87ba6046337bd36dd3dfe2ca112d21d5bf4af03f2d9d6ab57f280e"
+hash = "c1c09d0ccec024a33dc23e8509ecd4482dbad311f246ad6032c04db5002f93c2"
 
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/minecraft/textures/gui/sprites/container/inventory/effect_background_small.png"
-hash = "1ce27f10394121f15de2b7750c0b9ccd3ed29b9d5937bb0be00a8e719d947708"
+hash = "800c18d91052b7c6b0bac6e45de0c318de7a5019ced2b55fb12d8bb8a7def39d"
 
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/minecraft/textures/gui/sprites/container/slot.png"
-hash = "5659400c337db78df2c8eea7b7fa5bafcaec03189577d0e784c8bab9711c1441"
+hash = "08e0a84852e7cdf7b65d81dab7c391ceea6a2fdaee745a395290e0911e311317"
 
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/minecraft/textures/gui/sprites/container/smoker/burn_progress.png"
-hash = "d57fda20a40dac7cc9dc256d67a43834badc2f7e6903dd0347f1ea2a0fba35cf"
+hash = "5bd16bf4889c94449b58f7edb1811feacefac4bf44b5c514500e51401f05b2b1"
 
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/minecraft/textures/gui/sprites/container/smoker/lit_progress.png"
-hash = "c465635c47c26d3eebdad723b761bb9df052aa0e12b00e6f591f1ca5ad9c9c5b"
+hash = "b6c89f1b8f129be6a5927bf8aed6cec458b61d6107b093fe6b268862ca0756e9"
 
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/minecraft/textures/gui/sprites/hud/air.png"
-hash = "c284e7713a70cc69017bf858880a91213f9a974d750d0821f6c7a6fb20b96129"
+hash = "c804f91a92f1c44ad1a8e3173ecef447ff0d9da84ea559588bda4a3d604dfef5"
 
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/minecraft/textures/gui/sprites/hud/air_bursting.png"
-hash = "c8b70e98abaa02291f516a980daaa64c5ec6d6a6d0faffd64dfe6ca128a2723f"
+hash = "6a35bf4f24f20276885986cc941e0bafbeaed9865637c3fde2bb97b921cf58a2"
 
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/minecraft/textures/gui/sprites/hud/armor_empty.png"
-hash = "24f4f6126e88f080e9c242e791f42bf29fcdb1d395d78add519ee9b81a53e88c"
+hash = "ea6c221fae51628afd80a3b990db0998e16182da8e0f768508b1b54d6a75b191"
 
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/minecraft/textures/gui/sprites/hud/armor_full.png"
-hash = "b39d64bc2abe535f6ab13e40f84abf0a0223aac01b94d7f83d83ad7950f57d1c"
+hash = "e36ae9f6c85f6fb47081edf4d0813769fbfd7919998c649d661f17ebeb85db47"
 
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/minecraft/textures/gui/sprites/hud/armor_half.png"
-hash = "0d92e1e2579dd7362c6e63a5cea22d2799940ec656310b45fdefbd7f9cc12781"
+hash = "14f687fb40137d7a9d9add12c261b98568a474cdcc2c958bb050d9735eb2f134"
 
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/minecraft/textures/gui/sprites/hud/crosshair.png"
-hash = "437e3f50cc193cadb1d889aa6dbdd9e029954e83dcd67ab6ab152e0a1e7fb551"
+hash = "4755953218cb76b34163e82c394a51fcd8225894493bb6abb9ed0cdf71feb12c"
 
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/minecraft/textures/gui/sprites/hud/crosshair_attack_indicator_background.png"
-hash = "4a0bc0c61feccea104e611a7ddaaf10c5f07963f56ddf514f3c794ba2936e1dd"
+hash = "9be72e38d758cf3ee80fb0824ad273b3bce112e30140b786ca2ce73a4f002c25"
 
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/minecraft/textures/gui/sprites/hud/crosshair_attack_indicator_full.png"
-hash = "2cb459ea07cc68aba4a239785bd9d5548b0a854acf55efd72455d539821c8250"
+hash = "293a963138d933d92059c1d1b0778eed6818131c54f017c9992e83be907b7eb9"
 
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/minecraft/textures/gui/sprites/hud/crosshair_attack_indicator_progress.png"
-hash = "af01d9868e02f8eb2a7bbd178805035c8cbc7ae5048def0f5a329a3e44f803be"
+hash = "26ed1cddd7cf72dd56e997ccef520035513e85b5d951bdc6c06cbfe7430a290c"
 
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/minecraft/textures/gui/sprites/hud/effect_background.png"
-hash = "bf8411f4abad8aef176c2baabd35d73c8b9f1cb8df40715d2f81538778ca4ef7"
+hash = "b6c974b0e1182dd756b7bc1472741017df81e12c71baac7643be89267ca55e41"
 
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/minecraft/textures/gui/sprites/hud/effect_background_ambient.png"
-hash = "d1c4e91ae76f8715a1d2defd2ad23733196b876e1fb3e7ce67353265e4a549a3"
+hash = "3f4b8462649e15dfc494c99ce4b54bbf326cc30c02433af05ff43382261d0c01"
 
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/minecraft/textures/gui/sprites/hud/experience_bar_background.png"
-hash = "9df011fe6598041120f1244c9242258d2c4215d6197886916c23f6a1d2d254d3"
+hash = "23f40bbd9c7bae5cd6c6f942e629663a5b2151cddcd01571f2596a2e7bef1c5b"
 
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/minecraft/textures/gui/sprites/hud/experience_bar_progress.png"
-hash = "2adb295726c0ba46d9e31829254715ba6473135a1cce6b6eca36cb876f5dbe57"
+hash = "96699a441e011eb4bfe014ded593eb7e8df22a55030bc38d115b4d44f7b46894"
 
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/minecraft/textures/gui/sprites/hud/food_empty.png"
-hash = "fef7cced2f87bde338de7ac0c5b424818abb1ee4d523d0b4d6b6ee5706fa0a83"
+hash = "63b1d87fe03740fbdc8384d830a81e5b6ce0dfd10b6b087ce024a7bfa3dda3d8"
 
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/minecraft/textures/gui/sprites/hud/food_empty_hunger.png"
-hash = "fef7cced2f87bde338de7ac0c5b424818abb1ee4d523d0b4d6b6ee5706fa0a83"
+hash = "04065a748eff067c65f4f0ceb71d13247b7be42d9d47d97addb4ed9d263d456c"
 
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/minecraft/textures/gui/sprites/hud/food_full.png"
-hash = "2074597e90fcbaaec8f3fe02cbb3c422bf86d6b8dc8e5b8eff22edd575d067ed"
+hash = "48c7cb9e43c73c64f6843c02650d130954f60dc0895d866438986ce3790eba1e"
 
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/minecraft/textures/gui/sprites/hud/food_full_hunger.png"
-hash = "33b2a68d87f52c1aa0090a12d18f78123593ce937ea32cdf95b88af9a60cd5c9"
+hash = "4d843a0b5954f7bd1fa13024ad937a7ed2087d9f59dd4ef2e5039283d6af9129"
 
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/minecraft/textures/gui/sprites/hud/food_half.png"
-hash = "0ef966284f6344b7e32d10fcb07678d4d5661aea7e9b874ce27cbe8693d1bf4c"
+hash = "8f4a1fcb1293775cce5736bcdcd8802b58687bddb6e5afe2eeb2a6a951495eba"
 
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/minecraft/textures/gui/sprites/hud/food_half_hunger.png"
-hash = "f93d352c7587eff447e6cde3c89404e6d44af688907e34a33fb556f3485ed1a3"
+hash = "56cae218ef8aec8dfccd40ab4b875b4a9ed51a64e69dff80effc4ee7d7f3855a"
 
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/minecraft/textures/gui/sprites/hud/heart/absorbing_full.png"
-hash = "2fb9930a350dff1b3e1f0d444f553d93c4fdbe7e03903d32ec026dc62ef4dd12"
+hash = "8e4a68d6385fad70de0d489711c2d157301d17a2ae607e60b82ddcd51e9e4e07"
 
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/minecraft/textures/gui/sprites/hud/heart/absorbing_full_blinking.png"
-hash = "fa81c50fe92a5757cb2e829dd38ba620ea302088e73fac45907b39a884aa7afa"
+hash = "098bc466c154c7accf3137d7c78c82d349df2c76efb1c753204c3a740ec60fc2"
 
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/minecraft/textures/gui/sprites/hud/heart/absorbing_half.png"
-hash = "0149087fdbabe32baefaf44c4b081df17d2aef904ed9f70b8680bbdcf0103da5"
+hash = "4237a38290f4f5638ee35b9be6eb109f3ef12b0a4a67f06f4d1034007210184c"
 
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/minecraft/textures/gui/sprites/hud/heart/absorbing_half_blinking.png"
-hash = "82a46d7d1806e361b18ff6a55e42951342a718899a2c5aa5099580f644beb816"
+hash = "d2159670e538d6b009999a2adebc93d87e77da491447a77cbfa20c96e56e33c7"
 
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/minecraft/textures/gui/sprites/hud/heart/absorbing_hardcore_full.png"
-hash = "19e2950f4d830c83e28809418bb0db4462c0596a3b182054ce96cb6a23b3002f"
+hash = "98a700dc5ce2ea24e1e8a5a946f1eeac194e92ee3ad1624bffaa51461849ea57"
 
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/minecraft/textures/gui/sprites/hud/heart/absorbing_hardcore_full_blinking.png"
-hash = "fcd2245bb7557b4203f3123fd8e5ddad2c09f63db5e0e7962febe77731cf9bbf"
+hash = "37eae871ac4b389f789aea71c6d5b3de20481923283869c79d1b75420f66f96c"
 
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/minecraft/textures/gui/sprites/hud/heart/absorbing_hardcore_half.png"
-hash = "7fa614f550573771e215317e45d49cc9cd7492631baa16192b40b00b8b70408a"
+hash = "0e5f543230ec07d5c6823368e525fcf1fd270cd78fbbe57c03b745162c7fd51a"
 
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/minecraft/textures/gui/sprites/hud/heart/absorbing_hardcore_half_blinking.png"
-hash = "67f5c541748f0c51b40cff947fb1dbf687231f250f87e2b5cb2e89851ccd25a4"
+hash = "668398634fa87ddd408147891669ea8803216c062d2568b08a086bdfbce44f58"
 
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/minecraft/textures/gui/sprites/hud/heart/container.png"
-hash = "c47aa2e11fdda32ce7173ab466151da5d38c5da76d39a941c31879ade33bc03f"
+hash = "44b3ff3c43d1b673bbbb3afad2465cb291b6c3d15d45fa60dc98beb0875ff280"
 
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/minecraft/textures/gui/sprites/hud/heart/container_blinking.png"
-hash = "511411b96b19335288bfc33a1e09f995da28051bc99ebe4fdb7333e2b00b87ed"
+hash = "9b9e08e41a8e10389b7ea9bd2a22d313b399fea5fc9d50b2a0876984a919b40c"
 
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/minecraft/textures/gui/sprites/hud/heart/container_hardcore.png"
-hash = "f37bbb0cab441bb753d7333ba558b29f15fe1b2d8ff13aaa4adfe2701c338d72"
+hash = "1aa5e4536f486d8a2b028156595f1bcd6a5c6e5d47add7ea4fa03132e63de1f7"
 
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/minecraft/textures/gui/sprites/hud/heart/container_hardcore_blinking.png"
-hash = "7fd072be2a673749e6a90ad2b69919e48b6c20746a133c4966660a1a37f364bb"
+hash = "9d624aedf7e303eedc161c668c0451889d69754fb2630218c9d3c574341b2d84"
 
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/minecraft/textures/gui/sprites/hud/heart/frozen_full.png"
-hash = "069a4417ffd59f1682300fe79ac68730b81bee86f21eaf4eb6dbc82bcd7d251d"
+hash = "a9fda3a42c736ec61cc874254e8579dfb621217f86840ee501565164a1cbb64e"
 
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/minecraft/textures/gui/sprites/hud/heart/frozen_full_blinking.png"
-hash = "6cd100552d4aa078c2900bfebe4521f42320a08e7992b66ba57a41692f91eff5"
+hash = "4c520c3f7a82ddbc795c4d0e8e3d6fbb7316b1c774e44588fc88afe38b44ed96"
 
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/minecraft/textures/gui/sprites/hud/heart/frozen_half.png"
-hash = "867b8389b0043be9ae05a16442179b351042dc3f24cd867efdeab8d3df22e916"
+hash = "0a1b391e1152e57ace876f490ccc68762e9c0640bf66aa90b29130d0754e507a"
 
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/minecraft/textures/gui/sprites/hud/heart/frozen_half_blinking.png"
-hash = "2e49e2caa7fd8dbeb9a1a4f7ad0418046e16e11c2798031e7413cc55067e6ddf"
+hash = "abf44f2a0a8de79a797b281bb648b333f916bbcb2d0364a41ec9394f3b5517a5"
 
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/minecraft/textures/gui/sprites/hud/heart/frozen_hardcore_full.png"
-hash = "dcd259a8962770d23b38c2190278a9cd60d0f00b21cd4817e8a12b767e781a46"
+hash = "bd571ad12b6008aaed3c502593c67068d000e553455aaf8dad99c794229c992e"
 
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/minecraft/textures/gui/sprites/hud/heart/frozen_hardcore_full_blinking.png"
-hash = "6c4b2c9819818223f9d57eaa61f3c9347ba47ebc49872b2315dbfe7f6384c4cd"
+hash = "ab76c42cc468af324463565332650fb858313ec287fca8bc72f87b10eee7e9d8"
 
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/minecraft/textures/gui/sprites/hud/heart/frozen_hardcore_half.png"
-hash = "a965f72f4f759c7b0c324889334e068e1c176d593ab24643cc173d61567f2177"
+hash = "6c5f6130dd6139bb6a4356902cd53aad761aea8e0a39b0855843a1f445685161"
 
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/minecraft/textures/gui/sprites/hud/heart/frozen_hardcore_half_blinking.png"
-hash = "7d46c1517cdb8e1f55c41d4bea9537704354c74a0e588116069645330d552d75"
+hash = "6740d57cc2a9c252eea49798215d1514079eef4ffa43b98607dec5b054f48099"
 
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/minecraft/textures/gui/sprites/hud/heart/full.png"
-hash = "2fd0635c347ba21788c3f5323a3a23a8cecce5bd4cbb1e08aafae808fe222dc6"
+hash = "f4507b01824765bf241ab4fb303e8acb465af036b54bbd82a3c1215e1496880b"
 
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/minecraft/textures/gui/sprites/hud/heart/full_blinking.png"
-hash = "68a523e461d8c399ecf7707d9a784ac0d197ca18c9b6ef02f11270577d58ea7e"
+hash = "571571f458dc25ad01b4e7cfc7ab314006096691358053698ff94666fef117f9"
 
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/minecraft/textures/gui/sprites/hud/heart/half.png"
-hash = "8341a3f20c49d73c21bb6d64a07018d40ec275d948657aa62dd45ac371383c69"
+hash = "2047f729f43b220ff40e9f935fce542fa9bfd01f2e6964aa567f8944c7e831aa"
 
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/minecraft/textures/gui/sprites/hud/heart/half_blinking.png"
-hash = "a3fa7ebad3d570426c3d0f72f89764d997f0dcdb7bed39e1eb50c67f3fec7c28"
+hash = "760c5874b7f48962eb1973653e5e6641313878fafa4962ad9035d5a9dfee893e"
 
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/minecraft/textures/gui/sprites/hud/heart/hardcore_full.png"
-hash = "5d12b069be377587b2502ea505f62d5779f52f721c75c4b2ac558840d21880af"
+hash = "c0fb1c81be70735648a49a30b028b49487ae67bad8d12edb2bd8e538cbb7077d"
 
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/minecraft/textures/gui/sprites/hud/heart/hardcore_full_blinking.png"
-hash = "2fe0c913cf39d571d845eec0b35177e9411e330a0873f701dacb97ddd82ed4fe"
+hash = "0141a625e3604f75e18c2a9066c7c9bd92abf04675bad67f7f353805fa1fa97e"
 
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/minecraft/textures/gui/sprites/hud/heart/hardcore_half.png"
-hash = "e716b39f743bb18be158c05484b99930eb77a1ee1ec1ca1af179122a163c1644"
+hash = "31051e49d75c54cfcd6ad65ccbad8e82931258970722890107abbffa602f900d"
 
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/minecraft/textures/gui/sprites/hud/heart/hardcore_half_blinking.png"
-hash = "dc1e873f6545d27dfa6f8a8cf73352c75556d1f29808e5ee81b67305878d98f8"
+hash = "8bb903d2ccc056aba980da968374c1549b33f6e8be452ffc317e4b80cbc22f45"
 
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/minecraft/textures/gui/sprites/hud/heart/poisoned_full.png"
-hash = "1ed7692cca544006f142af7953a02a7c52ed50c97bd67d56c9277215885b4e08"
+hash = "b335ef3fa143c956150b8d3a191c7e2f83692d6f855203466c685f950707f349"
 
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/minecraft/textures/gui/sprites/hud/heart/poisoned_full_blinking.png"
-hash = "31556a554eb6d4182f484e2baa5193ef7094162be166e284cc079ed2e628a648"
+hash = "4ab4da980ce0af8d4a0f60cb035c5ec80450f89b66d7ff26e588af71c8324dee"
 
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/minecraft/textures/gui/sprites/hud/heart/poisoned_half.png"
-hash = "0e32efe050090c21196dcadc80b8ebf463708592f6a7f198953a3109548d32bc"
+hash = "85ece4acccf601b88bb9199d3109ede809ebac58d736da6bc63bb4c1738a88e5"
 
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/minecraft/textures/gui/sprites/hud/heart/poisoned_half_blinking.png"
-hash = "13095883867b5fdcb178365c369bdefcf48873fa2c727459e951ffc6fc6d3899"
+hash = "7a6bcc07739602d02e2545025bcf32800e525d8356a55e1aa37490657d3c0af1"
 
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/minecraft/textures/gui/sprites/hud/heart/poisoned_hardcore_full.png"
-hash = "f1667c6666519e4378c9d3e80d2d6116570ee316613621df5ddc425ed70f29c8"
+hash = "285335e433dc8b5566d81e99fe0800feaeefd30bce086508160f4f9a56a1f65d"
 
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/minecraft/textures/gui/sprites/hud/heart/poisoned_hardcore_full_blinking.png"
-hash = "c4f0a041ccf5950a7627d81b4ecaa7146c9d04d30ee8f54906765ccb6d361887"
+hash = "b4e88d77274644f6b23cfb8ba60cc881ef9626b325665ba5c0f9c764da2fee66"
 
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/minecraft/textures/gui/sprites/hud/heart/poisoned_hardcore_half.png"
-hash = "c754c58eab1a381df4a3f2d0d1c7560c2f22d606ea0589686ddfbe4f4c400225"
+hash = "c5ffc5e019d9ff1bff8748d355d21d79f60a7767bf4ed180511ddd21f729a588"
 
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/minecraft/textures/gui/sprites/hud/heart/poisoned_hardcore_half_blinking.png"
-hash = "2e88fd0ec612cc2188d9502f7f82e5f389698a52a0da8ade6acc1c886fe4b29b"
+hash = "b58eafd7e714515af7c2bd7381d2677a5e845bdebc24ade9157d2a2e02624d73"
 
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/minecraft/textures/gui/sprites/hud/heart/vehicle_container.png"
-hash = "2b39e05e9fc476790633ca797fdfd54a04ccd60d3c4adf20c57057aa762659a6"
+hash = "44b3ff3c43d1b673bbbb3afad2465cb291b6c3d15d45fa60dc98beb0875ff280"
 
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/minecraft/textures/gui/sprites/hud/heart/vehicle_full.png"
-hash = "0c87be075d673f31268428050ccc5bfb15e10c820cf49af8dc6fde0cb8c2152a"
+hash = "7394d03ac791ee08ed28f730056666b7e1a62359e619757a21fa6b016acbe318"
 
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/minecraft/textures/gui/sprites/hud/heart/vehicle_half.png"
-hash = "813558a5d97f6862979cc38c648fa54cab27056a0d1b09939eb0f8f8cdf68ea1"
+hash = "e46ff7e3f83e737160ca321d52a9d636b0812989d55bae0885858aca08d3c546"
 
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/minecraft/textures/gui/sprites/hud/heart/withered_full.png"
-hash = "8a940d9058974134ef0c9c469e6c3f8662b95c1db399d21b6bf71e15f0cf6542"
+hash = "10be34eb58a91eb3e1585bdf48f373db97e01aa110d05e67f34577286df18fb4"
 
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/minecraft/textures/gui/sprites/hud/heart/withered_full_blinking.png"
-hash = "0901d00905d1e3f0044e31c7469b48408962185e9f3e74be05901059a1804a2e"
+hash = "e2da1df8cec46f070e0ab629696fd538175f82427d8847d38e1d8ef38c591439"
 
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/minecraft/textures/gui/sprites/hud/heart/withered_half.png"
-hash = "b90f1f5b72e4ab7910e99d1850a9eb7cb88c6ce77b931154b0ea9e575c9c2f6a"
+hash = "8d9c5b7b7cb1803a54b02564c22b7aad5c8c8b1552b8d21c2488d43f42f03a1e"
 
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/minecraft/textures/gui/sprites/hud/heart/withered_half_blinking.png"
-hash = "2a97e7f783497e39340faf73f567e08a88993d53ed332d511e3182dc6d998926"
+hash = "7edd84731ecae4c4ad5c2140c1e7e2be847db330c016745289d0b5017a93d696"
 
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/minecraft/textures/gui/sprites/hud/heart/withered_hardcore_full.png"
-hash = "8ef86dbd6d3aa2c0460c6f3b395b186d81517f9e448216ecd66776e3d653b3ac"
+hash = "a0c79a585f353b0242e5fd9eb02d00afc0fa250aabb1fdce3660d05a8281dc4d"
 
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/minecraft/textures/gui/sprites/hud/heart/withered_hardcore_full_blinking.png"
-hash = "7bc526d91c425a9a11483c3cdf71c4ed11ea14afc69468b97a6ce643e53ff478"
+hash = "fe567fd238d9f853e05166b997f40372fe9695853cc87e1138a700436f9c9c1d"
 
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/minecraft/textures/gui/sprites/hud/heart/withered_hardcore_half.png"
-hash = "936a434105d63a69cf8e11fc2808298cc1cc131c700e39ff2744fe69facfe716"
+hash = "6aa7e5aee60b6952b978f8a2ef715784bd4b904d1c0ce0ba4e9688748871f3d6"
 
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/minecraft/textures/gui/sprites/hud/heart/withered_hardcore_half_blinking.png"
-hash = "fc14a952fbdae2e0b17333228cfdb56c13847f628c973886426fb1e86c257a0f"
+hash = "a750c19aacd3620d7bd7aebd21a417eda57ddaeebb326fba28356d114714ac8f"
 
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/minecraft/textures/gui/sprites/hud/hotbar.png"
-hash = "d7afd5e6680709c40f8bf7cd83b4335618f1b04a2b37a91625ce197b5f649225"
+hash = "26a54598fcef7a296d6ad96df91a660749518e920ea9af9a9f2246c9f5ae71a2"
 
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/minecraft/textures/gui/sprites/hud/hotbar_attack_indicator_background.png"
-hash = "bcc2cb0eefc25319285280dd45312b4c62c239fd58ceb760e9339b58e5c98fa6"
+hash = "eef5b0bd382de4cc2f2566dfdce7603c0411edca651ce1f7922ad2c519f6e172"
 
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/minecraft/textures/gui/sprites/hud/hotbar_attack_indicator_progress.png"
-hash = "832db8f0d5cd223aec028480d625f08022834cf9c401ad923875a4bfa65299ab"
+hash = "5fc054c660615f12096aa0a2381f55389e5b3ef9448a26e30bdb50e770a83dbc"
 
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/minecraft/textures/gui/sprites/hud/hotbar_offhand_left.png"
-hash = "1fc95a19596d380c21c8dc1437634a495e2e77490e55f8f5f84d69a591ee2e91"
+hash = "8d2001447cfa3a06630059781025046c36ff2b9504bcd057d43d70143cdeda00"
 
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/minecraft/textures/gui/sprites/hud/hotbar_offhand_right.png"
-hash = "3c9b072cc55a5e9d2c496df1eb57bc29eeda3ef0e888fee4242ea216c41200a6"
+hash = "283c7e404b1ee3f345384a4c3681599a07c68ddeda658cf3b52400cb8cee2a9d"
 
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/minecraft/textures/gui/sprites/hud/hotbar_selection.png"
-hash = "c6411e45bbc68e20e9510943ac0dc087622d2aa093172b1ae7a712457211d269"
+hash = "5d140b94dae8f6e56df8f9967b264e7802140072bbb521b61cc6ec58e04b8484"
 
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/minecraft/textures/gui/sprites/hud/jump_bar_background.png"
-hash = "42ee4aca932b0d06db235fd2f2eacffb787731de6d355488122f1e6a31a9442f"
+hash = "3e5b006bc7137824b03cc03e5d911afbb5f1b7a0797ca5f4cf4a8a47894bd3df"
 
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/minecraft/textures/gui/sprites/hud/jump_bar_cooldown.png"
-hash = "38bc9e32e3f4ce5e24d12b37186ef60119965a6d6cfa72ba2d408a5680dc7175"
+hash = "02d26ca104165d043cbb0f4dbb5e65bd76e54a20e6fdfb715104623a31633cb3"
 
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/minecraft/textures/gui/sprites/hud/jump_bar_progress.png"
-hash = "8a2a17ab191014d87bf8ef9e8a54a7a377f898a9cc3b061a493762e1793eb0cb"
+hash = "3bbcccd5f2a442c2c619e55f53a05a4326553e1884d56feaf850e9a5703fb71b"
 
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/minecraft/textures/gui/sprites/toast/advancement.png"
-hash = "eb62bde0ae88b3b63c6f803fa015e3ef933da35bf0c233b3710e55f73c009553"
+hash = "3f68848e755651f3cc8a8a393d55099e3989e940418fc381ab582acceef6f5d3"
 
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/minecraft/textures/gui/sprites/toast/recipe.png"
-hash = "3c4e3858ca82e6e43025948927e4005a7aeadc0121a8092b60f3664ee2e98e22"
+hash = "6ca2dd7c17e2a96e96f1c3ceb60860e02777f049089d51fbaedccbf592947710"
 
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/minecraft/textures/gui/sprites/toast/system.png"
-hash = "83d583de4498db2187cad5796957feea5f2888c340174b488e73dc1a13519bdb"
+hash = "7936e7c15ca7771aa50b421735d68d67202c55a4ba53ebe148e7e724bedca3e2"
 
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/minecraft/textures/gui/sprites/toast/tutorial.png"
-hash = "761ac73bc7d81589ae3a944bde139d4489c14ee0d6cf443b83905762499f1c50"
+hash = "86b92d07a37ff7c1d6af1f005a54c5390eb56fc45e89082ce9d330228fb735ee"
 
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/minecraft/textures/gui/sprites/widget/button.png"
-hash = "3399b4cc69c30ce9ef35581d1e377c50c764d5fc12f6d9c8414729f25f5ad4de"
+hash = "7a03131ae1b8305d7af2c292373c1b21dac23c8e9ff6e48bf2bbe1d2e3459b5c"
 
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/minecraft/textures/gui/sprites/widget/button.png.mcmeta"
@@ -6756,7 +6756,7 @@ hash = "305cc395cd8eece44f7fe114558df0f94ee0038c39bf42dd72e629ef386fb93a"
 
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/minecraft/textures/gui/sprites/widget/button_disabled.png"
-hash = "a6ab9cd510af848acf9ce1bfc78a071eb2bbd30210f5c20159855ab7de753cde"
+hash = "576387ab8b7382058c7953115e4f7d8ba92887477986a4a34022000421c84c25"
 
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/minecraft/textures/gui/sprites/widget/button_disabled.png.mcmeta"
@@ -6764,7 +6764,7 @@ hash = "e3177aec3d3554f23bbf7da1ea7edb714a2cc149bb0c5ccdd45eeb43914b75fa"
 
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/minecraft/textures/gui/sprites/widget/button_highlighted.png"
-hash = "5ee42131277a825b519456695551dd8703c4e837c28126cd0003b42e20d90691"
+hash = "9952d58a6f1a043093a9bd4cda94f58367ec4af65ead3dfb96085a8e55512d68"
 
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/minecraft/textures/gui/sprites/widget/button_highlighted.png.mcmeta"
@@ -6772,23 +6772,23 @@ hash = "305cc395cd8eece44f7fe114558df0f94ee0038c39bf42dd72e629ef386fb93a"
 
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/minecraft/textures/gui/sprites/widget/checkbox.png"
-hash = "dac4ba8127d35029433ea57ae20a3a8e868e33c3f0f6695f4659b0f7b462aae5"
+hash = "91a2cca46869d197598c58c0abfd08ad279c8fd1a181a317d34d681ca4bcfcac"
 
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/minecraft/textures/gui/sprites/widget/checkbox_highlighted.png"
-hash = "7f658dc97df2fbbaee46c585e61cf2978f4298fd420ef22953961ea45ae5d59c"
+hash = "a4883b79413797329d4d197c797e9310c231d363090a9977275705b4f812c981"
 
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/minecraft/textures/gui/sprites/widget/checkbox_selected.png"
-hash = "192e59b3907968064b06f13327219577e5d2a897b9427a754d0bacfdc49bdf57"
+hash = "6a4e5699a81435fe69bcd9606c6dadde97276e20dfc57ae8590da0dd1048eb81"
 
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/minecraft/textures/gui/sprites/widget/checkbox_selected_highlighted.png"
-hash = "773934f7c8041395b5b3f923f700b9358bf13df643a832a5a5993678c7c673f4"
+hash = "05fa7cb868ab9d431724744599aacb65a1501127550d995b75cb5137396c68d2"
 
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/minecraft/textures/gui/sprites/widget/scroller.png"
-hash = "7002a75acb4d0375ba03f7a08d8257e013f09f67e1b6a3a6baf34585487d9532"
+hash = "f5f845cc3d6e43cbb44a9e8b9c3a3c6721ecc0ed836baad1e117a9249a147296"
 
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/minecraft/textures/gui/sprites/widget/scroller.png.mcmeta"
@@ -6796,7 +6796,7 @@ hash = "a7a4213011b3f07a7bb8f5e81fec3dfe73fed925eff8b609ba8bbc193fa078a9"
 
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/minecraft/textures/gui/sprites/widget/scroller_background.png"
-hash = "2a26870083b70370ae162a10a530fe52ec473b762b04e74e86ce0d1824a53f6c"
+hash = "d9695b30ae0e32063ea2c42472118603cce5dc7af9355f7b0091698caa1d251f"
 
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/minecraft/textures/gui/sprites/widget/scroller_background.png.mcmeta"
@@ -6804,7 +6804,7 @@ hash = "a7a4213011b3f07a7bb8f5e81fec3dfe73fed925eff8b609ba8bbc193fa078a9"
 
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/minecraft/textures/gui/sprites/widget/slider.png"
-hash = "a5c4a73f6968d0020cd0cf40d2ee2aed65b96560e9d9cc4a4e0d07576797bc46"
+hash = "8bb43652d435c724f990690e5c4f88be2c0942de257f49ff825e0761d91abb16"
 
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/minecraft/textures/gui/sprites/widget/slider.png.mcmeta"
@@ -6812,7 +6812,7 @@ hash = "e3177aec3d3554f23bbf7da1ea7edb714a2cc149bb0c5ccdd45eeb43914b75fa"
 
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/minecraft/textures/gui/sprites/widget/slider_handle.png"
-hash = "74a93bb4d651333df92b13d7979de3aeef37b20d5d9a4950c2a3e80f8434dbf9"
+hash = "fca49434973aabc825914ac6387ac25d889fb4e9ccbbf46ab477bb27e4c2f1d5"
 
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/minecraft/textures/gui/sprites/widget/slider_handle.png.mcmeta"
@@ -6820,7 +6820,7 @@ hash = "0126c111bc6b5a7700d5fcd1949eb46c003b5333442b307aae1c2c890990c049"
 
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/minecraft/textures/gui/sprites/widget/slider_handle_highlighted.png"
-hash = "1254253ebaa6f7583644f8354f28a3b78bdb8ee85a5e39ea3c1dec04da0dfe79"
+hash = "a467231e277d2944011fcd3f86be4162c348eca98c4c637b82ee9cd8a777c9a6"
 
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/minecraft/textures/gui/sprites/widget/slider_handle_highlighted.png.mcmeta"
@@ -6828,7 +6828,7 @@ hash = "0126c111bc6b5a7700d5fcd1949eb46c003b5333442b307aae1c2c890990c049"
 
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/minecraft/textures/gui/sprites/widget/slider_highlighted.png"
-hash = "48ecb6d2a02cbc24a28cd974aa77970b2ff4e78a7a7b480212fc50fbcd401617"
+hash = "18e241662876edd676d394c6039b5d18fb12a7e0900a7d7d634669c8fd67f4e4"
 
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/minecraft/textures/gui/sprites/widget/slider_highlighted.png.mcmeta"
@@ -6836,7 +6836,7 @@ hash = "e3177aec3d3554f23bbf7da1ea7edb714a2cc149bb0c5ccdd45eeb43914b75fa"
 
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/minecraft/textures/gui/sprites/widget/tab.png"
-hash = "1b6f2f34b518867fc974b45a8e7e17f77b8158a14f77e6836219416076e9b3e4"
+hash = "d1c1ed3dd09acfa545d59546ef94871604f6b7d8c3f37980c6fe0c8269f2f348"
 
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/minecraft/textures/gui/sprites/widget/tab.png.mcmeta"
@@ -6844,7 +6844,7 @@ hash = "27637ad847b94442c880b08519f0f62fc3ad3f4355d963a458d3f03b94f0f255"
 
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/minecraft/textures/gui/sprites/widget/tab_highlighted.png"
-hash = "95cce78197da7fee336da2fc78b21a46eeb36215378cf813f05ff90393b3b64b"
+hash = "047972e9b9836d66d2e19625665818f6bbb63fdae38d86d35457e3ead13a4789"
 
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/minecraft/textures/gui/sprites/widget/tab_highlighted.png.mcmeta"
@@ -6852,7 +6852,7 @@ hash = "27637ad847b94442c880b08519f0f62fc3ad3f4355d963a458d3f03b94f0f255"
 
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/minecraft/textures/gui/sprites/widget/tab_selected.png"
-hash = "d4217d87750b049f17f0ebdba761a37a8ce8dd4d305c8013a6aedf1d2941cf31"
+hash = "975cad811cf087a266ee3d9c6540e6e7743876ac5a21b1f304be4d386a1d846b"
 
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/minecraft/textures/gui/sprites/widget/tab_selected.png.mcmeta"
@@ -6860,7 +6860,7 @@ hash = "27637ad847b94442c880b08519f0f62fc3ad3f4355d963a458d3f03b94f0f255"
 
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/minecraft/textures/gui/sprites/widget/tab_selected_highlighted.png"
-hash = "04aebe83b1c61c2fd554b28d5919ebc7caf662f24c9c8d32d74a659a418d141b"
+hash = "d3710a2e10a8579448e749a6ae80dc1160d52d8a493290a5ebf1cb6f3b0fdf2d"
 
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/minecraft/textures/gui/sprites/widget/tab_selected_highlighted.png.mcmeta"
@@ -6868,7 +6868,7 @@ hash = "27637ad847b94442c880b08519f0f62fc3ad3f4355d963a458d3f03b94f0f255"
 
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/minecraft/textures/gui/sprites/widget/text_field.png"
-hash = "544eaa89a8e0d13ba0e43b69f0b23b8991effaabefcb9424db00473d959b18f3"
+hash = "a73845dbfd48ec2175c321b5e3e851807beeb8d9de71c3f64651f915f3c168f5"
 
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/minecraft/textures/gui/sprites/widget/text_field.png.mcmeta"
@@ -6876,7 +6876,7 @@ hash = "e3177aec3d3554f23bbf7da1ea7edb714a2cc149bb0c5ccdd45eeb43914b75fa"
 
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/minecraft/textures/gui/sprites/widget/text_field_highlighted.png"
-hash = "c1362df367bb949cf70d6eea1302b410c76ea5cb9e47a05307bf0b67bac57678"
+hash = "d1b7269ec96cfa45c39f1ab7155a8504a8e5b30fd88934cb326a7a7df6d0805c"
 
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/assets/minecraft/textures/gui/sprites/widget/text_field_highlighted.png.mcmeta"
@@ -6888,7 +6888,7 @@ hash = "0abef9fd1b16f698b54056454c1eb21efaa8258ca32119fd1de200704dc0f973"
 
 [[files]]
 file = "resourcepacks/Christmas Craft HUD/pack.png"
-hash = "4717fa7c5c7102c297c35de99e77ce655483e5a53200fb59b83e7a253c3bcb1c"
+hash = "470e09ac6cdc2342ea6f0a23c5bd5806db2a8a6d71d9ebb563271aedab6ad3e7"
 
 [[files]]
 file = "resourcepacks/Christmas Craft Quest Art/assets/christmascraft/models/item/crate_advent.json"

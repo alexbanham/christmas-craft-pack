@@ -16,13 +16,19 @@
 	"quest.5C4021278DDB9FBD.title": "The North Pole Village"
 	"quest.5C4021278DDB9FBD.quest_subtitle": "Where everyone meets."
 	"quest.5C4021278DDB9FBD.quest_desc": [
-		"A small village at spawn holds what everyone shares: a Cashier's Cage (your bank; you can craft a Cage of your own too), the Prize Counter beside it, Santa's Shop, the Elf Mail Desk, the Advent Kiosk and the Wheel of Gifts. The card and wheel tables are built by players: sit at a friend's, or build your own. Visit the Cage and Santa's Shop."
+		"Near the spawn point stand what everyone shares, and the village is yours to build around them: the Cashier's Cage (your bank), the Prize Counter (prizes for Tinsel), Santa's Shop (supplies for chips), the Elf Mail Desk (shifts for chips), the Advent Kiosk (December's cards and draw) and the Wheel of Gifts. Visit the Cage and Santa's Shop."
 	]
 	"task.3A729D1958633019.title": "Got it"
 	"quest.4E56D1E7607E0D8E.title": "How Money Works"
 	"quest.4E56D1E7607E0D8E.quest_subtitle": "Chips, the bank and Tinsel."
 	"quest.4E56D1E7607E0D8E.quest_desc": [
 		"Chips are the money, and only work pays them. The Cashier's Cage banks them, safe from death. Settled bets at house games also earn Tinsel, for the Prize Counter. Gift Chips only bet: at Jingle Reels, Video Poker and the Wheel. First: work an Elf Shift for pocket money, then start Create."
+	]
+	"task.053994D9F1F04724.title": "Got it"
+	"quest.114796961940F15A.title": "The Money Loop"
+	"quest.114796961940F15A.quest_subtitle": "Work, play, prizes, and back to chips."
+	"quest.114796961940F15A.quest_desc": [
+		"Work pays chips: Elf Shifts, the Exchange and sacks for Santa's Sleigh. Spend them at Santa's Shop or bet them at the casino, where every settled bet also earns Tinsel, win or lose (\"+N Tinsel\" shows when the round ends). Tinsel buys prizes, drinks and Mint blanks at the Prize Counter; a Mint strikes blanks back into chips, never all that play cost."
 	]
 	"chapter.2EA6984255333DCF.title": "The First Machines"
 	"chapter.2EA6984255333DCF.chapter_subtitle": [
@@ -568,7 +574,7 @@
 	"quest.413578C19C63379D.title": "Take the Pot"
 	"quest.413578C19C63379D.quest_subtitle": "Texas Hold'em."
 	"quest.413578C19C63379D.quest_desc": [
-		"Sit down at a Poker Table with friends and play Texas Hold'em from your own stack. There is no rake: every chip in the pot goes to the players, and the chips you win are other players'. Use your face-down cards to pick them up and look. Win a pot at showdown or by making everyone else fold."
+		"Sit down at a Poker Table with friends and play Texas Hold'em from your own stack. No rake: every chip in the pot goes to the players. Use your face-down cards to pick them up and look. Win a pot at showdown or by making everyone else fold. Cards hard to read from your seat? Turn on the card strip in Mods > Christmas Craft Casino > Config."
 	]
 	"quest.51B3770383EDC517.title": "Ultimate Texas Hold'em"
 	"quest.51B3770383EDC517.quest_subtitle": "You against the house."
@@ -1141,6 +1147,27 @@
 	"chapter.511C154DE343C9D2.chapter_subtitle": [
 		"Climb the ladder: status, never chips."
 	]
+	"task.40E7C3D7D3D660AB.title": "Got it"
+	"quest.53F398DCB3C37FED.title": "The High Roller's Ladder"
+	"quest.53F398DCB3C37FED.quest_subtitle": "One climb, card by card."
+	"quest.53F398DCB3C37FED.quest_desc": [
+		"Your rank is the chips you have wagered at the house games. Losing climbs it as surely as winning, and it never goes down. Each rank brings its card, a title and the Prize Counter shelf of the same name:"
+		"Elf Card at 10,000 chips wagered; Reindeer Card at 100,000; Sleigh Card at 1,000,000; North Star Card at 10,000,000; Santa's Circle Card at 50,000,000."
+	]
+	"task.299180E19E56F4AD.title": "Got it"
+	"quest.7AFD9F19F49554E6.title": "Tinsel Rates"
+	"quest.7AFD9F19F49554E6.quest_subtitle": "Game by game."
+	"quest.7AFD9F19F49554E6.quest_desc": [
+		"How fast Tinsel comes depends on the game, not on whether you win. Riskier games earn more:"
+		"Tinsel for every 100 chips bet, with no luck: Video Poker 0.21, Blackjack 0.45, Baccarat 0.80 to 14.25, Ultimate Texas Hold'em 0.90, Snowball Roulette 2.65, Jingle Reels 3.28, Reindeer Derby 9.76 to 10.30, Wheel of Gifts 11.06 to 24.02, Advent Scratcher 19.92."
+	]
+	"task.12B704EEE3B01EFE.title": "Got it"
+	"quest.1F17B86C229F752E.title": "Saving Up"
+	"quest.1F17B86C229F752E.quest_subtitle": "The cheapest prize on each shelf."
+	"quest.1F17B86C229F752E.quest_desc": [
+		"Time to each shelf's cheapest useful prize, priced in Tinsel:"
+		"Betting 1,000 chips a spin at Snowball Roulette, 40 spins an hour: Elf Card, Velvet Rope Post at 200: about 10 minutes; Reindeer Card, Velvet Earmuffs at 800: about 45 minutes; Sleigh Card, High Roller Statue at 25,000: about 24 hours; Santa's Circle Card, Star Dust at 10,000: about 9 hours."
+	]
 	"quest.38391200E39FA1C3.title": "The Elf Card"
 	"quest.38391200E39FA1C3.quest_subtitle": "Where the ladder starts."
 	"quest.38391200E39FA1C3.quest_desc": [
@@ -1207,7 +1234,7 @@
 	"quest.152F345C5D24021B.title": "Tinsel"
 	"quest.152F345C5D24021B.quest_subtitle": "What the house keeps, you earn."
 	"quest.152F345C5D24021B.quest_desc": [
-		"Every bet you settle at a house game earns Tinsel: one for each chip the house expects to keep, so riskier games and bigger bets earn more. Texas Hold'em between players, Gift Chips, free spins, refunds and pushes earn none, and a lucky drink earns less. Tinsel is a balance, not an item: see it at the Cashier's Cage and spend it at the Prize Counter."
+		"Tinsel is the casino's thanks for playing, win or lose: each settled bet at a house game earns one Tinsel for every chip the house expects to keep, so riskier games earn more, and bigger rounds earn up to 40% more. A \"+N Tinsel\" note shows each round's. Hold'em between players, Gift Chips, refunds and pushes earn none. Spend it at the Prize Counter."
 	]
 	"task.11DF351145BC6421.title": "Open the Prize Counter"
 	"quest.380176687E1624B6.title": "The Prize Counter"
