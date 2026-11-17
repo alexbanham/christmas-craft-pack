@@ -138,7 +138,7 @@ hash = "964cf13e06629164ab2e9c57e19ff53fb8386454d2b101315d2ab3a537659a39"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/high_roller.snbt"
-hash = "422e912519b411513a4b6a5c0cc55f81cb3bde638e60d6f37b753dde5db99428"
+hash = "9fdc2eac07f8c9fc7b577947045eac8af1fd58e1fa5ab46f915bef8654bf9c6c"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/kitchen.snbt"
@@ -166,7 +166,7 @@ hash = "0f0dd92bd12924419250f799fb53dae7316d6f3f76540a6e75501be362c3a33f"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/welcome.snbt"
-hash = "00e4eaf3e9356ba1253198384af87ebc586a9234a65648d77c6d4bb0d9d5d005"
+hash = "ea9eddf2678351f93a8b5d042228d2ac1e53919732ac4dfed2ac172fa92ed8d7"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/workshop.snbt"
@@ -178,7 +178,7 @@ hash = "1968b1172f4184e36962ea8442accf213b5f8b69b998a18c8d4b045026441741"
 
 [[files]]
 file = "config/ftbquests/quests/lang/en_us.snbt"
-hash = "933bd8739817e1f88b2baee992500481156c6ba4995cbe67a45dc69031bf00a6"
+hash = "e720315a05f62f341098bf86aa4b7b0a37e7ceb336c9cc72ba962d749e9c8edd"
 
 [[files]]
 file = "config/ftbquests/quests/reward_tables/advent.snbt"
@@ -1199,7 +1199,7 @@ hash = "8892e94cbb6cd3fec2c69a0e15354f18fdf4d124119cc4e3e838ed15fe5c3695"
 
 [[files]]
 file = "mods/0-cccasino.pw.toml"
-hash = "5cf6894c49bc5452ad7ab1e4dbf1baf59bc69d4da6c4f33ba2ad531a8dae6734"
+hash = "44eb4110febb99a1e88609d2700b6d6cb763f77ca7bb78d511f3797d5b3371ee"
 metafile = true
 
 [[files]]

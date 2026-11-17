@@ -22,6 +22,117 @@
 	]
 	"quests": [
 		{
+			"id": "53F398DCB3C37FED"
+			"dependencies": [
+				"17B3295222734544"
+			]
+			"icon": {
+				"id": "cccasino:rank_card_santas_circle"
+			}
+			"x": 3.0d
+			"y": 2.5d
+			"shape": "square"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "40E7C3D7D3D660AB"
+					"type": "checkmark"
+				}
+			]
+			"rewards": [
+				{
+					"id": "016440720590824E"
+					"type": "xp"
+					"xp": 100
+				}
+				{
+					"id": "5E09E1DF64217FA2"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+				{
+					"id": "48DB8925E165FB08"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+			]
+			"optional": true
+		}
+		{
+			"id": "7AFD9F19F49554E6"
+			"dependencies": [
+				"53F398DCB3C37FED"
+			]
+			"icon": {
+				"id": "cccasino:chip_100"
+			}
+			"x": 6.0d
+			"y": 2.5d
+			"shape": "square"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "299180E19E56F4AD"
+					"type": "checkmark"
+				}
+			]
+			"rewards": [
+				{
+					"id": "7365A86DD44DF1C7"
+					"type": "xp"
+					"xp": 100
+				}
+				{
+					"id": "0DEAF8E9E00F5459"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+				{
+					"id": "258B1C0BD8231B4F"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+			]
+			"optional": true
+		}
+		{
+			"id": "1F17B86C229F752E"
+			"dependencies": [
+				"7AFD9F19F49554E6"
+			]
+			"icon": {
+				"id": "cccasino:prize_counter"
+			}
+			"x": 9.0d
+			"y": 2.5d
+			"shape": "square"
+			"size": 1.0d
+			"tasks": [
+				{
+					"id": "12B704EEE3B01EFE"
+					"type": "checkmark"
+				}
+			]
+			"rewards": [
+				{
+					"id": "3E3665D81AD33540"
+					"type": "xp"
+					"xp": 100
+				}
+				{
+					"id": "41346BD9FD723424"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+				{
+					"id": "5FC33088A15D4155"
+					"type": "random"
+					"table_id": 3429631832040481656L
+				}
+			]
+			"optional": true
+		}
+		{
 			"id": "38391200E39FA1C3"
 			"dependencies": [
 				"17B3295222734544"
