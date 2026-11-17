@@ -19,7 +19,6 @@
 <meta name="twitter:card" content="summary_large_image">
 <link rel="icon" type="image/png" sizes="32x32" href="assets/favicon-32.png">
 <link rel="apple-touch-icon" href="assets/icon-192.png">
-<link rel="preload" as="image" href="assets/hero-1920.jpg" imagesrcset="assets/hero-960.jpg 960w, assets/hero-1920.jpg 1920w" imagesizes="100vw">
 <style>
 :root {
   --bg: #0a1510; --bg-2: #0e1d15; --card: #12271c; --card-hi: #183324;
@@ -31,6 +30,7 @@
   --wrap: 1120px;
 }
 * { box-sizing: border-box; }
+[hidden] { display: none !important; }
 html { background: var(--bg); scroll-behavior: smooth; }
 @media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } }
 body { margin: 0; background: var(--bg); color: var(--ink); font: 17px/1.6 var(--sans); -webkit-font-smoothing: antialiased; }
@@ -293,7 +293,7 @@ footer a { color: var(--gold-hi); }
         <li class="feature">
           <img src="assets/quests.jpg" alt="A chapter of the quest book: quest icons joined by lines on a starry background." width="960" height="540" loading="lazy">
           <h3>A 439-quest book</h3>
-          <p>A quest for every machine and every multiblock piece, and quests pay chips.</p>
+          <p>A quest for every multiblock and each piece in it, and quests pay chips.</p>
         </li>
       </ul>
     </div>
