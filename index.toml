@@ -1230,6 +1230,11 @@ hash = "a3884721f16388ccd25e6239e6548cd6174be574b35595272bf737fb9c20b1bd"
 metafile = true
 
 [[files]]
+file = "mods/0-ftb-ultimine.pw.toml"
+hash = "361cc8988780b599d02f6232c0bc4debc1a31492e46efce05097e8cf7fd1ebaa"
+metafile = true
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "2dc498bd8a43a8e02fc9d08fe5846ac17f6eabbecbf38ae39aa7b1f23fe100b0"
 metafile = true
