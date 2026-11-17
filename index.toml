@@ -242,6 +242,10 @@ file = "config/vaportrails-client.toml"
 hash = "64489d2e66065474070d1d6496c75c31c0b2d819e95510ab6223847f0a81714f"
 
 [[files]]
+file = "config/xaero/minimap/default_radar_categories_client.json"
+hash = "7408dfb457f02644821b418b2ceb4114623d34ef567de74770c808b45406bd40"
+
+[[files]]
 file = "config/xaerohud.txt"
 hash = "6de57f88c55043cfafb952219205e2080da514284c822a277cd9f1ef804f0def"
 
