@@ -30,7 +30,7 @@ hash = "cca57b47b126f6411e71d00f6a74227028e8314101c847d47793ad6a1105c38b"
 
 [[files]]
 file = "config/aeronauticsdiscovery-common.toml"
-hash = "70c93a1793f55e81dc148d14d0d0da7274aafb6f9852914c604cb3c8f6db6844"
+hash = "9ea54d0d418a56e75b81dcf98c61bdd70d9a2e589924b8594c17f24dc21dbd57"
 
 [[files]]
 file = "config/aeroweather-common.toml"
@@ -1211,7 +1211,7 @@ hash = "8892e94cbb6cd3fec2c69a0e15354f18fdf4d124119cc4e3e838ed15fe5c3695"
 
 [[files]]
 file = "mods/0-cccasino.pw.toml"
-hash = "f701013dba3e2a2dc1dc60a6bad005ce04cdad1d777c6718a63dea12a42d665b"
+hash = "50b0e6decfe765ba16074383f7c7153392c85d04a85657445961106f0bd430ee"
 metafile = true
 
 [[files]]

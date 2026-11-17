@@ -14,7 +14,7 @@
 	#Extra distance in blocks beyond render distance at which a flyover is force-despawned. Set to 0 to despawn exactly at render distance edge.
 	# Default: 64
 	# Range: 0 ~ 1024
-	maxUnloadDistance = 64
+	maxUnloadDistance = 0
 	#When enabled, flyovers try to avoid spawning position where a block wall exists between the spawn point and the player. May introduce a minor performance overhead
 	obstacleCheck = false
 
