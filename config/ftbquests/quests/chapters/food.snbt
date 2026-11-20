@@ -35,10 +35,13 @@
 			"size": 1.25d
 			"tasks": [
 				{
-					"id": "7C1FC59D9C636C80"
-					"type": "advancement"
-					"advancement": "farmersdelight:main/place_cooking_pot"
-					"criterion": ""
+					"id": "6DCD6B5F5DBA13E8"
+					"type": "item"
+					"item": {
+						"id": "farmersdelight:cooking_pot"
+						"count": 1
+					}
+					"count": 1
 				}
 			]
 			"rewards": [
@@ -90,10 +93,13 @@
 			"size": 1.0d
 			"tasks": [
 				{
-					"id": "628B4EFF40EEA6EC"
-					"type": "advancement"
-					"advancement": "create:compacting"
-					"criterion": ""
+					"id": "63CE0461A39CF70A"
+					"type": "item"
+					"item": {
+						"id": "farmersdelight:potato_crate"
+						"count": 1
+					}
+					"count": 1
 				}
 			]
 			"rewards": [
@@ -210,10 +216,13 @@
 			"size": 1.25d
 			"tasks": [
 				{
-					"id": "38A6221B7A4E3C29"
-					"type": "advancement"
-					"advancement": "farmersdelight:main/place_feast"
-					"criterion": ""
+					"id": "425281A47BEBF06A"
+					"type": "item"
+					"item": {
+						"id": "farmersdelight:roast_chicken_block"
+						"count": 1
+					}
+					"count": 1
 				}
 			]
 			"rewards": [
@@ -258,7 +267,6 @@
 		{
 			"id": "6456CD14975F13E0"
 			"dependencies": [
-				"2717ECAC505E7892"
 				"19C3F2C1A2E9B511"
 			]
 			"icon": {

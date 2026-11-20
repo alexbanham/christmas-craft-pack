@@ -30,7 +30,7 @@
 				"id": "create:schematicannon"
 			}
 			"x": 5.0d
-			"y": 7.0d
+			"y": 8.0d
 			"shape": "circle"
 			"size": 1.0d
 			"tasks": [
@@ -72,7 +72,7 @@
 				"id": "create:mechanical_harvester"
 			}
 			"x": 7.5d
-			"y": 7.0d
+			"y": 8.0d
 			"shape": "circle"
 			"size": 1.0d
 			"tasks": [
@@ -114,7 +114,7 @@
 				"id": "minecraft:blackstone"
 			}
 			"x": 0.5d
-			"y": 9.5d
+			"y": 10.5d
 			"shape": "circle"
 			"size": 1.0d
 			"tasks": [
@@ -156,7 +156,7 @@
 				"id": "create:copper_backtank"
 			}
 			"x": 3.0d
-			"y": 9.5d
+			"y": 10.5d
 			"shape": "circle"
 			"size": 1.0d
 			"tasks": [
@@ -208,7 +208,7 @@
 				"id": "create:potato_cannon"
 			}
 			"x": 5.5d
-			"y": 9.5d
+			"y": 10.5d
 			"shape": "circle"
 			"size": 1.0d
 			"tasks": [
@@ -250,7 +250,7 @@
 				"id": "create:item_vault"
 			}
 			"x": 0.5d
-			"y": 7.0d
+			"y": 8.0d
 			"shape": "circle"
 			"size": 1.0d
 			"tasks": [
@@ -292,7 +292,7 @@
 				"id": "create_item_drawers:item_drawer_quad"
 			}
 			"x": 2.5d
-			"y": 7.0d
+			"y": 8.0d
 			"shape": "circle"
 			"size": 1.0d
 			"tasks": [
@@ -334,7 +334,7 @@
 				"id": "sophisticatedbackpacks:backpack"
 			}
 			"x": 8.0d
-			"y": 9.5d
+			"y": 10.5d
 			"shape": "circle"
 			"size": 1.0d
 			"tasks": [
@@ -376,7 +376,7 @@
 				"id": "create:rotation_speed_controller"
 			}
 			"x": 0.5d
-			"y": 11.5d
+			"y": 12.5d
 			"shape": "circle"
 			"size": 1.0d
 			"tasks": [
@@ -419,7 +419,7 @@
 				"id": "create:elevator_pulley"
 			}
 			"x": 3.0d
-			"y": 11.5d
+			"y": 12.5d
 			"shape": "circle"
 			"size": 1.0d
 			"tasks": [
@@ -462,7 +462,7 @@
 				"id": "create:extendo_grip"
 			}
 			"x": 5.5d
-			"y": 11.5d
+			"y": 12.5d
 			"shape": "circle"
 			"size": 1.0d
 			"tasks": [
@@ -504,7 +504,7 @@
 				"id": "create_bic_bit:aged_cheese"
 			}
 			"x": 8.0d
-			"y": 11.5d
+			"y": 12.5d
 			"shape": "circle"
 			"size": 1.0d
 			"tasks": [
@@ -546,7 +546,7 @@
 				"id": "farmersrespite:green_tea"
 			}
 			"x": 0.5d
-			"y": 13.5d
+			"y": 14.5d
 			"shape": "circle"
 			"size": 1.0d
 			"tasks": [
@@ -588,7 +588,7 @@
 				"id": "cccasino:casino_casing"
 			}
 			"x": 3.0d
-			"y": 13.5d
+			"y": 14.5d
 			"shape": "circle"
 			"size": 1.0d
 			"tasks": [
@@ -630,7 +630,7 @@
 				"id": "alexsmobs:animal_dictionary"
 			}
 			"x": 0.5d
-			"y": 2.5d
+			"y": 2.0d
 			"shape": "circle"
 			"size": 1.0d
 			"tasks": [
@@ -672,7 +672,7 @@
 				"id": "alexsmobs:froststalker_helmet"
 			}
 			"x": 2.5d
-			"y": 0.5d
+			"y": 5.5d
 			"shape": "circle"
 			"size": 1.0d
 			"tasks": [
@@ -710,8 +710,8 @@
 			"icon": {
 				"id": "alexsmobs:falconry_glove"
 			}
-			"x": 5.5d
-			"y": 4.5d
+			"x": 2.5d
+			"y": 3.5d
 			"shape": "circle"
 			"size": 1.0d
 			"tasks": [
@@ -749,8 +749,8 @@
 			"icon": {
 				"id": "alexsmobs:acacia_blossom"
 			}
-			"x": 2.5d
-			"y": 2.5d
+			"x": 4.5d
+			"y": 3.0d
 			"shape": "circle"
 			"size": 1.0d
 			"tasks": [
@@ -789,7 +789,7 @@
 				"id": "alexsmobs:straddle_saddle"
 			}
 			"x": 2.5d
-			"y": 4.5d
+			"y": 0.5d
 			"shape": "circle"
 			"size": 1.0d
 			"tasks": [
@@ -861,13 +861,13 @@
 		{
 			"id": "5AF8F151D65999EF"
 			"dependencies": [
-				"2EB056454744EDD6"
+				"7DF294648F05049B"
 			]
 			"icon": {
 				"id": "alexsmobs:mysterious_worm"
 			}
 			"x": 6.5d
-			"y": 1.0d
+			"y": 2.0d
 			"shape": "circle"
 			"size": 1.0d
 			"tasks": [

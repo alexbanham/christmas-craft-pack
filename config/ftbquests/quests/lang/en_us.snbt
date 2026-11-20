@@ -146,6 +146,7 @@
 	"chapter.318D9480C16EFFBE.chapter_subtitle": [
 		"Where Create gets clever."
 	]
+	"task.5EA25F9ECF713B44.title": "Hold a brass ingot"
 	"quest.162CE88B477B267E.title": "Brass"
 	"quest.162CE88B477B267E.quest_subtitle": "The metal of the machine age."
 	"quest.162CE88B477B267E.quest_desc": [
@@ -991,7 +992,7 @@
 	"quest.0B9F65B7550A5250.quest_desc": [
 		"Back-lit glass printed in red and gold: the topper of every Jingle Reels and Video Poker cabinet."
 		"Workshop: Press (Black-Core Board + Gold Ink + Red Ink + glass pane) = Cabinet Art."
-		"Goes into: Split-Flap Screen, Reel Drum Housing."
+		"Goes into: Split-Flap Screen, Gingerbread Village Slot Machine, Nutcracker March Slot Machine, Reel Drum Housing and 3 more."
 	]
 	"quest.2E56FCF595062EBA.title": "Slot Reels"
 	"quest.2E56FCF595062EBA.quest_subtitle": "Spun and printed."
@@ -1005,7 +1006,7 @@
 	"quest.6DC55892EFD35977.quest_desc": [
 		"Reels on one geared shaft, with a sequenced gearshift that stops them in turn."
 		"Mechanical Crafters, 3 wide by 2 tall: 3 Slot Reels + shaft + sequenced gearshift + precision mechanism = Reel Bank."
-		"Goes into: Reel Drum Housing."
+		"Goes into: Gingerbread Village Slot Machine, Nutcracker March Slot Machine, Reel Drum Housing, Sleigh Bell Haul Slot Machine and 2 more."
 	]
 	"quest.107A1B27166EE8B2.title": "The Reel Drum Housing"
 	"quest.107A1B27166EE8B2.quest_subtitle": "Behind an iron bezel."
@@ -1026,6 +1027,36 @@
 		"{image:cccasino:textures/gui/quest/mb_slot_cabinet.png width:200 height:78 align:center}"
 		""
 		"{image:cccasino:textures/gui/quest/mb_plan_slot_cabinet.png width:200 height:78 align:center}"
+	]
+	"quest.77905CDF0529AACA.title": "Sleigh Bell Haul"
+	"quest.77905CDF0529AACA.quest_subtitle": "Presents and a sleigh bell."
+	"quest.77905CDF0529AACA.quest_desc": [
+		"A slot machine with its own screen: in the free spins every Sleigh collects the presents. A turning shaft goes into the back of the lower block."
+		"Workshop: Press (2 Reel Banks + Cabinet Art + bell), then Lathe (2 brass sheets + 2 redstone lamps) = Sleigh Bell Haul Slot Machine."
+	]
+	"quest.25A8ED5D30AD25A7.title": "Snowball Fight!"
+	"quest.25A8ED5D30AD25A7.quest_subtitle": "Splats on the reels."
+	"quest.25A8ED5D30AD25A7.quest_desc": [
+		"A slot machine with its own screen: a splat turns its whole reel wild. A turning shaft goes into the back of the lower block."
+		"Workshop: Press (2 Reel Banks + Cabinet Art + 4 snow blocks), then Lathe (2 brass sheets + 2 redstone lamps) = Snowball Fight! Slot Machine."
+	]
+	"quest.267CE5DFA933F208.title": "Gingerbread Village"
+	"quest.267CE5DFA933F208.quest_subtitle": "Houses, ovens and jackpots."
+	"quest.267CE5DFA933F208.quest_desc": [
+		"A slot machine with its own screen: enough houses on one spin start the Bake-Off. A turning shaft goes into the back of the lower block."
+		"Workshop: Press (2 Reel Banks + Cabinet Art + 4 cookies), then Lathe (2 brass sheets + 2 redstone lamps) = Gingerbread Village Slot Machine."
+	]
+	"quest.2458C20B0DC988B2.title": "Toy Factory Tumble"
+	"quest.2458C20B0DC988B2.quest_subtitle": "Toys that tumble."
+	"quest.2458C20B0DC988B2.quest_desc": [
+		"A slot machine with its own screen: winning toys tumble away and new ones drop in. A turning shaft goes into the back of the lower block."
+		"Workshop: Press (2 Reel Banks + Cabinet Art + 4 cogwheels), then Lathe (2 brass sheets + 2 redstone lamps) = Toy Factory Tumble Slot Machine."
+	]
+	"quest.3CFEC80388472529.title": "Nutcracker March"
+	"quest.3CFEC80388472529.quest_subtitle": "Soldiers on the march."
+	"quest.3CFEC80388472529.quest_desc": [
+		"A slot machine with its own screen: Nutcracker soldiers march across the reels. A turning shaft goes into the back of the lower block."
+		"Workshop: Press (2 Reel Banks + Cabinet Art + note block), then Lathe (2 brass sheets + 2 redstone lamps) = Nutcracker March Slot Machine."
 	]
 	"quest.02CF580964732304.title": "The Flap Card Bank"
 	"quest.02CF580964732304.quest_subtitle": "Varnished leaves on one axle."
@@ -1344,7 +1375,7 @@
 	"quest.104CDB77A0213D10.title": "Egg Yolk on Tap"
 	"quest.104CDB77A0213D10.quest_subtitle": "A roost, a drain, and no more cracking."
 	"quest.104CDB77A0213D10.quest_desc": [
-		"Catch a chicken with an empty roost (or lead it in) and it lays without wandering off; feed it seeds by belt or arm and it lays faster. Roll the eggs over an item drain: each gives 250 mB of yolk and a shell. Yolk goes into cake batter, salty dough, fish fillets and fried rice."
+		"Catch a chicken with an empty roost (or lead it in) and it lays without wandering off; feed it seeds by belt or arm and it lays faster. Roll the eggs over an item drain: each gives 250 mB of yolk and a shell. Fill a bucket from the tank. Yolk goes into cake batter, salty dough, fish fillets and fried rice."
 	]
 	"quest.4BFBB952CD9B7A3A.title": "The Dairy"
 	"quest.4BFBB952CD9B7A3A.quest_subtitle": "Milk in the pipes, butter in the basin."
@@ -1359,7 +1390,7 @@
 	"quest.0C91B1F3D7CA477C.title": "Balanced Diet"
 	"quest.0C91B1F3D7CA477C.quest_subtitle": "One spout, three fluids, three treats."
 	"quest.0C91B1F3D7CA477C.quest_desc": [
-		"Make chocolate in a heated mixer from sugar, cocoa beans and 250 mB of milk. Then feed one spout from your milk, honey and chocolate tanks in turn: milk on bread for a sweet roll, honey on an apple, chocolate on sweet berries. The advancement only counts if all three come from the same spout."
+		"Make chocolate in a heated mixer from sugar, cocoa beans and 250 mB of milk. Then feed one spout from your milk, honey and chocolate tanks in turn: milk on bread for a sweet roll, honey on an apple, chocolate on sweet berries. Bring one of each."
 	]
 	"quest.752B3FBA592B0F14.title": "Eggnog on Tap"
 	"quest.752B3FBA592B0F14.quest_subtitle": "Milk, eggs, sugar, no heat."
@@ -1738,7 +1769,6 @@
 	"quest.00754BCDE6C9641E.quest_desc": [
 		"Track is made on a sequenced line: a stone, smooth stone or andesite slab gets two iron or zinc nuggets from deployers, then a press. Make a stack. To lay it, use one track, then the spot where the line should end. Hold sprint for the widest curve; blocks in your off hand pave underneath."
 	]
-	"task.32AF803CCDA09DAD.title": "Make railway casing"
 	"quest.5E16FB8B30A23365.title": "The Locomotive Age"
 	"quest.5E16FB8B30A23365.quest_subtitle": "Sturdy sheets on brass."
 	"quest.5E16FB8B30A23365.quest_desc": [
@@ -1749,37 +1779,31 @@
 	"quest.3376332F85C2BC37.quest_desc": [
 		"Railway casing and a compass make two stations. Hold one, use it on the track, then place it beside the line: the arrow shows the way trains pull in. Open it and give it a name. Put one at your base and one at the far end of your line. Everything after this runs between them."
 	]
-	"task.76F68D793D47C772.title": "Assemble a train at your station"
 	"quest.09CBD509258B299C.title": "Your First Train"
 	"quest.09CBD509258B299C.quest_subtitle": "Bogeys, glue and controls."
 	"quest.09CBD509258B299C.quest_desc": [
 		"Open the station and switch to Assembly Mode. Use railway casing on the first track past the station for a bogey. Build a carriage on it and super glue it all. Add train controls (casing, precision mechanism, lever) facing the way you will drive, and a seat. Then press Assemble."
 	]
-	"task.2BDCF762D4A36E49.title": "Blow a whistle while you drive"
 	"quest.7CAB89688766184B.title": "Choo Choo!"
 	"quest.7CAB89688766184B.quest_subtitle": "Take her out on the line."
 	"quest.7CAB89688766184B.quest_desc": [
 		"Use the controls to drive: W and S for speed, A and D choose the way at junctions, the mouse wheel sets top speed, and holding Space stops at the next station. A steam whistle on a fluid tank on board blows with sprint. Coal in a chest on board speeds the train up. Drive to your other station."
 	]
-	"task.76BDF76FC0469B57.title": "Give a train driver a schedule"
 	"quest.27F2220CE80B6661.title": "Running on Time"
 	"quest.27F2220CE80B6661.quest_subtitle": "Trains that drive themselves."
 	"quest.27F2220CE80B6661.quest_desc": [
 		"Paper and a sturdy sheet make four schedules. Write one: travel to your base, wait, travel to the far station, wait, and it repeats. A train needs a driver: any mob seated facing the controls, or a lit blaze burner in front of them. Hand the driver the schedule and step off."
 	]
-	"task.085A0E7311B96BA2.title": "Place a train signal"
 	"quest.51693280A4AAD4C3.title": "Keep Them Apart"
 	"quest.51693280A4AAD4C3.quest_subtitle": "Two trains, one track, no crashes."
 	"quest.51693280A4AAD4C3.quest_desc": [
 		"Railway casing and an electron tube make four signals; place them like a station. Signals cut the line into sections and let one train into each. A scheduled train never passes a signal from behind, so two-way track needs a pair facing both ways. Add a passing loop and two trains can share one line."
 	]
-	"task.1E1848A0DA7ADA1D.title": "Show a train arriving on a display board"
 	"quest.2BB2356F641BC5C3.title": "Next Train Due"
 	"quest.2BB2356F641BC5C3.quest_subtitle": "A departure board on the platform."
 	"quest.2BB2356F641BC5C3.quest_desc": [
 		"Run two scheduled trains on your line, kept apart by signals. Then let the platform tell you: a display link on the station, set to Train Station Summary, pointed at a display board on a turning shaft. When the board counts down to the next train, the network runs without you."
 	]
-	"task.45C4EF9770CDAFBA.title": "Load or unload a train through an interface"
 	"quest.20C155A32104971C.title": "The Cargo Run"
 	"quest.20C155A32104971C.quest_subtitle": "Freight without lifting a finger."
 	"quest.20C155A32104971C.quest_desc": [
@@ -1791,7 +1815,6 @@
 	"quest.34F91E880290E840.quest_desc": [
 		"A carriage is whatever is glued onto its bogeys. Build several on the station track, each glued on its own with a gap between, and Assemble couples them into one train. Make it six carriages: an engine, coaches with seats for your friends, and wagons for the freight."
 	]
-	"task.7EBCAD45A1F2A7D9.title": "Fill an envelope with hot air"
 	"quest.34E2BE43E500DA5A.title": "Lighter than Air"
 	"quest.34E2BE43E500DA5A.quest_subtitle": "Hot air rises."
 	"quest.34E2BE43E500DA5A.quest_desc": [
@@ -1802,49 +1825,41 @@
 	"quest.036D6D24A1A53AFB.quest_desc": [
 		"A burner burns fuel the whole time it is lit, hovering included. At full output a coal lasts 80 seconds, a coal block 13 minutes, a blaze rod 2. Feed it from a chest on board with a hopper, funnel or arm, never lava buckets. Two burners under one bag is a good first ship: make a second and lay in coal."
 	]
-	"task.7CD390C0E7FD730A.title": "Name your assembled airship with a nameplate"
 	"quest.766A984F934C89CC.title": "Lift-Off"
 	"quest.766A984F934C89CC.quest_subtitle": "Fill it first, then let go."
 	"quest.766A984F934C89CC.quest_desc": [
 		"Build a raft: a plank deck under your bag, the burners and a Physics Assembler on it. Glue it all. Fuel the burners, set the throttle low and wait about 30 seconds for the bag to fill, then hold use on the assembler and pull its lever. Ride up a few blocks and throttle back down. Name her with a nameplate on board."
 	]
-	"task.65463DB92074CD97.title": "Inspect a Contraption Diagram"
 	"quest.1B2AFDBFD5032C34.title": "Measure Once, Fly Twice"
 	"quest.1B2AFDBFD5032C34.quest_subtitle": "Weight under the balloon."
 	"quest.1B2AFDBFD5032C34.quest_desc": [
 		"Paper and a Physics Assembler make a Contraption Diagram. Use it on your ship and calculate its mass: the centre of mass must hang under the middle of the bag, or the ship flies tilted. Build light. Envelope and wool weigh a quarter, planks a half, stone 2, storage blocks 4: tooltips show each weight."
 	]
-	"task.5DA9A2877CCBB6EB.title": "Place an altitude sensor"
 	"quest.4CF76919E2642343.title": "Up and Down"
 	"quest.4CF76919E2642343.quest_subtitle": "The throttle is your altitude."
 	"quest.4CF76919E2642343.quest_desc": [
 		"A ship rises until lift equals weight, and air thins as you climb: one full burner lifts 750 at sea level, 600 at y 120. Wire a throttle lever to the burners before you fly. More signal climbs, less sinks, about ten seconds behind. An altitude sensor reads the air. Land on the throttle, never by running dry."
 	]
-	"task.7BACF4D5A57C949A.title": "Place and power a portable engine"
 	"quest.517EE7AE88BA56A3.title": "Engine Room"
 	"quest.517EE7AE88BA56A3.quest_subtitle": "Power that flies with you."
 	"quest.517EE7AE88BA56A3.quest_desc": [
 		"Saw and press an iron sheet into an engine assembly, then craft it between an iron sheet and a blast furnace: a portable engine. It burns furnace fuel for 32 RPM and 2,048 stress, and a blaze cake superheats it to 64. Feed it like a burner. This is what turns your propellers in the sky."
 	]
-	"task.55528E36493FAA45.title": "Assemble a propeller bearing"
 	"quest.5008B58514B83369.title": "Forward!"
 	"quest.5008B58514B83369.quest_subtitle": "Lift is nothing without thrust."
 	"quest.5008B58514B83369.quest_desc": [
 		"A propeller bearing (wooden slab, iron sheet, brass casing) spins the sails on its face: two at least, eight is better. Point it aft and drive it from your engine, with a clutch to hold it still while you assemble the ship. Faster shafts push longer: eight sails at 32 RPM top out near 4.5 m/s."
 	]
-	"task.17A3CDB3944AC8B2.title": "Grab and turn a steering wheel"
 	"quest.55C23A2FFCCB8247.title": "Hard to Port"
 	"quest.55C23A2FFCCB8247.quest_subtitle": "Two propellers, one wheel."
 	"quest.55C23A2FFCCB8247.quest_desc": [
 		"Put a propeller on each side, each with its own clutch at the helm: cut one and the ship turns. Or swing a rudder: a steering wheel (andesite casing, large cogwheel, shaft) turns a swivel bearing to an exact angle; set the bearing to stay assembled. Without thrust the wind pushes a ship along at walking pace."
 	]
-	"task.1D9251EA22F0182A.title": "Place a navigation table"
 	"quest.4DFB46FEF1CE83BE.title": "Maiden Voyage"
 	"quest.4DFB46FEF1CE83BE.quest_subtitle": "There and back again."
 	"quest.4DFB46FEF1CE83BE.quest_desc": [
 		"Fly your ship from your base to town and home again. A navigation table (brass sheet, precision mechanism, brass casing) at the helm gives a redstone signal towards its target, and the flight HUD shows speed, height and heading. Land with the keel flat: a ship only comes apart landed and level."
 	]
-	"task.1B890E3AD1AFDF79.title": "Lock two docking connectors together"
 	"quest.45802F5A539BECDE.title": "Fill Her Up"
 	"quest.45802F5A539BECDE.quest_subtitle": "A pier with a pump."
 	"quest.45802F5A539BECDE.quest_desc": [

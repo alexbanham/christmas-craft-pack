@@ -92,10 +92,13 @@
 			"size": 1.0d
 			"tasks": [
 				{
-					"id": "45740D171CF28A8C"
-					"type": "advancement"
-					"advancement": "create:andesite_casing"
-					"criterion": ""
+					"id": "67C2CE8F633D3C87"
+					"type": "item"
+					"item": {
+						"id": "create:andesite_casing"
+						"count": 1
+					}
+					"count": 1
 				}
 			]
 			"rewards": [
@@ -138,10 +141,13 @@
 			"size": 1.0d
 			"tasks": [
 				{
-					"id": "3498D531C2578EF5"
-					"type": "advancement"
-					"advancement": "create:water_wheel"
-					"criterion": ""
+					"id": "69D1FF1F20A66A11"
+					"type": "item"
+					"item": {
+						"id": "create:water_wheel"
+						"count": 1
+					}
+					"count": 1
 				}
 			]
 			"rewards": [
@@ -238,10 +244,13 @@
 			"size": 1.0d
 			"tasks": [
 				{
-					"id": "5E2D85B92D97186C"
-					"type": "advancement"
-					"advancement": "create:shifting_gears"
-					"criterion": ""
+					"id": "0E4A7566728ABE45"
+					"type": "item"
+					"item": {
+						"id": "create:large_cogwheel"
+						"count": 1
+					}
+					"count": 1
 				}
 			]
 			"rewards": [
@@ -284,10 +293,13 @@
 			"size": 1.0d
 			"tasks": [
 				{
-					"id": "1C43E5027B6BFE4A"
-					"type": "advancement"
-					"advancement": "create:belt"
-					"criterion": ""
+					"id": "643173BD309C25C8"
+					"type": "item"
+					"item": {
+						"id": "create:belt_connector"
+						"count": 1
+					}
+					"count": 1
 				}
 			]
 			"rewards": [
@@ -338,16 +350,22 @@
 			"size": 1.0d
 			"tasks": [
 				{
-					"id": "70FFE22D0D479394"
-					"type": "advancement"
-					"advancement": "create:funnel"
-					"criterion": ""
+					"id": "71F50F5303D32C99"
+					"type": "item"
+					"item": {
+						"id": "create:andesite_funnel"
+						"count": 1
+					}
+					"count": 1
 				}
 				{
-					"id": "73239331054B9EEB"
-					"type": "advancement"
-					"advancement": "create:chute"
-					"criterion": ""
+					"id": "1E000E8DE76D433D"
+					"type": "item"
+					"item": {
+						"id": "create:chute"
+						"count": 1
+					}
+					"count": 1
 				}
 			]
 			"rewards": [
@@ -390,10 +408,13 @@
 			"size": 1.0d
 			"tasks": [
 				{
-					"id": "71396101DD640098"
-					"type": "advancement"
-					"advancement": "create:millstone"
-					"criterion": ""
+					"id": "2A9A4D3C033ADD27"
+					"type": "item"
+					"item": {
+						"id": "create:millstone"
+						"count": 1
+					}
+					"count": 1
 				}
 			]
 			"rewards": [
@@ -437,10 +458,13 @@
 			"size": 1.0d
 			"tasks": [
 				{
-					"id": "6699E8C85FC76F29"
-					"type": "advancement"
-					"advancement": "create:mechanical_press"
-					"criterion": ""
+					"id": "117DCE538A01EE30"
+					"type": "item"
+					"item": {
+						"id": "create:mechanical_press"
+						"count": 1
+					}
+					"count": 1
 				}
 			]
 			"rewards": [
@@ -515,10 +539,13 @@
 					"count": 1
 				}
 				{
-					"id": "0F3D946F277A417B"
-					"type": "advancement"
-					"advancement": "create:stressometer"
-					"criterion": ""
+					"id": "0B4AC7395E7EAA50"
+					"type": "item"
+					"item": {
+						"id": "create:stressometer"
+						"count": 1
+					}
+					"count": 1
 				}
 			]
 			"rewards": [
@@ -561,10 +588,13 @@
 			"size": 1.0d
 			"tasks": [
 				{
-					"id": "6013B7E5DC89F5DB"
-					"type": "advancement"
-					"advancement": "create:fan_processing"
-					"criterion": ""
+					"id": "41E3A55E8FCD286A"
+					"type": "item"
+					"item": {
+						"id": "create:encased_fan"
+						"count": 1
+					}
+					"count": 1
 				}
 			]
 			"rewards": [
@@ -615,10 +645,13 @@
 			"size": 1.0d
 			"tasks": [
 				{
-					"id": "45B94E7181B67032"
-					"type": "advancement"
-					"advancement": "create:saw_processing"
-					"criterion": ""
+					"id": "4181C470A1219AD9"
+					"type": "item"
+					"item": {
+						"id": "create:mechanical_saw"
+						"count": 1
+					}
+					"count": 1
 				}
 			]
 			"rewards": [
@@ -670,10 +703,13 @@
 					"count": 1
 				}
 				{
-					"id": "06B85B6ECC7C4B2C"
-					"type": "advancement"
-					"advancement": "create:super_glue"
-					"criterion": ""
+					"id": "62AA8D24B378CA4E"
+					"type": "item"
+					"item": {
+						"id": "create:super_glue"
+						"count": 1
+					}
+					"count": 1
 				}
 			]
 			"rewards": [
@@ -724,10 +760,13 @@
 			"size": 1.25d
 			"tasks": [
 				{
-					"id": "7FDBD2D887EF2AA0"
-					"type": "advancement"
-					"advancement": "create:contraption_actors"
-					"criterion": ""
+					"id": "2C60D8FB48E5C247"
+					"type": "item"
+					"item": {
+						"id": "create:mechanical_drill"
+						"count": 1
+					}
+					"count": 1
 				}
 			]
 			"rewards": [
@@ -783,10 +822,13 @@
 			"size": 1.0d
 			"tasks": [
 				{
-					"id": "2E799BDF8F2BFBA5"
-					"type": "advancement"
-					"advancement": "create:mechanical_mixer"
-					"criterion": ""
+					"id": "40A6CF7CDADE5174"
+					"type": "item"
+					"item": {
+						"id": "create:mechanical_mixer"
+						"count": 1
+					}
+					"count": 1
 				}
 			]
 			"rewards": [
@@ -842,10 +884,13 @@
 			"size": 1.0d
 			"tasks": [
 				{
-					"id": "0F625FD1C8BDC15E"
-					"type": "advancement"
-					"advancement": "create:copper_casing"
-					"criterion": ""
+					"id": "3EDC87D544ECC1E7"
+					"type": "item"
+					"item": {
+						"id": "create:copper_casing"
+						"count": 1
+					}
+					"count": 1
 				}
 			]
 			"rewards": [
@@ -888,10 +933,13 @@
 			"size": 1.0d
 			"tasks": [
 				{
-					"id": "7E3C282CC9254D05"
-					"type": "advancement"
-					"advancement": "create:water_supply"
-					"criterion": ""
+					"id": "7C16BEC0EA2CD6DB"
+					"type": "item"
+					"item": {
+						"id": "create:mechanical_pump"
+						"count": 1
+					}
+					"count": 1
 				}
 			]
 			"rewards": [
@@ -942,10 +990,13 @@
 			"size": 1.0d
 			"tasks": [
 				{
-					"id": "74990F2D0E1A2944"
-					"type": "advancement"
-					"advancement": "create:spout"
-					"criterion": ""
+					"id": "23DDE9D46E869975"
+					"type": "item"
+					"item": {
+						"id": "create:spout"
+						"count": 1
+					}
+					"count": 1
 				}
 			]
 			"rewards": [
@@ -1065,10 +1116,13 @@
 			"size": 1.25d
 			"tasks": [
 				{
-					"id": "0B377FA84886BBC3"
-					"type": "advancement"
-					"advancement": "create:steam_engine"
-					"criterion": ""
+					"id": "33329907A77FCF5E"
+					"type": "item"
+					"item": {
+						"id": "create:steam_engine"
+						"count": 1
+					}
+					"count": 1
 				}
 			]
 			"rewards": [

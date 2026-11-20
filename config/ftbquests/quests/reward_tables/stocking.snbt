@@ -7,12 +7,12 @@
 		{
 			"id": "62533460A62FCFD6"
 			"item": {
-				"id": "create:andesite_casing"
+				"id": "create:shaft"
 				"count": 1
 			}
 			"weight": 10.0d
-			"count": 4
-			"random_bonus": 4
+			"count": 8
+			"random_bonus": 8
 		}
 		{
 			"id": "2231E8C12C85E5E2"
@@ -57,12 +57,12 @@
 		{
 			"id": "68E3AE4FCD0695CD"
 			"item": {
-				"id": "create:belt_connector"
+				"id": "minecraft:dried_kelp"
 				"count": 1
 			}
 			"weight": 6.0d
-			"count": 4
-			"random_bonus": 4
+			"count": 8
+			"random_bonus": 8
 		}
 		{
 			"id": "30F4FAED1E5E5DE8"

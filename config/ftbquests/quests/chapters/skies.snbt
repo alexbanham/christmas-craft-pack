@@ -99,10 +99,13 @@
 			"size": 1.0d
 			"tasks": [
 				{
-					"id": "32AF803CCDA09DAD"
-					"type": "advancement"
-					"advancement": "create:train_casing_00"
-					"criterion": ""
+					"id": "499F9FB1E56E8D94"
+					"type": "item"
+					"item": {
+						"id": "create:railway_casing"
+						"count": 1
+					}
+					"count": 1
 				}
 			]
 			"rewards": [
@@ -222,10 +225,13 @@
 			"size": 1.25d
 			"tasks": [
 				{
-					"id": "76F68D793D47C772"
-					"type": "advancement"
-					"advancement": "create:train"
-					"criterion": ""
+					"id": "30E6862AB30FD875"
+					"type": "item"
+					"item": {
+						"id": "create:controls"
+						"count": 1
+					}
+					"count": 1
 				}
 			]
 			"rewards": [
@@ -286,10 +292,13 @@
 			"size": 1.0d
 			"tasks": [
 				{
-					"id": "2BDCF762D4A36E49"
-					"type": "advancement"
-					"advancement": "create:train_whistle"
-					"criterion": ""
+					"id": "0CF68F327878C237"
+					"type": "item"
+					"item": {
+						"id": "create:steam_whistle"
+						"count": 1
+					}
+					"count": 1
 				}
 			]
 			"rewards": [
@@ -332,10 +341,13 @@
 			"size": 1.0d
 			"tasks": [
 				{
-					"id": "76BDF76FC0469B57"
-					"type": "advancement"
-					"advancement": "create:conductor"
-					"criterion": ""
+					"id": "4A6AB0A284744E02"
+					"type": "item"
+					"item": {
+						"id": "create:schedule"
+						"count": 1
+					}
+					"count": 1
 				}
 			]
 			"rewards": [
@@ -391,10 +403,13 @@
 			"size": 1.0d
 			"tasks": [
 				{
-					"id": "085A0E7311B96BA2"
-					"type": "advancement"
-					"advancement": "create:track_signal"
-					"criterion": ""
+					"id": "020466A0270EF744"
+					"type": "item"
+					"item": {
+						"id": "create:track_signal"
+						"count": 1
+					}
+					"count": 1
 				}
 			]
 			"rewards": [
@@ -451,10 +466,13 @@
 			"size": 1.25d
 			"tasks": [
 				{
-					"id": "1E1848A0DA7ADA1D"
-					"type": "advancement"
-					"advancement": "create:display_board_0"
-					"criterion": ""
+					"id": "48BB85D56CF24B8C"
+					"type": "item"
+					"item": {
+						"id": "create:display_board"
+						"count": 1
+					}
+					"count": 1
 				}
 			]
 			"rewards": [
@@ -515,10 +533,13 @@
 			"size": 1.25d
 			"tasks": [
 				{
-					"id": "45C4EF9770CDAFBA"
-					"type": "advancement"
-					"advancement": "create:portable_storage_interface"
-					"criterion": ""
+					"id": "73262C83F6ED8DBA"
+					"type": "item"
+					"item": {
+						"id": "create:portable_storage_interface"
+						"count": 1
+					}
+					"count": 1
 				}
 			]
 			"rewards": [
@@ -644,10 +665,13 @@
 			"size": 1.0d
 			"tasks": [
 				{
-					"id": "7EBCAD45A1F2A7D9"
-					"type": "advancement"
-					"advancement": "aeronautics:head_in_the_clouds"
-					"criterion": ""
+					"id": "1DE3616EAAD84F5D"
+					"type": "item"
+					"item": {
+						"id": "aeronautics:adjustable_burner"
+						"count": 1
+					}
+					"count": 1
 				}
 			]
 			"rewards": [
@@ -761,10 +785,13 @@
 			"size": 1.25d
 			"tasks": [
 				{
-					"id": "7CD390C0E7FD730A"
-					"type": "advancement"
-					"advancement": "simulated:i_declare_thee"
-					"criterion": ""
+					"id": "56D5CAFE14275495"
+					"type": "item"
+					"item": {
+						"id": "simulated:physics_assembler"
+						"count": 1
+					}
+					"count": 1
 				}
 			]
 			"rewards": [
@@ -825,10 +852,13 @@
 			"size": 1.0d
 			"tasks": [
 				{
-					"id": "65463DB92074CD97"
-					"type": "advancement"
-					"advancement": "simulated:measure_once_build_twice"
-					"criterion": ""
+					"id": "6E1B0B307107DD6F"
+					"type": "item"
+					"item": {
+						"id": "simulated:contraption_diagram"
+						"count": 1
+					}
+					"count": 1
 				}
 			]
 			"rewards": [
@@ -893,10 +923,13 @@
 					"count": 1
 				}
 				{
-					"id": "5DA9A2877CCBB6EB"
-					"type": "advancement"
-					"advancement": "simulated:no_pressure"
-					"criterion": ""
+					"id": "2B619EDCA546AB08"
+					"type": "item"
+					"item": {
+						"id": "simulated:altitude_sensor"
+						"count": 1
+					}
+					"count": 1
 				}
 			]
 			"rewards": [
@@ -953,10 +986,13 @@
 			"size": 1.0d
 			"tasks": [
 				{
-					"id": "7BACF4D5A57C949A"
-					"type": "advancement"
-					"advancement": "simulated:steamless_engine"
-					"criterion": ""
+					"id": "69A0CD9A1F863A59"
+					"type": "item"
+					"item": {
+						"id": "simulated:red_portable_engine"
+						"count": 1
+					}
+					"count": 1
 				}
 			]
 			"rewards": [
@@ -1013,10 +1049,13 @@
 			"size": 1.25d
 			"tasks": [
 				{
-					"id": "55528E36493FAA45"
-					"type": "advancement"
-					"advancement": "aeronautics:in_thrust_we_trust"
-					"criterion": ""
+					"id": "0B2A8D7DF37DE3A5"
+					"type": "item"
+					"item": {
+						"id": "aeronautics:propeller_bearing"
+						"count": 1
+					}
+					"count": 1
 				}
 			]
 			"rewards": [
@@ -1077,10 +1116,13 @@
 			"size": 1.0d
 			"tasks": [
 				{
-					"id": "17A3CDB3944AC8B2"
-					"type": "advancement"
-					"advancement": "simulated:unpowered_steering"
-					"criterion": ""
+					"id": "05F3D5493B805870"
+					"type": "item"
+					"item": {
+						"id": "simulated:steering_wheel"
+						"count": 1
+					}
+					"count": 1
 				}
 			]
 			"rewards": [
@@ -1137,10 +1179,13 @@
 			"size": 1.25d
 			"tasks": [
 				{
-					"id": "1D9251EA22F0182A"
-					"type": "advancement"
-					"advancement": "simulated:thataway"
-					"criterion": ""
+					"id": "18BF01B27F768341"
+					"type": "item"
+					"item": {
+						"id": "simulated:navigation_table"
+						"count": 1
+					}
+					"count": 1
 				}
 			]
 			"rewards": [
@@ -1201,10 +1246,13 @@
 			"size": 1.0d
 			"tasks": [
 				{
-					"id": "1B890E3AD1AFDF79"
-					"type": "advancement"
-					"advancement": "simulated:a_calculated_connection"
-					"criterion": ""
+					"id": "7B766F50ECB4D925"
+					"type": "item"
+					"item": {
+						"id": "simulated:docking_connector"
+						"count": 1
+					}
+					"count": 1
 				}
 			]
 			"rewards": [

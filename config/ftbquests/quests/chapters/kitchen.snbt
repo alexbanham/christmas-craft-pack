@@ -44,10 +44,13 @@
 					"count": 1
 				}
 				{
-					"id": "2205F4046FEB11A1"
-					"type": "advancement"
-					"advancement": "create:drain"
-					"criterion": ""
+					"id": "72306C05A9F1CA51"
+					"type": "item"
+					"item": {
+						"id": "ratatouille:egg_yolk_bucket"
+						"count": 1
+					}
+					"count": 1
 				}
 			]
 			"rewards": [
@@ -166,10 +169,13 @@
 			"size": 1.0d
 			"tasks": [
 				{
-					"id": "018228F3867E0576"
-					"type": "advancement"
-					"advancement": "create:honey_drain"
-					"criterion": ""
+					"id": "32B93C6F3CCC2145"
+					"type": "item"
+					"item": {
+						"id": "create:honey_bucket"
+						"count": 1
+					}
+					"count": 1
 				}
 			]
 			"rewards": [
@@ -222,10 +228,31 @@
 			"size": 1.0d
 			"tasks": [
 				{
-					"id": "0E4EC6A674302EED"
-					"type": "advancement"
-					"advancement": "create:foods"
-					"criterion": ""
+					"id": "12CF874346CFE367"
+					"type": "item"
+					"item": {
+						"id": "create:sweet_roll"
+						"count": 1
+					}
+					"count": 1
+				}
+				{
+					"id": "6572924C2F3BC04C"
+					"type": "item"
+					"item": {
+						"id": "create:honeyed_apple"
+						"count": 1
+					}
+					"count": 1
+				}
+				{
+					"id": "24C954E6AE6EE5F9"
+					"type": "item"
+					"item": {
+						"id": "create:chocolate_glazed_berries"
+						"count": 1
+					}
+					"count": 1
 				}
 			]
 			"rewards": [
