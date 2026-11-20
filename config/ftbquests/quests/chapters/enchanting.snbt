@@ -86,10 +86,13 @@
 			"size": 1.0d
 			"tasks": [
 				{
-					"id": "03EE477D25E4532D"
-					"type": "advancement"
-					"advancement": "create_enchantment_industry:gone_with_the_foil"
-					"criterion": ""
+					"id": "406F00D6D7A803B0"
+					"type": "item"
+					"item": {
+						"id": "create_enchantment_industry:mechanical_grindstone"
+						"count": 1
+					}
+					"count": 1
 				}
 			]
 			"rewards": [
@@ -262,10 +265,13 @@
 			"size": 1.25d
 			"tasks": [
 				{
-					"id": "742D8597B4A1EC0C"
-					"type": "advancement"
-					"advancement": "create_enchantment_industry:blazing_enchantment"
-					"criterion": ""
+					"id": "03E35B1112EE1FF7"
+					"type": "item"
+					"item": {
+						"id": "create_enchantment_industry:blaze_enchanter"
+						"count": 1
+					}
+					"count": 1
 				}
 			]
 			"rewards": [

@@ -7,7 +7,7 @@
 		{
 			"id": "68D604E9E8D2BAB2"
 			"item": {
-				"id": "create:copper_casing"
+				"id": "create:copper_sheet"
 				"count": 1
 			}
 			"weight": 9.0d
@@ -17,12 +17,12 @@
 		{
 			"id": "2383B32F556BA853"
 			"item": {
-				"id": "create:large_cogwheel"
+				"id": "create:cogwheel"
 				"count": 1
 			}
 			"weight": 7.0d
-			"count": 4
-			"random_bonus": 4
+			"count": 6
+			"random_bonus": 6
 		}
 		{
 			"id": "29279F37AFABBCD7"
@@ -37,7 +37,7 @@
 		{
 			"id": "680829099F7FD424"
 			"item": {
-				"id": "create:mechanical_pump"
+				"id": "create:fluid_valve"
 				"count": 1
 			}
 			"weight": 5.0d
@@ -46,7 +46,7 @@
 		{
 			"id": "790CF765C5A3AE5F"
 			"item": {
-				"id": "create:encased_fan"
+				"id": "create:propeller"
 				"count": 1
 			}
 			"weight": 5.0d

@@ -94,10 +94,13 @@
 			"size": 1.0d
 			"tasks": [
 				{
-					"id": "40BBE2157FE72168"
-					"type": "advancement"
-					"advancement": "create:brass_casing"
-					"criterion": ""
+					"id": "64EC42E70C328FCF"
+					"type": "item"
+					"item": {
+						"id": "create:brass_casing"
+						"count": 1
+					}
+					"count": 1
 				}
 			]
 			"rewards": [
@@ -204,10 +207,13 @@
 			"size": 1.0d
 			"tasks": [
 				{
-					"id": "0C17522FD693875B"
-					"type": "advancement"
-					"advancement": "create:deployer"
-					"criterion": ""
+					"id": "74F5EC483CD407C2"
+					"type": "item"
+					"item": {
+						"id": "create:deployer"
+						"count": 1
+					}
+					"count": 1
 				}
 			]
 			"rewards": [
@@ -330,10 +336,13 @@
 			"size": 1.0d
 			"tasks": [
 				{
-					"id": "2F8FBACDC7A8455C"
-					"type": "advancement"
-					"advancement": "create:mechanical_arm"
-					"criterion": ""
+					"id": "424FF54E1404E97E"
+					"type": "item"
+					"item": {
+						"id": "create:mechanical_arm"
+						"count": 1
+					}
+					"count": 1
 				}
 			]
 			"rewards": [
@@ -404,10 +413,13 @@
 					"count": 1
 				}
 				{
-					"id": "3AE23E8C20AA4FE3"
-					"type": "advancement"
-					"advancement": "create:crushing_wheel"
-					"criterion": ""
+					"id": "52F5C09B57CD24FC"
+					"type": "item"
+					"item": {
+						"id": "create:crushing_wheel"
+						"count": 1
+					}
+					"count": 1
 				}
 			]
 			"rewards": [
@@ -685,10 +697,13 @@
 			"size": 1.0d
 			"tasks": [
 				{
-					"id": "433A7D6834D87D1E"
-					"type": "advancement"
-					"advancement": "create:hose_pulley_lava"
-					"criterion": ""
+					"id": "7E564E764E17CC74"
+					"type": "item"
+					"item": {
+						"id": "create:hose_pulley"
+						"count": 1
+					}
+					"count": 1
 				}
 			]
 			"rewards": [
@@ -877,10 +892,13 @@
 			"size": 1.0d
 			"tasks": [
 				{
-					"id": "2D9E9D1E3A880B5E"
-					"type": "advancement"
-					"advancement": "create:display_link"
-					"criterion": ""
+					"id": "57004B7DA4DDF46F"
+					"type": "item"
+					"item": {
+						"id": "create:display_link"
+						"count": 1
+					}
+					"count": 1
 				}
 			]
 			"rewards": [
@@ -917,7 +935,7 @@
 		{
 			"id": "6AD25BF88D33507A"
 			"dependencies": [
-				"722541F70C9DFC99"
+				"240770CC7F582457"
 				"363868FA03E37D7B"
 			]
 			"icon": {

@@ -7,12 +7,12 @@
 		{
 			"id": "4489A3C89163868E"
 			"item": {
-				"id": "create:brass_casing"
+				"id": "create:rose_quartz"
 				"count": 1
 			}
 			"weight": 8.0d
-			"count": 6
-			"random_bonus": 6
+			"count": 4
+			"random_bonus": 4
 		}
 		{
 			"id": "5FC264173E09BBEA"
@@ -47,7 +47,7 @@
 		{
 			"id": "4199E5E227910DAF"
 			"item": {
-				"id": "create:deployer"
+				"id": "create:brass_hand"
 				"count": 1
 			}
 			"weight": 4.0d
@@ -55,10 +55,11 @@
 		{
 			"id": "6B1D8BD248766CC0"
 			"item": {
-				"id": "create:mechanical_arm"
+				"id": "create:redstone_link"
 				"count": 1
 			}
 			"weight": 3.0d
+			"count": 2
 		}
 		{
 			"id": "6BC16015D9D04B3E"

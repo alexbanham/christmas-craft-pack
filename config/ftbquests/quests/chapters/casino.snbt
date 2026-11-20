@@ -123,6 +123,9 @@
 					"type": "advancement"
 					"advancement": "cccasino:tablegames/wheel_of_gifts"
 					"criterion": ""
+					"icon": {
+						"id": "cccasino:wheel_of_gifts"
+					}
 				}
 			]
 			"rewards": [
@@ -169,6 +172,9 @@
 					"type": "advancement"
 					"advancement": "cccasino:tablegames/slots_won"
 					"criterion": ""
+					"icon": {
+						"id": "cccasino:slot_cabinet"
+					}
 				}
 			]
 			"rewards": [
@@ -327,6 +333,9 @@
 					"type": "advancement"
 					"advancement": "cccasino:tablegames/baccarat_played"
 					"criterion": ""
+					"icon": {
+						"id": "cccasino:baccarat_layout"
+					}
 				}
 			]
 			"rewards": [
@@ -381,6 +390,9 @@
 					"type": "advancement"
 					"advancement": "cccasino:tablegames/baccarat_natural"
 					"criterion": ""
+					"icon": {
+						"id": "cccasino:deck_of_cards"
+					}
 				}
 			]
 			"rewards": [
@@ -440,6 +452,9 @@
 					"type": "advancement"
 					"advancement": "cccasino:tablegames/baccarat_side_bet"
 					"criterion": ""
+					"icon": {
+						"id": "cccasino:baccarat_layout"
+					}
 				}
 			]
 			"rewards": [
@@ -504,6 +519,9 @@
 					"type": "advancement"
 					"advancement": "cccasino:tablegames/video_poker_won"
 					"criterion": ""
+					"icon": {
+						"id": "cccasino:video_poker"
+					}
 				}
 			]
 			"rewards": [
@@ -558,6 +576,9 @@
 					"type": "advancement"
 					"advancement": "cccasino:tablegames/video_poker_quads"
 					"criterion": ""
+					"icon": {
+						"id": "cccasino:flap_card_bank"
+					}
 				}
 			]
 			"rewards": [
@@ -622,6 +643,9 @@
 					"type": "advancement"
 					"advancement": "cccasino:tablegames/video_poker_royal"
 					"criterion": ""
+					"icon": {
+						"id": "cccasino:video_poker"
+					}
 				}
 			]
 			"rewards": [
@@ -691,6 +715,9 @@
 					"type": "advancement"
 					"advancement": "cccasino:tablegames/north_pole_jackpot"
 					"criterion": ""
+					"icon": {
+						"id": "cccasino:jackpot_meter"
+					}
 				}
 			]
 			"rewards": [
@@ -760,6 +787,9 @@
 					"type": "advancement"
 					"advancement": "cccasino:tablegames/derby_won"
 					"criterion": ""
+					"icon": {
+						"id": "cccasino:reindeer_derby"
+					}
 				}
 			]
 			"rewards": [
@@ -814,6 +844,9 @@
 					"type": "advancement"
 					"advancement": "cccasino:tablegames/derby_long_shot"
 					"criterion": ""
+					"icon": {
+						"id": "cccasino:racing_reindeer"
+					}
 				}
 			]
 			"rewards": [
@@ -878,6 +911,9 @@
 					"type": "advancement"
 					"advancement": "cccasino:tablegames/blackjack_won"
 					"criterion": ""
+					"icon": {
+						"id": "cccasino:blackjack_table"
+					}
 				}
 			]
 			"rewards": [
@@ -932,6 +968,9 @@
 					"type": "advancement"
 					"advancement": "cccasino:tablegames/poker_won"
 					"criterion": ""
+					"icon": {
+						"id": "cccasino:poker_table"
+					}
 				}
 			]
 			"rewards": [
@@ -986,6 +1025,9 @@
 					"type": "advancement"
 					"advancement": "cccasino:tablegames/uth_won"
 					"criterion": ""
+					"icon": {
+						"id": "cccasino:poker_table"
+					}
 				}
 			]
 			"rewards": [
@@ -1040,6 +1082,9 @@
 					"type": "advancement"
 					"advancement": "cccasino:tablegames/roulette_won"
 					"criterion": ""
+					"icon": {
+						"id": "cccasino:roulette_table"
+					}
 				}
 			]
 			"rewards": [

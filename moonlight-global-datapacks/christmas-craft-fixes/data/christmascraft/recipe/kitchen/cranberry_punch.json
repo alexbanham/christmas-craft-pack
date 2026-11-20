@@ -4,12 +4,16 @@
   {
    "type": "neoforge:single",
    "amount": 250,
-   "fluid": "fruitsdelight:cranberry_jam"
+   "fluid": "minecraft:water"
   },
   {
-   "type": "neoforge:tag",
-   "amount": 250,
-   "tag": "c:orange_juice"
+   "item": "fruitsdelight:cranberry"
+  },
+  {
+   "item": "fruitsdelight:cranberry"
+  },
+  {
+   "item": "fruitsdelight:orange"
   },
   {
    "item": "minecraft:ice"
