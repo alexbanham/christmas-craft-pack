@@ -51,6 +51,7 @@
 	"quest.43FA1A61A5A20377.quest_desc": [
 		"Every machine needs rotation. A water wheel in flowing water is free power that never runs out, and a large water wheel gives far more. Put it somewhere with room to spare: your first production line grows from this spot."
 	]
+	"task.1868BB60F925AE01.title": "Assemble a windmill bearing with sails and let it turn"
 	"quest.60857CA854DC52AC.title": "Catch the Wind"
 	"quest.60857CA854DC52AC.quest_subtitle": "Power for the hilltops."
 	"quest.60857CA854DC52AC.quest_desc": [
@@ -157,6 +158,7 @@
 	"quest.04BEBADB469586F0.quest_desc": [
 		"Brass ingots on stripped logs make brass casing. Mechanical crafters, arms, display links and brass tunnels are all built into it. It is the andesite casing of this chapter: make plenty."
 	]
+	"task.21788B183E2A1239.title": "Hold a polished rose quartz"
 	"quest.1D3987E8B7AEB444.title": "Supercharged"
 	"quest.1D3987E8B7AEB444.quest_subtitle": "Rose quartz, polished."
 	"quest.1D3987E8B7AEB444.quest_desc": [
@@ -207,6 +209,7 @@
 	"quest.19D69A83BF60C0FF.quest_desc": [
 		"Compact an egg, sugar and cinder flour in a basin under a press for a blaze cake base, then spout 250 mB of lava onto it. A blaze burner fed a cake superheats: double heat for a boiler, and the hottest mixing recipes."
 	]
+	"task.13BD0308D6EA98A5.title": "Point a mechanical arm at a blaze burner and let it feed it"
 	"quest.722541F70C9DFC99.title": "Combust-o-Tron"
 	"quest.722541F70C9DFC99.quest_subtitle": "Nobody has time to feed nine burners."
 	"quest.722541F70C9DFC99.quest_desc": [
@@ -217,6 +220,7 @@
 	"quest.6522A69D9B414E81.quest_desc": [
 		"A display link reads a block and writes it to a display board or nixie tubes: stock counts, train times, or your boiler's status. Put one on a tank of your boiler and you can read its level from across the room."
 	]
+	"task.1F2EDA142634A5F2.title": "Run a boiler at its highest level"
 	"reward.4F47A9545FF58146.title": "Fireworks!"
 	"quest.6AD25BF88D33507A.title": "Full Steam"
 	"quest.6AD25BF88D33507A.quest_subtitle": "Level 18. The biggest boiler there is."
@@ -361,6 +365,7 @@
 	"chapter.1307FF7F66F8AE5E.chapter_subtitle": [
 		"Experience by the bucket, enchantments by the press."
 	]
+	"task.03C909EA899D8103.title": "Hold a Nugget of Experience"
 	"quest.4DA03BF61E993584.title": "Experience You Can Hold"
 	"quest.4DA03BF61E993584.quest_subtitle": "Crushing wheels leave something behind."
 	"quest.4DA03BF61E993584.quest_desc": [
@@ -371,11 +376,13 @@
 	"quest.2E8694C7301004DD.quest_desc": [
 		"A Mechanical Grindstone grinds experience nuggets into liquid experience, 3 mB a nugget and 27 a block, and grinds the enchantments off old gear into the same fluid. Pump it into a tank. Watch one strip an enchanted item."
 	]
+	"task.1807673CDAA34B76.title": "Store your own levels in an Experience Hatch"
 	"quest.13F782ECDCE5E8F0.title": "Bank Your Levels"
 	"quest.13F782ECDCE5E8F0.quest_subtitle": "Experience, on deposit."
 	"quest.13F782ECDCE5E8F0.quest_desc": [
 		"Put a Block of Experience on a Dragons Plus fluid hatch to make an Experience Hatch. Click it to pour your own levels into a tank, and take them back later. No more losing thirty levels to a creeper."
 	]
+	"task.113E1CB45149E75C.title": "Copy an enchanted book in a Printer"
 	"quest.379B71B01E545234.title": "The Printing Press"
 	"quest.379B71B01E545234.quest_subtitle": "One enchanted book, many copies."
 	"quest.379B71B01E545234.quest_desc": [
@@ -386,11 +393,13 @@
 	"quest.5DBB957D6A35DF8E.quest_desc": [
 		"A smithing table upgrades a Blaze Burner with an enchanting table into a Blaze Enchanter. The blaze upgrade template comes from bastion and Nether fortress chests, then copies itself. Feed it liquid experience and enchant an item."
 	]
+	"task.31501BE56DA22B6E.title": "Merge two of the same item in a Blaze Forger"
 	"quest.2626F3D7FA0C4A58.title": "The Blaze Forger"
 	"quest.2626F3D7FA0C4A58.quest_subtitle": "An anvil that never wears out."
 	"quest.2626F3D7FA0C4A58.quest_desc": [
 		"The same upgrade with an anvil makes a Blaze Forger. It merges two of the same item, strips or adds enchantments, and applies enchanting templates pressed from Blocks of Experience. Merge two items."
 	]
+	"task.7C99B273178D0DDD.title": "Hold a Block of Super Experience"
 	"quest.7D07BCD66230D2B9.title": "Super Experience"
 	"quest.7D07BCD66230D2B9.quest_subtitle": "Strike while the block is hot."
 	"quest.7D07BCD66230D2B9.quest_desc": [
@@ -412,16 +421,20 @@
 		"Every Cage holds the same balance, so one in your base is your bank at home. Bells cannot be crafted: find one in a village or buy it from an armorer."
 		"Mechanical Crafters, 3 wide by 3 tall: bell + precision mechanism + 2 iron bars + 4 brass casings + chest = Cashier's Cage."
 	]
+	"task.57D8CA1560CF78FB.title": "Finish a paid shift at the Elf Mail Desk"
 	"quest.18FDF9691693E472.title": "Elf Shifts"
 	"quest.18FDF9691693E472.quest_subtitle": "Sort the post, get paid."
 	"quest.18FDF9691693E472.quest_desc": [
 		"Use the Elf Mail desk for a shift of 10 letters and file each in the pigeonhole whose plate matches its stamp. All 10 filed pays 5 chips; 3 mix-ups and the shift is unpaid. Carrying under 50 chips? Santa's Mercy leaves you 10 Gift Chips once a day."
 	]
+	"task.7329B4C77B762520.title": "Sell a good at the North Pole Exchange"
 	"quest.4DF28181384AE73C.title": "The North Pole Exchange"
 	"quest.4DF28181384AE73C.quest_subtitle": "Sell what you make."
 	"quest.4DF28181384AE73C.quest_desc": [
 		"The Exchange buys 1,313 made goods in 12 kinds: meals, toys, Create and airship parts, crops packed into crates; never raw ore or loose crops. It opens on What I carry: Sell all, or shift-click one good. A good's price halves once 2,000 chips' worth has sold, and half the drop comes back every 24 hours. Every spirit the server frees adds 3% to every sale."
 	]
+	"task.647C1B3AB95531D3.title": "Sell one of the week's Wants at the North Pole Exchange"
+	"task.1DE1F9DF7444F078.title": "Fill an order at a North Pole Notice Board"
 	"quest.35D0AD821D56CDD4.title": "Wanted by Sunday"
 	"quest.35D0AD821D56CDD4.quest_subtitle": "The Notice Board."
 	"quest.35D0AD821D56CDD4.quest_desc": [
@@ -434,17 +447,20 @@
 		"Santa's Shop takes chips from your pockets or the bank. Tabs: Blueprints, Casino, Decor, Finds, Materials, Seeds, Spirits and Treats; a spirit's shelf opens once the server frees it. A Notice Board of your own takes orders at home."
 		"Mechanical Crafters, 3 wide by 3 tall: 2 brass sheets + clipboard + 3 paper + 2 stripped spruce logs = North Pole Notice Board."
 	]
+	"task.70A234992D770ED4.title": "Collect your own North Pole Exchange's till with an empty hand"
 	"quest.068C2800EC9D4851.title": "An Exchange of Your Own"
 	"quest.068C2800EC9D4851.quest_subtitle": "Sell by the beltful."
 	"quest.068C2800EC9D4851.quest_desc": [
 		"It takes goods from belts, funnels and arms through its hatch and sells every unit for whoever placed it. The chips wait in its till (watch the nixie tubes); the owner collects them with an empty hand."
 		"Mechanical Crafters, 3 wide by 3 tall: planks + 2 golden sheets + 2 brass casings + Flap Card Bank + 2 nixie tubes + brass funnel = North Pole Exchange."
 	]
+	"task.50E16895DBF48B9D.title": "Press Colour up at a Cashier's Cage"
 	"quest.0EFC2DA5F4BEF5FC.title": "Your First Thousand"
 	"quest.0EFC2DA5F4BEF5FC.quest_subtitle": "Colour up."
 	"quest.0EFC2DA5F4BEF5FC.quest_desc": [
 		"Quests never pay a 1,000 Chip. Carry its worth to the Cashier's Cage (withdraw from the bank if you need to), use it and press Colour up: everything in your pockets colours up into the fewest chips there can be, and nothing is lost. A 1,000 Chip means you have found your feet."
 	]
+	"task.2CD03AEC00C3AD56.title": "Get paid for a sealed sack that lands in Santa's Sleigh"
 	"quest.1F68120875F5D236.title": "Delivered"
 	"quest.1F68120875F5D236.quest_subtitle": "A sack of toys, delivered."
 	"quest.1F68120875F5D236.quest_desc": [
@@ -502,11 +518,13 @@
 	"quest.17B3295222734544.quest_desc": [
 		"Sit on a stool at a Blackjack, a Poker and a Roulette Table, a friend's or your own (Building the Casino). Hold chips and use the felt to bet; the lit buttons do the rest. Seated, the casino panel steps aside and name tags read the table; a summary is a key away in Controls. Settled house bets earn Tinsel. Your Gift Chips bet at the Wheel."
 	]
+	"task.5866338B69C78DCB.title": "Win a spin at the Wheel of Gifts"
 	"quest.25E6B1D27ECC0874.title": "The Wheel of Gifts"
 	"quest.25E6B1D27ECC0874.quest_subtitle": "A wheel, a clapper, a prize."
 	"quest.25E6B1D27ECC0874.quest_desc": [
 		"Put a chip on a symbol's spot on the felt, then pull the wheel (bettors only): it spins 8 seconds and the clapper picks one of 54 segments. Snowflake pays 1:1, Holly 2:1, Bell 5:1, Present 10:1, Star 20:1, Santa and Coal 40:1. A Gift Chip bets as a 1. In Advent, an empty hand on a symbol takes one free spin a day, paid in Gift Chips. Win a spin."
 	]
+	"task.43998B9F8ACE7675.title": "Win a spin on a Jingle Reels Slot Machine"
 	"quest.3BAC5309ED5C50BE.title": "Jingle Reels"
 	"quest.3BAC5309ED5C50BE.quest_subtitle": "Bells, holly and a lever."
 	"quest.3BAC5309ED5C50BE.quest_desc": [
@@ -522,68 +540,81 @@
 	"quest.3244EFB48B457838.quest_desc": [
 		"Use the kiosk's counter or drum for a draw ticket, 50 chips each, as many as you like. Most of the takings (80%) go in the pot, and on 24 December at 20:00 the drum spins live for its winners: 50%, then 30%, then 20% of the pot. Buy a ticket."
 	]
+	"task.7843B9F07EE730A5.title": "Play a coup at a Baccarat Table"
 	"quest.26329079A83DBAA0.title": "Punto Banco"
 	"quest.26329079A83DBAA0.quest_subtitle": "Player, Banker or Tie."
 	"quest.26329079A83DBAA0.quest_desc": [
 		"Sit at a Baccarat Table and put chips in your seat's boxes: PLAYER, BANKER or TIE, then press DEAL or wait. There is nothing to decide once the cards come out: the dealer draws by the tableau, closest to nine wins. The Banker wins a little more often, so a Banker win on a three-card 7 only pushes."
 	]
+	"task.6F462215994B73ED.title": "Win a baccarat coup settled by a natural"
 	"quest.687565AB514EEF81.title": "A Natural"
 	"quest.687565AB514EEF81.quest_subtitle": "Eight or nine on two cards."
 	"quest.687565AB514EEF81.quest_desc": [
-		"Win a coup that was settled by a natural: an 8 or a 9 on the first two cards, where nobody draws. It is over before a third card can save anyone, and the whole table sees it land on the felt at once."
+		"At a Baccarat Table, win a coup settled by a natural: an 8 or a 9 on the first two cards, where nobody draws. It is over before a third card can save anyone, and the whole table sees it land on the felt at once."
 	]
+	"task.246AB03A106A303C.title": "Win a Krampus 7 or Polar Bear 8 side bet at baccarat"
 	"quest.67F72F29FA3BC607.title": "Krampus and the Polar Bear"
 	"quest.67F72F29FA3BC607.quest_subtitle": "The side bets."
 	"quest.67F72F29FA3BC607.quest_desc": [
-		"The red 7 wins 40:1 when the Banker wins on three cards to 7; the white 8 wins 25:1 when the Player wins on three cards to 8. Win either. One or the other comes up about once in 18 coups."
+		"Every Baccarat Table seat has side-bet boxes. The red 7 wins 40:1 when the Banker wins on three cards to 7; the white 8 wins 25:1 when the Player wins on three cards to 8. Win either. One or the other comes up about once in 18 coups."
 	]
+	"task.7E989797A365CB95.title": "Win a paying hand at Video Poker"
 	"quest.45A920982B16572E.title": "Jacks or Better"
 	"quest.45A920982B16572E.quest_subtitle": "Hold, then draw."
 	"quest.45A920982B16572E.quest_desc": [
 		"Each coin is a chip from 1 to 25: use it on a Video Poker cabinet (sneak to put in up to 5). Pull the lever, press the brass keys under the cards you keep and pull again. Win any paying hand. 5 coins is the full return: the royal pays 800 a coin there. Lucky drinks do nothing at Video Poker."
 	]
+	"task.33683A9ADB1B2D73.title": "Draw four of a kind or better at Video Poker"
 	"quest.45F2F984A25678EA.title": "Four of a Kind"
 	"quest.45F2F984A25678EA.quest_subtitle": "Quads, and the flaps riffle."
 	"quest.45F2F984A25678EA.quest_desc": [
 		"Draw four of a kind (or better) at Video Poker. It comes about once in 400 hands with good holds: keep every pair, never a kicker, and let the flaps riffle. Four of a kind pays 25 a coin."
 	]
+	"task.3465A3A7B364D7CF.title": "Draw a royal flush at Video Poker"
 	"reward.3217CA0B1A1ED90E.title": "Fireworks!"
 	"quest.3D5AAD87F5A0BC70.title": "The Royal"
 	"quest.3D5AAD87F5A0BC70.quest_subtitle": "Ten to ace, one suit."
 	"quest.3D5AAD87F5A0BC70.quest_desc": [
 		"Draw a royal flush: ten, jack, queen, king and ace of one suit. About one hand in 40,000, so it is a story people will hear about all season. At 5 coins it pays 4,000 of them."
 	]
+	"task.3812AEB5A6A45B58.title": "Drop the North Pole Jackpot at Jingle Reels or Video Poker"
 	"reward.70A4379119D5653F.title": "Fireworks!"
 	"quest.1ABB42B4520AF9CC.title": "The North Pole Jackpot"
 	"quest.1ABB42B4520AF9CC.quest_subtitle": "One pot for the whole server."
 	"quest.1ABB42B4520AF9CC.quest_desc": [
 		"Every real chip staked on Jingle Reels or Video Poker puts 2% into one pot for the whole server, and the meters roll it up. It must drop before 5,000, at a point sealed when it starts: be the spin or the hand that carries it there."
 	]
+	"task.04A125928A805168.title": "Win a race at the Reindeer Derby"
 	"quest.65BCB7C6DA9DFD52.title": "They're Off"
 	"quest.65BCB7C6DA9DFD52.quest_subtitle": "Back the right reindeer."
 	"quest.65BCB7C6DA9DFD52.quest_desc": [
 		"Put chips on a runner's roundel at the Reindeer Derby, then press START or wait for the gate. The odds are on the tote, the order is drawn at the gate, and the chains under the track carry it home. Win a race."
 	]
+	"task.0E273865C5D0B497.title": "Win a Derby race backing a runner at 12:1 or longer"
 	"quest.54C7CF4D81CE9164.title": "The Long Shot"
 	"quest.54C7CF4D81CE9164.quest_subtitle": "The outsider comes home."
 	"quest.54C7CF4D81CE9164.quest_desc": [
-		"Win backing a runner at 12:1 or longer. The long shots win less often than the favourites, but every bet on the card returns the same in the long run: the difference is the story."
+		"Win a race at the Reindeer Derby backing a runner at 12:1 or longer. The long shots win less often than the favourites, but every bet on the card returns the same in the long run: the difference is the story."
 	]
+	"task.77404D6FCDA89F55.title": "Win a hand at a Blackjack Table"
 	"quest.63B56B75131D58BF.title": "Twenty-One"
 	"quest.63B56B75131D58BF.quest_subtitle": "Beat the dealer."
 	"quest.63B56B75131D58BF.quest_desc": [
 		"Take a seat at a Blackjack Table, put chips in your circle and play the hand from the console in front of you: hit, stand, double or split. The dealer stands on soft 17, a blackjack pays 3:2 and the shoe is cut at half. Win a hand that pays more than you staked; a push does not count."
 	]
+	"task.2D05C9452E62F877.title": "Win a pot at Texas Hold'em"
 	"quest.413578C19C63379D.title": "Take the Pot"
 	"quest.413578C19C63379D.quest_subtitle": "Texas Hold'em."
 	"quest.413578C19C63379D.quest_desc": [
 		"Sit down at a Poker Table with friends and play Texas Hold'em from your own stack. No rake: every chip in the pot goes to the players. Use your face-down cards to pick them up and look. Win a pot at showdown or by making everyone else fold. Cards hard to read from your seat? Turn on the card strip in Mods > Christmas Craft Casino > Config."
 	]
+	"task.0401AE61DB1A44F5.title": "Beat the dealer at Ultimate Texas Hold'em"
 	"quest.51B3770383EDC517.title": "Ultimate Texas Hold'em"
 	"quest.51B3770383EDC517.quest_subtitle": "You against the house."
 	"quest.51B3770383EDC517.quest_desc": [
 		"Alone at a Poker Table, put down an ante instead of sitting in and press DEAL: you play Ultimate Texas Hold'em against the dealer. Play bets are 4×, 3×, 2× or 1× your ante: the bigger ones only before the flop. Ultimate needs six antes in your stack. Beat the dealer's hand."
 	]
+	"task.7609259BD9BDBB94.title": "Win a bet at a Snowball Roulette Table"
 	"quest.0AF2EF50A84C0947.title": "Red or Green"
 	"quest.0AF2EF50A84C0947.quest_subtitle": "Any winning bet."
 	"quest.0AF2EF50A84C0947.quest_desc": [
@@ -669,6 +700,7 @@
 		"Mechanical Crafters, 3 wide by 3 tall: precision mechanism + 2 shafts + mechanical saw + brass casing = Lathe Station."
 		"Goes into: The Casino Workshop."
 	]
+	"task.1145A89ACFA40348.title": "Be at the Casino Workshop when it forms"
 	"quest.299AAAEF4829DB19.title": "The Casino Workshop"
 	"quest.299AAAEF4829DB19.quest_subtitle": "Loom, Press and Lathe, under one roof."
 	"quest.299AAAEF4829DB19.quest_desc": [
@@ -823,6 +855,7 @@
 		"Workshop: Press (Casino Felt + Gold Ink + Red Ink) = Blackjack Layout."
 		"Goes into: Blackjack Table, Large Blackjack Table, Small Blackjack Table."
 	]
+	"task.7E348925DF945280.title": "Form a Small Blackjack Table"
 	"quest.5BD417BE5DE016AD.title": "Deal for Your Friends"
 	"quest.5BD417BE5DE016AD.quest_subtitle": "The small blackjack table."
 	"quest.5BD417BE5DE016AD.quest_desc": [
@@ -858,6 +891,7 @@
 		"Workshop: Loom (Casino Felt), then Press (planks) = Felt Bed."
 		"Goes into: Baccarat Table, Large Blackjack Table, Poker Table, Snowball Roulette Table."
 	]
+	"task.7BAEBA1F236A1C2C.title": "Form a Blackjack Table"
 	"quest.09F4E97815BACFA7.title": "The House Table"
 	"quest.09F4E97815BACFA7.quest_subtitle": "A dealer console and more seats."
 	"quest.09F4E97815BACFA7.quest_desc": [
@@ -870,6 +904,7 @@
 		""
 		"{image:cccasino:textures/gui/quest/mb_plan_blackjack_table.png width:200 height:78 align:center}"
 	]
+	"task.4DD1A1DC61ECC551.title": "Form a Large Blackjack Table"
 	"quest.07247796C5F51FB3.title": "High Stakes"
 	"quest.07247796C5F51FB3.quest_subtitle": "The large blackjack table."
 	"quest.07247796C5F51FB3.quest_desc": [
@@ -889,6 +924,7 @@
 		"Workshop: Press (Casino Felt + Red Ink + Black Ink + blue dye) = Baccarat Layout."
 		"Goes into: Baccarat Table."
 	]
+	"task.7090C2B62A2BCA7E.title": "Form a Baccarat Table"
 	"quest.233AAF32706D7F1B.title": "The Baccarat Table"
 	"quest.233AAF32706D7F1B.quest_subtitle": "The big frame, dressed for baccarat."
 	"quest.233AAF32706D7F1B.quest_desc": [
@@ -921,6 +957,7 @@
 		"Workshop: Press (Casino Felt + Gold Ink + Black Ink) = Poker Layout."
 		"Goes into: Poker Table."
 	]
+	"task.6A0FA136D94DB8F4.title": "Form a Poker Table"
 	"quest.0540CCBE9A343034.title": "Texas Hold'em at Home"
 	"quest.0540CCBE9A343034.quest_subtitle": "A shuffler of your own."
 	"quest.0540CCBE9A343034.quest_desc": [
@@ -968,6 +1005,7 @@
 		"Workshop: Press (Casino Felt + Red Ink + Black Ink + white dye) = Roulette Layout."
 		"Goes into: Snowball Roulette Table."
 	]
+	"task.180B698775FE4061.title": "Form a Snowball Roulette Table"
 	"quest.58AF8CB9EC71E889.title": "Spin the Wheel"
 	"quest.58AF8CB9EC71E889.quest_subtitle": "A long table and its wheel."
 	"quest.58AF8CB9EC71E889.quest_desc": [
@@ -1015,6 +1053,7 @@
 		"Workshop: Press (Reel Bank + Cabinet Art + 2 golden sheets), then Lathe (2 iron sheets + 2 redstone lamps) = Reel Drum Housing."
 		"Goes into: Jingle Reels Slot Machine."
 	]
+	"task.115AD816CD5FD31B.title": "Form a Jingle Reels Slot Machine"
 	"quest.70B9DA851B83DADE.title": "Jingle Reels"
 	"quest.70B9DA851B83DADE.quest_subtitle": "Reels and a sequenced stop."
 	"quest.70B9DA851B83DADE.quest_desc": [
@@ -1072,6 +1111,7 @@
 		"Workshop: Press (Flap Card Bank + Cabinet Art + 2 golden sheets), then Lathe (2 Brass Fittings + 2 redstone lamps) = Split-Flap Screen."
 		"Goes into: Video Poker."
 	]
+	"task.6EB8EEA4DB7F7C68.title": "Form a Video Poker cabinet"
 	"quest.4FF3E69EE26E2A8C.title": "A Cabinet of Your Own"
 	"quest.4FF3E69EE26E2A8C.quest_subtitle": "Card flaps on one axle."
 	"quest.4FF3E69EE26E2A8C.quest_desc": [
@@ -1105,6 +1145,7 @@
 		"Workshop: Lathe (Counter Drum + shaft), then Press (bell) = Jackpot Bell Drive."
 		"Goes into: North Pole Jackpot Meter."
 	]
+	"task.6ABCA0C96153187A.title": "Form a North Pole Jackpot Meter"
 	"quest.794A08662876BB40.title": "Roll It Up"
 	"quest.794A08662876BB40.quest_subtitle": "Drums and a bell."
 	"quest.794A08662876BB40.quest_desc": [
@@ -1145,6 +1186,7 @@
 		"Workshop: Lathe (stripped birch log), then Loom (Velvet + brown dye), then Press (Red Ink + Brass Fitting) = 3 Racing Reindeer."
 		"Goes into: Reindeer Derby."
 	]
+	"task.6A1890DF09A432AD.title": "Form the Reindeer Derby"
 	"quest.4E5304ECD7C6AE5F.title": "The Reindeer Derby"
 	"quest.4E5304ECD7C6AE5F.quest_subtitle": "Runners and a tote."
 	"quest.4E5304ECD7C6AE5F.quest_desc": [
@@ -1164,12 +1206,18 @@
 		"Poker Table: 6 stools, both ends of the middle row, behind both ends of the back row and in front of front-row blocks 2 and 4."
 		"Snowball Roulette Table: 5 stools, the right end of the front row and in front of front-row blocks 3 to 6."
 	]
+	"task.695DC7833DDFE49E.title": "Form a Poker Table"
+	"task.393F80E97E01428F.title": "Form a Snowball Roulette Table"
+	"task.1A69BFE10D33FEEF.title": "Form a Jingle Reels Slot Machine"
 	"reward.3951FF9A2E2C7F8D.title": "Fireworks!"
 	"quest.11C16135B26F8B1F.title": "Grand Opening"
 	"quest.11C16135B26F8B1F.quest_subtitle": "Every table, made by you."
 	"quest.11C16135B26F8B1F.quest_desc": [
 		"A Poker Table, a Snowball Roulette Table and a Jingle Reels Slot Machine, every piece made in your own Workshop and put together on your own floor. Throw the doors open: the North Pole has a casino of its own making."
 	]
+	"task.564439861E79ABAA.title": "Form a Baccarat Table"
+	"task.42CA965565D1849D.title": "Form a North Pole Jackpot Meter"
+	"task.710F84BE668EBE08.title": "Form the Reindeer Derby"
 	"reward.7DBB11749BED1860.title": "Fireworks!"
 	"quest.22F01DA66DD51A33.title": "The Full Floor"
 	"quest.22F01DA66DD51A33.quest_subtitle": "Every game in the house."
@@ -1201,69 +1249,82 @@
 		"Time to each shelf's cheapest useful prize, priced in Tinsel:"
 		"At 1,000 chips a spin, 40 spins an hour of Snowball Roulette: Elf Card, Velvet Rope Post (200): 10 min; Reindeer Card, Velvet Earmuffs (800): 45 min; Sleigh Card, Pemberton (20,000): 19 h; North Star Card, Mischief (30,000): 28 h; Santa's Circle Card, Star Dust (10,000): 9 h."
 	]
+	"task.57D3DE286287D1C6.title": "Wager 10,000 chips in all at the house games"
 	"quest.38391200E39FA1C3.title": "The Elf Card"
 	"quest.38391200E39FA1C3.quest_subtitle": "Where the ladder starts."
 	"quest.38391200E39FA1C3.quest_desc": [
 		"The High Roller's Ladder counts every chip you wager at the house games once the round settles. Texas Hold'em between players, Gift Chips and refunds never count. Wager 10,000 in all for the Elf Card: the Prize Counter's first shelf, a title above your name, and a top hat. Use the card to change the title you show."
 	]
+	"task.32E48FB8091CFDD2.title": "Wager 100,000 chips in all at the house games"
 	"quest.1AE01F2D33612C8C.title": "The Reindeer Card"
 	"quest.1AE01F2D33612C8C.quest_subtitle": "Lucky is waiting."
 	"quest.1AE01F2D33612C8C.quest_desc": [
 		"Wager 100,000 at the house games, all told. The Reindeer Card opens the Prize Counter's second shelf: Lucky the Snow Fox, Grooming Brush, Velvet Earmuffs and Win Burst Trail. Velvet ropes set to Reindeer let you walk through, and recipes that ask for the card give it back."
 	]
+	"task.0AC69C948BA6BC16.title": "Wager 1,000,000 chips in all at the house games"
 	"quest.467B241331255569.title": "The Sleigh Card"
 	"quest.467B241331255569.quest_subtitle": "Cast in gold."
 	"quest.467B241331255569.quest_desc": [
-		"1,000,000 chips wagered. The Sleigh Card opens the Prize Counter's third shelf: the Pemberton the Penguin Butler and High Roller Statue, a gold likeness of you on a plinth. The velvet ropes part for you a little more often now."
+		"1,000,000 chips wagered at the house games. The Sleigh Card opens the Prize Counter's third shelf: the Pemberton the Penguin Butler and High Roller Statue, a gold likeness of you on a plinth. The velvet ropes part for you a little more often now."
 	]
+	"task.27DB1A02339FDF9D.title": "Wager 10,000,000 chips in all at the house games"
 	"reward.445699731B95F4AD.title": "Fireworks!"
 	"quest.0F67369CA332F014.title": "The North Star Card"
 	"quest.0F67369CA332F014.quest_subtitle": "The floor knows your name."
 	"quest.0F67369CA332F014.quest_desc": [
-		"10,000,000 wagered, and everyone at the tables knows who you are. The North Star Card opens the Prize Counter's fourth shelf (Mischief the Mini Krampus) and every velvet rope but the very top one, and its title is one few on the server will ever show."
+		"10,000,000 wagered at the house games, and everyone at the tables knows who you are. The North Star Card opens the Prize Counter's fourth shelf (Mischief the Mini Krampus) and every velvet rope but the very top one, and its title is one few on the server will ever show."
 	]
+	"task.049E6C9649B9F361.title": "Wager 50,000,000 chips in all at the house games"
 	"reward.05395D6F77C2322D.title": "Fireworks!"
 	"quest.3FD5A71B2ABEE6A9.title": "Santa's Circle"
 	"quest.3FD5A71B2ABEE6A9.quest_subtitle": "The top of the ladder."
 	"quest.3FD5A71B2ABEE6A9.quest_desc": [
 		"50,000,000 chips wagered at the house. Santa's Circle is the top: every velvet rope opens, and the last shelf sells Star Dust, the only way to the gilded looks. The card shimmers. So will you."
 	]
+	"task.73A9C4458B0A42BB.title": "Be dealt a blackjack with 25,000 or more on the hand"
 	"quest.206611988DEB447A.title": "Natural Born"
 	"quest.206611988DEB447A.quest_subtitle": "Blackjack, with a fortune down."
 	"quest.206611988DEB447A.quest_desc": [
 		"Be dealt a blackjack natural, an ace and a ten-card, with 25,000 or more on the hand: only a table set to its highest limits takes that (its owner sets them on the shoe). The ribbon is a title to show, and the Dealer's Visor asks for it."
 	]
+	"task.026BBD2668A702AB.title": "Win a single-number bet at Snowball Roulette"
 	"quest.3853324A3E69880D.title": "Straight Up"
 	"quest.3853324A3E69880D.quest_subtitle": "One number, and the ball finds it."
 	"quest.3853324A3E69880D.quest_desc": [
 		"Put chips on a single number at Snowball Roulette and watch the ball drop into it: 35:1, straight up. The ribbon is a title to show, and the Holly Wreath hat asks for it."
 	]
+	"task.68412B35C5F5BADC.title": "Make a royal flush at Video Poker or Ultimate Texas Hold'em"
 	"quest.1FA3F823835B78BA.title": "Royal"
 	"quest.1FA3F823835B78BA.quest_subtitle": "Ten to ace, one suit."
 	"quest.1FA3F823835B78BA.quest_desc": [
 		"Make a royal flush at Video Poker (about one hand in 40,000) or at Ultimate Texas Hold'em. When it lands, the casino hears about it. The Royal ribbon is a title, and it goes into Lucky's holly crown and the gold glitter trail."
 	]
+	"task.20AF449B84B7214F.title": "Win baccarat's Krampus 7 side bet"
 	"quest.334EEFC57AC94423.title": "Krampus 7"
 	"quest.334EEFC57AC94423.quest_subtitle": "The red seven, on the side."
 	"quest.334EEFC57AC94423.quest_desc": [
 		"Win baccarat's Krampus 7 side bet: the Banker wins on three cards to 7, which pays 40:1. The Polar Bear does not count. The ribbon is a title to show off at every table you sit at from now on."
 	]
+	"task.74EC64CF754A20F4.title": "Win a Derby race backing a runner at 12:1 or longer"
 	"quest.69349EF4E0C532E9.title": "Longshot"
 	"quest.69349EF4E0C532E9.quest_subtitle": "An outsider, home first."
 	"quest.69349EF4E0C532E9.quest_desc": [
 		"Back a runner at the Reindeer Derby at 12:1 or longer and see it come home first. The Longshot ribbon is a title to show, and the snowflake trail and a cream coat for Lucky the Snow Fox both ask for it."
 	]
+	"task.40461BCE0F5D2BA8.title": "Drop the North Pole Jackpot"
 	"quest.63A8F73034799D95.title": "North Pole Drop"
 	"quest.63A8F73034799D95.quest_subtitle": "The jackpot falls on you."
 	"quest.63A8F73034799D95.quest_desc": [
 		"Be the spin or the hand that drops the North Pole Jackpot, the pot the whole server feeds. The North Pole Drop ribbon is a title to show, and it goes into the Aurora Trail, with Star Dust from Santa's Circle."
 	]
+	"task.152F55445DE77C2F.title": "Win at least once at every house game"
 	"reward.61216641B683C9BF.title": "Fireworks!"
 	"quest.499A79D9EFD8A90F.title": "Full Card"
 	"quest.499A79D9EFD8A90F.quest_subtitle": "A win at every house game."
 	"quest.499A79D9EFD8A90F.quest_desc": [
 		"Win at least once at every house game: blackjack, baccarat, Snowball Roulette, Ultimate Texas Hold'em, Jingle Reels, Video Poker, the Wheel of Gifts and the Reindeer Derby. The Full Card ribbon is a title, and it puts gold trim on your casino panel."
 	]
+	"task.34AC87CD7C1BDA2A.title": "Settle a bet at a house game to earn Tinsel"
 	"quest.152F345C5D24021B.title": "Tinsel"
 	"quest.152F345C5D24021B.quest_subtitle": "What the house keeps, you earn."
 	"quest.152F345C5D24021B.quest_desc": [
@@ -1294,6 +1355,7 @@
 		"Buy it at the Prize Counter, Santa's Mint shelf: Mint Die for 6,000 Tinsel."
 		"Goes into: Santa's Mint."
 	]
+	"task.29D353798F6B5DDE.title": "Collect chips from your own Mint's till with an empty hand"
 	"quest.79F724DED7AAD0BD.title": "Santa's Mint"
 	"quest.79F724DED7AAD0BD.quest_subtitle": "Blanks in, chips out."
 	"quest.79F724DED7AAD0BD.quest_desc": [
@@ -1493,6 +1555,7 @@
 	"quest.1872715D300C1F81.quest_desc": [
 		"Most cooking-pot recipes also work in a basin over a blaze burner: ingredients and bowl go in together and the mixer cooks. Make fried rice from rice, a carrot, an onion, a bowl and 250 mB of egg yolk. A pot on a burner, fed by a mechanical arm, works too."
 	]
+	"task.0F96A252FB64E72E.title": "Fill a bucket with soup, stew or another kitchen fluid"
 	"quest.6FF29D5D06B3C901.title": "Soup by the Tank"
 	"quest.6FF29D5D06B3C901.quest_subtitle": "Ladle it out with a spout."
 	"quest.6FF29D5D06B3C901.quest_desc": [
@@ -1508,6 +1571,7 @@
 	"quest.41DAAB6F39C06A5A.quest_desc": [
 		"Press four apples in a basin for 500 mB of apple cider, or heat two apples, sugar and water in a mixer. Pipe the cider to a tank and spout it into bottles, 250 mB each. The Feast spices it into mulled cider, so keep the press running."
 	]
+	"task.4FC20EA514761354.title": "Ferment a drink in a keg and take it out"
 	"quest.3258FD8B6F67A9D6.title": "The Cellar"
 	"quest.3258FD8B6F67A9D6.quest_subtitle": "Some things cannot be hurried."
 	"quest.3258FD8B6F67A9D6.quest_desc": [
@@ -1679,6 +1743,7 @@
 	"quest.426BD395781589F0.quest_desc": [
 		"A mechanical press over a basin packs nine of anything into one: wheat into hay bales, potatoes and carrots into crates. Packed food stacks tight, rides a belt in a ninth of the space and is how the Drive's pantry likes it. Pack your first harvest."
 	]
+	"task.2350374972DCD998.title": "Let a factory gauge send its own package request"
 	"quest.2717ECAC505E7892.title": "The Pantry Restocks Itself"
 	"quest.2717ECAC505E7892.quest_subtitle": "A supply line, not a shopping trip."
 	"quest.2717ECAC505E7892.quest_desc": [
@@ -1689,6 +1754,7 @@
 	"quest.19C3F2C1A2E9B511.quest_desc": [
 		"Some meals are placed on the table and served by the bowl. A sequenced line of deployers builds a roast chicken: chicken, baked potato, carrot, onion, egg and bread on a bowl. Put one down, and the Drive's feast and Christmas stalls open."
 	]
+	"task.197D62B233120539.title": "Eat one of every Farmer's Delight meal"
 	"reward.10C053D2A39A6F47.title": "Fireworks!"
 	"quest.6456CD14975F13E0.title": "Every Dish on the Menu"
 	"quest.6456CD14975F13E0.quest_subtitle": "Somebody has to taste it all."
@@ -1906,6 +1972,7 @@
 		"Set on the ground behind the back gate, it catches each finished toy and hands it to a belt, a funnel or a chest."
 		"Crafting table: chute + andesite casing + brass sheet = Toy Chute."
 	]
+	"task.41B696A8EFAC24F9.title": "Be at Santa's Toy Works when it forms"
 	"quest.50F37896395DFCB1.title": "Santa's Toy Works"
 	"quest.50F37896395DFCB1.quest_subtitle": "The Carousel turns, and toys come out."
 	"quest.50F37896395DFCB1.quest_desc": [
@@ -1923,6 +1990,7 @@
 	"quest.41023DBBCE14EC9D.quest_desc": [
 		"The Toy Works knows the Wooden Train, the Spinning Top and the Rocking Horse. Every other toy needs its blueprint, and Santa's Shop sells each one once a season. Use a blueprint on your controller and your whole team learns that toy for good. JEI shows every toy's steps on the Toy Works page."
 	]
+	"task.3B7380CBD2D24487.title": "Be at Santa's Toy Works when it reaches tier II"
 	"quest.3C332E5EB1726584.title": "Eight Hands"
 	"quest.3C332E5EB1726584.quest_subtitle": "Every face of the toy."
 	"quest.3C332E5EB1726584.quest_desc": [
@@ -2010,6 +2078,7 @@
 	"quest.06E9B8A86768F020.quest_desc": [
 		"The strongest luck there is: 500 mB of Elixir, 500 mB of Spirit, an echo shard and a totem of undying in a superheated mixer make Starlight. Bottle it, then set it in a vial of gold sheets, glowstone and a precision mechanism on Mechanical Crafters. An Ancient City and a raid stand between you and it."
 	]
+	"task.4BEAB4368A258555.title": "Land a sealed sack in Santa's Sleigh"
 	"quest.34852C3F2E93CB6F.title": "Load Santa's Sleigh"
 	"quest.34852C3F2E93CB6F.quest_subtitle": "Every sack counts toward the quota."
 	"quest.34852C3F2E93CB6F.quest_desc": [
@@ -2181,6 +2250,7 @@
 		"Crafting table (shaped): 6 brass sheets + gold ingot + depot + brass casing = Forge Depot."
 		"Goes into: The Yuletide Forge (hall)."
 	]
+	"task.68E3EA91204BE1BC.title": "Be at the Forge Hall when it forms"
 	"quest.6C3C3D57A6C68162.title": "The Forge Hall"
 	"quest.6C3C3D57A6C68162.quest_subtitle": "A hall of plinth, casing and glass."
 	"quest.6C3C3D57A6C68162.quest_desc": [
@@ -2203,6 +2273,7 @@
 	"quest.55C1D1C3A3B18513.quest_desc": [
 		"Armour takes leather, iron, gold and diamond in its ladder, then the netherite piece, food, a glaze and 750 mB of Christmas Spirit apiece. Any colourway will do, and they need not match. Forge a Yuletide Helmet and Yuletide Boots."
 	]
+	"task.6938667110AF8F5E.title": "Wear the whole Yuletide set with a Yuletide Sword in hand"
 	"reward.41675B840DA204CB.title": "Fireworks!"
 	"quest.5A4EACBF22DA2BA2.title": "Dressed for the Season"
 	"quest.5A4EACBF22DA2BA2.quest_subtitle": "The whole Yuletide set."
@@ -2255,6 +2326,7 @@
 		"Crafting table (shaped): 4 copper sheets + gold block + 3 copper casings + brass casing = Chimney Crown."
 		"Goes into: The Chimney Bay (forge tier II)."
 	]
+	"task.7FDF14E7470E0149.title": "Stand by the forge once the Chimney Bay makes it tier II"
 	"quest.6DB79AD649883567.title": "The Chimney Bay"
 	"quest.6DB79AD649883567.quest_subtitle": "Tier II, and a stack with a star."
 	"quest.6DB79AD649883567.quest_desc": [
@@ -2273,6 +2345,7 @@
 	"quest.1D626E22795A9E7F.quest_desc": [
 		"The Mitre of Saint Nicholas takes a Yuletide Helmet in any colourway, a glaze for each of the other two and a Star; the Sleigh-Runner Boots take Yuletide Boots the same way. Keep sweet berries, blue ice and spruce saplings to hand. Forge both."
 	]
+	"task.6249EB974235E363.title": "Wear the whole Saint Nick set with a Saint Nick Sword in hand"
 	"reward.774D3D3425727363.title": "Fireworks!"
 	"quest.3204CFABB0699CF7.title": "Saint Nick"
 	"quest.3204CFABB0699CF7.quest_subtitle": "The whole set, and the bells."
@@ -2722,31 +2795,37 @@
 	"quest.7DF294648F05049B.quest_desc": [
 		"Everyone gets an Animal Dictionary on their first day. Its pages cover every new creature: where it lives, what it eats and how to tame it. The North has plenty of them, from froststalkers on the ice to eagles over the mountains."
 	]
+	"task.2186B847216DAA5A.title": "Make a froststalker helmet"
 	"quest.22A24F2331851550.title": "Cold Company"
 	"quest.22A24F2331851550.quest_subtitle": "Walk with the pack."
 	"quest.22A24F2331851550.quest_desc": [
 		"Froststalkers hunt in packs among the ice spikes and frozen peaks, and now and then one drops its horn. Set the horn on packed ice for a froststalker helmet: wearing it, you walk among them undetected."
 	]
+	"task.499BD3D89B40CA24.title": "Tame a bald eagle with fish oil"
 	"quest.06CDF3C596B1DDFE.title": "Falconer"
 	"quest.06CDF3C596B1DDFE.quest_subtitle": "Eyes in the sky."
 	"quest.06CDF3C596B1DDFE.quest_desc": [
 		"Bald eagles hunt over wooded mountains and dive for salmon. Tame one with fish oil (blobfish and a bottle), then pick it up on a falconry glove (leather and bear fur) and punch to launch it at whatever you look at."
 	]
+	"task.218E6F5C9DD0326A.title": "Tame an elephant with acacia blossoms"
 	"quest.3982866972D22962.title": "Trunk Show"
 	"quest.3982866972D22962.quest_subtitle": "A friend who carries the shopping."
 	"quest.3982866972D22962.quest_desc": [
 		"Elephants roam the savannas in herds. Acacia blossoms, a rare drop from acacia trees, tame a calf or an elephant without tusks. A tame elephant can be ridden, and a chest on its back carries a great deal."
 	]
+	"task.5F88260B5E063298.title": "Ride a laviathan with three friends aboard"
 	"quest.6889E7E7327BB887.title": "Lava Ferry"
 	"quest.6889E7E7327BB887.quest_subtitle": "Four seats, no lifeguard."
 	"quest.6889E7E7327BB887.quest_desc": [
 		"Laviathans swim the Nether's lava lakes and flee when hurt. A Straddlite Saddle seats four and a Straddlite Tack lets you steer: carry three friends across the lava."
 	]
+	"task.33731A2BD2B056FB.title": "Tame a cosmaw with cosmic cod"
 	"quest.2EB056454744EDD6.title": "Wings Over the Void"
 	"quest.2EB056454744EDD6.quest_subtitle": "The End has its own birds."
 	"quest.2EB056454744EDD6.quest_desc": [
 		"Cosmaws wander the outer End islands. Feed one cosmic cod, a few times over, and it is yours. It will not fight for you, but if you fall off an island it comes to catch you."
 	]
+	"task.3F6B0FF4485753A0.title": "Defeat the Void Worm"
 	"quest.5AF8F151D65999EF.title": "The Worm at the End"
 	"quest.5AF8F151D65999EF.quest_subtitle": "Something bigger than the dragon."
 	"quest.5AF8F151D65999EF.quest_desc": [

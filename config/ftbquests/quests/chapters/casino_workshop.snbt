@@ -548,6 +548,9 @@
 					"type": "advancement"
 					"advancement": "cccasino:site_tier_1"
 					"criterion": ""
+					"icon": {
+						"id": "cccasino:site_controller"
+					}
 				}
 			]
 			"rewards": [

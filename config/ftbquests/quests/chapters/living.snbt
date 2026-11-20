@@ -139,6 +139,9 @@
 					"type": "advancement"
 					"advancement": "cccasino:economy/shift_paid"
 					"criterion": ""
+					"icon": {
+						"id": "cccasino:elf_desk"
+					}
 				}
 			]
 			"rewards": [
@@ -185,6 +188,9 @@
 					"type": "advancement"
 					"advancement": "cccasino:economy/first_sale"
 					"criterion": ""
+					"icon": {
+						"id": "cccasino:exchange"
+					}
 				}
 			]
 			"rewards": [
@@ -239,12 +245,18 @@
 					"type": "advancement"
 					"advancement": "cccasino:economy/wanted_sale"
 					"criterion": ""
+					"icon": {
+						"id": "cccasino:notice_board"
+					}
 				}
 				{
 					"id": "1DE1F9DF7444F078"
 					"type": "advancement"
 					"advancement": "cccasino:economy/order_filled"
 					"criterion": ""
+					"icon": {
+						"id": "cccasino:notice_board"
+					}
 				}
 			]
 			"rewards": [
@@ -386,6 +398,9 @@
 					"type": "advancement"
 					"advancement": "cccasino:economy/till_collected"
 					"criterion": ""
+					"icon": {
+						"id": "cccasino:exchange"
+					}
 				}
 			]
 			"rewards": [
@@ -450,6 +465,9 @@
 					"type": "advancement"
 					"advancement": "cccasino:economy/colour_up"
 					"criterion": ""
+					"icon": {
+						"id": "cccasino:chip_1000"
+					}
 				}
 				{
 					"id": "660C5A8C2C4DF592"
@@ -498,6 +516,9 @@
 					"type": "advancement"
 					"advancement": "cccasino:economy/sack_paid"
 					"criterion": ""
+					"icon": {
+						"id": "cccasino:sack_of_presents"
+					}
 				}
 			]
 			"rewards": [

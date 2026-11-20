@@ -975,6 +975,9 @@
 					"type": "advancement"
 					"advancement": "cccasino:forge/formed"
 					"criterion": ""
+					"icon": {
+						"id": "cccasino:forge_controller"
+					}
 				}
 			]
 			"rewards": [
@@ -1208,6 +1211,9 @@
 					"type": "advancement"
 					"advancement": "cccasino:forge/yuletide_set"
 					"criterion": ""
+					"icon": {
+						"id": "cccasino:yuletide_chestplate"
+					}
 				}
 			]
 			"rewards": [
@@ -1701,6 +1707,9 @@
 					"type": "advancement"
 					"advancement": "cccasino:forge/tier_2"
 					"criterion": ""
+					"icon": {
+						"id": "cccasino:forge_crown"
+					}
 				}
 			]
 			"rewards": [
@@ -1929,6 +1938,9 @@
 					"type": "advancement"
 					"advancement": "cccasino:forge/saint_nick_set"
 					"criterion": ""
+					"icon": {
+						"id": "cccasino:saint_nick_chestplate"
+					}
 				}
 			]
 			"rewards": [

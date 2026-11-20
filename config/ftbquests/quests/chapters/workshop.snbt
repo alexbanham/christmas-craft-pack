@@ -240,6 +240,9 @@
 					"type": "advancement"
 					"advancement": "cccasino:toyworks/formed"
 					"criterion": ""
+					"icon": {
+						"id": "cccasino:toy_works_controller"
+					}
 				}
 				{
 					"id": "7CFC817CD92C9E0B"
@@ -375,6 +378,9 @@
 					"type": "advancement"
 					"advancement": "cccasino:toyworks/tier_2"
 					"criterion": ""
+					"icon": {
+						"id": "cccasino:clockwork_mouse"
+					}
 				}
 				{
 					"id": "2A2D6C7AE483978A"
@@ -1341,6 +1347,9 @@
 					"type": "advancement"
 					"advancement": "cccasino:sleighdock/sack_delivered"
 					"criterion": ""
+					"icon": {
+						"id": "cccasino:santas_sleigh"
+					}
 				}
 			]
 			"rewards": [

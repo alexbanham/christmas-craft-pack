@@ -150,6 +150,9 @@
 					"type": "advancement"
 					"advancement": "cccasino:casino/rank_elf"
 					"criterion": ""
+					"icon": {
+						"id": "cccasino:rank_card_elf"
+					}
 				}
 			]
 			"rewards": [
@@ -194,6 +197,9 @@
 					"type": "advancement"
 					"advancement": "cccasino:casino/rank_reindeer"
 					"criterion": ""
+					"icon": {
+						"id": "cccasino:rank_card_reindeer"
+					}
 				}
 			]
 			"rewards": [
@@ -230,6 +236,9 @@
 					"type": "advancement"
 					"advancement": "cccasino:casino/rank_sleigh"
 					"criterion": ""
+					"icon": {
+						"id": "cccasino:rank_card_sleigh"
+					}
 				}
 			]
 			"rewards": [
@@ -266,6 +275,9 @@
 					"type": "advancement"
 					"advancement": "cccasino:casino/rank_north_star"
 					"criterion": ""
+					"icon": {
+						"id": "cccasino:rank_card_north_star"
+					}
 				}
 			]
 			"rewards": [
@@ -313,6 +325,9 @@
 					"type": "advancement"
 					"advancement": "cccasino:casino/rank_santas_circle"
 					"criterion": ""
+					"icon": {
+						"id": "cccasino:rank_card_santas_circle"
+					}
 				}
 			]
 			"rewards": [
@@ -360,6 +375,9 @@
 					"type": "advancement"
 					"advancement": "cccasino:casino/feat_natural_born"
 					"criterion": ""
+					"icon": {
+						"id": "cccasino:ribbon_natural_born"
+					}
 				}
 			]
 			"rewards": [
@@ -397,6 +415,9 @@
 					"type": "advancement"
 					"advancement": "cccasino:casino/feat_straight_up"
 					"criterion": ""
+					"icon": {
+						"id": "cccasino:ribbon_straight_up"
+					}
 				}
 			]
 			"rewards": [
@@ -434,6 +455,9 @@
 					"type": "advancement"
 					"advancement": "cccasino:casino/feat_royal"
 					"criterion": ""
+					"icon": {
+						"id": "cccasino:ribbon_royal"
+					}
 				}
 			]
 			"rewards": [
@@ -471,6 +495,9 @@
 					"type": "advancement"
 					"advancement": "cccasino:casino/feat_krampus_7"
 					"criterion": ""
+					"icon": {
+						"id": "cccasino:ribbon_krampus_7"
+					}
 				}
 			]
 			"rewards": [
@@ -508,6 +535,9 @@
 					"type": "advancement"
 					"advancement": "cccasino:casino/feat_longshot"
 					"criterion": ""
+					"icon": {
+						"id": "cccasino:ribbon_longshot"
+					}
 				}
 			]
 			"rewards": [
@@ -545,6 +575,9 @@
 					"type": "advancement"
 					"advancement": "cccasino:casino/feat_north_pole_drop"
 					"criterion": ""
+					"icon": {
+						"id": "cccasino:ribbon_north_pole_drop"
+					}
 				}
 			]
 			"rewards": [
@@ -582,6 +615,9 @@
 					"type": "advancement"
 					"advancement": "cccasino:casino/feat_full_card"
 					"criterion": ""
+					"icon": {
+						"id": "cccasino:ribbon_full_card"
+					}
 				}
 			]
 			"rewards": [
@@ -630,6 +666,9 @@
 					"type": "advancement"
 					"advancement": "cccasino:economy/tinsel_earned"
 					"criterion": ""
+					"icon": {
+						"id": "cccasino:cashier_cage"
+					}
 				}
 			]
 			"rewards": [
@@ -845,6 +884,9 @@
 					"type": "advancement"
 					"advancement": "cccasino:economy/mint_collected"
 					"criterion": ""
+					"icon": {
+						"id": "cccasino:mint_kit"
+					}
 				}
 			]
 			"rewards": [
