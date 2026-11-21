@@ -1708,7 +1708,7 @@
 					"advancement": "cccasino:forge/tier_2"
 					"criterion": ""
 					"icon": {
-						"id": "cccasino:forge_crown"
+						"id": "cccasino:forge_controller"
 					}
 				}
 			]

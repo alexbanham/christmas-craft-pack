@@ -334,7 +334,7 @@
 					"advancement": "cccasino:tablegames/baccarat_played"
 					"criterion": ""
 					"icon": {
-						"id": "cccasino:baccarat_layout"
+						"id": "cccasino:baccarat_table"
 					}
 				}
 			]
@@ -391,7 +391,7 @@
 					"advancement": "cccasino:tablegames/baccarat_natural"
 					"criterion": ""
 					"icon": {
-						"id": "cccasino:deck_of_cards"
+						"id": "cccasino:baccarat_table"
 					}
 				}
 			]
@@ -453,7 +453,7 @@
 					"advancement": "cccasino:tablegames/baccarat_side_bet"
 					"criterion": ""
 					"icon": {
-						"id": "cccasino:baccarat_layout"
+						"id": "cccasino:baccarat_table"
 					}
 				}
 			]
@@ -577,7 +577,7 @@
 					"advancement": "cccasino:tablegames/video_poker_quads"
 					"criterion": ""
 					"icon": {
-						"id": "cccasino:flap_card_bank"
+						"id": "cccasino:video_poker"
 					}
 				}
 			]
@@ -845,7 +845,7 @@
 					"advancement": "cccasino:tablegames/derby_long_shot"
 					"criterion": ""
 					"icon": {
-						"id": "cccasino:racing_reindeer"
+						"id": "cccasino:reindeer_derby"
 					}
 				}
 			]
@@ -912,7 +912,7 @@
 					"advancement": "cccasino:tablegames/blackjack_won"
 					"criterion": ""
 					"icon": {
-						"id": "cccasino:blackjack_table"
+						"id": "cccasino:blackjack_table_small"
 					}
 				}
 			]

@@ -379,7 +379,7 @@
 					"advancement": "cccasino:toyworks/tier_2"
 					"criterion": ""
 					"icon": {
-						"id": "cccasino:clockwork_mouse"
+						"id": "cccasino:toy_works_controller"
 					}
 				}
 				{

@@ -376,7 +376,7 @@
 					"advancement": "cccasino:casino/feat_natural_born"
 					"criterion": ""
 					"icon": {
-						"id": "cccasino:ribbon_natural_born"
+						"id": "cccasino:blackjack_table"
 					}
 				}
 			]
@@ -416,7 +416,7 @@
 					"advancement": "cccasino:casino/feat_straight_up"
 					"criterion": ""
 					"icon": {
-						"id": "cccasino:ribbon_straight_up"
+						"id": "cccasino:roulette_table"
 					}
 				}
 			]
@@ -456,7 +456,7 @@
 					"advancement": "cccasino:casino/feat_royal"
 					"criterion": ""
 					"icon": {
-						"id": "cccasino:ribbon_royal"
+						"id": "cccasino:video_poker"
 					}
 				}
 			]
@@ -496,7 +496,7 @@
 					"advancement": "cccasino:casino/feat_krampus_7"
 					"criterion": ""
 					"icon": {
-						"id": "cccasino:ribbon_krampus_7"
+						"id": "cccasino:baccarat_table"
 					}
 				}
 			]
@@ -536,7 +536,7 @@
 					"advancement": "cccasino:casino/feat_longshot"
 					"criterion": ""
 					"icon": {
-						"id": "cccasino:ribbon_longshot"
+						"id": "cccasino:reindeer_derby"
 					}
 				}
 			]
@@ -576,7 +576,7 @@
 					"advancement": "cccasino:casino/feat_north_pole_drop"
 					"criterion": ""
 					"icon": {
-						"id": "cccasino:ribbon_north_pole_drop"
+						"id": "cccasino:jackpot_meter"
 					}
 				}
 			]

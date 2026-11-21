@@ -413,7 +413,7 @@
 	"quest.1E574C74D0CF56CB.title": "How the North Pole Pays"
 	"quest.1E574C74D0CF56CB.quest_subtitle": "Nothing crafts a chip."
 	"quest.1E574C74D0CF56CB.quest_desc": [
-		"No recipe makes a chip: each one pays for work somebody wanted. Every Cashier's Cage is the same bank. Use it to open its window: Change breaks a chip into smaller ones, Colour up puts what you carry in the fewest chips, and Bank deposits or withdraws. Banked chips are safe from death and a full inventory, and Santa's Shop draws on them. No cut, ever."
+		"No recipe makes a chip: each one pays for work somebody wanted. Every Cashier's Cage is the same bank. Use it to exchange for exactly the chips you want, from your pockets or the bank, to colour up, or to bank. Banked chips are safe from death and a full inventory, and Santa's Shop draws on them. No cut, ever."
 	]
 	"quest.2738C7826E32539B.title": "A Cage of Your Own"
 	"quest.2738C7826E32539B.quest_subtitle": "The bank, at home."
@@ -517,18 +517,28 @@
 	"quest.17B3295222734544.quest_subtitle": "Blackjack, Texas Hold'em and the wheel."
 	"quest.17B3295222734544.quest_desc": [
 		"Sit on a stool at a Blackjack, a Poker and a Roulette Table, a friend's or your own (Building the Casino). Hold chips and use the felt to bet; the lit buttons do the rest. Seated, the casino panel steps aside and name tags read the table; a summary is a key away in Controls. Settled house bets earn Tinsel. Your Gift Chips bet at the Wheel."
+		""
+		"{image:item:cccasino:blackjack_table width:16 height:16 align:center click_action:show_recipe:cccasino:blackjack_table}"
+		""
+		"{image:item:cccasino:poker_table width:16 height:16 align:center click_action:show_recipe:cccasino:poker_table}"
+		""
+		"{image:item:cccasino:roulette_table width:16 height:16 align:center click_action:show_recipe:cccasino:roulette_table}"
 	]
 	"task.5866338B69C78DCB.title": "Win a spin at the Wheel of Gifts"
 	"quest.25E6B1D27ECC0874.title": "The Wheel of Gifts"
 	"quest.25E6B1D27ECC0874.quest_subtitle": "A wheel, a clapper, a prize."
 	"quest.25E6B1D27ECC0874.quest_desc": [
 		"Put a chip on a symbol's spot on the felt, then pull the wheel (bettors only): it spins 8 seconds and the clapper picks one of 54 segments. Snowflake pays 1:1, Holly 2:1, Bell 5:1, Present 10:1, Star 20:1, Santa and Coal 40:1. A Gift Chip bets as a 1. In Advent, an empty hand on a symbol takes one free spin a day, paid in Gift Chips. Win a spin."
+		""
+		"{image:item:cccasino:wheel_of_gifts width:16 height:16 align:center click_action:show_recipe:cccasino:wheel_of_gifts}"
 	]
 	"task.43998B9F8ACE7675.title": "Win a spin on a Jingle Reels Slot Machine"
 	"quest.3BAC5309ED5C50BE.title": "Jingle Reels"
 	"quest.3BAC5309ED5C50BE.quest_subtitle": "Bells, holly and a lever."
 	"quest.3BAC5309ED5C50BE.quest_desc": [
-		"Use a Jingle Reels machine holding a 1, 5, 10 or 25 chip, or a Gift Chip, and pull the lever. Wins pay real chips, and every real chip staked feeds the North Pole Jackpot. Lucky drinks help here too, a little. Win a spin."
+		"Use a Jingle Reels machine holding a 1, 5, 10 or 25 chip, or a Gift Chip, and pull the lever. Wins pay real chips, and every real chip staked feeds the North Pole Jackpot. Lucky drinks help here too. Win a spin."
+		""
+		"{image:item:cccasino:slot_cabinet width:16 height:16 align:center click_action:show_recipe:cccasino:slot_cabinet}"
 	]
 	"quest.4FD3128EC2BDE93E.title": "Behind the Silver"
 	"quest.4FD3128EC2BDE93E.quest_subtitle": "One card a day, all through Advent."
@@ -545,30 +555,40 @@
 	"quest.26329079A83DBAA0.quest_subtitle": "Player, Banker or Tie."
 	"quest.26329079A83DBAA0.quest_desc": [
 		"Sit at a Baccarat Table and put chips in your seat's boxes: PLAYER, BANKER or TIE, then press DEAL or wait. There is nothing to decide once the cards come out: the dealer draws by the tableau, closest to nine wins. The Banker wins a little more often, so a Banker win on a three-card 7 only pushes."
+		""
+		"{image:item:cccasino:baccarat_table width:16 height:16 align:center click_action:show_recipe:cccasino:baccarat_table}"
 	]
 	"task.6F462215994B73ED.title": "Win a baccarat coup settled by a natural"
 	"quest.687565AB514EEF81.title": "A Natural"
 	"quest.687565AB514EEF81.quest_subtitle": "Eight or nine on two cards."
 	"quest.687565AB514EEF81.quest_desc": [
 		"At a Baccarat Table, win a coup settled by a natural: an 8 or a 9 on the first two cards, where nobody draws. It is over before a third card can save anyone, and the whole table sees it land on the felt at once."
+		""
+		"{image:item:cccasino:baccarat_table width:16 height:16 align:center click_action:show_recipe:cccasino:baccarat_table}"
 	]
 	"task.246AB03A106A303C.title": "Win a Krampus 7 or Polar Bear 8 side bet at baccarat"
 	"quest.67F72F29FA3BC607.title": "Krampus and the Polar Bear"
 	"quest.67F72F29FA3BC607.quest_subtitle": "The side bets."
 	"quest.67F72F29FA3BC607.quest_desc": [
 		"Every Baccarat Table seat has side-bet boxes. The red 7 wins 40:1 when the Banker wins on three cards to 7; the white 8 wins 25:1 when the Player wins on three cards to 8. Win either. One or the other comes up about once in 18 coups."
+		""
+		"{image:item:cccasino:baccarat_table width:16 height:16 align:center click_action:show_recipe:cccasino:baccarat_table}"
 	]
 	"task.7E989797A365CB95.title": "Win a paying hand at Video Poker"
 	"quest.45A920982B16572E.title": "Jacks or Better"
 	"quest.45A920982B16572E.quest_subtitle": "Hold, then draw."
 	"quest.45A920982B16572E.quest_desc": [
-		"Each coin is a chip from 1 to 25: use it on a Video Poker cabinet (sneak to put in up to 5). Pull the lever, press the brass keys under the cards you keep and pull again. Win any paying hand. 5 coins is the full return: the royal pays 800 a coin there. Lucky drinks do nothing at Video Poker."
+		"Each coin is a chip from 1 to 25: use it on a Video Poker cabinet (sneak to put in up to 5). Pull the lever, press the brass keys under the cards you keep and pull again. Win any paying hand. 5 coins is the full return: the royal pays 800 a coin there."
+		""
+		"{image:item:cccasino:video_poker width:16 height:16 align:center click_action:show_recipe:cccasino:video_poker}"
 	]
 	"task.33683A9ADB1B2D73.title": "Draw four of a kind or better at Video Poker"
 	"quest.45F2F984A25678EA.title": "Four of a Kind"
 	"quest.45F2F984A25678EA.quest_subtitle": "Quads, and the flaps riffle."
 	"quest.45F2F984A25678EA.quest_desc": [
 		"Draw four of a kind (or better) at Video Poker. It comes about once in 400 hands with good holds: keep every pair, never a kicker, and let the flaps riffle. Four of a kind pays 25 a coin."
+		""
+		"{image:item:cccasino:video_poker width:16 height:16 align:center click_action:show_recipe:cccasino:video_poker}"
 	]
 	"task.3465A3A7B364D7CF.title": "Draw a royal flush at Video Poker"
 	"reward.3217CA0B1A1ED90E.title": "Fireworks!"
@@ -576,6 +596,8 @@
 	"quest.3D5AAD87F5A0BC70.quest_subtitle": "Ten to ace, one suit."
 	"quest.3D5AAD87F5A0BC70.quest_desc": [
 		"Draw a royal flush: ten, jack, queen, king and ace of one suit. About one hand in 40,000, so it is a story people will hear about all season. At 5 coins it pays 4,000 of them."
+		""
+		"{image:item:cccasino:video_poker width:16 height:16 align:center click_action:show_recipe:cccasino:video_poker}"
 	]
 	"task.3812AEB5A6A45B58.title": "Drop the North Pole Jackpot at Jingle Reels or Video Poker"
 	"reward.70A4379119D5653F.title": "Fireworks!"
@@ -583,42 +605,56 @@
 	"quest.1ABB42B4520AF9CC.quest_subtitle": "One pot for the whole server."
 	"quest.1ABB42B4520AF9CC.quest_desc": [
 		"Every real chip staked on Jingle Reels or Video Poker puts 2% into one pot for the whole server, and the meters roll it up. It must drop before 5,000, at a point sealed when it starts: be the spin or the hand that carries it there."
+		""
+		"{image:item:cccasino:jackpot_meter width:16 height:16 align:center click_action:show_recipe:cccasino:jackpot_meter}"
 	]
 	"task.04A125928A805168.title": "Win a race at the Reindeer Derby"
 	"quest.65BCB7C6DA9DFD52.title": "They're Off"
 	"quest.65BCB7C6DA9DFD52.quest_subtitle": "Back the right reindeer."
 	"quest.65BCB7C6DA9DFD52.quest_desc": [
 		"Put chips on a runner's roundel at the Reindeer Derby, then press START or wait for the gate. The odds are on the tote, the order is drawn at the gate, and the chains under the track carry it home. Win a race."
+		""
+		"{image:item:cccasino:reindeer_derby width:16 height:16 align:center click_action:show_recipe:cccasino:reindeer_derby}"
 	]
 	"task.0E273865C5D0B497.title": "Win a Derby race backing a runner at 12:1 or longer"
 	"quest.54C7CF4D81CE9164.title": "The Long Shot"
 	"quest.54C7CF4D81CE9164.quest_subtitle": "The outsider comes home."
 	"quest.54C7CF4D81CE9164.quest_desc": [
 		"Win a race at the Reindeer Derby backing a runner at 12:1 or longer. The long shots win less often than the favourites, but every bet on the card returns the same in the long run: the difference is the story."
+		""
+		"{image:item:cccasino:reindeer_derby width:16 height:16 align:center click_action:show_recipe:cccasino:reindeer_derby}"
 	]
 	"task.77404D6FCDA89F55.title": "Win a hand at a Blackjack Table"
 	"quest.63B56B75131D58BF.title": "Twenty-One"
 	"quest.63B56B75131D58BF.quest_subtitle": "Beat the dealer."
 	"quest.63B56B75131D58BF.quest_desc": [
 		"Take a seat at a Blackjack Table, put chips in your circle and play the hand from the console in front of you: hit, stand, double or split. The dealer stands on soft 17, a blackjack pays 3:2 and the shoe is cut at half. Win a hand that pays more than you staked; a push does not count."
+		""
+		"{image:item:cccasino:blackjack_table_small width:16 height:16 align:center click_action:show_recipe:cccasino:blackjack_table_small}"
 	]
 	"task.2D05C9452E62F877.title": "Win a pot at Texas Hold'em"
 	"quest.413578C19C63379D.title": "Take the Pot"
 	"quest.413578C19C63379D.quest_subtitle": "Texas Hold'em."
 	"quest.413578C19C63379D.quest_desc": [
 		"Sit down at a Poker Table with friends and play Texas Hold'em from your own stack. No rake: every chip in the pot goes to the players. Use your face-down cards to pick them up and look. Win a pot at showdown or by making everyone else fold. Cards hard to read from your seat? Turn on the card strip in Mods > Christmas Craft Casino > Config."
+		""
+		"{image:item:cccasino:poker_table width:16 height:16 align:center click_action:show_recipe:cccasino:poker_table}"
 	]
 	"task.0401AE61DB1A44F5.title": "Beat the dealer at Ultimate Texas Hold'em"
 	"quest.51B3770383EDC517.title": "Ultimate Texas Hold'em"
 	"quest.51B3770383EDC517.quest_subtitle": "You against the house."
 	"quest.51B3770383EDC517.quest_desc": [
 		"Alone at a Poker Table, put down an ante instead of sitting in and press DEAL: you play Ultimate Texas Hold'em against the dealer. Play bets are 4×, 3×, 2× or 1× your ante: the bigger ones only before the flop. Ultimate needs six antes in your stack. Beat the dealer's hand."
+		""
+		"{image:item:cccasino:poker_table width:16 height:16 align:center click_action:show_recipe:cccasino:poker_table}"
 	]
 	"task.7609259BD9BDBB94.title": "Win a bet at a Snowball Roulette Table"
 	"quest.0AF2EF50A84C0947.title": "Red or Green"
 	"quest.0AF2EF50A84C0947.quest_subtitle": "Any winning bet."
 	"quest.0AF2EF50A84C0947.quest_desc": [
 		"Put chips on a Snowball Roulette Table (a number, red or green, odd or even, a dozen or a column) and let the wheel spin. It has a single snow-white zero, so the house edge is small. Win any bet. One number on its own, straight up, pays 35:1."
+		""
+		"{image:item:cccasino:roulette_table width:16 height:16 align:center click_action:show_recipe:cccasino:roulette_table}"
 	]
 	"quest.50C1DFAAE00DF7F8.title": "Big Chip"
 	"quest.50C1DFAAE00DF7F8.quest_subtitle": "A fortune in one chip."
@@ -715,6 +751,8 @@
 		"{image:cccasino:textures/gui/quest/mb_layers_workshop.png width:200 height:78 align:center}"
 		""
 		"{image:cccasino:textures/gui/quest/mb_build_guide.png width:200 height:78 align:center}"
+		""
+		"{image:item:cccasino:site_controller width:16 height:16 align:center click_action:show_recipe:cccasino:site_controller}"
 	]
 	"task.0D23B378EB633CA1.title": "Got it"
 	"quest.0E0C83585F50A19D.title": "Running the Workshop"
@@ -868,6 +906,8 @@
 		"{image:cccasino:textures/gui/quest/mb_blackjack_table_small.png width:200 height:78 align:center}"
 		""
 		"{image:cccasino:textures/gui/quest/mb_plan_blackjack_table_small.png width:200 height:78 align:center}"
+		""
+		"{image:item:cccasino:blackjack_table_small width:16 height:16 align:center click_action:show_recipe:cccasino:blackjack_table_small}"
 	]
 	"quest.477BFDFCB9E6815F.title": "Pull Up a Stool"
 	"quest.477BFDFCB9E6815F.quest_subtitle": "Seat your friends."
@@ -903,6 +943,8 @@
 		"{image:cccasino:textures/gui/quest/mb_blackjack_table.png width:200 height:78 align:center}"
 		""
 		"{image:cccasino:textures/gui/quest/mb_plan_blackjack_table.png width:200 height:78 align:center}"
+		""
+		"{image:item:cccasino:blackjack_table width:16 height:16 align:center click_action:show_recipe:cccasino:blackjack_table}"
 	]
 	"task.4DD1A1DC61ECC551.title": "Form a Large Blackjack Table"
 	"quest.07247796C5F51FB3.title": "High Stakes"
@@ -916,6 +958,8 @@
 		"{image:cccasino:textures/gui/quest/mb_blackjack_table_large.png width:200 height:78 align:center}"
 		""
 		"{image:cccasino:textures/gui/quest/mb_plan_blackjack_table_large.png width:200 height:78 align:center}"
+		""
+		"{image:item:cccasino:blackjack_table_large width:16 height:16 align:center click_action:show_recipe:cccasino:blackjack_table_large}"
 	]
 	"quest.7EFC39E0F99C2DBE.title": "The Baccarat Layout"
 	"quest.7EFC39E0F99C2DBE.quest_subtitle": "Player, Banker, Tie."
@@ -935,6 +979,8 @@
 		"{image:cccasino:textures/gui/quest/mb_baccarat_table.png width:200 height:78 align:center}"
 		""
 		"{image:cccasino:textures/gui/quest/mb_plan_baccarat_table.png width:200 height:78 align:center}"
+		""
+		"{image:item:cccasino:baccarat_table width:16 height:16 align:center click_action:show_recipe:cccasino:baccarat_table}"
 	]
 	"quest.6AA696C757523861.title": "Shuffler Rollers"
 	"quest.6AA696C757523861.quest_subtitle": "Rubber rollers and a counter."
@@ -969,6 +1015,8 @@
 		"{image:cccasino:textures/gui/quest/mb_poker_table.png width:200 height:78 align:center}"
 		""
 		"{image:cccasino:textures/gui/quest/mb_plan_poker_table.png width:200 height:78 align:center}"
+		""
+		"{image:item:cccasino:poker_table width:16 height:16 align:center click_action:show_recipe:cccasino:poker_table}"
 	]
 	"quest.7A13E70F900DE899.title": "The Turned Bowl"
 	"quest.7A13E70F900DE899.quest_subtitle": "Dark oak, on the Lathe."
@@ -1017,6 +1065,8 @@
 		"{image:cccasino:textures/gui/quest/mb_roulette_table.png width:200 height:78 align:center}"
 		""
 		"{image:cccasino:textures/gui/quest/mb_plan_roulette_table.png width:200 height:78 align:center}"
+		""
+		"{image:item:cccasino:roulette_table width:16 height:16 align:center click_action:show_recipe:cccasino:roulette_table}"
 	]
 	"quest.3602C0241FAD6D4E.title": "The Cabinet Plinth"
 	"quest.3602C0241FAD6D4E.quest_subtitle": "Every cabinet stands on one."
@@ -1066,6 +1116,8 @@
 		"{image:cccasino:textures/gui/quest/mb_slot_cabinet.png width:200 height:78 align:center}"
 		""
 		"{image:cccasino:textures/gui/quest/mb_plan_slot_cabinet.png width:200 height:78 align:center}"
+		""
+		"{image:item:cccasino:slot_cabinet width:16 height:16 align:center click_action:show_recipe:cccasino:slot_cabinet}"
 	]
 	"quest.77905CDF0529AACA.title": "Sleigh Bell Haul"
 	"quest.77905CDF0529AACA.quest_subtitle": "Presents and a sleigh bell."
@@ -1123,6 +1175,8 @@
 		"{image:cccasino:textures/gui/quest/mb_video_poker.png width:200 height:78 align:center}"
 		""
 		"{image:cccasino:textures/gui/quest/mb_plan_video_poker.png width:200 height:78 align:center}"
+		""
+		"{image:item:cccasino:video_poker width:16 height:16 align:center click_action:show_recipe:cccasino:video_poker}"
 	]
 	"quest.5A3C4DCD138C6FC3.title": "Counter Drums"
 	"quest.5A3C4DCD138C6FC3.quest_subtitle": "Digits on copper."
@@ -1157,6 +1211,8 @@
 		"{image:cccasino:textures/gui/quest/mb_jackpot_meter.png width:200 height:78 align:center}"
 		""
 		"{image:cccasino:textures/gui/quest/mb_plan_jackpot_meter.png width:200 height:78 align:center}"
+		""
+		"{image:item:cccasino:jackpot_meter width:16 height:16 align:center click_action:show_recipe:cccasino:jackpot_meter}"
 	]
 	"quest.6F99C9BFE6DC9FAD.title": "Derby Track"
 	"quest.6F99C9BFE6DC9FAD.quest_subtitle": "Snow lanes and a chain."
@@ -1198,6 +1254,8 @@
 		"{image:cccasino:textures/gui/quest/mb_reindeer_derby.png width:200 height:78 align:center}"
 		""
 		"{image:cccasino:textures/gui/quest/mb_plan_reindeer_derby.png width:200 height:78 align:center}"
+		""
+		"{image:item:cccasino:reindeer_derby width:16 height:16 align:center click_action:show_recipe:cccasino:reindeer_derby}"
 	]
 	"quest.12981B4FB4AB7702.title": "More Seats"
 	"quest.12981B4FB4AB7702.quest_subtitle": "Stools round the big tables."
@@ -1214,6 +1272,12 @@
 	"quest.11C16135B26F8B1F.quest_subtitle": "Every table, made by you."
 	"quest.11C16135B26F8B1F.quest_desc": [
 		"A Poker Table, a Snowball Roulette Table and a Jingle Reels Slot Machine, every piece made in your own Workshop and put together on your own floor. Throw the doors open: the North Pole has a casino of its own making."
+		""
+		"{image:item:cccasino:poker_table width:16 height:16 align:center click_action:show_recipe:cccasino:poker_table}"
+		""
+		"{image:item:cccasino:roulette_table width:16 height:16 align:center click_action:show_recipe:cccasino:roulette_table}"
+		""
+		"{image:item:cccasino:slot_cabinet width:16 height:16 align:center click_action:show_recipe:cccasino:slot_cabinet}"
 	]
 	"task.564439861E79ABAA.title": "Form a Baccarat Table"
 	"task.42CA965565D1849D.title": "Form a North Pole Jackpot Meter"
@@ -1223,6 +1287,12 @@
 	"quest.22F01DA66DD51A33.quest_subtitle": "Every game in the house."
 	"quest.22F01DA66DD51A33.quest_desc": [
 		"A Baccarat Table, a Video Poker cabinet under a North Pole Jackpot Meter, and the Reindeer Derby, all of your own making. The North Pole has a casino floor to rival anywhere."
+		""
+		"{image:item:cccasino:baccarat_table width:16 height:16 align:center click_action:show_recipe:cccasino:baccarat_table}"
+		""
+		"{image:item:cccasino:jackpot_meter width:16 height:16 align:center click_action:show_recipe:cccasino:jackpot_meter}"
+		""
+		"{image:item:cccasino:reindeer_derby width:16 height:16 align:center click_action:show_recipe:cccasino:reindeer_derby}"
 	]
 	"chapter.511C154DE343C9D2.title": "The High Roller"
 	"chapter.511C154DE343C9D2.chapter_subtitle": [
@@ -1286,36 +1356,48 @@
 	"quest.206611988DEB447A.quest_subtitle": "Blackjack, with a fortune down."
 	"quest.206611988DEB447A.quest_desc": [
 		"Be dealt a blackjack natural, an ace and a ten-card, with 25,000 or more on the hand: only a table set to its highest limits takes that (its owner sets them on the shoe). The ribbon is a title to show, and the Dealer's Visor asks for it."
+		""
+		"{image:item:cccasino:blackjack_table width:16 height:16 align:center click_action:show_recipe:cccasino:blackjack_table}"
 	]
 	"task.026BBD2668A702AB.title": "Win a single-number bet at Snowball Roulette"
 	"quest.3853324A3E69880D.title": "Straight Up"
 	"quest.3853324A3E69880D.quest_subtitle": "One number, and the ball finds it."
 	"quest.3853324A3E69880D.quest_desc": [
 		"Put chips on a single number at Snowball Roulette and watch the ball drop into it: 35:1, straight up. The ribbon is a title to show, and the Holly Wreath hat asks for it."
+		""
+		"{image:item:cccasino:roulette_table width:16 height:16 align:center click_action:show_recipe:cccasino:roulette_table}"
 	]
 	"task.68412B35C5F5BADC.title": "Make a royal flush at Video Poker or Ultimate Texas Hold'em"
 	"quest.1FA3F823835B78BA.title": "Royal"
 	"quest.1FA3F823835B78BA.quest_subtitle": "Ten to ace, one suit."
 	"quest.1FA3F823835B78BA.quest_desc": [
 		"Make a royal flush at Video Poker (about one hand in 40,000) or at Ultimate Texas Hold'em. When it lands, the casino hears about it. The Royal ribbon is a title, and it goes into Lucky's holly crown and the gold glitter trail."
+		""
+		"{image:item:cccasino:video_poker width:16 height:16 align:center click_action:show_recipe:cccasino:video_poker}"
 	]
 	"task.20AF449B84B7214F.title": "Win baccarat's Krampus 7 side bet"
 	"quest.334EEFC57AC94423.title": "Krampus 7"
 	"quest.334EEFC57AC94423.quest_subtitle": "The red seven, on the side."
 	"quest.334EEFC57AC94423.quest_desc": [
 		"Win baccarat's Krampus 7 side bet: the Banker wins on three cards to 7, which pays 40:1. The Polar Bear does not count. The ribbon is a title to show off at every table you sit at from now on."
+		""
+		"{image:item:cccasino:baccarat_table width:16 height:16 align:center click_action:show_recipe:cccasino:baccarat_table}"
 	]
 	"task.74EC64CF754A20F4.title": "Win a Derby race backing a runner at 12:1 or longer"
 	"quest.69349EF4E0C532E9.title": "Longshot"
 	"quest.69349EF4E0C532E9.quest_subtitle": "An outsider, home first."
 	"quest.69349EF4E0C532E9.quest_desc": [
 		"Back a runner at the Reindeer Derby at 12:1 or longer and see it come home first. The Longshot ribbon is a title to show, and the snowflake trail and a cream coat for Lucky the Snow Fox both ask for it."
+		""
+		"{image:item:cccasino:reindeer_derby width:16 height:16 align:center click_action:show_recipe:cccasino:reindeer_derby}"
 	]
 	"task.40461BCE0F5D2BA8.title": "Drop the North Pole Jackpot"
 	"quest.63A8F73034799D95.title": "North Pole Drop"
 	"quest.63A8F73034799D95.quest_subtitle": "The jackpot falls on you."
 	"quest.63A8F73034799D95.quest_desc": [
 		"Be the spin or the hand that drops the North Pole Jackpot, the pot the whole server feeds. The North Pole Drop ribbon is a title to show, and it goes into the Aurora Trail, with Star Dust from Santa's Circle."
+		""
+		"{image:item:cccasino:jackpot_meter width:16 height:16 align:center click_action:show_recipe:cccasino:jackpot_meter}"
 	]
 	"task.152F55445DE77C2F.title": "Win at least once at every house game"
 	"reward.61216641B683C9BF.title": "Fireworks!"
@@ -1403,7 +1485,7 @@
 	"quest.0A74407E55ADC2B9.title": "A Lucky Drink"
 	"quest.0A74407E55ADC2B9.quest_subtitle": "Luck, by the bottle."
 	"quest.0A74407E55ADC2B9.quest_desc": [
-		"The Lucky drinks shelf sells Lucky Tonic for 150 Tinsel and Mistletoe Elixir for 600 Tinsel. A drink gives you Luck for a while: luckier draws at the casino, and Minecraft luck for fishing and loot. Luck is capped so no house game ever pays back all it takes, and it does nothing at Video Poker. While it lasts you earn less Tinsel."
+		"The Lucky drinks shelf sells Lucky Tonic for 150 Tinsel and Mistletoe Elixir for 600 Tinsel. A drink gives you Luck for a while. At Luck I, II and III a house game's best bet pays back about 102%, 103% and 104%: the odds tip your way. Slots with their own screen take none. While it lasts you earn less Tinsel, and none on a bet past even money."
 	]
 	"quest.50DE7041F0C1E2A3.title": "The Wardrobe"
 	"quest.50DE7041F0C1E2A3.quest_subtitle": "A hat for the tables."
@@ -1984,6 +2066,8 @@
 		"{image:cccasino:textures/gui/quest/mb_plan_toy_works.png width:200 height:78 align:center}"
 		""
 		"{image:cccasino:textures/gui/quest/mb_layers_toy_works.png width:200 height:78 align:center}"
+		""
+		"{image:item:cccasino:toy_works_controller width:16 height:16 align:center click_action:show_recipe:cccasino:toy_works_controller}"
 	]
 	"quest.41023DBBCE14EC9D.title": "A New Design"
 	"quest.41023DBBCE14EC9D.quest_subtitle": "Learn a toy nobody taught you."
@@ -1998,6 +2082,8 @@
 		"Blocks: 88 Toy Works Casings, 8 Workshop Deployers; one each: Santa's Toy Works, Drive Port, Item Input Port."
 		""
 		"{image:cccasino:textures/gui/quest/mb_plan_toy_works.png width:200 height:78 align:center}"
+		""
+		"{image:item:cccasino:toy_works_controller width:16 height:16 align:center click_action:show_recipe:cccasino:toy_works_controller}"
 	]
 	"quest.7F19373A1F5858BC.title": "Fired in the Kiln"
 	"quest.7F19373A1F5858BC.quest_subtitle": "Paint that sets hard."
@@ -2071,7 +2157,7 @@
 	"quest.380B0EB54C77A0AA.title": "Mistletoe Elixir"
 	"quest.380B0EB54C77A0AA.quest_subtitle": "Luck II."
 	"quest.380B0EB54C77A0AA.quest_desc": [
-		"Twice the luck takes a superheated mixer: 500 mB of Lucky Tonic, 250 mB of Spirit, an emerald, a glistering melon slice and a phantom membrane. On a bottle, a spout fills it, a deployer seals it with a gold sheet and a press closes it. Villagers, a melon line and a sleepless night or two."
+		"Stronger luck takes a superheated mixer: 500 mB of Lucky Tonic, 250 mB of Spirit, an emerald, a glistering melon slice and a phantom membrane. On a bottle, a spout fills it, a deployer seals it with a gold sheet and a press closes it. Villagers, a melon line and a sleepless night or two."
 	]
 	"quest.06E9B8A86768F020.title": "The Star Draught"
 	"quest.06E9B8A86768F020.quest_subtitle": "Luck III."
@@ -2262,6 +2348,8 @@
 		"{image:cccasino:textures/gui/quest/mb_plan_forge.png width:200 height:78 align:center}"
 		""
 		"{image:cccasino:textures/gui/quest/mb_layers_forge.png width:200 height:78 align:center}"
+		""
+		"{image:item:cccasino:forge_controller width:16 height:16 align:center click_action:show_recipe:cccasino:forge_controller}"
 	]
 	"quest.47402B7D7EF3FBC7.title": "Forged in Spirit"
 	"quest.47402B7D7EF3FBC7.quest_subtitle": "A Yuletide Sword."
@@ -2334,6 +2422,8 @@
 		"Blocks: 54 Forge Casings, 23 Forge Roofing, 18 Forge Glazing, 12 Forge Plinths, and 5 more, one of each (each has its own quest)."
 		""
 		"{image:cccasino:textures/gui/quest/mb_plan_forge.png width:200 height:78 align:center}"
+		""
+		"{image:item:cccasino:forge_controller width:16 height:16 align:center click_action:show_recipe:cccasino:forge_controller}"
 	]
 	"quest.49B4631A81F12ED1.title": "The North Star"
 	"quest.49B4631A81F12ED1.quest_subtitle": "One sword, all three colours."
