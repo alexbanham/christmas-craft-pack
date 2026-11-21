@@ -2617,7 +2617,7 @@
 					"advancement": "cccasino:multiblock/poker_table"
 					"criterion": ""
 					"icon": {
-						"id": "cccasino:roulette_table"
+						"id": "cccasino:poker_table"
 					}
 				}
 				{
@@ -2635,7 +2635,7 @@
 					"advancement": "cccasino:multiblock/slot_cabinet"
 					"criterion": ""
 					"icon": {
-						"id": "cccasino:roulette_table"
+						"id": "cccasino:slot_cabinet"
 					}
 				}
 			]
@@ -2709,7 +2709,7 @@
 					"advancement": "cccasino:multiblock/baccarat_table"
 					"criterion": ""
 					"icon": {
-						"id": "cccasino:jackpot_meter"
+						"id": "cccasino:baccarat_table"
 					}
 				}
 				{
@@ -2727,7 +2727,7 @@
 					"advancement": "cccasino:multiblock/reindeer_derby"
 					"criterion": ""
 					"icon": {
-						"id": "cccasino:jackpot_meter"
+						"id": "cccasino:reindeer_derby"
 					}
 				}
 			]
