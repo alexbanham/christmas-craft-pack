@@ -186,7 +186,7 @@ hash = "1968b1172f4184e36962ea8442accf213b5f8b69b998a18c8d4b045026441741"
 
 [[files]]
 file = "config/ftbquests/quests/lang/en_us.snbt"
-hash = "1970d8edff7623f3ac4d7dc10a240f1510e03d52d6c4f5255632b47479c2df9f"
+hash = "014f4d51167ab374ab00e768c9e888d27085ce322fe8b816fc14a09dc9a5d9e2"
 
 [[files]]
 file = "config/ftbquests/quests/reward_tables/advent.snbt"
@@ -340,6 +340,10 @@ hash = "4e530f6f4ec194927a67012c1a960a7aef178fecc2a982693889443b3265a618"
 [[files]]
 file = "kubejs/assets/christmascraft/contraptionlights/light_colors/xmas_decor_twigs.json"
 hash = "802ceac55e169968b6ed920c2c3782f2b9daebc49906bf3ae0d8e536a23083d5"
+
+[[files]]
+file = "kubejs/assets/christmascraft/fusion/model_modifiers/blocks/vanilla_glass_pane_culling_fix.json"
+hash = "db39d9d9d2cc7f73395f737edd7092d241004834410343591ad8f30373ba8045"
 
 [[files]]
 file = "kubejs/assets/christmascraft/lang/en_us.json"
@@ -532,6 +536,482 @@ hash = "f83911e426bd9d19b4987226fb83c8bd6679ad49c47287a6855dbc067bf07ebd"
 [[files]]
 file = "kubejs/assets/christmascraft/models/block/dish/yule_log_4.json"
 hash = "7cb605f629a84fb93122dba555592e9752634a619ea4dfe2b01d67831595e60d"
+
+[[files]]
+file = "kubejs/assets/christmascraft/models/block/vanilla_glass/black_stained_glass_pane_noside.json"
+hash = "4e4aad4ae769d7cee42fbc23d7650bb174354a9b0e1fad392bf5d15eea35b516"
+
+[[files]]
+file = "kubejs/assets/christmascraft/models/block/vanilla_glass/black_stained_glass_pane_noside_alt.json"
+hash = "5b18a054ac28c4a9bf06c6ca9cd8b167d3170feb5ff4eb32f237ea30ee617312"
+
+[[files]]
+file = "kubejs/assets/christmascraft/models/block/vanilla_glass/black_stained_glass_pane_post.json"
+hash = "8799699f2ce719a423e5610de739f6721d250bac877398621c6565081d22a17a"
+
+[[files]]
+file = "kubejs/assets/christmascraft/models/block/vanilla_glass/black_stained_glass_pane_side_east.json"
+hash = "a23718c1ed8a9ae93e3c8126c12298d034e9e201fa7ded26df56c1f620dd26be"
+
+[[files]]
+file = "kubejs/assets/christmascraft/models/block/vanilla_glass/black_stained_glass_pane_side_north.json"
+hash = "1bdcab2cb4c1e2ef95b87dea73720cebb7ed5f0eeb23b2973ac8f953e920fc80"
+
+[[files]]
+file = "kubejs/assets/christmascraft/models/block/vanilla_glass/black_stained_glass_pane_side_south.json"
+hash = "614b8c9aaf7e10b93fd6103354572abe9be46c32d7e24fa7f013dce4ab0ac410"
+
+[[files]]
+file = "kubejs/assets/christmascraft/models/block/vanilla_glass/black_stained_glass_pane_side_west.json"
+hash = "3026847bcf3d4b4699906e8408627a3a895a1a818c6672e84a464fe8ff07f0d4"
+
+[[files]]
+file = "kubejs/assets/christmascraft/models/block/vanilla_glass/blue_stained_glass_pane_noside.json"
+hash = "5a10afa8025de5f4087518e7f76b65f735f92f95136090731eece34125a56b69"
+
+[[files]]
+file = "kubejs/assets/christmascraft/models/block/vanilla_glass/blue_stained_glass_pane_noside_alt.json"
+hash = "af4996240714f6e41e2c6d975b5753bd1c87068e11ffed74ed3f1a08f4d1bee0"
+
+[[files]]
+file = "kubejs/assets/christmascraft/models/block/vanilla_glass/blue_stained_glass_pane_post.json"
+hash = "50fbe101ec049323de4261b78b7fefe81808f1218ab7cc00494ca67be36ab068"
+
+[[files]]
+file = "kubejs/assets/christmascraft/models/block/vanilla_glass/blue_stained_glass_pane_side_east.json"
+hash = "1030e4086742f9ffa32958441b5c397f7c2501e4aa70aa1fbe5849db06512506"
+
+[[files]]
+file = "kubejs/assets/christmascraft/models/block/vanilla_glass/blue_stained_glass_pane_side_north.json"
+hash = "6284dfc26a46b7866025c8fb948e09aafb38d9fcccbd656159addb54457e86a5"
+
+[[files]]
+file = "kubejs/assets/christmascraft/models/block/vanilla_glass/blue_stained_glass_pane_side_south.json"
+hash = "e19a5fcf5eb2faa205edc782a82026c1781d1c0ff12f122687a2d48f65b5ec9f"
+
+[[files]]
+file = "kubejs/assets/christmascraft/models/block/vanilla_glass/blue_stained_glass_pane_side_west.json"
+hash = "7e4f0e07ed537c03447287947500dea6791bed75b77baecc72bd4d75f8d4a7c5"
+
+[[files]]
+file = "kubejs/assets/christmascraft/models/block/vanilla_glass/brown_stained_glass_pane_noside.json"
+hash = "e26239f8b1095489255577b9f57dad5e1d81430c329f3b942156d39487faa1d1"
+
+[[files]]
+file = "kubejs/assets/christmascraft/models/block/vanilla_glass/brown_stained_glass_pane_noside_alt.json"
+hash = "e1611979f7e3ee1998f6778e2662308ad3c98d9f38eb7332fd1876e6fdf46ecb"
+
+[[files]]
+file = "kubejs/assets/christmascraft/models/block/vanilla_glass/brown_stained_glass_pane_post.json"
+hash = "d7c41f23e8cde1e5db73557448d8f060607cd946bcb290411e91b1ec4d5926d7"
+
+[[files]]
+file = "kubejs/assets/christmascraft/models/block/vanilla_glass/brown_stained_glass_pane_side_east.json"
+hash = "7eeb9a58cce2664f3c6bbeef92c588bc24c77a6c375be6ea3ca18a654741b831"
+
+[[files]]
+file = "kubejs/assets/christmascraft/models/block/vanilla_glass/brown_stained_glass_pane_side_north.json"
+hash = "5235a0ccc7682dbdbbd040b25092119d0886f0b445fbc2e73a2765a5aa539f9d"
+
+[[files]]
+file = "kubejs/assets/christmascraft/models/block/vanilla_glass/brown_stained_glass_pane_side_south.json"
+hash = "3f49c4b27e535904d5340d9fa54a31cd89d2a1886828f78fb449ed97b0f4bf4b"
+
+[[files]]
+file = "kubejs/assets/christmascraft/models/block/vanilla_glass/brown_stained_glass_pane_side_west.json"
+hash = "93639cbb6846f5ee80aa9613ab7127fc505a11c23dbe7faf40b71991db447d3d"
+
+[[files]]
+file = "kubejs/assets/christmascraft/models/block/vanilla_glass/cyan_stained_glass_pane_noside.json"
+hash = "bde87088cf064773eb694e8c93647e9547e491fabff47093a4b8f53d7e8ecd38"
+
+[[files]]
+file = "kubejs/assets/christmascraft/models/block/vanilla_glass/cyan_stained_glass_pane_noside_alt.json"
+hash = "507d18fa8eee5d28b14dc112f5faee27385d3bfd8ba6288431887dcb52dec35d"
+
+[[files]]
+file = "kubejs/assets/christmascraft/models/block/vanilla_glass/cyan_stained_glass_pane_post.json"
+hash = "ca9f9cb994765466ef560b500c630137b5f975cae42b5d7d0ddabc37ec72a914"
+
+[[files]]
+file = "kubejs/assets/christmascraft/models/block/vanilla_glass/cyan_stained_glass_pane_side_east.json"
+hash = "db5dd84051654181249f2cf6184c550689fd8e6997b267b243d1c365c627b3f7"
+
+[[files]]
+file = "kubejs/assets/christmascraft/models/block/vanilla_glass/cyan_stained_glass_pane_side_north.json"
+hash = "1f6a79aa2dc76652a088b32c8d2d6a60dbf6d305ccf6be0b8bf77ba826304f45"
+
+[[files]]
+file = "kubejs/assets/christmascraft/models/block/vanilla_glass/cyan_stained_glass_pane_side_south.json"
+hash = "e48b45593fe4cdef6868448846526cd79742d69161ec06fbb52bbcc5524c5bea"
+
+[[files]]
+file = "kubejs/assets/christmascraft/models/block/vanilla_glass/cyan_stained_glass_pane_side_west.json"
+hash = "514e3c84fea24ff47e415593222332a585ca3fdb188f1dbed8112630f8f65cdb"
+
+[[files]]
+file = "kubejs/assets/christmascraft/models/block/vanilla_glass/glass_pane_noside.json"
+hash = "a96186c3358b6f3aa008c053544ebbbcdb7eef3263e70d53f33acd4868a03ca0"
+
+[[files]]
+file = "kubejs/assets/christmascraft/models/block/vanilla_glass/glass_pane_noside_alt.json"
+hash = "873103bcc84528473903f9966ad3f57e66a187c0298037abe907f1c52dda92fa"
+
+[[files]]
+file = "kubejs/assets/christmascraft/models/block/vanilla_glass/glass_pane_post.json"
+hash = "fd22e3843ebfbcbd200eb7c80366b388557a4e9f2bc5f30abe59762c1cde1edf"
+
+[[files]]
+file = "kubejs/assets/christmascraft/models/block/vanilla_glass/glass_pane_side_east.json"
+hash = "44801eeb2f75bc1da63ec73e7955814fd27b8f1b01641b76ac70b62738a64c89"
+
+[[files]]
+file = "kubejs/assets/christmascraft/models/block/vanilla_glass/glass_pane_side_north.json"
+hash = "08509cce36cfce72a30079ed7171cdb8cf7a96bb25946e112d11e2fabde4a15f"
+
+[[files]]
+file = "kubejs/assets/christmascraft/models/block/vanilla_glass/glass_pane_side_south.json"
+hash = "56b5f50215e91e774481866e4e3d903a3966a8ff83439efe5af18c931eae6802"
+
+[[files]]
+file = "kubejs/assets/christmascraft/models/block/vanilla_glass/glass_pane_side_west.json"
+hash = "4ae6470679cf714657e68c77555c0010983b12aa1c5701d62528114b15fd210d"
+
+[[files]]
+file = "kubejs/assets/christmascraft/models/block/vanilla_glass/gray_stained_glass_pane_noside.json"
+hash = "18275a90b0ae848fdfee8b8438e5178f6f7e3c2a574e669d58091d4a0bdb7305"
+
+[[files]]
+file = "kubejs/assets/christmascraft/models/block/vanilla_glass/gray_stained_glass_pane_noside_alt.json"
+hash = "caf4f417f151f8247a706c06911954460c6fb9604fbddebe4209644551005c37"
+
+[[files]]
+file = "kubejs/assets/christmascraft/models/block/vanilla_glass/gray_stained_glass_pane_post.json"
+hash = "f8edbe3054313737dbc3a13feecab5b65224719a6537b8ae271d6a39e7245b57"
+
+[[files]]
+file = "kubejs/assets/christmascraft/models/block/vanilla_glass/gray_stained_glass_pane_side_east.json"
+hash = "2e8b40aa481f0becc7037dcf555d779d76635db1dd70d4667bac01cc4d12ccb1"
+
+[[files]]
+file = "kubejs/assets/christmascraft/models/block/vanilla_glass/gray_stained_glass_pane_side_north.json"
+hash = "85972d8f2aa8dbe9c22d50ac950ed561b50955c46b50ee50aa6a933425f2ea4c"
+
+[[files]]
+file = "kubejs/assets/christmascraft/models/block/vanilla_glass/gray_stained_glass_pane_side_south.json"
+hash = "63edfd143e097dc6fae22f9ebfbcc6bb06d710eb3a96544364be559c46ec1759"
+
+[[files]]
+file = "kubejs/assets/christmascraft/models/block/vanilla_glass/gray_stained_glass_pane_side_west.json"
+hash = "f30e9266a152208f525ea82066c714d939436f1adaf9ea5bf1c797329ee53445"
+
+[[files]]
+file = "kubejs/assets/christmascraft/models/block/vanilla_glass/green_stained_glass_pane_noside.json"
+hash = "55523708d86c74d6876ac307dd6431eb86cc82dc896811cdc43a50e61cf8c359"
+
+[[files]]
+file = "kubejs/assets/christmascraft/models/block/vanilla_glass/green_stained_glass_pane_noside_alt.json"
+hash = "29aff054fd757336511ddc52f2053902122daf8ebf1ed38f47ad857b0bf9a6d2"
+
+[[files]]
+file = "kubejs/assets/christmascraft/models/block/vanilla_glass/green_stained_glass_pane_post.json"
+hash = "b1ba2622d8e532cc12bc19a26d6553b956f602e8638942b871b6b63383225f49"
+
+[[files]]
+file = "kubejs/assets/christmascraft/models/block/vanilla_glass/green_stained_glass_pane_side_east.json"
+hash = "b3393f976411112390832976e6b47e760541c97e60b466b8679678f63d0e3ce0"
+
+[[files]]
+file = "kubejs/assets/christmascraft/models/block/vanilla_glass/green_stained_glass_pane_side_north.json"
+hash = "773782a3a1a2d3b2335019d787969aafe44e3dab6feef1d82f88886555b37f3e"
+
+[[files]]
+file = "kubejs/assets/christmascraft/models/block/vanilla_glass/green_stained_glass_pane_side_south.json"
+hash = "c595db26fdb5a4752d739ea63f288a3e43fcb94777e55eef154477899d1a1a7c"
+
+[[files]]
+file = "kubejs/assets/christmascraft/models/block/vanilla_glass/green_stained_glass_pane_side_west.json"
+hash = "3d30d17398f738af2ccfbe20a8aab6e9a3663e2689a7f2ab981115ddab17d47b"
+
+[[files]]
+file = "kubejs/assets/christmascraft/models/block/vanilla_glass/light_blue_stained_glass_pane_noside.json"
+hash = "0bbad62ca7b0fb41ba8eecfcab2d3fb2b0bff180e32b18cdbf059667a812b34d"
+
+[[files]]
+file = "kubejs/assets/christmascraft/models/block/vanilla_glass/light_blue_stained_glass_pane_noside_alt.json"
+hash = "2fd84e3b91a068d0bfb49571ca11a98996d01722f53ea444b69ba19f6bf34677"
+
+[[files]]
+file = "kubejs/assets/christmascraft/models/block/vanilla_glass/light_blue_stained_glass_pane_post.json"
+hash = "d54f9edbfded13c8e94da1e3b588ff39f471c034294e2ad9d23a0a22dc7753af"
+
+[[files]]
+file = "kubejs/assets/christmascraft/models/block/vanilla_glass/light_blue_stained_glass_pane_side_east.json"
+hash = "99447274c02a4858e1afe6867d35bfffd458c45f848e8c18e36876f749565590"
+
+[[files]]
+file = "kubejs/assets/christmascraft/models/block/vanilla_glass/light_blue_stained_glass_pane_side_north.json"
+hash = "0b278ef00ca09fae1a73544790d7fbb1bd2b21cb3897e1e6a9ec1e426acbb526"
+
+[[files]]
+file = "kubejs/assets/christmascraft/models/block/vanilla_glass/light_blue_stained_glass_pane_side_south.json"
+hash = "3727798a386cdfd8a391634e104bf7eb7501336e8ee94cd83c8d9630de7edd47"
+
+[[files]]
+file = "kubejs/assets/christmascraft/models/block/vanilla_glass/light_blue_stained_glass_pane_side_west.json"
+hash = "9b6c4a526c9f6a28b95aea554c782fb9274121c35d8791259e31c528a06cf01d"
+
+[[files]]
+file = "kubejs/assets/christmascraft/models/block/vanilla_glass/light_gray_stained_glass_pane_noside.json"
+hash = "3dc06a9f4f4719b2e36316555ced9969a4e7799d4f8aa024e81a66542e0ba9b9"
+
+[[files]]
+file = "kubejs/assets/christmascraft/models/block/vanilla_glass/light_gray_stained_glass_pane_noside_alt.json"
+hash = "63a9544973efb21867fde0c028a5bc28ddb769f782d680dd65e21f9a8060d86e"
+
+[[files]]
+file = "kubejs/assets/christmascraft/models/block/vanilla_glass/light_gray_stained_glass_pane_post.json"
+hash = "0a390c8c261a1911f916f01bdb9e7ed6953e8c21aa6cceea333816eb662f48b6"
+
+[[files]]
+file = "kubejs/assets/christmascraft/models/block/vanilla_glass/light_gray_stained_glass_pane_side_east.json"
+hash = "b6bdedb03d911dab3ff44012c86d17fdd24220ed7673c03e65d9c9d7c119c985"
+
+[[files]]
+file = "kubejs/assets/christmascraft/models/block/vanilla_glass/light_gray_stained_glass_pane_side_north.json"
+hash = "92b17c4e2e9d02a5f65fbc4a2ec7458b2cda94c764091b02375ce10c4fd68d7d"
+
+[[files]]
+file = "kubejs/assets/christmascraft/models/block/vanilla_glass/light_gray_stained_glass_pane_side_south.json"
+hash = "ec3c93cd67001294a4558f608ca25ab90db5cac82d3a84257eb4c01facdcf474"
+
+[[files]]
+file = "kubejs/assets/christmascraft/models/block/vanilla_glass/light_gray_stained_glass_pane_side_west.json"
+hash = "9133c284af41b8710dadf184c6917b8af45f7a353aa2ed4b4df59a923e31e56d"
+
+[[files]]
+file = "kubejs/assets/christmascraft/models/block/vanilla_glass/lime_stained_glass_pane_noside.json"
+hash = "ff40dcedce16842e821d79ae9c266fff8b0fbe4f47816ab95ac9318c85157b7b"
+
+[[files]]
+file = "kubejs/assets/christmascraft/models/block/vanilla_glass/lime_stained_glass_pane_noside_alt.json"
+hash = "a9c4fba56be5bd37610ad543292554831b0cb93c81deb5111036ae936442110d"
+
+[[files]]
+file = "kubejs/assets/christmascraft/models/block/vanilla_glass/lime_stained_glass_pane_post.json"
+hash = "81e799016107b2d8d248a0056b529340fbc97061d1763b1a1c7c848a79a82796"
+
+[[files]]
+file = "kubejs/assets/christmascraft/models/block/vanilla_glass/lime_stained_glass_pane_side_east.json"
+hash = "804af6d92b62097d9cae3046f1c570419a0502b5f4fba3e40b935cbd25a5205f"
+
+[[files]]
+file = "kubejs/assets/christmascraft/models/block/vanilla_glass/lime_stained_glass_pane_side_north.json"
+hash = "e138c65108c79d2f94d4be07bf46fa75e78025bb4ea3000b9ccf2bfcd11c2264"
+
+[[files]]
+file = "kubejs/assets/christmascraft/models/block/vanilla_glass/lime_stained_glass_pane_side_south.json"
+hash = "288dbbcd3ddb52166d235c98a56993e12e01b89a69a176767bc197592d421b0f"
+
+[[files]]
+file = "kubejs/assets/christmascraft/models/block/vanilla_glass/lime_stained_glass_pane_side_west.json"
+hash = "ecc28726b494fad1dcc9243e5ed8228389dbaed6470d5a5c767f6d20e17ea03d"
+
+[[files]]
+file = "kubejs/assets/christmascraft/models/block/vanilla_glass/magenta_stained_glass_pane_noside.json"
+hash = "fb943f3facd2bdc62ee06e38040f57affd278f946338a76f899e43599b5d01c6"
+
+[[files]]
+file = "kubejs/assets/christmascraft/models/block/vanilla_glass/magenta_stained_glass_pane_noside_alt.json"
+hash = "1b760438b47315c7e7a87688ff82a705be5f732a6b0eed458143f92e7c428b54"
+
+[[files]]
+file = "kubejs/assets/christmascraft/models/block/vanilla_glass/magenta_stained_glass_pane_post.json"
+hash = "f307a3829d20ea67d2209e2985a7bef1922ee150f912efcb8c4283ab527de911"
+
+[[files]]
+file = "kubejs/assets/christmascraft/models/block/vanilla_glass/magenta_stained_glass_pane_side_east.json"
+hash = "d4d2b836056f4419218e43000b9b459ccaebedae19bc3f6ac972b60848a05b2e"
+
+[[files]]
+file = "kubejs/assets/christmascraft/models/block/vanilla_glass/magenta_stained_glass_pane_side_north.json"
+hash = "7b61b40f9928650b3edc76b44e8f1eb3728f3a6a98ed02a74203169d36e23731"
+
+[[files]]
+file = "kubejs/assets/christmascraft/models/block/vanilla_glass/magenta_stained_glass_pane_side_south.json"
+hash = "e72dc82b91649917ea689cb8bb5000fc5fdc9ce285374c101195be7659c63131"
+
+[[files]]
+file = "kubejs/assets/christmascraft/models/block/vanilla_glass/magenta_stained_glass_pane_side_west.json"
+hash = "1a2720c5992f6297751eb9c42ec520845d9d6d680e5874010d9e27b6f9583567"
+
+[[files]]
+file = "kubejs/assets/christmascraft/models/block/vanilla_glass/orange_stained_glass_pane_noside.json"
+hash = "27e0e644251bbef7cdb7bec324a7977b1c7c14c6b7e44f67f98fa892a26c3d4b"
+
+[[files]]
+file = "kubejs/assets/christmascraft/models/block/vanilla_glass/orange_stained_glass_pane_noside_alt.json"
+hash = "4db0e7ea4e63af64c6272cda5b0f2285192690490597c77a3a0ea31ba25a28dc"
+
+[[files]]
+file = "kubejs/assets/christmascraft/models/block/vanilla_glass/orange_stained_glass_pane_post.json"
+hash = "f521337ad2a7c734ec742072cc80ed03dc373516159c8390debd57e656833604"
+
+[[files]]
+file = "kubejs/assets/christmascraft/models/block/vanilla_glass/orange_stained_glass_pane_side_east.json"
+hash = "33327808048e34c24826971398fb09ac0e43b2f199e86618f559756918a43f4a"
+
+[[files]]
+file = "kubejs/assets/christmascraft/models/block/vanilla_glass/orange_stained_glass_pane_side_north.json"
+hash = "d9012d693149642d105534fc7a1caa4c6127b15db5fc8e5dc0f686d767410a1c"
+
+[[files]]
+file = "kubejs/assets/christmascraft/models/block/vanilla_glass/orange_stained_glass_pane_side_south.json"
+hash = "f1671bebf12cbd97c6ddfe6c07f247f070778ea501582bd6e1cd213bc410f2aa"
+
+[[files]]
+file = "kubejs/assets/christmascraft/models/block/vanilla_glass/orange_stained_glass_pane_side_west.json"
+hash = "152bf81fd78fdb80bdbad63e80cbbd9287f72bb74393e2a06ddacb06191e21cd"
+
+[[files]]
+file = "kubejs/assets/christmascraft/models/block/vanilla_glass/pink_stained_glass_pane_noside.json"
+hash = "98da1c9fa95f4464d53f78a55442c1cf8924c4e310067a3fb42db4a9a8926b31"
+
+[[files]]
+file = "kubejs/assets/christmascraft/models/block/vanilla_glass/pink_stained_glass_pane_noside_alt.json"
+hash = "c16375227d6c89a1b42c44696d1573c1e8a2ba2fc564d52bfe748845135d98be"
+
+[[files]]
+file = "kubejs/assets/christmascraft/models/block/vanilla_glass/pink_stained_glass_pane_post.json"
+hash = "033c1dd40bc5f4864e74f01d0a152800859a26bbf876b599fa655c4caf456b5d"
+
+[[files]]
+file = "kubejs/assets/christmascraft/models/block/vanilla_glass/pink_stained_glass_pane_side_east.json"
+hash = "81ce4e50cb6ddf74ea4b495bea7df102d08dbebd287a1167757b3d618fff544f"
+
+[[files]]
+file = "kubejs/assets/christmascraft/models/block/vanilla_glass/pink_stained_glass_pane_side_north.json"
+hash = "99ceef2567adb16dbc800f43f3fe386a359faad3244448324b0d60ca49a77352"
+
+[[files]]
+file = "kubejs/assets/christmascraft/models/block/vanilla_glass/pink_stained_glass_pane_side_south.json"
+hash = "fc236ee50d3fb58bfe74ae1a3a590ff6a592dce410051e9ad8b4ee932fa90b25"
+
+[[files]]
+file = "kubejs/assets/christmascraft/models/block/vanilla_glass/pink_stained_glass_pane_side_west.json"
+hash = "9eddfd2eafab2c1978ba27d3ba0e43d0f55b9d1cea2c6f420e257528d763a2eb"
+
+[[files]]
+file = "kubejs/assets/christmascraft/models/block/vanilla_glass/purple_stained_glass_pane_noside.json"
+hash = "4d8c80586a7658571de6b82ac85f4630ea6ebacb332a096bed1517bf4dcb1b79"
+
+[[files]]
+file = "kubejs/assets/christmascraft/models/block/vanilla_glass/purple_stained_glass_pane_noside_alt.json"
+hash = "36728b39e74053a32e5ae73a3d010a454e7960c8f5ad7b7f6f32daa5fad251c6"
+
+[[files]]
+file = "kubejs/assets/christmascraft/models/block/vanilla_glass/purple_stained_glass_pane_post.json"
+hash = "19b2b00356b951c24f5300ca9ed4f006375f57b71a9e89ef29aceffcc195748c"
+
+[[files]]
+file = "kubejs/assets/christmascraft/models/block/vanilla_glass/purple_stained_glass_pane_side_east.json"
+hash = "5175c53f801195e76f8bd68a8661b124004779670d68200504edd65f3537ebc3"
+
+[[files]]
+file = "kubejs/assets/christmascraft/models/block/vanilla_glass/purple_stained_glass_pane_side_north.json"
+hash = "ad935dab62c305ed0f13accbd0171e7be7ae64b8619ff21b0ec999352497fc3b"
+
+[[files]]
+file = "kubejs/assets/christmascraft/models/block/vanilla_glass/purple_stained_glass_pane_side_south.json"
+hash = "8bac5b9a38808f7a5a96705e3d980e3406b63098d482dd25bd41836b47dc7a4f"
+
+[[files]]
+file = "kubejs/assets/christmascraft/models/block/vanilla_glass/purple_stained_glass_pane_side_west.json"
+hash = "a2930cece93597c15adffaca78ffa58573458932c1ccd97e62f83bfcfa7846ec"
+
+[[files]]
+file = "kubejs/assets/christmascraft/models/block/vanilla_glass/red_stained_glass_pane_noside.json"
+hash = "726afc99df24dbabf00a16a7ce4172ac13e895cc9d32650770a0baa1c0a1e9e5"
+
+[[files]]
+file = "kubejs/assets/christmascraft/models/block/vanilla_glass/red_stained_glass_pane_noside_alt.json"
+hash = "602cd4f1cc69f0c9f723d43aea9ff8f9fdd23e3bd3aa08b538b8fd2e916c2588"
+
+[[files]]
+file = "kubejs/assets/christmascraft/models/block/vanilla_glass/red_stained_glass_pane_post.json"
+hash = "6146c1427fcac033c0caae544deeede2673e228a0fd71756717df1d4cff8c202"
+
+[[files]]
+file = "kubejs/assets/christmascraft/models/block/vanilla_glass/red_stained_glass_pane_side_east.json"
+hash = "c14bc73c8b004a7c3876e6f3e50058922215379c2229e1a39ee41c02d7d55aa0"
+
+[[files]]
+file = "kubejs/assets/christmascraft/models/block/vanilla_glass/red_stained_glass_pane_side_north.json"
+hash = "5c4ee51817b2f2ffbee29887b5a3168f12f4012440d387a5cf23e0ade1422245"
+
+[[files]]
+file = "kubejs/assets/christmascraft/models/block/vanilla_glass/red_stained_glass_pane_side_south.json"
+hash = "44582542fd25d8cf5cec7a6cbf9e8fcb9a8a60701a5d66547886444e7d6f00b3"
+
+[[files]]
+file = "kubejs/assets/christmascraft/models/block/vanilla_glass/red_stained_glass_pane_side_west.json"
+hash = "6853299959199d6ad51f282e36fe42df6aba0d10e129e55881bfee7b641192c7"
+
+[[files]]
+file = "kubejs/assets/christmascraft/models/block/vanilla_glass/white_stained_glass_pane_noside.json"
+hash = "229a3ad66e1fa1946ba98fcf5f06edabd34b1ee1ec52214826e980ffadd89dbf"
+
+[[files]]
+file = "kubejs/assets/christmascraft/models/block/vanilla_glass/white_stained_glass_pane_noside_alt.json"
+hash = "ad87a9bbfffa33e049fceea06af77df52c4818f73baf32e3c561c17862f3e20e"
+
+[[files]]
+file = "kubejs/assets/christmascraft/models/block/vanilla_glass/white_stained_glass_pane_post.json"
+hash = "112c6b155228c63aea6e12c7d34ffeb27b9ac9978142c1c7d833b20d0704b964"
+
+[[files]]
+file = "kubejs/assets/christmascraft/models/block/vanilla_glass/white_stained_glass_pane_side_east.json"
+hash = "e3dd5827f8f599df7bd1fea239f4690018fff9dee760cb49204d23c7ec074c64"
+
+[[files]]
+file = "kubejs/assets/christmascraft/models/block/vanilla_glass/white_stained_glass_pane_side_north.json"
+hash = "671dc5b90067d963dee3069903bc60522e8277e0148eab48ff6255d64c631ff8"
+
+[[files]]
+file = "kubejs/assets/christmascraft/models/block/vanilla_glass/white_stained_glass_pane_side_south.json"
+hash = "a55132c166c81cb734a3ba381823f8c1c9d36bb3662f78d484d42e1412f47497"
+
+[[files]]
+file = "kubejs/assets/christmascraft/models/block/vanilla_glass/white_stained_glass_pane_side_west.json"
+hash = "461a1e5dcef2c5b4976b77db11d0111afe50d33093f7f942438e7ecdfac02c50"
+
+[[files]]
+file = "kubejs/assets/christmascraft/models/block/vanilla_glass/yellow_stained_glass_pane_noside.json"
+hash = "c5b7d8b3c7f41fede1c053f9f497c86a196de8488769ecc113eea4a1b2477283"
+
+[[files]]
+file = "kubejs/assets/christmascraft/models/block/vanilla_glass/yellow_stained_glass_pane_noside_alt.json"
+hash = "08c57069ea734f2a1fd1b70952e53200e14f9fb3615e6e174222559dcd058053"
+
+[[files]]
+file = "kubejs/assets/christmascraft/models/block/vanilla_glass/yellow_stained_glass_pane_post.json"
+hash = "fc8eacab90e2d89928e8fae41443306e104e049220f47b2189a8b18803cdfe31"
+
+[[files]]
+file = "kubejs/assets/christmascraft/models/block/vanilla_glass/yellow_stained_glass_pane_side_east.json"
+hash = "2d8aee7aef3700fa3faaf471e6ebcb60e2d0df40cc09640e6e290fcf9850c8ac"
+
+[[files]]
+file = "kubejs/assets/christmascraft/models/block/vanilla_glass/yellow_stained_glass_pane_side_north.json"
+hash = "ee267c289bc2b4e8d3811cbe8329480da61e126292b326c327fc310fc787628c"
+
+[[files]]
+file = "kubejs/assets/christmascraft/models/block/vanilla_glass/yellow_stained_glass_pane_side_south.json"
+hash = "34a4b3c8e95e8e54113e6982b38b0e45b6b2f884333aed129c382a284337ff97"
+
+[[files]]
+file = "kubejs/assets/christmascraft/models/block/vanilla_glass/yellow_stained_glass_pane_side_west.json"
+hash = "63c5ee8a0fc1bc942c7d11517aff24c3ceabd5755e084c42c4eee52e0bb27c70"
 
 [[files]]
 file = "kubejs/assets/christmascraft/models/item/baked_mince_pie.json"
@@ -1106,6 +1586,142 @@ file = "kubejs/assets/extra_gauges/lang/en_us.json"
 hash = "e6d59a25a8dce6b72a37dfcab726d2611a1e08ae56ab696acc2aa61a911f727c"
 
 [[files]]
+file = "kubejs/assets/minecraft/blockstates/black_stained_glass.json"
+hash = "abc364e73f067facbae241d25ee2948edf4118e1b82a32df2c22b997fa2a75d4"
+
+[[files]]
+file = "kubejs/assets/minecraft/blockstates/black_stained_glass_pane.json"
+hash = "2a3b416200ac20e80e3f0ab8dccc76f15bf14c68f80c6d583213fe06835663a3"
+
+[[files]]
+file = "kubejs/assets/minecraft/blockstates/blue_stained_glass.json"
+hash = "65aadf15eec6974ac990ff5faf54a65df194d75bb34d0f63bf5664984104b591"
+
+[[files]]
+file = "kubejs/assets/minecraft/blockstates/blue_stained_glass_pane.json"
+hash = "4f97616d3f988df6d3fae88e51c02d4d68e9f910429b907a37ece66e485b7192"
+
+[[files]]
+file = "kubejs/assets/minecraft/blockstates/brown_stained_glass.json"
+hash = "0ae85efb1cf8f63bb00fa7a07daba256162296e977c4c450a4a1dc02f6f3aaa2"
+
+[[files]]
+file = "kubejs/assets/minecraft/blockstates/brown_stained_glass_pane.json"
+hash = "45b6bafef518e118e73dd73194cbc20d979be4d1b8bd5d8e494024346377455a"
+
+[[files]]
+file = "kubejs/assets/minecraft/blockstates/cyan_stained_glass.json"
+hash = "ccf88241bdc6107fbefb87a9014ebe96c02f28d4681c1793b440e0b00f562077"
+
+[[files]]
+file = "kubejs/assets/minecraft/blockstates/cyan_stained_glass_pane.json"
+hash = "0a9059c46fee3e32de6641258b545bd22cc634947d3fb6a05986aef14db9722e"
+
+[[files]]
+file = "kubejs/assets/minecraft/blockstates/glass.json"
+hash = "c285a46f4de42b5b7d1536b3b2ab5f070643f294213b644aa43808ce7e509049"
+
+[[files]]
+file = "kubejs/assets/minecraft/blockstates/glass_pane.json"
+hash = "fce9a46458407715bc99b4223c44a2de9333f7f190c795ea804f0f38eee1abe5"
+
+[[files]]
+file = "kubejs/assets/minecraft/blockstates/gray_stained_glass.json"
+hash = "79afd77fe01d776730013647f11c176a034c04353c594e5c048b138291de07f0"
+
+[[files]]
+file = "kubejs/assets/minecraft/blockstates/gray_stained_glass_pane.json"
+hash = "70877ac1d8c59dc5971c5f2a0c94998f36a12618c3716d43555a47bb2584bdf9"
+
+[[files]]
+file = "kubejs/assets/minecraft/blockstates/green_stained_glass.json"
+hash = "da9af32a6920a0b64629eed39b1b8696d6801d2c8d7e69a9b83c643c18fa854f"
+
+[[files]]
+file = "kubejs/assets/minecraft/blockstates/green_stained_glass_pane.json"
+hash = "d30e3f5d910a75f7399f990185ebf638c63c73f2b4618a4a3735aed24c2cc725"
+
+[[files]]
+file = "kubejs/assets/minecraft/blockstates/light_blue_stained_glass.json"
+hash = "fa61bde4079878d280a0f2404c29e81e8ea8712ee9789d1dacf4e93afb94cd28"
+
+[[files]]
+file = "kubejs/assets/minecraft/blockstates/light_blue_stained_glass_pane.json"
+hash = "7d34cda0939223437fafb6da95ebc698a5a62509a009b04e095a803385f7b97e"
+
+[[files]]
+file = "kubejs/assets/minecraft/blockstates/light_gray_stained_glass.json"
+hash = "711da14617db7fa6436a374975d7564d852a9eecc49839fba705a2469f93be41"
+
+[[files]]
+file = "kubejs/assets/minecraft/blockstates/light_gray_stained_glass_pane.json"
+hash = "add873545d664f27225e3924d2e85471fcc61b0970df01014feb9d78eac0e00b"
+
+[[files]]
+file = "kubejs/assets/minecraft/blockstates/lime_stained_glass.json"
+hash = "25e6e50e7e500b4e400d45bc6d25cdf706fbfc46e8f6c7b2769948b64ac0ff11"
+
+[[files]]
+file = "kubejs/assets/minecraft/blockstates/lime_stained_glass_pane.json"
+hash = "2b9744fa36069f70d92ca981f131be2b9485db0f5eda85105c0b7b1f5809ead1"
+
+[[files]]
+file = "kubejs/assets/minecraft/blockstates/magenta_stained_glass.json"
+hash = "19fad1dde0ed8d64f8bcacffd21937927928f1ba127df9e0b895b1a7d831de54"
+
+[[files]]
+file = "kubejs/assets/minecraft/blockstates/magenta_stained_glass_pane.json"
+hash = "ae4df0c6f1162a5b3c5dd881537485c0d7653c184448888d6a82f7762fe026ae"
+
+[[files]]
+file = "kubejs/assets/minecraft/blockstates/orange_stained_glass.json"
+hash = "8b08522437514a932cdb3f1374d335ca7f3bd0c6ef6812250d5a4cb19c5de3bf"
+
+[[files]]
+file = "kubejs/assets/minecraft/blockstates/orange_stained_glass_pane.json"
+hash = "c3a9f0a44b1d48d3aeb569309e6f5d193099333b130f174e494ef1ab048e86fb"
+
+[[files]]
+file = "kubejs/assets/minecraft/blockstates/pink_stained_glass.json"
+hash = "707622b2a4f7df7251d6f47d5309e04e7d6a563379a04a7e4bb51de52ecaf3e1"
+
+[[files]]
+file = "kubejs/assets/minecraft/blockstates/pink_stained_glass_pane.json"
+hash = "d221875c2a0ef86f76adeb0141174cc9bced7db3a11a25f05d1c65086a686e65"
+
+[[files]]
+file = "kubejs/assets/minecraft/blockstates/purple_stained_glass.json"
+hash = "2105ef87f1c58c2ebf33e4c4dd79419423eb7704d4c6b4e25ad7a4890bc0ddf4"
+
+[[files]]
+file = "kubejs/assets/minecraft/blockstates/purple_stained_glass_pane.json"
+hash = "25e67869b89f75b79e6f43d2037805700b4d8e6ce8fb184304d13655acf0a265"
+
+[[files]]
+file = "kubejs/assets/minecraft/blockstates/red_stained_glass.json"
+hash = "750d9b8bdd921c8176067150060ef495ffebec05cff34f41f40eab730b6060fe"
+
+[[files]]
+file = "kubejs/assets/minecraft/blockstates/red_stained_glass_pane.json"
+hash = "d8a42d8916ea7e499f130bfa32a03f8109e1d241cf5219a4e63744238ef297be"
+
+[[files]]
+file = "kubejs/assets/minecraft/blockstates/white_stained_glass.json"
+hash = "e9e78aac3e0ede236863fb683690747c46f9122e9371a8a2c80f5a05cc6167bf"
+
+[[files]]
+file = "kubejs/assets/minecraft/blockstates/white_stained_glass_pane.json"
+hash = "11d1d2131c5a17c92607d307b945b8887045beba9704b361f25610c5d03294bd"
+
+[[files]]
+file = "kubejs/assets/minecraft/blockstates/yellow_stained_glass.json"
+hash = "6b6f3ab66ebf60b2bb4b9501160a9392cc247e0789d19a2de03bcfd5caa42dda"
+
+[[files]]
+file = "kubejs/assets/minecraft/blockstates/yellow_stained_glass_pane.json"
+hash = "a266bc9fabb2ec2fa6f553fb431021a0c2146b0e3a1a1c5eb70c8dd134bfcf27"
+
+[[files]]
 file = "kubejs/assets/minecraft/textures/axis.png"
 hash = "0ae58aa6fcc369fee5a49270827bfa572631078f57163b8344f97ea5fcde2441"
 
@@ -1211,7 +1827,7 @@ hash = "8892e94cbb6cd3fec2c69a0e15354f18fdf4d124119cc4e3e838ed15fe5c3695"
 
 [[files]]
 file = "mods/0-cccasino.pw.toml"
-hash = "5654a0d4d410aa4f66fe155a875b964766b04506ec6088c9df332e2617ea08a1"
+hash = "e4cf5facaec00ef0fc5919139a5ccafd9b3e42e88996e96a29e4cc8f0f0f99c6"
 metafile = true
 
 [[files]]
