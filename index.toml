@@ -218,6 +218,10 @@ hash = "efe0c30620affee4a63c94309643da1b5a10d9b411d292f1394bd233489a7334"
 preserve = true
 
 [[files]]
+file = "config/lithium.properties"
+hash = "241f4c349a8caa2f3bb632e571df1e6c56394635eb6cf40abb5bf66e60312462"
+
+[[files]]
 file = "config/modernfix-mixins.properties"
 hash = "69d00383434af962d368f7367a7a27081dc63f0ea018b332b74e51f8c47ffcbb"
 
